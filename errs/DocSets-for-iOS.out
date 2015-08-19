@@ -1,0 +1,15 @@
+projects/top_C/DocSets-for-iOS
+Going to process projects/top_C/DocSets-for-iOS/all_log.txt 
+---------- DocSets-for-iOS ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(341, 1, u'+\t\t\t\t\tassert(buf);'), (497, 1, u'+\t\t\t\t\tassert(buf);')]
+===========================================
+1
+Mismatch count:253
+Normal count:2481

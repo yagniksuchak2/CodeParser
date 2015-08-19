@@ -1,0 +1,973 @@
+projects/top_C++/fr_public
+Going to process projects/top_C++/fr_public/all_log.txt 
+---------- fr_public ------------
+
+Class: class sMPSoundOutput { 
+Class:   class sMoviePlayerMF : public sMoviePlayer { 
+Class: class sMPSoundOutput { 
+Class:   class sMoviePlayerMF : public sMoviePlayer { 
+Class: class sRandomMarkov { 
+Class: class MyApp : public sApp { 
+Class: class sRandomMarkov { 
+Class: class MyApp : public sApp { 
+Class:      template <class T,int max> class sLocklessQueue2 { 
+Class: class sMidiHandlerWin : public sMidiHandler_ { 
+Class:      template <class T,int max> class sLocklessQueue2 { 
+Class: class sMidiHandlerWin : public sMidiHandler_ { 
+Class: class sKeyboardData { class sKeyboardData 
+Class: class sMouseData { class sMouseData 
+Class: class sRootFile : public sFile { 
+Class:       class sDIJoypad { 
+Class: class sVSHeapBase : public sMemoryHandler { 
+Class: class sVSReleaseHeap_ : public sVSHeapBase { 
+Class: class sVSDebugHeap_ : public sVSHeapBase { 
+Class: class sKeyboardData { class sKeyboardData 
+Class: class sMouseData { class sMouseData 
+Class: class sRootFile : public sFile { 
+Class:       class sDIJoypad { 
+Class: class sVSHeapBase : public sMemoryHandler { 
+Class: class sVSReleaseHeap_ : public sVSHeapBase { 
+Class: class sVSDebugHeap_ : public sVSHeapBase { 
+Class:class sMPSoundOutput { 
+Class:  class sMoviePlayerMF : public sMoviePlayer { 
+Class:class sRandomMarkov { 
+Class: class MyApp : public sApp { 
+Class:  class MyApp : public sApp { 
+Class:  class MyApp : public sApp { 
+Class: class MyApp : public sApp { 
+Class: 	class xpath_allocator 	{ 	
+Class: 	class xpath_node_set_raw 	{ 	
+Class: 	class xpath_lexer 	{ 	
+Class: 	class xpath_ast_node 	{ 	
+Class: class bSoundOutput { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(vind >= 0 && vind < POLY);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: private:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(vind >= 0 && vind < POLY);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(vind >= 0 && vind < POLY);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(chan >= 0 && chan < CHANS);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: private:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(chan >= 0 && chan < CHANS);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(chan >= 0 && chan < CHANS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+      assert(this_is_the_right_thread());')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: namespace
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+      assert(this_is_the_right_thread());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+      assert(this_is_the_right_thread());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+      assert(this_is_the_right_thread());')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: namespace
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+      assert(this_is_the_right_thread());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+      assert(this_is_the_right_thread());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(me != 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: namespace
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(me != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(me != 0);')]
+===========================================
+Class:  class Scope   class Scope
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+          assert(usevoice >= 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: struct V2Synth
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+          assert(usevoice >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+          assert(usevoice >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(pgm >= 0 && pgm < 128);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: struct V2Synth
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(pgm >= 0 && pgm < 128);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(pgm >= 0 && pgm < 128);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(buflen != 0 && (buflen & (buflen - 1)) != 0);'), (3, 1, u'+    assert(buflen != 0 && (buflen & (buflen - 1)) == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: struct V2ModDel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(buflen != 0 && (buflen & (buflen - 1)) != 0);'), (3, 1, u'+    assert(buflen != 0 && (buflen & (buflen - 1)) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(buflen != 0 && (buflen & (buflen - 1)) != 0);'), (3, 1, u'+    assert(buflen != 0 && (buflen & (buflen - 1)) == 0);')]
+===========================================
+Class: class V2Delay { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(91, 1, u'+    default:        assert(false);')]
+===========================================
+===========================================
+Total add: 202
+Total del: 0
+Header: private:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(91, 1, u'+    default:        assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(91, 1, u'+    default:        assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 1, u'+    assert(buflen != 0 && (buflen & (buflen - 1)) != 0);')]
+===========================================
+===========================================
+Total add: 129
+Total del: 0
+Header: struct V2Boost
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 1, u'+    assert(buflen != 0 && (buflen & (buflen - 1)) != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 1, u'+    assert(buflen != 0 && (buflen & (buflen - 1)) != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(idx < COUNTOF(seeds));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: struct V2Osc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(idx < COUNTOF(seeds));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(idx < COUNTOF(seeds));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 1, u'+    assert(nsamples <= V2Instance::MAX_FRAME_SIZE);')]
+===========================================
+===========================================
+Total add: 252
+Total del: 0
+Header: struct V2DCFilter
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 1, u'+    assert(nsamples <= V2Instance::MAX_FRAME_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 1, u'+    assert(nsamples <= V2Instance::MAX_FRAME_SIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(x >= 0.0f);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: fastsinrc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(x >= 0.0f);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(x >= 0.0f);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Total add: 54
+Total del: 4
+Header: private:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(75, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Total add: 70
+Total del: 5
+Header: private:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(75, 1, u'+        assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(75, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  assert(x >= 0.0f);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: fastsinrc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  assert(x >= 0.0f);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  assert(x >= 0.0f);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(SRcFrameSize <= MAX_FRAME_SIZE);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: struct V2Instance
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(SRcFrameSize <= MAX_FRAME_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(SRcFrameSize <= MAX_FRAME_SIZE);')]
+===========================================
+Class:class sMouseData { 
+Class: class sKeyboardData { 
+Class:   class PrimesSmallerThan { 
+Class: class OldBitmap { 
+Class:  class TestHandler : public sHTTPServer::SimpleHandler { 
+Class:      template <class T,int max> class sLocklessQueue2 { 
+Class: class sMidiHandlerWin : public sMidiHandler_ { 
+Class:    class sMemFile : public sFile { 
+Class:    class sGrowMemFile : public sFile { 
+Class: class sLibcHeap_ : public sMemoryHandler { 
+Class:         class sRootFileHandler : public sFileHandler { 
+Class: class sRootFile : public sFile { 
+Class:       class sLinuxJoypad : public sJoypad { 
+Class: class sLibcHeap_ : public sMemoryHandler { 
+Class: class sKeyboardData { class sKeyboardData 
+Class: class sMouseData { class sMouseData 
+Class: class sRootFile : public sFile { 
+Class:       class sDIJoypad { 
+Class: class sVSHeapBase : public sMemoryHandler { 
+Class: class sVSReleaseHeap_ : public sVSHeapBase { 
+Class: class sVSDebugHeap_ : public sVSHeapBase { 
+Class:       class sStringPool_ { 
+Class:   class sDialogWindow : public sWindow { 
+Class:        class sFindWindow : public sWindow { 
+Class:       class sGuiThemeEditWindow : public sGridFrame { 
+Class:   class sMenuFrameSpacer : public sWindow { 
+Class:  class sMenuFrameHeader : public sWindow { 
+Class:   class sColorPickerInfo : public sObject { 
+Class:   class sListWindow2Field_Int : public sListWindow2Field { 
+Class: class sListWindow2Field_Float : public sListWindow2Field { 
+Class: class sListWindow2Field_String : public sListWindow2Field { 
+Class: class sListWindow2Field_PoolString : public sListWindow2Field { 
+Class: class sListWindow2Field_Choice : public sListWindow2Field { 
+Class: class sListWindow2Field_Color : public sListWindow2Field { 
+Class: class sListWindow2Field_Progress : public sListWindow2Field { 
+Class:    Class = 0;
+Class:    class sLayoutFrameSize : public sLayoutFrame { 
+Class:  class DebugView : public sHTTPServer::Handler   class DebugView : public sHTTPServer::Handler
+Class:   class MemStat : public sHTTPServer::SimpleHandler   {   
+Class:       class MenuBar : public sHTTPServer::SimpleHandler   {   
+Class: class sTextureBase *sImageData::CreateTexture() const { 
+Class:  Class = 0;
+Class:  class WinPopupText : public sWireTextWindow { 
+Class: class sMyStringControl : public sStringControl { 
+Class: class ChaosFXMesh { 
+Class: class XSIMaterial : public sObject { 
+Class: class XSILoader : public sObject { 
+Class: class DPFUnpacked : public sFile { 
+Class:  class DPFPacked : public sFile { 
+Class:  class PackerBackEnd   class PackerBackEnd
+Class:   class PackerFrontEnd   {   
+Class:       class GoodPackerFrontEnd: public PackerFrontEnd   {   
+Class:       class BestPackerFrontEnd: public PackerFrontEnd   {   
+Class:       class RangeCoder   {   
+Class:       class RangeModel   {   
+Class:       class CarryRangeCoder   {   
+Class:       class BitBuffer   {   
+Class:       class BitModel   {   
+Class:       class GammaModel   {   
+Class:       class CCAPackerBackEnd: public PackerBackEnd   {   
+Class:       class NRVPackerBackEnd: public PackerBackEnd   {   
+Class:       class APackPackerBackEnd: public PackerBackEnd   {   
+Class: class tChar { 
+Class:   class tLWObject { 
+Class:  class XSIMaterial : public sObject   class XSIMaterial : public sObject
+Class:   class XSIModel : public sObject   {   
+Class:   class XSILoader : public sObject   {   
+Class:       class ModMtrl2 : public sMaterial { 
+Class:    class CustomShader : public sMaterial { 
+Class:  class MyApp : public sApp { 
+Class: class bSoundOutput { 
+Class:   class DopeLoader : public sGuiWindow { 
+Class:   class DopeMainWin : public sGuiWindow { 
+Class:   class DopeApp : public sDummyFrame { 
+Class:   class MeshElement { 
+Class: class MeshCoder { 
+Class: class v2vstiEditor : public AEffEditor { class v2vstiEditor : public AEffEditor 
+Class:    class FR_NOVTABLE iResourceManager     class FR_NOVTABLE iResourceManager
+Class:      class FR_NOVTABLE resource       class FR_NOVTABLE resource
+Class:    class iRangeManager      class iRangeManager 
+Class: class CGraphWindow::opButton { 
+Class:   class CGraphWindow::opData { 
+Class:   class moveSelectionCommand: public frUndoCommand { 
+Class: class setViewCommand: public frUndoCommand { 
+Class: class setEditCommand: public frUndoCommand { 
+Class: class setSelectionCommand: public frUndoCommand { 
+Class: class createOpCommand: public frUndoCommand { 
+Class: class deleteOpCommand: public frUndoCommand { 
+Class: class deleteSelectionCommand: public frUndoCommand { 
+Class: class pasteCommand: public frUndoCommand { 
+Class:   class CGraphWindow::dragMenu: public CWindowImpl<CGraphWindow::dragMenu> { 
+Class:   class CSearchStoreDialog: public CSimpleDialog<IDD_SEARCHSTORE> { 
+Class:   class CColorControl: public CWindowImpl<CColorControl, CWindow, CControlWinTraits> { 
+Class: class CPositionControl : public CWindowImpl<CPositionControl, CWindow, CControlWinTraits> { 
+Class: class CSizeSelector: public CWindowImpl<CSizeSelector> { 
+Class: class CMultiFloatControl : public CWindowImpl<CMultiFloatControl, CWindow, CControlWinTraits> { 
+Class: class CLinkControl: public CWindowImpl<CLinkControl, CWindow, CControlWinTraits> { 
+Class:   class setParameterCommand: public frUndoCommand { 
+Class: class CMyMessageLoop: public CMessageLoop { 
+Class:    class FR_NOVTABLE iResourceManager     class FR_NOVTABLE iResourceManager
+Class:    class iRangeManager     class iRangeManager
+Class:   class frOpGGPrimitive: public frGeometryOperator { 
+Class:   class frOpGCAdd: public frGeometryOperator { 
+Class:   class frOpGFTransform: public frGeometryOperator { 
+Class:   class frOpGFCloneXForm: public frGeometryOperator { 
+Class:   class frOpGSMaterial: public frGeometryOperator { 
+Class:   class frOpGFSelect: public frGeometryOperator { 
+Class:   class frOpGFDeleteSelection: public frGeometryOperator { 
+Class:   class frOpGFBend: public frGeometryOperator { 
+Class:   class frOpGFUVMap: public frGeometryOperator { 
+Class:   class frOpGFDoubleSided: public frGeometryOperator { 
+Class:   class frOpGSLoadMaterial: public frGeometryOperator { 
+Class:   class frOpGSLighting: public frGeometryOperator { 
+Class:   class frOpGFObjMerge: public frGeometryOperator { 
+Class:   class frOpGFApplyLightmap: public frGeometryOperator { 
+Class:   class frOpGFWuschel: public frGeometryOperator { 
+Class:   class frOpGFPlode: public frGeometryOperator { 
+Class:   class frOpGFDumbNormals: public frGeometryOperator { 
+Class:   class frOpGFDisplacement: public frGeometryOperator { 
+Class:   class frOpGFGlowVerts: public frGeometryOperator { 
+Class:   class frOpGCShapeAnim: public frGeometryOperator { 
+Class:   class frOpGSRenderPass: public frGeometryOperator { 
+Class: class frOpGGLorentz: public frGeometryOperator { 
+Class: class frOpGFJitter: public frGeometryOperator { 
+Class: class frOpCGCamera: public frCompositingOperator { 
+Class:   class frOpTGRandomDots: public frTextureOperator { 
+Class:   class frOpTOTrivial: public frTextureOperator { 
+Class:   class frOpTGText: public frTextureOperator { 
+Class:   class frOpTFRotoZoom: public frTextureOperator { 
+Class:   class frOpTFAdjust: public frTextureOperator { 
+Class:   class frOpTCAdd: public frTextureOperator { 
+Class:   class frOpTCBump: public frTextureOperator { 
+Class:   class frOpTGPerlin: public frTextureOperator { 
+Class:   class frOpTGGradient: public frTextureOperator { 
+Class:   class frOpTCMultiply: public frTextureOperator { 
+Class:   class frOpTGCrystal: public frTextureOperator { 
+Class:   class frOpTFBlurV2: public frTextureOperator { 
+Class:   class frOpTFInstallFont: public frTextureOperator { 
+Class:   class frCGCamera: public frComposePlugin { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+    FRDASSERT(frame>m_firstFrame && frame<m_lastFrame);'), (380, 1, u'+    FRDASSERT(channel>=0 && channel<m_nChannels);'), (398, 1, u'+    FRDASSERT(channel>=0 && channel<m_nChannels);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(77, 1, u'+    FRDASSERT(m_expPtr > m_expression);'), (84, 1, u'+    FRDASSERT(!m_hasSavedToken);'), (94, 1, u'+    FRDASSERT(m_hasSavedToken);')]
+===========================================
+Class:   class importException { 
+Class:   class frGCShapeAnim: public frGeometryPlugin { 
+Class:   class frGFTransform: public frGeometryPlugin { 
+Class:   class frGFCloneXForm: public frGeometryPlugin { 
+Class:   class frGFSelect: public frGeometryPlugin { 
+Class:   class frGFDeleteSelection: public frGeometryPlugin { 
+Class:   class frGFBend: public frGeometryPlugin { 
+Class:   class frGFUVMap: public frGeometryPlugin { 
+Class:   class frGFDoubleSided: public frGeometryPlugin { 
+Class:   class frGFObjMerge: public frGeometryPlugin { 
+Class:   class frGFApplyLightmap: public frGeometryPlugin { 
+Class:   class frGFWuschel: public frGeometryPlugin { 
+Class:   class frGFPlode: public frGeometryPlugin { 
+Class:   class frGFDumbNormals: public frGeometryPlugin { 
+Class: class frGFDisplacement: public frGeometryPlugin { 
+Class:   class frGFGlowVerts: public frGeometryPlugin { 
+Class:   class frGFMakeRygHappy: public frGeometryPlugin { 
+Class: class frGFJitter: public frGeometryPlugin { 
+Class:   class frGGPrimitive: public frGeometryPlugin { 
+Class: class frGGLorentz: public frGeometryPlugin { 
+Class:   class frGSMaterial: public frGeometryPlugin { 
+Class:   class frGSStore: public frGeometryPlugin { 
+Class:   class frGSLoad: public frGeometryPlugin { 
+Class:   class frGSBridge: public frGeometryPlugin { 
+Class:   class frGSLoadMaterial: public frGeometryPlugin { 
+Class:   class frGSLighting: public frGeometryPlugin { 
+Class:   class frGSRenderPass: public frGeometryPlugin { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(63, 1, u'+        FRDASSERT(locks == 0);'), (64, 1, u'+        FRDASSERT(ptr == 0);'), (197, 1, u'+      FRDASSERT(isValidBufferHandle(hnd));'), (284, 1, u'+        FRDASSERT(dst <= src);'), (292, 1, u'+        FRDASSERT(isValidBufferHandle(it->id));'), (339, 1, u'+\t\t\tFRDASSERT(d->accessesListValid());'), (364, 1, u'+\t\tFRDASSERT(ait != d->m_accesses.end());'), (371, 1, u'+\t\t\tFRDASSERT(d->accessesListValid());')]
+===========================================
+Class:   class frTCAlpha: public frTexturePlugin { 
+Class:   class frTCBlend: public frTexturePlugin { 
+Class:   class frTCAdd: public frTexturePlugin { 
+Class: class frTCBump: public frTexturePlugin { 
+Class:   class frTCDisplace: public frTexturePlugin { 
+Class:   class frTCMul: public frTexturePlugin { 
+Class:   class frTFBlur: public frTexturePlugin { 
+Class: class frTFNormalMap: public frTexturePlugin { 
+Class:   class frTFRotoZoom: public frTexturePlugin { 
+Class:   class frTFAdjust: public frTexturePlugin { 
+Class:   class frTFBlurV2: public frTexturePlugin { 
+Class: class frTFInstallFont: public frTexturePlugin { 
+Class: class frTGCrystal: public frTexturePlugin { 
+Class:   class frTGGradient: public frTexturePlugin { 
+Class: class frTGPerlinNoise: public frTexturePlugin { 
+Class: class frTGRandomDots: public frTexturePlugin { 
+Class:   class frTGRectangle: public frTexturePlugin { 
+Class:   class frTGSolid: public frTexturePlugin { 
+Class:   class frTGText: public frTexturePlugin { 
+Class:   class frTGFont: public frTexturePlugin { 
+Class:   class frTSLoad: public frTexturePlugin { 
+Class:   class frTSBridge: public frTexturePlugin { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(65, 1, u'+\t\tFRDASSERT(strData!=0);'), (92, 1, u'+\t\tFRDASSERT(nLen>=0);'), (117, 1, u'+\t\t\tFRDASSERT(getData()->nRefs!=0);'), (128, 1, u'+\t\t\tFRDASSERT(data->nRefs!=0);'), (144, 1, u'+\t\tFRDASSERT(getData()->nDataLength==0);'), (145, 1, u'+\t\tFRDASSERT(getData()->nRefs<0 || getData()->nAllocLength==0);'), (158, 1, u'+\t\tFRDASSERT(getData()->nRefs<=1);'), (171, 1, u'+\t\tFRDASSERT(getData()->nRefs<=1);'), (226, 1, u'+\t\t\t\tFRDASSERT(pOldData != 0);'), (234, 1, u'+\t\t\tFRDASSERT(getData()->nDataLength<getData()->nAllocLength);'), (241, 1, u'+\t\tFRDASSERT(str.getData()->nRefs!=0);'), (244, 1, u'+\t\t\tFRDASSERT(str.getData() != nullStringData);'), (290, 1, u'+\t\t\t\tFRDASSERT(src.getData() != nullStringData);'), (301, 1, u'+\t\tFRDASSERT(str==0 || !IsBadStringPtr(str, (sUInt) -1));'), (330, 1, u'+\t\tFRDASSERT(str==0 || !IsBadStringPtr(str, (sUInt) -1));'), (349, 1, u'+\t\tFRDASSERT(minLength>=0);'), (366, 1, u'+\t\tFRDASSERT(getData()->nRefs<=1);'), (367, 1, u'+\t  FRDASSERT(strData != 0);'), (379, 1, u'+\t\tFRDASSERT(newLength <= getData()->nAllocLength);'), (393, 1, u'+\t\tFRDASSERT(getData()->nRefs==-1);')]
+===========================================
+Class:       class sBrowserList : public sGuiWindow { 
+Class: class MeshCoder { 
+Class:  Class = 0;
+Class: class IDiaEnumSymbols : public IUnknown { 
+Class: class IDiaEnumSymbolsByAddr : public IUnknown { 
+Class: class IDiaEnumTables : public IUnknown { 
+Class: class IDiaDataSource : public IUnknown { 
+Class: class IDiaSession : public IUnknown { 
+Class: class IDiaSymbol : public IUnknown { 
+Class: class IDiaSectionContrib : public IUnknown { 
+Class: class IDiaTable : public IEnumUnknown { 
+Class:class XSIClusterTSpace class XSIClusterTSpace
+Class:class XSICluster class XSICluster
+Class:        class sBrowserList : public sGuiWindow { 
+Class:       class sMaterialImgLayerAlpha : public sMaterial { 
+Class: class TourqueSimulator { 
+Class: class Material20Insert : public EngMaterialInsert { 
+Class: class MeshCoder { 
+Class:   class DopeLoader : public sGuiWindow { 
+Class:   class DopeMainWin : public sGuiWindow { 
+Class:   class DopeApp : public sDummyFrame { 
+Class:   class MeshElement { 
+Class: class MeshCoder { 
+Class: class IDiaEnumSymbols : public IUnknown { 
+Class: class IDiaEnumSymbolsByAddr : public IUnknown { 
+Class: class IDiaEnumTables : public IUnknown { 
+Class: class IDiaDataSource : public IUnknown { 
+Class: class IDiaSession : public IUnknown { 
+Class: class IDiaSymbol : public IUnknown { 
+Class: class IDiaSectionContrib : public IUnknown { 
+Class: class IDiaTable : public IEnumUnknown { 
+Class: class sShaderCompiler::SymbolTable { 
+Class:  Class = 0;
+Class:  Class = 0;
+Class:       class DIWerkOp : public sDiskItem { 
+Class:   class DIWerkPage : public sDiskItem { 
+Class: class DIWerkAlpha : public sDiskItem { 
+Class:   class DIWerkDot : public sDiskItem { 
+Class: class BSplineTestWin : public sGuiWindow { 
+Class:  Class = cl;
+Class:class Class_NodeStore : public GenClass { 
+Class: class Class_Bitmap_Load : public GenClass { 
+Class: class Class_Bitmap_Store : public GenClass { 
+Class: class Class_Bitmap_Nop : public GenClass { 
+Class:    class Class_Bitmap_Flat : public GenClass { 
+Class:   class Class_Bitmap_Color : public GenClass { 
+Class:   class Class_Bitmap_Add : public GenClass { 
+Class:   class Class_Bitmap_GlowRect : public GenClass { 
+Class:   class Class_Bitmap_Rotate : public GenClass { 
+Class:   class Class_Bitmap_Blur : public GenClass { 
+Class:   class Class_Bitmap_Normals : public GenClass { 
+Class:   class Class_Bitmap_Bump : public GenClass { 
+Class:   class Class_Bitmap_Resize : public GenClass { 
+Class:   class Class_Bitmap_Depth : public GenClass { 
+Class:   class Class_Bitmap_Perlin : public GenClass { 
+Class:   class Class_Bitmap_Gradient : public GenClass { 
+Class:   class Class_Bitmap_Cell : public GenClass { 
+Class:   class Class_Bitmap_RotateMul : public GenClass { 
+Class:   class Class_Bitmap_Distort : public GenClass { 
+Class:   class Class_Bitmap_Mask : public GenClass { 
+Class:   class Class_Bitmap_ColorRange : public GenClass { 
+Class:   class Class_Bitmap_ColorBalance : public GenClass { 
+Class:   class Class_Bitmap_CSBOld : public GenClass { 
+Class:   class Class_Bitmap_CSB : public GenClass { 
+Class:   class Class_Bitmap_HSB : public GenClass { 
+Class:   class Class_Bitmap_Twirl : public GenClass { 
+Class:   class Class_Bitmap_Text : public GenClass { 
+Class:   class Class_Bitmap_Export : public GenClass { 
+Class:   class Class_Bitmap_Import : public GenClass { 
+Class: class Class_MobMesh_Store : public GenClass { 
+Class: class Class_MobMesh_Nop : public GenClass { 
+Class:    class Class_MobMesh_Grid : public GenClass { 
+Class: class Class_MobMesh_Cube : public GenClass { 
+Class: class Class_MobMesh_Cylinder : public GenClass { 
+Class:  class Class_MobMesh_Torus : public GenClass { 
+Class:  class Class_MobMesh_Sphere : public GenClass { 
+Class: class Class_MobMesh_CamKey : public GenClass { 
+Class:   class Class_MobMesh_Material : public GenClass { 
+Class: class Class_MobMesh_Add : public GenClass { 
+Class: class Class_MobMesh_SelectAll : public GenClass { 
+Class: class Class_MobMesh_SelectCube : public GenClass { 
+Class: class Class_MobMesh_DeleteFaces : public GenClass { 
+Class: class Class_MobMesh_Invert : public GenClass { 
+Class:   class Class_MobMesh_TransformEx : public GenClass { 
+Class: class Class_MobMesh_Displace : public GenClass { 
+Class: class Class_MobMesh_Perlin : public GenClass { 
+Class: class Class_MobMesh_ExtrudeNormal : public GenClass { 
+Class: class Class_MobMesh_Bend2 : public GenClass { 
+Class: class Class_MobMesh_Bend : public GenClass { 
+Class:  class Class_MobMesh_Multiply : public GenClass { 
+Class: class Class_MobMesh_Light : public GenClass { 
+Class: class Class_MobMesh_LightMix : public GenClass { 
+Class:   class Class_Misc_Comment : public GenClass { 
+Class: class IDiaEnumSymbols : public IUnknown { 
+Class: class IDiaEnumSymbolsByAddr : public IUnknown { 
+Class: class IDiaEnumTables : public IUnknown { 
+Class: class IDiaDataSource : public IUnknown { 
+Class: class IDiaSession : public IUnknown { 
+Class: class IDiaSymbol : public IUnknown { 
+Class: class IDiaSectionContrib : public IUnknown { 
+Class: class IDiaTable : public IEnumUnknown { 
+Class:class XSIClusterTSpace class XSIClusterTSpace
+Class:class XSICluster class XSICluster
+Class:        class sBrowserList : public sGuiWindow { 
+Class:       class sMaterialImgLayerAlpha : public sMaterial { 
+Class: class TourqueSimulator { 
+Class: class sMaterialImageJukebox : public sMaterial { 
+Class:    class PathFinder { 
+Class:   class GridLayoutGraph : public AbstractGraph { 
+Class:   class MeshGraph : public AbstractGraph { 
+Class:   class GraphPainterEffect : public GenEffect { 
+Class: class GeloetEffect : public GraphPainterEffect { 
+Class: class MeshGeloetEffect : public GraphPainterEffect { 
+Class: class Material20Insert : public EngMaterialInsert { 
+Class:    class GenKineticSpline : public GenSpline { 
+Class:   class GenKineticSpline2 : public GenSpline { 
+Class: class MeshCoder { 
+Class:   class VectorRasterizer { 
+Class:   class DopeLoader : public sGuiWindow { 
+Class:   class DopeMainWin : public sGuiWindow { 
+Class:   class DopeApp : public sDummyFrame { 
+Class:   class MeshElement { 
+Class: class MeshCoder { 
+Class: class IDiaEnumSymbols : public IUnknown { 
+Class: class IDiaEnumSymbolsByAddr : public IUnknown { 
+Class: class IDiaEnumTables : public IUnknown { 
+Class: class IDiaDataSource : public IUnknown { 
+Class: class IDiaSession : public IUnknown { 
+Class: class IDiaSymbol : public IUnknown { 
+Class: class IDiaSectionContrib : public IUnknown { 
+Class: class IDiaTable : public IEnumUnknown { 
+Class: class sShaderCompiler::SymbolTable { 
+Class:class VectorRasterizer class VectorRasterizer
+Class:  Class = 0;
+Class:  Class = 0;
+Class:       class DIWerkOp : public sDiskItem { 
+Class:   class DIWerkPage : public sDiskItem { 
+Class: class DIWerkAlpha : public sDiskItem { 
+Class:   class DIWerkDot : public sDiskItem { 
+Class:      class BatchSorter { 
+Class:  class CubeHordeEffect : public GenEffect { 
+Class: class BSplineTestWin : public sGuiWindow { 
+Class:  Class = cl;
+Class:class Class_NodeStore : public GenClass { 
+Class: class Class_Bitmap_Load : public GenClass { 
+Class: class Class_Bitmap_Store : public GenClass { 
+Class: class Class_Bitmap_Nop : public GenClass { 
+Class:    class Class_Bitmap_Flat : public GenClass { 
+Class:   class Class_Bitmap_Color : public GenClass { 
+Class:   class Class_Bitmap_Add : public GenClass { 
+Class:   class Class_Bitmap_GlowRect : public GenClass { 
+Class:   class Class_Bitmap_Rotate : public GenClass { 
+Class:   class Class_Bitmap_Blur : public GenClass { 
+Class:   class Class_Bitmap_Normals : public GenClass { 
+Class:   class Class_Bitmap_Bump : public GenClass { 
+Class:   class Class_Bitmap_Resize : public GenClass { 
+Class:   class Class_Bitmap_Depth : public GenClass { 
+Class:   class Class_Bitmap_Perlin : public GenClass { 
+Class:   class Class_Bitmap_Gradient : public GenClass { 
+Class:   class Class_Bitmap_Cell : public GenClass { 
+Class:   class Class_Bitmap_RotateMul : public GenClass { 
+Class:   class Class_Bitmap_Distort : public GenClass { 
+Class:   class Class_Bitmap_Mask : public GenClass { 
+Class:   class Class_Bitmap_ColorRange : public GenClass { 
+Class:   class Class_Bitmap_ColorBalance : public GenClass { 
+Class:   class Class_Bitmap_CSBOld : public GenClass { 
+Class:   class Class_Bitmap_CSB : public GenClass { 
+Class:   class Class_Bitmap_HSB : public GenClass { 
+Class:   class Class_Bitmap_Twirl : public GenClass { 
+Class:   class Class_Bitmap_Text : public GenClass { 
+Class:   class Class_Bitmap_Export : public GenClass { 
+Class:   class Class_Bitmap_Import : public GenClass { 
+Class: class Class_MobMesh_Store : public GenClass { 
+Class: class Class_MobMesh_Nop : public GenClass { 
+Class:    class Class_MobMesh_Grid : public GenClass { 
+Class: class Class_MobMesh_Cube : public GenClass { 
+Class: class Class_MobMesh_Cylinder : public GenClass { 
+Class:  class Class_MobMesh_Torus : public GenClass { 
+Class:  class Class_MobMesh_Sphere : public GenClass { 
+Class: class Class_MobMesh_CamKey : public GenClass { 
+Class:   class Class_MobMesh_Material : public GenClass { 
+Class: class Class_MobMesh_Add : public GenClass { 
+Class: class Class_MobMesh_SelectAll : public GenClass { 
+Class: class Class_MobMesh_SelectCube : public GenClass { 
+Class: class Class_MobMesh_DeleteFaces : public GenClass { 
+Class: class Class_MobMesh_Invert : public GenClass { 
+Class:   class Class_MobMesh_TransformEx : public GenClass { 
+Class: class Class_MobMesh_Displace : public GenClass { 
+Class: class Class_MobMesh_Perlin : public GenClass { 
+Class: class Class_MobMesh_ExtrudeNormal : public GenClass { 
+Class: class Class_MobMesh_Bend2 : public GenClass { 
+Class: class Class_MobMesh_Bend : public GenClass { 
+Class:  class Class_MobMesh_Multiply : public GenClass { 
+Class: class Class_MobMesh_Light : public GenClass { 
+Class: class Class_MobMesh_LightMix : public GenClass { 
+Class:   class Class_Misc_Comment : public GenClass { 
+198
+Mismatch count:26874
+Normal count:461201

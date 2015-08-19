@@ -1,0 +1,2338 @@
+projects/top_C++/Torque3D
+Going to process projects/top_C++/Torque3D/all_log.txt 
+---------- Torque3D ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tbtAssert(0 <= edge1 && edge1 < count1);'), (3, 1, u'+\tbtAssert(0 <= edge1 && edge1 < poly1->getVertexCount());')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: EdgeSeparation
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tbtAssert(0 <= edge1 && edge1 < count1);'), (3, 1, u'+\tbtAssert(0 <= edge1 && edge1 < poly1->getVertexCount());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tbtAssert(0 <= edge1 && edge1 < count1);'), (3, 1, u'+\tbtAssert(0 <= edge1 && edge1 < poly1->getVertexCount());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tbtAssert(0 <= edge1 && edge1 < count1);'), (3, 1, u'+\tbtAssert(0 <= edge1 && edge1 < poly1->getVertexCount());')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: FindIncidentEdge
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tbtAssert(0 <= edge1 && edge1 < count1);'), (3, 1, u'+\tbtAssert(0 <= edge1 && edge1 < poly1->getVertexCount());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tbtAssert(0 <= edge1 && edge1 < count1);'), (3, 1, u'+\tbtAssert(0 <= edge1 && edge1 < poly1->getVertexCount());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\t\tbtAssert(0);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 2
+Header: btPersistentManifold*	btCollisionDispatcher::getNewManifold
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\t\tbtAssert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\t\tbtAssert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tbtAssert( m_collisionObjects.findLinearSearch(collisionObject)  == m_collisionObjects.size());'), (3, 1, u'+\tbtAssert( m_collisionObjects.findLinearSearch(collisionObject)  == m_collisionObjects.size());')]
+===========================================
+===========================================
+Total add: 17
+Total del: 17
+Header: void	btCollisionWorld::addCollisionObject
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tbtAssert( m_collisionObjects.findLinearSearch(collisionObject)  == m_collisionObjects.size());'), (3, 1, u'+\tbtAssert( m_collisionObjects.findLinearSearch(collisionObject)  == m_collisionObjects.size());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tbtAssert( m_collisionObjects.findLinearSearch(collisionObject)  == m_collisionObjects.size());'), (3, 1, u'+\tbtAssert( m_collisionObjects.findLinearSearch(collisionObject)  == m_collisionObjects.size());')]
+===========================================
+Class:    class DebugDrawcallback : public btTriangleCallback, public btInternalTriangleIndexCallback { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (5, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());'), (21, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (24, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());')]
+===========================================
+===========================================
+Total add: 10
+Total del: 9
+Header: m_sharedManifold
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (5, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());'), (21, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (24, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (5, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());'), (21, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (24, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tbtAssert(index>=0);'), (9, 1, u'+\t\tbtAssert(index<compoundShape->getNumChildShapes());')]
+===========================================
+===========================================
+Total add: 4
+Total del: 3
+Header: public:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tbtAssert(index>=0);'), (9, 1, u'+\t\tbtAssert(index<compoundShape->getNumChildShapes());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tbtAssert(index>=0);'), (9, 1, u'+\t\tbtAssert(index<compoundShape->getNumChildShapes());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (14, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());')]
+===========================================
+===========================================
+Total add: 5
+Total del: 7
+Header: public:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (14, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-\tbtAssert (colObj->getCollisionShape()->isCompound());'), (14, 1, u'+\tbtAssert (colObjWrap->getCollisionShape()->isCompound());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: btScalar	btCompoundCollisionAlgorithm::calculateTimeOfImpact
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tbtAssert(indicestype==PHY_INTEGER||indicestype==PHY_SHORT);'), (3, 1, u'+\t\t\tbtAssert(indicestype==PHY_INTEGER||indicestype==PHY_SHORT||indicestype==PHY_UCHAR);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: void	btBvhTriangleMeshShape::processAllTriangles
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tbtAssert(indicestype==PHY_INTEGER||indicestype==PHY_SHORT);'), (3, 1, u'+\t\t\tbtAssert(indicestype==PHY_INTEGER||indicestype==PHY_SHORT||indicestype==PHY_UCHAR);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tbtAssert(indicestype==PHY_INTEGER||indicestype==PHY_SHORT);'), (3, 1, u'+\t\t\tbtAssert(indicestype==PHY_INTEGER||indicestype==PHY_SHORT||indicestype==PHY_UCHAR);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(masses[k]>0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: btCompoundShape::calculatePrincipalAxisTransform
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(masses[k]>0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(masses[k]>0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(totalMass>0);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: btCompoundShape::calculatePrincipalAxisTransform
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(totalMass>0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(totalMass>0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(110, 1, u'+\t\t\t\t\tbtAssert(0);'), (158, 1, u'+\t\t\t\tbtAssert((type == PHY_FLOAT) || (type == PHY_DOUBLE));')]
+===========================================
+===========================================
+Total add: 169
+Total del: 0
+Header: void	btStridingMeshInterface::calculateAabbBruteForce
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(110, 1, u'+\t\t\t\t\tbtAssert(0);'), (158, 1, u'+\t\t\t\tbtAssert((type == PHY_FLOAT) || (type == PHY_DOUBLE));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(110, 1, u'+\t\t\t\t\tbtAssert(0);'), (158, 1, u'+\t\t\t\tbtAssert((type == PHY_FLOAT) || (type == PHY_DOUBLE));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tbtAssert(validContactDistance(newPoint));'), (9, 1, u'+\t\tbtAssert(validContactDistance(newPoint));')]
+===========================================
+===========================================
+Total add: 6
+Total del: 3
+Header: btPersistentManifold::getCacheEntry
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tbtAssert(validContactDistance(newPoint));'), (9, 1, u'+\t\tbtAssert(validContactDistance(newPoint));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tbtAssert(validContactDistance(newPoint));'), (9, 1, u'+\t\tbtAssert(validContactDistance(newPoint));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+       btAssert(fabs(vSwingAxis.x()) <= SIMD_EPSILON));')]
+===========================================
+===========================================
+Total add: 5
+Total del: 6
+Header: btConeTwistConstraint::computeConeLimitInfo
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+       btAssert(fabs(vSwingAxis.x()) <= SIMD_EPSILON));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+       btAssert(fabs(vSwingAxis.x()) <= SIMD_EPSILON));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        btAssert(0);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: btConeTwistConstraint::computeConeLimitInfo
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        btAssert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        btAssert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        btAssert(0);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: btConeTwistConstraint::computeTwistLimitInfo
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        btAssert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        btAssert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define ASSERT2 btAssert')]
+===========================================
+===========================================
+Total add: 46
+Total del: 2
+Header: void	btContactConstraint::solveConstraintObsolete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define ASSERT2 btAssert')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define ASSERT2 btAssert')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tASSERT2(btFabs(normalLenSqr) < btScalar(1.1));'), (3, 1, u'+\tbtAssert(btFabs(normalLenSqr) < btScalar(1.1));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: resolveSingleBilateral
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tASSERT2(btFabs(normalLenSqr) < btScalar(1.1));'), (3, 1, u'+\tbtAssert(btFabs(normalLenSqr) < btScalar(1.1));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tASSERT2(btFabs(normalLenSqr) < btScalar(1.1));'), (3, 1, u'+\tbtAssert(btFabs(normalLenSqr) < btScalar(1.1));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(!m_useSolveConstraintObsolete);')]
+===========================================
+===========================================
+Total add: 34
+Total del: 18
+Header: btGeneric6DofConstraint::getInfo2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(!m_useSolveConstraintObsolete);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tbtAssert(!m_useSolveConstraintObsolete);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(83, 1, u'+\t\tbtAssertConstrParams(0);'), (100, 1, u'+\t\t\t\tbtAssertConstrParams(0);'), (115, 1, u'+\t\tbtAssertConstrParams(0);'), (123, 1, u'+\t\t\t\tbtAssertConstrParams(m_flags & BT_P2P_FLAGS_ERP);'), (128, 1, u'+\t\t\t\tbtAssertConstrParams(m_flags & BT_P2P_FLAGS_CFM);'), (132, 1, u'+\t\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+Total add: 55
+Total del: 73
+Header: btPoint2PointConstraint::getInfo2NonVirtual
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(83, 1, u'+\t\tbtAssertConstrParams(0);'), (100, 1, u'+\t\t\t\tbtAssertConstrParams(0);'), (115, 1, u'+\t\tbtAssertConstrParams(0);'), (123, 1, u'+\t\t\t\tbtAssertConstrParams(m_flags & BT_P2P_FLAGS_ERP);'), (128, 1, u'+\t\t\t\tbtAssertConstrParams(m_flags & BT_P2P_FLAGS_CFM);'), (132, 1, u'+\t\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(83, 1, u'+\t\tbtAssertConstrParams(0);'), (100, 1, u'+\t\t\t\tbtAssertConstrParams(0);'), (115, 1, u'+\t\tbtAssertConstrParams(0);'), (123, 1, u'+\t\t\t\tbtAssertConstrParams(m_flags & BT_P2P_FLAGS_ERP);'), (128, 1, u'+\t\t\t\tbtAssertConstrParams(m_flags & BT_P2P_FLAGS_CFM);'), (132, 1, u'+\t\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        btAssert(solverBodyIdA < m_tmpSolverBodyPool.size());')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: int	btSequentialImpulseConstraintSolver::getOrInitSolverBody
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        btAssert(solverBodyIdA < m_tmpSolverBodyPool.size());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        btAssert(solverBodyIdA < m_tmpSolverBodyPool.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+\t\t\t\tbtAssert(found);'), (39, 1, u'+\t\t\t\tbtAssert(found);'), (58, 1, u'+            btAssert(found);'), (71, 1, u'+            btAssert(found);')]
+===========================================
+===========================================
+Total add: 99
+Total del: 3
+Header: btSequentialImpulseConstraintSolver::solveGroupCacheFriendlySetup
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+\t\t\t\tbtAssert(found);'), (39, 1, u'+\t\t\t\tbtAssert(found);'), (58, 1, u'+            btAssert(found);'), (71, 1, u'+            btAssert(found);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+\t\t\t\tbtAssert(found);'), (39, 1, u'+\t\t\t\tbtAssert(found);'), (58, 1, u'+            btAssert(found);'), (71, 1, u'+            btAssert(found);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\t\t\tbtAssert(info2.rowskip*sizeof(btScalar)== sizeof(btSolverConstraint));'), (3, 1, u'+\t\t            btAssert(info2.rowskip*sizeof(btScalar)== sizeof(btSolverConstraint));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: btSequentialImpulseConstraintSolver::solveGroupCacheFriendlySetup
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\t\t\tbtAssert(info2.rowskip*sizeof(btScalar)== sizeof(btSolverConstraint));'), (3, 1, u'+\t\t            btAssert(info2.rowskip*sizeof(btScalar)== sizeof(btSolverConstraint));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\t\t\tbtAssert(info2.rowskip*sizeof(btScalar)== sizeof(btSolverConstraint));'), (3, 1, u'+\t\t            btAssert(info2.rowskip*sizeof(btScalar)== sizeof(btSolverConstraint));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\t\t\t\t\tbtAssert(fsum > SIMD_EPSILON);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 2
+Header: btSequentialImpulseConstraintSolver::solveGroupCacheFriendlySetup
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\t\t\t\t\tbtAssert(fsum > SIMD_EPSILON);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\t\t\t\t\tbtAssert(fsum > SIMD_EPSILON);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\tbtAssert(bodies);'), (22, 2, u'-\tbtAssert(numBodies);')]
+===========================================
+===========================================
+Total add: 49
+Total del: 35
+Header: btSequentialImpulseConstraintSolver::solveGroupCacheFriendlyIterations
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\tbtAssert(bodies);'), (22, 2, u'-\tbtAssert(numBodies);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\tbtAssert(bodies);'), (22, 2, u'-\tbtAssert(numBodies);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+Total add: 32
+Total del: 241
+Header: btSliderConstraint::solveConstraintObsolete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 5
+Header: btSliderConstraint::testLinLimits
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_LIMLIN);'), (35, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_ORTLIN);'), (40, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_LIMANG);'), (45, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_ORTANG);'), (50, 1, u'+\t\t\tbtAssertConstrParams(0);'), (56, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_DIRLIN);'), (61, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_DIRANG);'), (66, 1, u'+\t\t\tbtAssertConstrParams(0);'), (72, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_LIMLIN);'), (77, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_ORTLIN);'), (82, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_LIMANG);'), (87, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_ORTANG);'), (92, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+Total add: 70
+Total del: 29
+Header: btSliderConstraint::testLinLimits
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_LIMLIN);'), (35, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_ORTLIN);'), (40, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_LIMANG);'), (45, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_ORTANG);'), (50, 1, u'+\t\t\tbtAssertConstrParams(0);'), (56, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_DIRLIN);'), (61, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_DIRANG);'), (66, 1, u'+\t\t\tbtAssertConstrParams(0);'), (72, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_LIMLIN);'), (77, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_ORTLIN);'), (82, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_LIMANG);'), (87, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_ORTANG);'), (92, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_LIMLIN);'), (35, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_ORTLIN);'), (40, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_LIMANG);'), (45, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_ERP_ORTANG);'), (50, 1, u'+\t\t\tbtAssertConstrParams(0);'), (56, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_DIRLIN);'), (61, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_DIRANG);'), (66, 1, u'+\t\t\tbtAssertConstrParams(0);'), (72, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_LIMLIN);'), (77, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_ORTLIN);'), (82, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_LIMANG);'), (87, 1, u'+\t\t\tbtAssertConstrParams(m_flags & BT_SLIDER_FLAGS_CFM_ORTANG);'), (92, 1, u'+\t\t\tbtAssertConstrParams(0);')]
+===========================================
+Class:  class btSortConstraintOnIslandPredicate { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(68, 1, u'+\t\tbtAssert(0);'), (75, 1, u'+\t\tbtAssert(solverInfo);')]
+===========================================
+===========================================
+Total add: 151
+Total del: 0
+Header: subject to the following restrictions:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(68, 1, u'+\t\tbtAssert(0);'), (75, 1, u'+\t\tbtAssert(solverInfo);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(68, 1, u'+\t\tbtAssert(0);'), (75, 1, u'+\t\tbtAssert(solverInfo);')]
+===========================================
+Class:  class btSortConstraintOnIslandPredicate { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 2, u'-\t\t\tbtAssert(0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 84
+Header: void	btDiscreteDynamicsWorld::solveConstraints
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 2, u'-\t\t\tbtAssert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 2, u'-\t\t\tbtAssert(0);')]
+===========================================
+Class:					class StaticOnlyCallback : public btClosestNotMeConvexResultCallback 					class StaticOnlyCallback : public btClosestNotMeConvexResultCallback
+Class:class DebugDrawcallback : public btTriangleCallback, public btInternalTriangleIndexCallback { 
+Class: class QuickSortCompare { 
+Class:class PosixCriticalSection : public btCriticalSection { 
+Class:    class btDummyBarrier : public btBarrier { 
+Class: class btDummyCriticalSection : public btCriticalSection { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\tbtAssert(shapeSize < MAX_SHAPE_SIZE);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: int		getShapeTypeSize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\tbtAssert(shapeSize < MAX_SHAPE_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\tbtAssert(shapeSize < MAX_SHAPE_SIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\t\tbtAssert(gjk.m_lastUsedMethod <MAX_DEGENERATE_STATS);'), (6, 1, u'+\t\t\tbtAssert(gjk.m_degenerateSimplex <MAX_DEGENERATE_STATS);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: void	ProcessSpuConvexConvexCollision
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\t\tbtAssert(gjk.m_lastUsedMethod <MAX_DEGENERATE_STATS);'), (6, 1, u'+\t\t\tbtAssert(gjk.m_degenerateSimplex <MAX_DEGENERATE_STATS);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\t\tbtAssert(gjk.m_lastUsedMethod <MAX_DEGENERATE_STATS);'), (6, 1, u'+\t\t\tbtAssert(gjk.m_degenerateSimplex <MAX_DEGENERATE_STATS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount0< MAX_SPU_COMPOUND_SUBSHAPES);'), (4, 1, u'+\t\tbtAssert(childShapeCount1< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: void	handleCollisionPair
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount0< MAX_SPU_COMPOUND_SUBSHAPES);'), (4, 1, u'+\t\tbtAssert(childShapeCount1< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount0< MAX_SPU_COMPOUND_SUBSHAPES);'), (4, 1, u'+\t\tbtAssert(childShapeCount1< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape0.m_childShapeType));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: void	handleCollisionPair
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape0.m_childShapeType));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape0.m_childShapeType));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape1.m_childShapeType));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: void	handleCollisionPair
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape1.m_childShapeType));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape1.m_childShapeType));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: void	handleCollisionPair
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape.m_childShapeType));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: void	handleCollisionPair
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape.m_childShapeType));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape.m_childShapeType));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: void	handleCollisionPair
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tbtAssert(childShapeCount< MAX_SPU_COMPOUND_SUBSHAPES);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape.m_childShapeType));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: void	handleCollisionPair
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape.m_childShapeType));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tbtAssert(!btBroadphaseProxy::isCompound(childShape.m_childShapeType));')]
+===========================================
+Class:  class btWin32Barrier : public btBarrier { 
+Class: class btWin32CriticalSection : public btCriticalSection { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(m_bInitialized);'), (3, 1, u'+\tbtAssert(m_bInitialized);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: btGpu3DGridBroadphase::~btGpu3DGridBroadphase
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(m_bInitialized);'), (3, 1, u'+\tbtAssert(m_bInitialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(m_bInitialized);'), (3, 1, u'+\tbtAssert(m_bInitialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!m_bInitialized);'), (3, 1, u'+    btAssert(!m_bInitialized);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: btGpu3DGridBroadphase::_initialize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!m_bInitialized);'), (3, 1, u'+    btAssert(!m_bInitialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!m_bInitialized);'), (3, 1, u'+    btAssert(!m_bInitialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(m_bInitialized);'), (3, 1, u'+    btAssert(m_bInitialized);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: btGpu3DGridBroadphase::_finalize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(m_bInitialized);'), (3, 1, u'+    btAssert(m_bInitialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(m_bInitialized);'), (3, 1, u'+    btAssert(m_bInitialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tbtAssert(nodeIndex >= 0 && nodeIndex < m_nodes.size());')]
+===========================================
+===========================================
+Total add: 185
+Total del: 0
+Header: void			btSoftBody::addForce
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tbtAssert(nodeIndex >= 0 && nodeIndex < m_nodes.size());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tbtAssert(nodeIndex >= 0 && nodeIndex < m_nodes.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\t\tbtAssert( "Solver initialization failed\\n" );')]
+===========================================
+===========================================
+Total add: 10
+Total del: 1
+Header: void	btSoftRigidDynamicsWorld::predictUnconstraintMotion
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\t\tbtAssert( "Solver initialization failed\\n" );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\t\tbtAssert( "Solver initialization failed\\n" );')]
+===========================================
+Class:		class Point64 		class Point64
+Class: 		class Point32 		{ 		
+Class: 		class Int128 		{ 		
+Class:  		class Rational64 		{ 		
+Class:  		class Rational128 		{ 		
+Class: 		class PointR128 		{ 		
+Class: 		class Vertex 		{ 		
+Class:  		class Edge 		{ 		
+Class: 		class Face 		{ 		
+Class:class RemoteCommandEvent : public NetEvent { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-      AssertFatal( false, "Error, could not find ClientMissionCleanup group" );')]
+===========================================
+===========================================
+Total add: 0
+Total del: 5
+Header: ParticleEmitter::onAdd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-      AssertFatal( false, "Error, could not find ClientMissionCleanup group" );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-      AssertFatal( false, "Error, could not find ClientMissionCleanup group" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal( mBeginFrame < GuiTSCtrl::getFrameCount(), "GFXD3D9OcclusionQuery::getStatus - called on the same frame as begin!" );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: GFXD3D9OcclusionQuery::getStatus
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal( mBeginFrame < GuiTSCtrl::getFrameCount(), "GFXD3D9OcclusionQuery::getStatus - called on the same frame as begin!" );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal( mBeginFrame < GuiTSCtrl::getFrameCount(), "GFXD3D9OcclusionQuery::getStatus - called on the same frame as begin!" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tD3D9Assert(mD3D->GetAdapterDisplayMode(D3DADAPTER_DEFAULT, &mode), "Unable to get adapter mode.");'), (3, 1, u'+\tD3D9Assert(mD3D->GetAdapterDisplayMode(mAdapterIndex, &mode), "Unable to get adapter mode.");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: GFXPCD3D9Device::selectSupportedFormat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tD3D9Assert(mD3D->GetAdapterDisplayMode(D3DADAPTER_DEFAULT, &mode), "Unable to get adapter mode.");'), (3, 1, u'+\tD3D9Assert(mD3D->GetAdapterDisplayMode(mAdapterIndex, &mode), "Unable to get adapter mode.");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tD3D9Assert(mD3D->GetAdapterDisplayMode(D3DADAPTER_DEFAULT, &mode), "Unable to get adapter mode.");'), (3, 1, u'+\tD3D9Assert(mD3D->GetAdapterDisplayMode(mAdapterIndex, &mode), "Unable to get adapter mode.");')]
+===========================================
+Class: class PlaneRange { 
+Class:class SurfaceHash { 
+Class:  class InteriorPolytope { 
+Class:    class blInteriorProxy : public SceneLighting::ObjectProxy { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\t\tassert( p <= (buf+length) );'), (22, 2, u'-\t\t\t\tassert( p <= (buf+length) );'), (28, 2, u'-\t\t\t\tassert( p <= (buf+length) );'), (29, 1, u'+\t\tassert( q <= (buf+length) );'), (30, 1, u'+\t\tassert( q <= p );')]
+===========================================
+===========================================
+Total add: 8
+Total del: 27
+Header: TiXmlDocument::LoadFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\t\tassert( p <= (buf+length) );'), (22, 2, u'-\t\t\t\tassert( p <= (buf+length) );'), (28, 2, u'-\t\t\t\tassert( p <= (buf+length) );'), (29, 1, u'+\t\tassert( q <= (buf+length) );'), (30, 1, u'+\t\tassert( q <= p );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\t\tassert( p <= (buf+length) );'), (22, 2, u'-\t\t\t\tassert( p <= (buf+length) );'), (28, 2, u'-\t\t\t\tassert( p <= (buf+length) );'), (29, 1, u'+\t\tassert( q <= (buf+length) );'), (30, 1, u'+\t\tassert( q <= p );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+\tassert( q <= (buf+length) );')]
+===========================================
+===========================================
+Total add: 6
+Total del: 12
+Header: TiXmlDocument::LoadFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+\tassert( q <= (buf+length) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+\tassert( q <= (buf+length) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    Assert(s->lookahead < MIN_LOOKAHEAD, "already enough lookahead");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: fill_window
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    Assert(s->lookahead < MIN_LOOKAHEAD, "already enough lookahead");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    Assert(s->lookahead < MIN_LOOKAHEAD, "already enough lookahead");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+    Assert((ulg)s->strstart <= s->window_size - MIN_LOOKAHEAD,')]
+===========================================
+===========================================
+Total add: 37
+Total del: 0
+Header: fill_window
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+    Assert((ulg)s->strstart <= s->window_size - MIN_LOOKAHEAD,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+    Assert((ulg)s->strstart <= s->window_size - MIN_LOOKAHEAD,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 1, u'+            Assert(scan <= s->window+(uInt)(s->window_size-1), "wild scan");')]
+===========================================
+===========================================
+Total add: 15
+Total del: 7
+Header: deflate_rle
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 1, u'+            Assert(scan <= s->window+(uInt)(s->window_size-1), "wild scan");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 1, u'+            Assert(scan <= s->window+(uInt)(s->window_size-1), "wild scan");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(png_ptr->io_ptr != NULL, "No stream?");'), (3, 1, u'+   AssertFatal(png_get_io_ptr(png_ptr) != NULL, "No stream?");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: pngReadDataFn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(png_ptr->io_ptr != NULL, "No stream?");'), (3, 1, u'+   AssertFatal(png_get_io_ptr(png_ptr) != NULL, "No stream?");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(png_ptr->io_ptr != NULL, "No stream?");'), (3, 1, u'+   AssertFatal(png_get_io_ptr(png_ptr) != NULL, "No stream?");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(png_ptr->io_ptr != NULL, "No stream?");'), (3, 1, u'+   AssertFatal(png_get_io_ptr(png_ptr) != NULL, "No stream?");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: pngWriteDataFn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(png_ptr->io_ptr != NULL, "No stream?");'), (3, 1, u'+   AssertFatal(png_get_io_ptr(png_ptr) != NULL, "No stream?");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(png_ptr->io_ptr != NULL, "No stream?");'), (3, 1, u'+   AssertFatal(png_get_io_ptr(png_ptr) != NULL, "No stream?");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-       AssertFatal(semaphore, "PlatformSemaphore constructor - Failed to create SDL Semaphore.");'), (7, 1, u'+\t\t\tAssertFatal(0, "PlatformSemaphore constructor - Failed to create Semaphore.");')]
+===========================================
+===========================================
+Total add: 5
+Total del: 2
+Header: struct PlatformSemaphore
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-       AssertFatal(semaphore, "PlatformSemaphore constructor - Failed to create SDL Semaphore.");'), (7, 1, u'+\t\t\tAssertFatal(0, "PlatformSemaphore constructor - Failed to create Semaphore.");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-       AssertFatal(semaphore, "PlatformSemaphore constructor - Failed to create SDL Semaphore.");'), (7, 1, u'+\t\t\tAssertFatal(0, "PlatformSemaphore constructor - Failed to create Semaphore.");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(mData && mData->semaphore, "Semaphore::acquire - Invalid semaphore.");'), (3, 1, u'+   AssertFatal(mData && mData->initialized, "Semaphore::acquire - Invalid semaphore.");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: Semaphore::acquire
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(mData && mData->semaphore, "Semaphore::acquire - Invalid semaphore.");'), (3, 1, u'+   AssertFatal(mData && mData->initialized, "Semaphore::acquire - Invalid semaphore.");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-   AssertFatal(mData && mData->semaphore, "Semaphore::acquire - Invalid semaphore.");'), (3, 1, u'+   AssertFatal(mData && mData->initialized, "Semaphore::acquire - Invalid semaphore.");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (5, 1, u'+            AssertFatal(false, "Semaphore::acquire - Wait failed.");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: Semaphore::acquire
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (5, 1, u'+            AssertFatal(false, "Semaphore::acquire - Wait failed.");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (5, 1, u'+            AssertFatal(false, "Semaphore::acquire - Wait failed.");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            AssertFatal(false, "Semaphore::acquie - Wait with timeout failed.");'), (7, 1, u'+\t\t\t AssertFatal(false, "Semaphore::acquire - clock_realtime failed.");'), (13, 1, u'+            AssertFatal(false, "Semaphore::acquire - Wait with timeout failed.");')]
+===========================================
+===========================================
+Total add: 10
+Total del: 2
+Header: Semaphore::acquire
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            AssertFatal(false, "Semaphore::acquie - Wait with timeout failed.");'), (7, 1, u'+\t\t\t AssertFatal(false, "Semaphore::acquire - clock_realtime failed.");'), (13, 1, u'+            AssertFatal(false, "Semaphore::acquire - Wait with timeout failed.");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            AssertFatal(false, "Semaphore::acquie - Wait with timeout failed.");'), (7, 1, u'+\t\t\t AssertFatal(false, "Semaphore::acquire - clock_realtime failed.");'), (13, 1, u'+            AssertFatal(false, "Semaphore::acquire - Wait with timeout failed.");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-         AssertFatal(ma->isServerObject(), "MissionArea::getServerObject: found client object in ghost always set!");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 11
+Header: MissionArea::getServerObject
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-         AssertFatal(ma->isServerObject(), "MissionArea::getServerObject: found client object in ghost always set!");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-         AssertFatal(ma->isServerObject(), "MissionArea::getServerObject: found client object in ghost always set!");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    AssertFatal(mNormalList.size() == mVertexList.size(), "Normals count does not match vertex count!");')]
+===========================================
+===========================================
+Total add: 8
+Total del: 0
+Header: ClippedPolyList::addPoint
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    AssertFatal(mNormalList.size() == mVertexList.size(), "Normals count does not match vertex count!");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    AssertFatal(mNormalList.size() == mVertexList.size(), "Normals count does not match vertex count!");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+   AssertFatal(mNormalList.size() == mVertexList.size(), "Normals count does not match vertex count!");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: ClippedPolyList::generateNormals
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+   AssertFatal(mNormalList.size() == mVertexList.size(), "Normals count does not match vertex count!");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+   AssertFatal(mNormalList.size() == mVertexList.size(), "Normals count does not match vertex count!");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+   AssertWarn((bitCount == 32) || ((val >> bitCount) == 0), "BitStream::writeInt: value out of range");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: BitStream::writeInt
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+   AssertWarn((bitCount == 32) || ((val >> bitCount) == 0), "BitStream::writeInt: value out of range");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+   AssertWarn((bitCount == 32) || ((val >> bitCount) == 0), "BitStream::writeInt: value out of range");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-         AssertISV( BatchData::maxBonePerVert > opIdx, "Too many bones affecting the same vertex, increase the size of \'TSMesh::BatchData::maxBonePerVert\'" );')]
+===========================================
+===========================================
+Total add: 28
+Total del: 2
+Header: TSSkinMesh::createBatchData
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-         AssertISV( BatchData::maxBonePerVert > opIdx, "Too many bones affecting the same vertex, increase the size of \'TSMesh::BatchData::maxBonePerVert\'" );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-         AssertISV( BatchData::maxBonePerVert > opIdx, "Too many bones affecting the same vertex, increase the size of \'TSMesh::BatchData::maxBonePerVert\'" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-   AssertFatal(mData, "Semaphore::acquire - Invalid semaphore.");'), (6, 1, u'+   AssertFatal(mData && mData->semaphore, "Semaphore::acquire - Invalid semaphore.");'), (10, 2, u'-         AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (18, 1, u'+            AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (23, 1, u'+            AssertFatal(false, "Semaphore::acquie - Wait with timeout failed.");')]
+===========================================
+===========================================
+Total add: 16
+Total del: 4
+Header: Semaphore::~Semaphore
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-   AssertFatal(mData, "Semaphore::acquire - Invalid semaphore.");'), (6, 1, u'+   AssertFatal(mData && mData->semaphore, "Semaphore::acquire - Invalid semaphore.");'), (10, 2, u'-         AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (18, 1, u'+            AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (23, 1, u'+            AssertFatal(false, "Semaphore::acquie - Wait with timeout failed.");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-   AssertFatal(mData, "Semaphore::acquire - Invalid semaphore.");'), (6, 1, u'+   AssertFatal(mData && mData->semaphore, "Semaphore::acquire - Invalid semaphore.");'), (10, 2, u'-         AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (18, 1, u'+            AssertFatal(false, "Semaphore::acquie - Wait failed.");'), (23, 1, u'+            AssertFatal(false, "Semaphore::acquie - Wait with timeout failed.");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 1, u'+\tbtAssert(maxHandles > 1 && maxHandles < 32767);'), (36, 1, u'+\tbtAssert(maxHandles > 1 && maxHandles < 2147483647);')]
+===========================================
+Class:   class btMultiSapBroadphasePairSortPredicate { 
+Class:	class	CleanPairCallback : public btOverlapCallback 	class	CleanPairCallback : public btOverlapCallback
+Class:	class	RemovePairCallback : public btOverlapCallback 	class	RemovePairCallback : public btOverlapCallback
+Class:	class	CleanPairCallback : public btOverlapCallback 	class	CleanPairCallback : public btOverlapCallback
+Class:	class	RemovePairCallback : public btOverlapCallback 	class	RemovePairCallback : public btOverlapCallback
+Class: class	RemovingOverlapCallback : public btOverlapCallback { 
+Class: class RemovePairContainingProxy { 
+Class:    class CheckOverlapCallback : public btOverlapCallback { 
+Class:     class btCollisionPairCallback : public btOverlapCallback { 
+Class:    class btPersistentManifoldSortPredicate { 
+Class:  class btUnionFindElementSortPredicate { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(77, 1, u'+\tbtAssert(0);')]
+===========================================
+Class:      class LocalSupportVertexCallback: public btInternalTriangleIndexCallback { 
+Class:   class CenterCallback: public btInternalTriangleIndexCallback    class CenterCallback: public btInternalTriangleIndexCallback
+Class:    class InertiaCallback: public btInternalTriangleIndexCallback    {    
+Class:  class btScaledTriangleCallback : public btTriangleCallback { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(91, 1, u'+\t\t\t\t btAssert((gfxindextype == PHY_INTEGER) || (gfxindextype == PHY_SHORT));'), (133, 1, u'+\t\t\t\t\tbtAssert((gfxindextype == PHY_INTEGER) || (gfxindextype == PHY_SHORT));'), (138, 1, u'+\t\t\tbtAssert((type == PHY_FLOAT) || (type == PHY_DOUBLE));')]
+===========================================
+Class:   class SupportVertexCallback : public btTriangleCallback { 
+Class: class CONTACT_KEY_TOKEN_COMP { 
+Class:	class ChildShapeRetriever 	class ChildShapeRetriever
+Class: 	class TriangleShapeRetriever:public ChildShapeRetriever 	{ 	
+Class: 	class TetraShapeRetriever:public ChildShapeRetriever 	{ 	
+Class:    class btGImpactTriangleCallback: public btTriangleCallback { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(113, 1, u'+\tbtAssert(!((splitIndex==startIndex) || (splitIndex == (endIndex))));'), (123, 1, u'+\tbtAssert((endIndex-startIndex)>0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(162, 1, u'+\t\t\tbtAssert((pInAv-pInA).length() < 0.0001);'), (163, 1, u'+\t\t\tbtAssert((qInBv-qInB).length() < 0.0001);'), (320, 1, u'+\t\t\t\tbtAssert(s > btScalar(0.0));')]
+===========================================
+Class:        class btKinematicClosestNotMeRayResultCallback : public btCollisionWorld::ClosestRayResultCallback { 
+Class: class btKinematicClosestNotMeConvexResultCallback : public btCollisionWorld::ClosestConvexResultCallback { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(60, 1, u'+\tbtAssert(len < SIMD_EPSILON);'), (149, 1, u'+\tbtAssert(len < SIMD_EPSILON);')]
+===========================================
+Class:  class btSortConstraintOnIslandPredicate { 
+Class:      class DebugDrawcallback : public btTriangleCallback, public btInternalTriangleIndexCallback { 
+Class:			class btRigidBody* groundObject = (class btRigidBody*) wheelInfo.m_raycastInfo.m_groundObject;
+Class:				class btRigidBody* groundObject = (class btRigidBody*) wheelInfo.m_raycastInfo.m_groundObject;
+Class:			class btRigidBody* groundObject = (class btRigidBody*) wheelInfo.m_raycastInfo.m_groundObject;
+Class:					class btRigidBody* groundObject = (class btRigidBody*) m_wheelInfo[wheel].m_raycastInfo.m_groundObject;
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(105, 1, u'+\t\tbtAssert(m_dispatchInfo.m_dispatchFunc == btDispatcherInfo::DISPATCH_DISCRETE);')]
+===========================================
+Class:    class spuNodeCallback : public btNodeOverlapCallback { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(296, 1, u'+\tbtAssert(node0!=node1);'), (297, 1, u'+\tbtAssert(node1!=node2);'), (298, 1, u'+\tbtAssert(node2!=node0);'), (855, 1, u'+\t\t\t\t\t\t\tbtAssert(sum==2);')]
+===========================================
+Class:    class int3 { 
+Class: class VertFlag { 
+Class:class EdgeFlag { 
+Class:class PlaneFlag { 
+Class:class Coplanar{ class Coplanar
+Class:   class btHullTriangle : public int3 { 
+Class:  class domAnyAttribute : public daeMetaAttribute { class domAnyAttribute : public daeMetaAttribute 
+Class:class ConvexHull : public Memalloc class ConvexHull : public Memalloc
+Class: class ConvexDecomposition : public iConvexDecomposition, public CONVEX_DECOMPOSITION::Memalloc, public ThreadInterface { 
+Class:class Edge;
+Class: class AABB { 
+Class: class Triangle { 
+Class:  class Edge { 
+Class: class EdgeCheck { 
+Class: class Island { 
+Class: class MyMeshIslandGeneration : public MeshIslandGeneration { 
+Class:class RayCast : public iRayCast, public Memalloc class RayCast : public iRayCast, public Memalloc
+Class:class AABB class AABB
+Class: class Triangle { 
+Class: class RtEdge { 
+Class: class MyRemoveTjunctions : public RemoveTjunctions { 
+Class:class SplitMesh : public iSplitMesh, public Memalloc class SplitMesh : public iSplitMesh, public Memalloc
+Class:template <class Type> class ArrayRet;
+Class:template <class Type> class Array { 
+Class: template <class Type> class ArrayRet:public Array<Type> { 
+Class:   class int3  : public Memalloc { 
+Class:    class float2  : public Memalloc { 
+Class:   class float3  : public Memalloc  { 
+Class:   class float3x3  : public Memalloc { 
+Class:    class float4  : public Memalloc { 
+Class: class float4x4  : public Memalloc { 
+Class:    class Quaternion :public float4 { 
+Class:    class Plane { 
+Class:    class PHullResult { 
+Class: class ConvexH : public Memalloc { 
+Class: class VertFlag { 
+Class:class EdgeFlag { 
+Class:class PlaneFlag { 
+Class:class Coplanar{ class Coplanar
+Class: class Tri : public int3 { 
+Class: class int4 { 
+Class:class MyThreadMutex : public ThreadMutex class MyThreadMutex : public ThreadMutex
+Class:  class MyThreadEvent : public ThreadEvent { 
+Class:class InPlaceParserInterface class InPlaceParserInterface
+Class: class InPlaceParser { 
+Class:     class GeometryVertex { 
+Class:  class GeometryInterface { 
+Class:       class OBJ : public InPlaceParserInterface { 
+Class:    class BuildMesh : public GeometryInterface { 
+Class: 	class Opcode::SAP_Element 	{ 	
+Class: 	class Opcode::SAP_Box 	{ 	
+Class: 	class Opcode::SAP_EndPoint 	{ 	
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(102, 1, u'+  assert(skip_ != NULL);'), (107, 1, u'+  assert(skip_ != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(326, 1, u'+  assert(vec[0] >= 0);'), (327, 1, u'+  assert(vec[1] >= 0);'), (359, 1, u'+      assert("" == "Unexpected return value from pcre_config(NEWLINE)");'), (377, 1, u'+    assert(matchstart >= start);'), (378, 1, u'+    assert(matchend >= matchstart);'), (520, 1, u'+  assert((1 + n) * 3 <= vecsize);  // results + PCRE workspace'), (522, 1, u'+  assert(matches >= 0);  // TryMatch never returns negatives'), (558, 1, u'+  assert(n >= 0);'), (609, 1, u'+  assert(pcre_retval == 0);')]
+===========================================
+Class:  class TiXmlParsingData { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(827, 1, u'+    Assert(strm->avail_out > 0, "bug2");'), (1061, 1, u'+    Assert(s->hash_bits >= 8 && MAX_MATCH == 258, "Code too clever");'), (1072, 1, u'+    Assert((ulg)s->strstart <= s->window_size-MIN_LOOKAHEAD, "need lookahead");'), (1075, 1, u'+        Assert(cur_match < s->strstart, "no future");'), (1102, 1, u'+        Assert(scan[2] == match[2], "scan[2]?");'), (1113, 1, u'+        Assert(scan <= s->window+(unsigned)(s->window_size-1), "wild scan");'), (1133, 1, u'+        Assert(*scan == *match, "match[2]?");'), (1145, 1, u'+        Assert(scan <= s->window+(unsigned)(s->window_size-1), "wild scan");'), (1187, 1, u'+    Assert(s->hash_bits >= 8 && MAX_MATCH == 258, "Code too clever");'), (1189, 1, u'+    Assert((ulg)s->strstart <= s->window_size-MIN_LOOKAHEAD, "need lookahead");'), (1191, 1, u'+    Assert(cur_match < s->strstart, "no future");'), (1206, 1, u'+    Assert(*scan == *match, "match[2]?");'), (1218, 1, u'+    Assert(scan <= s->window+(unsigned)(s->window_size-1), "wild scan");'), (1340, 1, u'+        Assert(more >= 2, "more < 2");'), (1409, 1, u'+            Assert(s->strstart < s->w_size+MAX_DIST(s) ||'), (1417, 1, u'+        Assert(s->block_start >= 0L, "block gone");'), (1666, 1, u'+    Assert (flush != Z_NO_FLUSH, "no flush?");')]
+===========================================
+Class:  class GroundCoverCell { 
+Class:    class LightningStrikeEvent : public NetEvent { 
+Class:  class BtPlayerSweepCallback : public btCollisionWorld::ClosestConvexResultCallback { 
+Class:         class SimpleNetObject : public NetObject { 
+Class: class DemoNetInterface : public NetInterface { 
+Class:       class ProcessMasterQueryEvent : public SimEvent { 
+Class:  class ProcessPingEvent : public SimEvent { 
+Class:  class ProcessPacketEvent : public SimEvent { 
+Class:  class HeartbeatEvent : public SimEvent { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u'+      AssertFatal( scQueriedInterface != NULL, "No valid SimpleComponentInterface was found in query" );'), (128, 1, u'+      AssertFatal( ownerQueriedInterface != NULL, "No valid SimpleComponentInterface was found in query" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+\tAssertFatal(ext && gcf && gcl && p && r, "AddConsoleParser called with one or more NULL arguments");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+   AssertFatal( name != NULL, "EngineExport - export without name!" );'), (51, 1, u'+   AssertFatal( scope != NULL, avar( "EngineExport - export \'%s\' is in no scope" ) );')]
+===========================================
+Class:     class ScriptGroup : public SimGroup { 
+Class:   class SimObjectDeleteEvent : public SimEvent { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(482, 1, u'+         AssertFatal(mSearchIndex > mDirectoryData->mDirectories.size(), "This should not happen!");')]
+===========================================
+Class:  class HuffmanProcessor { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 1, u'+      AssertFatal( bufferSize, "StringUnit::getUnit - bufferSize cannot be zero!" );'), (61, 1, u'+      AssertWarn( sz + 1 < bufferSize, "Size of returned string too large for return buffer" );'), (97, 1, u'+      AssertWarn( totalSize + 1 < sizeof( _returnBuffer ), "Size of returned string too large for return buffer" );'), (141, 1, u'+      AssertFatal( dStrlen(string) + dStrlen(replace) + 1 < sizeof( _returnBuffer ), "Size of returned string too large for return buffer" );'), (184, 1, u'+      AssertFatal( dStrlen(string) + 1 < sizeof( _returnBuffer ), "Size of returned string too large for return buffer" );')]
+===========================================
+Class:class PrivateBBData class PrivateBBData
+Class:  class String::StringData : protected StringDataImpl { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(212, 1, u'+      AssertFatal(0, "ZipArchive::removeEntry - Attempting to remove the root");'), (217, 1, u'+   AssertFatal(!ze->mIsDirectory, "ZipArchive::removeEntry - Cannot remove a directory");')]
+===========================================
+Class:class ZipFileNode : public Torque::FS::File, public Noncopyable class ZipFileNode : public Torque::FS::File, public Noncopyable
+Class:     class ZipDirectoryNode : public Torque::FS::Directory, public Noncopyable { 
+Class:     class ZipFakeRootNode : public Torque::FS::Directory, public Noncopyable { 
+Class:class FileSystemRedirect: public FileSystem class FileSystemRedirect: public FileSystem
+Class: class FileSystemRedirectChangeNotifier : public FileSystemChangeNotifier { 
+Class:     class DecalRoadNodeEvent : public NodeListEvent { 
+Class:    class DecalRoadNodeListNotify : public NodeListNotify { 
+Class:     class MeshRoadNodeEvent : public NodeListEvent { 
+Class:     class MeshRoadNodeListNotify : public NodeListNotify { 
+Class:     class RiverNodeEvent : public NodeListEvent { 
+Class:    class RiverNodeListNotify : public NodeListNotify { 
+Class:  class _gfxD3DXInclude : public ID3DXInclude, public StrongRefBase { 
+Class:    class GFXPCD3D9RegisterDevice { 
+Class: class GFXNullCardProfiler: public GFXCardProfiler { 
+Class: class GFXNullTextureObject : public GFXTextureObject { 
+Class: class GFXNullTextureManager : public GFXTextureManager { 
+Class: class GFXNullCubemap : public GFXCubemap { 
+Class: class GFXNullVertexBuffer : public GFXVertexBuffer { 
+Class: class GFXNullPrimitiveBuffer : public GFXPrimitiveBuffer { 
+Class:    class GFXNullStateBlock : public GFXStateBlock { 
+Class:    class GFXNullRegisterDevice { 
+Class:  class DescriptionOutputter { 
+Class:    class GFXGLRegisterDevice { 
+Class:  class _GFXGLTextureTargetDesc : public _GFXGLTargetDesc { 
+Class:  class _GFXGLCubemapTargetDesc : public _GFXGLTargetDesc { 
+Class:  class _GFXGLTextureTargetImpl { 
+Class:  class _GFXGLTextureTargetFBOImpl : public _GFXGLTextureTargetImpl { 
+Class:  class _GFXGLTextureTargetAUXBufferImpl : public _GFXGLTextureTargetImpl { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(91, 1, u'+   Assert(!display->contextList.size(),"gglDeleteDisplay: Not all context destroyed");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(126, 1, u'+   Assert(glxMajor == 1 && glxMinor >= 1,"GLXBind: Need GLX version 1.1 or greater");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 1, u'+#define VERTEX_BOUNDS_CHECK() AssertFatal( mCurVertIndex < mMaxVerts, "PrimBuilder encountered an out of bounds vertex! Break and debug!" );'), (48, 1, u'+#define VERTEX_SIZE_CHECK() AssertFatal( mCurVertIndex <= mMaxVerts, "PrimBuilder allocated more verts than you used! Break and debug or rendering artifacts could occur." );'), (63, 1, u'+   AssertFatal( type >= GFXPT_FIRST && type < GFXPT_COUNT, "PrimBuilder::end() - Bad primitive type!" );'), (73, 1, u'+   AssertFatal( type >= GFXPT_FIRST && type < GFXPT_COUNT, "PrimBuilder::end() - Bad primitive type!" );'), (143, 1, u'+   AssertFatal( mType >= GFXPT_FIRST && mType < GFXPT_COUNT, "PrimBuilder::end() - Bad primitive type!" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 1, u'+   AssertFatal(NumPrimitives == U32(mFloor(numIndices / 3.0f)), "Number of indicies not divisible by 3, not a good triangle list.");'), (58, 1, u'+         AssertFatal(curVIdx < numVerts, "Out of range index.");'), (85, 1, u'+#define _VALIDATE_TRI_IDX(idx) if(idx > -1) { AssertFatal(idx < NumPrimitives, "Out of range triangle index."); AssertFatal(!triangleData[idx].isInList, "Triangle already in list, bad."); }'), (99, 1, u'+         AssertFatal(curVIdx < numVerts, "Out of range index.");'), (141, 1, u'+      AssertFatal(nextBestTriIdx > -1, "Ran out of \'nextBestTriangle\' before I ran out of indices...not good.");'), (145, 1, u'+      AssertFatal(!nextBestTri.isInList, "Next best triangle already in list, this is no good.");'), (378, 1, u'+         AssertFatal(vertexData.cachePosition < MaxSizeVertexCache, "Out of range cache position for vertex");')]
+===========================================
+Class:  class VideoEncoderTheora : public VideoEncoder, public Thread { 
+Class:     class GuiEditorRuler : public GuiControl { 
+Class: class TerrainProcessActionEvent : public SimEvent { 
+Class: class PlaneRange { 
+Class:class SurfaceHash { 
+Class:  class InteriorPolytope { 
+Class:    class blInteriorProxy : public SceneLighting::ObjectProxy { 
+Class: class blTerrainProxy : public SceneLighting::ObjectProxy { 
+Class: class MatInstanceParameterHandle : public MaterialParameterHandle { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(202, 1, u'+           AssertISV(false, "SGUtil::clipToPlane: error in polygon clipper");'), (206, 1, u'+           AssertFatal(false, "SGUtil::clipToPlane: bad outcode");'), (214, 1, u'+   AssertFatal( numFinalPoints >= 3, avar("Error, this shouldn\'t happen!  Invalid winding in clipToPlane: %d", numFinalPoints ) );'), (219, 1, u'+   AssertISV( numFinalPoints <= 128, "MaxWindingPoints exceeded in scenegraph.  Fatal error.");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(307, 1, u'+   AssertFatal( &a != this && &b != this, "QuatF::mul: dest should not be same as source" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(218, 1, u'+   AssertFatal( up.isUnitLength(), "MathUtils::getMatrixFromUpVector() - Up vector was not normalized!" );'), (219, 1, u'+   AssertFatal( outMat, "MathUtils::getMatrixFromUpVector() - Got null output matrix!" );'), (220, 1, u'+   AssertFatal( outMat->isAffine(), "MathUtils::getMatrixFromUpVector() - Got uninitialized matrix!" );'), (237, 1, u'+   AssertFatal( forward.isUnitLength(), "MathUtils::getMatrixFromForwardVector() - Forward vector was not normalized!" );'), (238, 1, u'+   AssertFatal( outMat, "MathUtils::getMatrixFromForwardVector() - Got null output matrix!" );'), (239, 1, u'+   AssertFatal( outMat->isAffine(), "MathUtils::getMatrixFromForwardVector() - Got uninitialized matrix!" );'), (284, 1, u'+   AssertFatal( radius > 0.0f, "MathUtils::randomPointInRadius - radius must be positive" );'), (301, 1, u'+   AssertFatal( false, "MathUtils::randomPointInRadius - something is wrong, should not fail this many times." );'), (309, 1, u'+   AssertFatal( radius > 0.0f, "MathUtils::randomPointInRadius - radius must be positive" );'), (325, 1, u'+   AssertFatal( false, "MathUtils::randomPointInRadius - something is wrong, should not fail this many times." );'), (1565, 1, u'+   AssertFatal( vertices != NULL, "MathUtils::isPlanarPolygon - Received NULL pointer" );'), (1566, 1, u'+   AssertFatal( numVertices >= 3, "MathUtils::isPlanarPolygon - Must have at least three vertices" );'), (1597, 1, u'+   AssertFatal( vertices != NULL, "MathUtils::isConvexPolygon - Received NULL pointer" );'), (1598, 1, u'+   AssertFatal( numVertices >= 3, "MathUtils::isConvexPolygon - Must have at least three vertices" );'), (1640, 1, u'+   AssertFatal( numPoints <= MAX_INPUT_VERTICES, "MathUtils::clipFrustumByPolygon - Too many vertices!" );')]
+===========================================
+Class:  class PopUpNotifyRemoveEvent : public SimEvent { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(186, 1, u'+         AssertFatal( value->mIndex == mPushIndex, "index out of line" );'), (194, 1, u'+            AssertFatal( outValue->mIndex == mPopIndex, "index out of line" );')]
+===========================================
+Class:   class TestObject : public ThreadSafeRefCount< TestObject >    class TestObject : public ThreadSafeRefCount< TestObject >
+Class:    class TestThread : public Thread    {    
+Class: class ThreadTestHarness { 
+Class:     class PlatformThreadData { 
+Class:     class ExecuteCleanupEvent : public SimEvent { 
+Class:   class Win32FileSystemChangeNotifier : public FileSystemChangeNotifier    class Win32FileSystemChangeNotifier : public FileSystemChangeNotifier
+Class:class FileDialogOpaqueData 
+Class:     class PathManagerEvent : public NetEvent { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(147, 1, u'+   AssertFatal( SFXInternal::isSFXThread(), "SFXWrapAroundBuffer::write() - not on SFX thread" );')]
+===========================================
+Class:       class ConnectionMessageEvent : public NetEvent { 
+Class:     class NetDelayEvent : public SimEvent { 
+Class: class FileChunkEvent : public NetEvent { 
+Class: class GhostAlwaysObjectEvent : public NetEvent { 
+Class:    class MeshStreams { 
+Class:   class myErrorHandler : public daeErrorHandler { 
+Class: class MeshFit { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(149, 1, u'+         AssertFatal(dStricmp(className, walk->_className), "TestRegistry::TestRegistry - got two unit tests with identical class names; they must have unique class names!");')]
+===========================================
+Class:   class CachedInterfaceExampleComponent : public SimComponent { 
+Class:   class RuntimeRegisteredSimObject : public SimObject { 
+Class: class TestStruct { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(242, 1, u'+   AssertFatal( queue != NULL, "Dispatcher::dispatchMessage - Got a NULL queue name" );'), (243, 1, u'+   AssertFatal( msg != NULL, "Dispatcher::dispatchMessage - Got a NULL message" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(142, 1, u'+   AssertFatal(in_rRect.isValidRect(), "Inappropriate min/max coords for rectangle");')]
+===========================================
+Class:       class CSVSamplerBackend : public ISamplerBackend { 
+170
+Mismatch count:2307
+Normal count:29723

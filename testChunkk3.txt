@@ -1,0 +1,78 @@
+commit a4b7e0480178cda79f6dbd467367259159c08c0d
+Author: Chris Banes <chris@senab.co.uk>
+Date:   2013-06-01
+
+    Don't handle touch event if the ImageView doesn't have a Drawable set.
+    //try 1a1d
+	//catch 1a0d
+	
+	//try 0a0d
+	//catch 1a1d
+	
+	//try 0a1d
+	//catch 2a0d
+    Fix #51 and #57.
+
+diff --git a/library/src/uk/co/senab/photoview/PhotoViewAttacher.java b/library/src/uk/co/senab/photoview/PhotoViewAttacher.java
+index 7c22355..bf279a9 100644
+--- a/library/src/uk/co/senab/photoview/PhotoViewAttacher.java
++++ b/library/src/uk/co/senab/photoview/PhotoViewAttacher.java
+@@ -34,935 +34,931 @@ import roboguice.util.RoboAsyncTask;
+
+ public class AccountUtils {
+ 
+     
+     private static Account[] getAccounts(final AccountManager manager)
+             throws OperationCanceledException, AuthenticatorException,
+             IOException {
+         final AccountManagerFuture<Account[]> future = manager
+-                .getAccountsByTypeAndFeatures(ACCOUNT_TYPE, null, null,
+-                        null);
++                .getAccountsByTypeAndFeatures(ACCOUNT_TYPE, null, null, null);
+         final Account[] accounts = future.getResult();
+         return accounts != null ? accounts : new Account[0];
+     }
+ 
+     public static Account getAccount(final AccountManager manager,
+             final Activity activity) {
+         final boolean loggable = Log.isLoggable(TAG, DEBUG);
+         if (loggable)
+             Log.d(TAG, "Getting account");
+ 
+         if (activity == null)
+             throw new IllegalArgumentException("Activity cannot be null");
+ 
+         Account[] accounts;
+         try {
+             while ((accounts = getAccounts(manager)).length == 0) {
+                 if (loggable)
+                     Log.d(TAG, "No GitHub accounts for activity=" + activity);
+ 
+-                Bundle result = manager.addAccount(ACCOUNT_TYPE, null,
+-                        null, null, activity, null, null).getResult();
++                Bundle result = manager.addAccount(ACCOUNT_TYPE, null, null,
++                        null, activity, null, null).getResult();
+ 
+                 if (loggable)
+                     Log.d(TAG,
+                             "Added account "
+                                     + result.getString(KEY_ACCOUNT_NAME));
+             }
++        } catch (OperationCanceledException e) {
++            Log.d(TAG, "Excepting retrieving account", e);
++            activity.finish();
++            throw new RuntimeException(e);
+         } catch (AccountsException e) {
+             Log.d(TAG, "Excepting retrieving account", e);
+             throw new RuntimeException(e);
+         } catch (IOException e) {
+             Log.d(TAG, "Excepting retrieving account", e);
+             throw new RuntimeException(e);
+         }
+ 
+         if (loggable)
+             Log.d(TAG, "Returning account " + accounts[0].name);
+ 
+         return accounts[0];
+     }
+ }

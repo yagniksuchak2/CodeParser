@@ -1,0 +1,150 @@
+commit 000a8db802cfce58f64e4509690465cf8bfcd751
+Author: davi@mysql.com/endora.local <davi@mysql.com/endora.local>
+Date:   2008-03-25
+
+    Post-merge fixes for bug 35103
+    
+    Don't signal errors for the COM_STMT_SEND_LONG_DATA
+    and COM_STMT_CLOSE commands.
+    
+    --BZR--
+    revision-id: sp1r-davi@mysql.com/endora.local-20080325234820-10703
+    property-file-info: ld7:file_id67:sp1f-sql_prepare.cc-20020612210720-gtqjjiu7vpmfxb5xct2qke7urmqcabli7:message166:Move error signaling to the callers and out of the helper
+    property-file-info: functions because some prepared statements commands
+    property-file-info: don't signal errors (they won't send response packets).
+    property-file-info: 4:path18:sql/sql_prepare.ccee
+    property-sp1-file-info: ld9:commit_id67:davi@mysql.com/endora.local|sql/sql_prepare.cc|20080325234818|523277:file_id72:venu@myvenu.com|sql/sql_prepare.cc|20020612210720|11171|2a551088b1744452ee
+    testament3-sha1: 3032485f5a0f0686a5509cc3978843933337f1b0
+
+diff --git a/sql/sql_prepare.cc b/sql/sql_prepare.cc
+index c922b21..aea2c80 100644
+--- a/sql/sql_prepare.cc
++++ b/sql/sql_prepare.cc
+@@ -157,3 +157,3 @@ public:
+   inline void close_cursor() { delete cursor; cursor= 0; }
+-
++  inline bool is_in_use() { return flags & (uint) IS_IN_USE; }
+   bool prepare(const char *packet, uint packet_length);
+@@ -161,3 +161,3 @@ public:
+   /* Destroy this statement */
+-  bool deallocate();
++  void deallocate();
+ private:
+@@ -200,3 +200,3 @@ inline bool is_param_null(const uchar *pos, ulong param_no)
+ static Prepared_statement *
+-find_prepared_statement(THD *thd, ulong id, const char *where)
++find_prepared_statement(THD *thd, ulong id)
+ {
+@@ -210,8 +210,4 @@ find_prepared_statement(THD *thd, ulong id, const char *where)
+   if (stmt == 0 || stmt->type() != Query_arena::PREPARED_STATEMENT)
+-  {
+-    char llbuf[22];
+-    my_error(ER_UNKNOWN_STMT_HANDLER, MYF(0), sizeof(llbuf), llstr(id, llbuf),
+-             where);
+-    return 0;
+-  }
++    return NULL;
++
+   return (Prepared_statement *) stmt;
+@@ -2123,4 +2119,9 @@ void mysql_sql_stmt_prepare(THD *thd)
+     */
+-    if (stmt->deallocate())
++    if (stmt->is_in_use())
++    {
++      my_error(ER_PS_NO_RECURSION, MYF(0));
+       DBUG_VOID_RETURN;
++    }
++
++    stmt->deallocate();
+   }
+@@ -2322,4 +2323,9 @@ void mysql_stmt_execute(THD *thd, char *packet_arg, uint packet_length)
+ 
+-  if (!(stmt= find_prepared_statement(thd, stmt_id, "mysql_stmt_execute")))
++  if (!(stmt= find_prepared_statement(thd, stmt_id)))
++  {
++    char llbuf[22];
++    my_error(ER_UNKNOWN_STMT_HANDLER, MYF(0), sizeof(llbuf),
++             llstr(stmt_id, llbuf), "mysql_stmt_execute");
+     DBUG_VOID_RETURN;
++  }
+ 
+@@ -2460,4 +2466,9 @@ void mysql_stmt_fetch(THD *thd, char *packet, uint packet_length)
+   status_var_increment(thd->status_var.com_stmt_fetch);
+-  if (!(stmt= find_prepared_statement(thd, stmt_id, "mysql_stmt_fetch")))
++  if (!(stmt= find_prepared_statement(thd, stmt_id)))
++  {
++    char llbuf[22];
++    my_error(ER_UNKNOWN_STMT_HANDLER, MYF(0), sizeof(llbuf),
++             llstr(stmt_id, llbuf), "mysql_stmt_fetch");
+     DBUG_VOID_RETURN;
++  }
+ 
+@@ -2522,4 +2533,9 @@ void mysql_stmt_reset(THD *thd, char *packet)
+   status_var_increment(thd->status_var.com_stmt_reset);
+-  if (!(stmt= find_prepared_statement(thd, stmt_id, "mysql_stmt_reset")))
++  if (!(stmt= find_prepared_statement(thd, stmt_id)))
++  {
++    char llbuf[22];
++    my_error(ER_UNKNOWN_STMT_HANDLER, MYF(0), sizeof(llbuf),
++             llstr(stmt_id, llbuf), "mysql_stmt_reset");
+     DBUG_VOID_RETURN;
++  }
+ 
+@@ -2559,3 +2575,3 @@ void mysql_stmt_close(THD *thd, char *packet)
+ 
+-  if (!(stmt= find_prepared_statement(thd, stmt_id, "mysql_stmt_close")))
++  if (!(stmt= find_prepared_statement(thd, stmt_id)))
+     DBUG_VOID_RETURN;
+@@ -2566,4 +2582,4 @@ void mysql_stmt_close(THD *thd, char *packet)
+   */
+-  DBUG_ASSERT(! (stmt->flags & (uint) Prepared_statement::IS_IN_USE));
+-  (void) stmt->deallocate();
++  DBUG_ASSERT(! stmt->is_in_use());
++  stmt->deallocate();
+   general_log_print(thd, thd->command, NullS);
+@@ -2594,10 +2610,11 @@ void mysql_sql_stmt_close(THD *thd)
+   if (! (stmt= (Prepared_statement*) thd->stmt_map.find_by_name(name)))
+-  {
+     my_error(ER_UNKNOWN_STMT_HANDLER, MYF(0),
+              name->length, name->str, "DEALLOCATE PREPARE");
+-    return;
+-  }
+-
+-  if (stmt->deallocate() == 0)
++  else if (stmt->is_in_use())
++    my_error(ER_PS_NO_RECURSION, MYF(0));
++  else
++  {
++    stmt->deallocate();
+     my_ok(thd);
++  }
+ }
+@@ -2635,6 +2652,3 @@ void mysql_stmt_get_longdata(THD *thd, char *packet, ulong packet_length)
+   if (packet_length < MYSQL_LONG_DATA_HEADER)
+-  {
+-    my_error(ER_WRONG_ARGUMENTS, MYF(0), "mysql_stmt_send_long_data");
+     DBUG_VOID_RETURN;
+-  }
+ #endif
+@@ -2644,4 +2658,3 @@ void mysql_stmt_get_longdata(THD *thd, char *packet, ulong packet_length)
+ 
+-  if (!(stmt=find_prepared_statement(thd, stmt_id,
+-                                     "mysql_stmt_send_long_data")))
++  if (!(stmt=find_prepared_statement(thd, stmt_id)))
+     DBUG_VOID_RETURN;
+@@ -3188,3 +3201,3 @@ error:
+ 
+-bool Prepared_statement::deallocate()
++void Prepared_statement::deallocate()
+ {
+@@ -3192,10 +3205,4 @@ bool Prepared_statement::deallocate()
+   status_var_increment(thd->status_var.com_stmt_close);
+-  if (flags & (uint) IS_IN_USE)
+-  {
+-    my_error(ER_PS_NO_RECURSION, MYF(0));
+-    return TRUE;
+-  }
+   /* Statement map calls delete stmt on erase */
+   thd->stmt_map.erase(this);
+-  return FALSE;
+ }

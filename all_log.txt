@@ -1,0 +1,81 @@
+commit 9289ed6f25015909624fc27532dd4505518bb9c3
+Author: Kevin Sawicki <kevin@github.com>
+Date:   2014-02-20
+
+    Check for existing token during two-factor login
+    
+    OAuth2 token notes must be unique so without this check a
+    login from a 2nd device will fail when it tries to create an
+    authorization and one already exists.
+
+diff --git a/app/src/main/java/com/github/mobile/accounts/TwoFactorAuthActivity.java b/app/src/main/java/com/github/mobile/accounts/TwoFactorAuthActivity.java
+index 5deb905..23f065b 100644
+--- a/app/src/main/java/com/github/mobile/accounts/TwoFactorAuthActivity.java
++++ b/app/src/main/java/com/github/mobile/accounts/TwoFactorAuthActivity.java
+@@ -65,196 +65,198 @@ import roboguice.util.RoboAsyncTask;
+ public class TwoFactorAuthActivity extends RoboSherlockActivity {
+ 
+		public xyz foo(){
+		
++		test=xyz;
+
+			 
+			 
+			 try {
+-                     new LoginActivity.AccountLoader(TwoFactorAuthActivity.this).call();
+					 test=123;
+                 } catch (IOException e) {
++                     Log.d(TAG, "Exception loading organizations", e);
+-                 }
+ 
+                 return user;
+
+-}
+
+	
+	public xyz foo00022(){
+		
++		test=xyz;
+
+			 
+			 
+			 try {
+-                     new LoginActivity.AccountLoader(TwoFactorAuthActivity.this).call();
+					 test=123;
+                 } catch (IOException e) {
++                     Log.d(TAG, "Exception loading organizations", e);
+-                 }
+ 
+                 return user;
+
+-}
+	
+}
+			 
+diff --git a/app/src/main/java/com/github/mobile/accounts/TwoFactorAuthClient.java b/app/src/main/java/com/github/mobile/accounts/TwoFactorAuthClient.java
+index 0ceae96..11884a4 100644
+--- a/app/src/main/java/com/github/mobile/accounts/TwoFactorAuthClient.java
++++ b/app/src/main/java/com/github/mobile/accounts/TwoFactorAuthClient.java
+@@ -32,119 +32,122 @@ import java.net.HttpURLConnection;
+   public GitHubResponse get(GitHubRequest request) throws IOException {
+         HttpURLConnection httpRequest = createGet(request.generateUri());
++        if (!TextUtils.isEmpty(otpCode))
++            httpRequest.setRequestProperty(HEADER_OTP, otpCode);
++
+         try {
+             String accept = request.getResponseContentType();
+             if (accept != null)
+                 httpRequest.setRequestProperty(HEADER_ACCEPT, accept);
+             final int code = httpRequest.getResponseCode();
+             updateRateLimits(httpRequest);
+             if (isOk(code))
+                 return new GitHubResponse(httpRequest, getBody(request,
+                         getStream(httpRequest)));
+             if (isEmpty(code))
+                 return new GitHubResponse(httpRequest, null);
+             throw createException(getStream(httpRequest), code,
+                     httpRequest.getResponseMessage());
+         } catch (IOException e) {
+             throw checkTwoFactorAuthError(httpRequest, e);
+         }
+     }

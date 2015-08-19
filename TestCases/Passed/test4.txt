@@ -1,0 +1,326 @@
+commit 9289ed6f25015909624fc27532dd4505518bb9c3
+Author: Kevin Sawicki <kevin@github.com>
+import roboguice.util.RoboAsyncTask;
+ public class TwoFactorAuthActivity extends RoboSherlockActivity {
+ 
+     /**
+      * Create intent to enter two-factor authentication code
+      *
+      * @param username
+      * @param password
+      * @return
+      */
+     public static Intent createIntent(Context context, String username, String password) {
+         Intent intent = new Intent(context, TwoFactorAuthActivity.class);
+         intent.putExtra(PARAM_USERNAME, username);
+         intent.putExtra(PARAM_PASSWORD, password);
+         return intent;
+     }
+ 
+     /**
+      * Exception sent back to calling Activity
+      */
+     public static final String PARAM_EXCEPTION = "exception";
+ 
+     /**
+      * User name entered in login screen
+      */
+     public static final String PARAM_USERNAME = "username";
+ 
+     /**
+      * Password entered in login screen
+      */
+     public static final String PARAM_PASSWORD = "password";
+ 
+     private static final String TAG = "TwoFactorAuthActivity";
+ 
+     private AccountManager accountManager;
+ 
+     private EditText otpCodeText;
+ 
+     private RoboAsyncTask<User> authenticationTask;
+ 
+     private MenuItem loginItem;
+ 
+     private String username;
+ 
+     private String password;
+ 
+     @Override
+     protected void onCreate(Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
+ 
+         setContentView(layout.login_two_factor_auth);
+ 
+         accountManager = AccountManager.get(this);
+ 
+         ViewFinder finder = new ViewFinder(this);
+         otpCodeText = finder.find(id.et_otp_code);
+ 
+         final Intent intent = getIntent();
+         username = intent.getStringExtra(PARAM_USERNAME);
+         password = intent.getStringExtra(PARAM_PASSWORD);
+ 
+         TextView signupText = finder.find(id.tv_signup);
+         signupText.setMovementMethod(LinkMovementMethod.getInstance());
+         signupText.setText(Html.fromHtml(getString(string.signup_link_two_factor_auth)));
+ 
+         TextWatcher watcher = new TextWatcherAdapter() {
+ 
+             @Override
+             public void afterTextChanged(Editable gitDirEditText) {
+                 updateEnablement();
+             }
+         };
+         otpCodeText.addTextChangedListener(watcher);
+ 
+         otpCodeText.setOnKeyListener(new View.OnKeyListener() {
+ 
+             @Override
+             public boolean onKey(View v, int keyCode, KeyEvent event) {
+                 if (event != null && ACTION_DOWN == event.getAction()
+                         && keyCode == KEYCODE_ENTER && loginEnabled()) {
+                     handleLogin();
+                     return true;
+                 } else
+                     return false;
+             }
+         });
+ 
+         otpCodeText.setOnEditorActionListener(new TextView.OnEditorActionListener() {
+ 
+             @Override
+             public boolean onEditorAction(TextView v, int actionId,
+                     KeyEvent event) {
+                 if (actionId == IME_ACTION_DONE && loginEnabled()) {
+                     handleLogin();
+                     return true;
+                 }
+                 return false;
+             }
+         });
+     }
+ 
+     @Override
+     protected void onResume() {
+         super.onResume();
+         updateEnablement();
+     }
+ 
+     private boolean loginEnabled() {
+         Editable otpCode = otpCodeText.getText();
+         return !TextUtils.isEmpty(otpCode) && otpCode.length() == 6;
+     }
+ 
+     private void updateEnablement() {
+         if (loginItem != null)
+             loginItem.setEnabled(loginEnabled());
+     }
+ 
+     @Override
+     public boolean onOptionsItemSelected(MenuItem item) {
+         switch (item.getItemId()) {
+             case id.m_login:
+                 handleLogin();
+                 return true;
+             default:
+                 return super.onOptionsItemSelected(item);
+         }
+     }
+ 
+     @Override
+     public boolean onCreateOptionsMenu(Menu optionsMenu) {
+         getSupportMenuInflater().inflate(menu.login, optionsMenu);
+         loginItem = optionsMenu.findItem(id.m_login);
+         return true;
+     }
+ 
+     private void handleLogin() {
+         final String otpCode = otpCodeText.getText().toString();
+ 
+         final AlertDialog dialog = LightProgressDialog.create(this,
+                 string.login_activity_authenticating);
+         dialog.setCancelable(true);
+         dialog.setOnCancelListener(new OnCancelListener() {
+ 
+             @Override
+             public void onCancel(DialogInterface dialog) {
+                 if (authenticationTask != null)
+                     authenticationTask.cancel(true);
+             }
+         });
+         dialog.show();
+ 
+         authenticationTask = new RoboAsyncTask<User>(this) {
+ 
+             @Override
+             public User call() throws Exception {
+                 TwoFactorAuthClient client = new TwoFactorAuthClient();
+                 client.setCredentials(username, password);
+                 client.setOtpCode(otpCode);
+ 
+                 OAuthService service = new OAuthService(client);
+-                String authToken = AccountAuthenticator.createAuthorization(service);
++                String authToken = AccountAuthenticator.getAuthorization(service);
++                if (authToken == null)
++                  authToken = AccountAuthenticator.createAuthorization(service);
+                 client.setOAuth2Token(authToken);
+ 
+                 User user = new UserService(client).getUser();
+                 Account account = new Account(user.getLogin(), ACCOUNT_TYPE);
+                 accountManager.addAccountExplicitly(account, password, null);
+                 accountManager.setAuthToken(account, ACCOUNT_TYPE, authToken);
+ 
+                 configureSyncFor(account);
+                 try {
+                     new LoginActivity.AccountLoader(TwoFactorAuthActivity.this).call();
+                 } catch (IOException e) {
+                     Log.d(TAG, "Exception loading organizations", e);
+                 }
+ 
+                 return user;
+             }
+ 
+             @Override
+             protected void onException(Exception e) throws RuntimeException {
+                 dialog.dismiss();
+ 
+                 Log.d(TAG, "Exception requesting handling two-factor authentication", e);
+                 setResult(RESULT_CANCELED, new Intent().putExtra(PARAM_EXCEPTION, e));
+                 finish();
+             }
+ 
+             @Override
+             public void onSuccess(User user) {
+                 dialog.dismiss();
+                 setResult(RESULT_OK);
+                 finish();
+             }
+         };
+         authenticationTask.execute();
+     }
+ }
+
+ import java.net.HttpURLConnection;
+ public class TwoFactorAuthClient extends DefaultClient {
+ 
+     /**
+      * Two-factor authentication code header
+      */
+     protected static final String HEADER_OTP = "X-GitHub-OTP";
+ 
+     /**
+      * Two-factor authentication type by application
+      */
+     public static final int TWO_FACTOR_AUTH_TYPE_APP = 1001;
+ 
+     /**
+      * Two-factor authentication type by sms
+      */
+     public static final int TWO_FACTOR_AUTH_TYPE_SMS = 1002;
+ 
+     private String otpCode;
+ 
+     public TwoFactorAuthClient() {
+         super();
+     }
+ 
+     /**
+      * Set OTP code which will be added to POST requests
+      *
+      * @param otpCode
+      */
+     public void setOtpCode(String otpCode) {
+         this.otpCode = otpCode;
+     }
+ 
+     /**
+      * Get response from URI and bind to specified type
+      *
+      * @param request
+      * @return response
+      * @throws java.io.IOException
+      */
+     @Override
+     public GitHubResponse get(GitHubRequest request) throws IOException {
+         HttpURLConnection httpRequest = createGet(request.generateUri());
++        if (!TextUtils.isEmpty(otpCode))
++            httpRequest.setRequestProperty(HEADER_OTP, otpCode);
++
+         try {
+             String accept = request.getResponseContentType();
+             if (accept != null)
+                 httpRequest.setRequestProperty(HEADER_ACCEPT, accept);
+             final int code = httpRequest.getResponseCode();
+             updateRateLimits(httpRequest);
+             if (isOk(code))
+                 return new GitHubResponse(httpRequest, getBody(request,
+                         getStream(httpRequest)));
+             if (isEmpty(code))
+                 return new GitHubResponse(httpRequest, null);
+             throw createException(getStream(httpRequest), code,
+                     httpRequest.getResponseMessage());
+         } catch (IOException e) {
+             throw checkTwoFactorAuthError(httpRequest, e);
+         }
+     }
+ 
+     /**
+      * Post data to URI
+      *
+      * @param <V>
+      * @param uri
+      * @param params
+      * @param type
+      * @return response
+      * @throws IOException
+      */
+     @Override
+     public <V> V post(final String uri, final Object params, final Type type)
+             throws IOException {
+         HttpURLConnection request = createPost(uri);
+         if (!TextUtils.isEmpty(otpCode))
+             request.setRequestProperty(HEADER_OTP, otpCode);
+ 
+         try {
+             return sendJson(request, params, type);
+         } catch (IOException e) {
+             throw checkTwoFactorAuthError(request, e);
+         }
+     }
+ 
+     private IOException checkTwoFactorAuthError(HttpURLConnection request, IOException e) throws IOException {
+         String otpHeader = request.getHeaderField(HEADER_OTP);
+         if (!TextUtils.isEmpty(otpHeader) && otpHeader.contains("required"))
+             return createTwoFactorAuthException(e, otpHeader);
+         else
+             return e;
+     }
+ 
+     private TwoFactorAuthException createTwoFactorAuthException(
+             IOException cause, String otpHeader) {
+         int twoFactorAuthType = -1;
+         if (otpHeader.contains("app"))
+             twoFactorAuthType = TWO_FACTOR_AUTH_TYPE_APP;
+         else if (otpHeader.contains("sms"))
+             twoFactorAuthType = TWO_FACTOR_AUTH_TYPE_SMS;
+ 
+         return new TwoFactorAuthException(cause, twoFactorAuthType);
+     }
+ 
+     private <V> V sendJson(final HttpURLConnection request,
+            final Object params, final Type type) throws IOException {
+         sendParams(request, params);
+         final int code = request.getResponseCode();
+         updateRateLimits(request);
+         if (isOk(code))
+             if (type != null)
+                 return parseJson(getStream(request), type);
+             else
+                 return null;
+         if (isEmpty(code))
+             return null;
+         throw createException(getStream(request), code,
+                 request.getResponseMessage());
+     }
+ }

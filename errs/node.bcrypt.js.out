@@ -1,0 +1,9 @@
+projects/top_C++/node.bcrypt.js
+Going to process projects/top_C++/node.bcrypt.js/all_log.txt 
+---------- node.bcrypt.js ------------
+
+Class:class BCrypt : public ObjectWrap { class BCrypt : public ObjectWrap 
+Class: class BCrypt : public ObjectWrap { class BCrypt : public ObjectWrap 
+49
+Mismatch count:14985
+Normal count:458626

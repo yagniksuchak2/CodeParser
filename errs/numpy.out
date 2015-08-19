@@ -1,0 +1,1200 @@
+projects/top_C/numpy
+Going to process projects/top_C/numpy/all_log.txt 
+---------- numpy ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(156, 2, u'-    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);'), (164, 2, u'-    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 176
+Header: ufunc_frompyfunc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(156, 2, u'-    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);'), (164, 2, u'-    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(156, 2, u'-    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);'), (164, 2, u'-    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: InitOtherOperators
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: InitOtherOperators
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(sizeof(blank_data) / sizeof(blank_data[0]) >= num);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(dims != NULL || (nd == 0));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: PyArray_NewFromDescr_int
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(dims != NULL || (nd == 0));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(dims != NULL || (nd == 0));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(dims != NULL || (nd == 0));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: PyArray_NewFromDescr_int
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(dims != NULL || (nd == 0));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(dims != NULL || (nd == 0));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 22
+Total del: 0
+Header: *__pyx_pf_6mtrand_11RandomState_10randint
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 7
+Total del: 16
+Header: *__pyx_pf_6mtrand_11RandomState_10randint
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 0
+Total del: 22
+Header: *__pyx_pf_6mtrand_11RandomState_20randint
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 16
+Total del: 7
+Header: *__pyx_pw_6mtrand_11RandomState_23bytes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 22
+Total del: 0
+Header: *__pyx_pf_6mtrand_11RandomState_10randint
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 1
+Total del: 10
+Header: *__pyx_pf_6mtrand_11RandomState_11bytes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_AssertWithArg(x,errortype,errorstr,a1) \\')]
+===========================================
+===========================================
+Total add: 0
+Total del: 8
+Header: NPY_NO_EXPORT char *_datetime_strings[] = {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_AssertWithArg(x,errortype,errorstr,a1) \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_AssertWithArg(x,errortype,errorstr,a1) \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_AssertWithArg(x,errortype,errorstr,a1) {if (!(x)) {PyErr_Format(errortype,errorstr,a1);goto onError;}}'), (3, 1, u'+#define Py_AssertWithArg(x,errortype,errorstr,a1) \\')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: typedef struct {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_AssertWithArg(x,errortype,errorstr,a1) {if (!(x)) {PyErr_Format(errortype,errorstr,a1);goto onError;}}'), (3, 1, u'+#define Py_AssertWithArg(x,errortype,errorstr,a1) \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_AssertWithArg(x,errortype,errorstr,a1) {if (!(x)) {PyErr_Format(errortype,errorstr,a1);goto onError;}}'), (3, 1, u'+#define Py_AssertWithArg(x,errortype,errorstr,a1) \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    Py_AssertWithArg(year > -(INT_MAX / 366) && year < (INT_MAX / 366),')]
+===========================================
+===========================================
+Total add: 1
+Total del: 7
+Header: absdays_from_ymd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    Py_AssertWithArg(year > -(INT_MAX / 366) && year < (INT_MAX / 366),')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    Py_AssertWithArg(year > -(INT_MAX / 366) && year < (INT_MAX / 366),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    Py_AssertWithArg(hour >=0 && hour <= 23,'), (18, 1, u'+    Py_AssertWithArg(minute >=0 && minute <= 59,'), (23, 1, u'+    Py_AssertWithArg(second >=0 && second <= 59,')]
+===========================================
+===========================================
+Total add: 24
+Total del: 6
+Header: absdays_from_ymd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    Py_AssertWithArg(hour >=0 && hour <= 23,'), (18, 1, u'+    Py_AssertWithArg(minute >=0 && minute <= 59,'), (23, 1, u'+    Py_AssertWithArg(second >=0 && second <= 59,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    Py_AssertWithArg(hour >=0 && hour <= 23,'), (18, 1, u'+    Py_AssertWithArg(minute >=0 && minute <= 59,'), (23, 1, u'+    Py_AssertWithArg(second >=0 && second <= 59,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 1, u'+            assert(PyArray_EquivArrTypes(x->ao, fill) == NPY_TRUE);')]
+===========================================
+===========================================
+Total add: 26
+Total del: 30
+Header: PyArray_NeighborhoodIterNew
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 1, u'+            assert(PyArray_EquivArrTypes(x->ao, fill) == NPY_TRUE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 1, u'+            assert(PyArray_EquivArrTypes(x->ao, fill) == NPY_TRUE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-#define Py_Assert(BOOLEAN,MESS) {if (!(BOOLEAN)) {      \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 2, u'-    Py_Assert(numbers[mni] >= 0,')]
+===========================================
+===========================================
+Total add: 14
+Total del: 7
+Header: arr_bincount
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 2, u'-    Py_Assert(numbers[mni] >= 0,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 2, u'-    Py_Assert(numbers[mni] >= 0,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        Py_Assert(PyArray_SIZE(wts) == len,')]
+===========================================
+===========================================
+Total add: 11
+Total del: 5
+Header: arr_bincount
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        Py_Assert(PyArray_SIZE(wts) == len,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        Py_Assert(PyArray_SIZE(wts) == len,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    Py_Assert(lx > 0 && lbins > 0,')]
+===========================================
+===========================================
+Total add: 8
+Total del: 3
+Header: arr_digitize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    Py_Assert(lx > 0 && lbins > 0,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    Py_Assert(lx > 0 && lbins > 0,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: arr_digitize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+            Py_Assert(0, "bins must be montonically increasing or decreasing");'), (34, 2, u'-        else Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+Total add: 16
+Total del: 9
+Header: arr_digitize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+            Py_Assert(0, "bins must be montonically increasing or decreasing");'), (34, 2, u'-        else Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+            Py_Assert(0, "bins must be montonically increasing or decreasing");'), (34, 2, u'-        else Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 16
+Total del: 5
+Header: *__pyx_f_6mtrand_11RandomState_bytes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 2, u'-\t\t\tassert(extra_zeros_cnt >= 0);'), (104, 1, u'+            assert(extra_zeros_cnt >= 0);')]
+===========================================
+===========================================
+Total add: 57
+Total del: 60
+Header: as necessary to represent the exponent.
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 2, u'-\t\t\tassert(extra_zeros_cnt >= 0);'), (104, 1, u'+            assert(extra_zeros_cnt >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 2, u'-\t\t\tassert(extra_zeros_cnt >= 0);'), (104, 1, u'+            assert(extra_zeros_cnt >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 5
+Total del: 16
+Header: *__pyx_pf_6mtrand_11RandomState_bytes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Total add: 16
+Total del: 5
+Header: *__pyx_f_6mtrand_11RandomState_bytes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(__pyx_arg_length); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        Py_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\'), (4, 1, u'+        Py_Assert(PyArray_SIZE(wts) == len,')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: arr_bincount
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        Py_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\'), (4, 1, u'+        Py_Assert(PyArray_SIZE(wts) == len,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        Py_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\'), (4, 1, u'+        Py_Assert(PyArray_SIZE(wts) == len,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_Assert(BOOLEAN,MESS) {if (!(BOOLEAN)) {\t\t\t\\'), (5, 1, u'+#define Py_Assert(BOOLEAN,MESS) {if (!(BOOLEAN)) {      \\')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: static PyObject *ErrorObject;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_Assert(BOOLEAN,MESS) {if (!(BOOLEAN)) {\t\t\t\\'), (5, 1, u'+#define Py_Assert(BOOLEAN,MESS) {if (!(BOOLEAN)) {      \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#define Py_Assert(BOOLEAN,MESS) {if (!(BOOLEAN)) {\t\t\t\\'), (5, 1, u'+#define Py_Assert(BOOLEAN,MESS) {if (!(BOOLEAN)) {      \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    Py_Assert(numbers[mni] >= 0,'), (4, 1, u'+    Py_Assert(numbers[mni] >= 0,')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: arr_bincount
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    Py_Assert(numbers[mni] >= 0,'), (4, 1, u'+    Py_Assert(numbers[mni] >= 0,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    Py_Assert(numbers[mni] >= 0,'), (4, 1, u'+    Py_Assert(numbers[mni] >= 0,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-\tPy_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\'), (30, 1, u'+        Py_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\')]
+===========================================
+===========================================
+Total add: 18
+Total del: 18
+Header: arr_bincount
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-\tPy_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\'), (30, 1, u'+        Py_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-\tPy_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\'), (30, 1, u'+        Py_Assert(PyArray_SIZE(wts) == len, "bincount: length of weights " \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    Py_Assert(lx > 0 && lbins > 0,'), (5, 1, u'+    Py_Assert(lx > 0 && lbins > 0,')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: arr_digitize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    Py_Assert(lx > 0 && lbins > 0,'), (5, 1, u'+    Py_Assert(lx > 0 && lbins > 0,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    Py_Assert(lx > 0 && lbins > 0,'), (5, 1, u'+    Py_Assert(lx > 0 && lbins > 0,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(101, 2, u'-      if (assertFailMode == false)')]
+===========================================
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, typename T_numtype1, typename T_array2,     class T_stencil, typename T_numtype1, typename T_array2,
+Class:    class T_array3, typename T_array4, typename T_array5, typename T_array6,     class T_array7, typename T_array8, typename T_array9, typename T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, typename T_numtype1, typename T_array2,     class T_stencil, typename T_numtype1, typename T_array2,
+Class:    class T_array3, typename T_array4, typename T_array5, typename T_array6,     class T_array7, typename T_array8, typename T_array9, typename T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>&,     T_array2&, T_array3&, T_array4&, T_array5&, T_array6&,     T_array7&, T_array8&, T_array9&, T_array10&, T_array11&) { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(134, 2, u'-    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(251, 2, u'-    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      if (assertFailMode == _bz_false)'), (3, 1, u'+      if (assertFailMode == false)')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: N_rank>::evaluate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      if (assertFailMode == _bz_false)'), (3, 1, u'+      if (assertFailMode == false)')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      if (assertFailMode == _bz_false)'), (3, 1, u'+      if (assertFailMode == false)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        else Py_Assert(0, "bins must be montonic increasing or decreasing..");'), (3, 1, u'+        else Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: arr_digitize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        else Py_Assert(0, "bins must be montonic increasing or decreasing..");'), (3, 1, u'+        else Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        else Py_Assert(0, "bins must be montonic increasing or decreasing..");'), (3, 1, u'+        else Py_Assert(0, "bins must be montonically increasing or decreasing");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(190, 1, u'+      if (assertFailMode == _bz_false)')]
+===========================================
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(197, 1, u'+    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(319, 1, u'+    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(190, 2, u'-      if (assertFailMode == _bz_false)')]
+===========================================
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(197, 2, u'-    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(319, 2, u'-    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(190, 2, u'-      if (assertFailMode == _bz_false)')]
+===========================================
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(197, 2, u'-    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(319, 2, u'-    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(190, 1, u'+      if (assertFailMode == _bz_false)')]
+===========================================
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(197, 1, u'+    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(319, 1, u'+    assert(ofs.good());')]
+===========================================
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u'+      if (assertFailMode == _bz_false)')]
+===========================================
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+Class:    class T_stencil, class T_numtype1, class T_array2,     class T_stencil, class T_numtype1, class T_array2,
+Class:    class T_array3, class T_array4, class T_array5, class T_array6,     class T_array7, class T_array8, class T_array9, class T_array10,     class T_array11> static inline void getStencilExtent(TinyVector<int,N_rank>& minb,     TinyVector<int,N_rank>& maxb,     const T_stencil& stencil, Array<T_numtype1,N_rank>& A,     T_array2& B, T_array3& C, T_array4& D, T_array5& E, T_array6& F,     T_array7& G, T_array8& H, T_array9& I, T_array10& J, T_array11& K) { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(155, 1, u'+    assert(ofs.good());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(278, 1, u'+    assert(ofs.good());')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+3029
+Mismatch count:120318
+Normal count:2265533

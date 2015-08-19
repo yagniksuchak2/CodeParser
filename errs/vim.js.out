@@ -1,0 +1,9 @@
+projects/top_C/vim.js
+Going to process projects/top_C/vim.js/all_log.txt 
+---------- vim.js ------------
+
+Class:     class CMainDialog : public CDialog { 
+Class:   class CVimCF : public IClassFactory { 
+50
+Mismatch count:129909
+Normal count:2835544

@@ -1,0 +1,187 @@
+projects/top_C/firmware
+Going to process projects/top_C/firmware/all_log.txt 
+---------- firmware ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+      if (FT_Get_Kerning(font->ft_face, prev_glyph_index, peek_glyph_index, FT_KERNING_DEFAULT, &kern)) assert(0);')]
+===========================================
+===========================================
+Total add: 35
+Total del: 3
+Header: draw_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+      if (FT_Get_Kerning(font->ft_face, prev_glyph_index, peek_glyph_index, FT_KERNING_DEFAULT, &kern)) assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+      if (FT_Get_Kerning(font->ft_face, prev_glyph_index, peek_glyph_index, FT_KERNING_DEFAULT, &kern)) assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+      if (FT_Get_Kerning(font->ft_face, prev_glyph_index, peek_glyph_index, FT_KERNING_DEFAULT, &kern)) assert(0);')]
+===========================================
+===========================================
+Total add: 35
+Total del: 3
+Header: draw_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+      if (FT_Get_Kerning(font->ft_face, prev_glyph_index, peek_glyph_index, FT_KERNING_DEFAULT, &kern)) assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+      if (FT_Get_Kerning(font->ft_face, prev_glyph_index, peek_glyph_index, FT_KERNING_DEFAULT, &kern)) assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-         assert(error == OMX_ErrorNone);'), (7, 1, u'+         assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: audioplay_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-         assert(error == OMX_ErrorNone);'), (7, 1, u'+         assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-         assert(error == OMX_ErrorNone);'), (7, 1, u'+         assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-      assert(error == OMX_ErrorNone);'), (6, 1, u'+      assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: audioplay_play_buffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-      assert(error == OMX_ErrorNone);'), (6, 1, u'+      assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-      assert(error == OMX_ErrorNone);'), (6, 1, u'+      assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-         assert(error == OMX_ErrorNone);'), (7, 1, u'+         assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: audioplay_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-         assert(error == OMX_ErrorNone);'), (7, 1, u'+         assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-         assert(error == OMX_ErrorNone);'), (7, 1, u'+         assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-      assert(error == OMX_ErrorNone);'), (6, 1, u'+      assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: audioplay_play_buffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-      assert(error == OMX_ErrorNone);'), (6, 1, u'+      assert(error == OMX_ErrorNone);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-      assert(error == OMX_ErrorNone);'), (6, 1, u'+      assert(error == OMX_ErrorNone);')]
+===========================================
+29
+Mismatch count:18766
+Normal count:631211

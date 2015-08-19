@@ -1,0 +1,9 @@
+projects/top_C++/darner
+Going to process projects/top_C++/darner/all_log.txt 
+---------- darner ------------
+
+Class: class session : public enable_shared_from_this<session> { 
+Class: class event_loop { 
+95
+Mismatch count:24826
+Normal count:425576

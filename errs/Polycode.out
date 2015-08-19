@@ -1,0 +1,213 @@
+projects/top_C++/Polycode
+Going to process projects/top_C++/Polycode/all_log.txt 
+---------- Polycode ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(939, 2, u'-#define MZ_ASSERT(x) assert(x)'), (1907, 2, u'-  mz_uint bits = b; mz_uint len = l; MZ_ASSERT(bits <= ((1U << len) - 1U)); \\'), (1992, 2, u'-    mz_uint code = packed_code_sizes[packed_code_sizes_index++]; MZ_ASSERT(code < TDEFL_MAX_HUFF_SYMBOLS_2);'), (2041, 2, u'-      MZ_ASSERT(d->m_huff_code_sizes[0][s_tdefl_len_sym[match_len]]);'), (2053, 2, u'-      MZ_ASSERT(d->m_huff_code_sizes[1][sym]);'), (2060, 2, u'-      MZ_ASSERT(d->m_huff_code_sizes[0][lit]);'), (2067, 2, u'-        MZ_ASSERT(d->m_huff_code_sizes[0][lit]);'), (2074, 2, u'-          MZ_ASSERT(d->m_huff_code_sizes[0][lit]);'), (2123, 2, u'-      MZ_ASSERT(d->m_huff_code_sizes[0][s_tdefl_len_sym[match_len]]);'), (2135, 2, u'-      MZ_ASSERT(d->m_huff_code_sizes[1][sym]);'), (2142, 2, u'-      MZ_ASSERT(d->m_huff_code_sizes[0][lit]);'), (2173, 2, u'-  MZ_ASSERT(!d->m_output_flush_remaining);'), (2228, 2, u'-  MZ_ASSERT(d->m_pOutput_buf < d->m_pOutput_buf_end);'), (2271, 2, u'-  MZ_ASSERT(max_match_len <= TDEFL_MAX_MATCH_LEN); if (max_match_len <= match_len) return;'), (2305, 2, u'-  MZ_ASSERT(max_match_len <= TDEFL_MAX_MATCH_LEN); if (max_match_len <= match_len) return;'), (2390, 2, u'-          MZ_ASSERT((cur_match_len >= TDEFL_MIN_MATCH_LEN) && (cur_match_dist >= 1) && (cur_match_dist <= TDEFL_LZ_DICT_SIZE));'), (2419, 2, u'-      MZ_ASSERT(lookahead_size >= cur_match_len);'), (2479, 2, u'-  MZ_ASSERT((match_len >= TDEFL_MIN_MATCH_LEN) && (match_dist >= 1) && (match_dist <= TDEFL_LZ_DICT_SIZE));'), (2597, 2, u'-    MZ_ASSERT(d->m_lookahead_size >= len_to_move);'), (2694, 2, u'-  MZ_ASSERT(d->m_pPut_buf_func); return tdefl_compress(d, pIn_buf, &in_buf_size, NULL, NULL, flush);'), (2998, 2, u'-  void *pNew_p; size_t new_capacity = min_new_capacity; MZ_ASSERT(pArray->m_element_size); if (pArray->m_capacity >= min_new_capacity) return MZ_TRUE;'), (4332, 2, u'-  if (pZip->m_file_offset_alignment) { MZ_ASSERT((local_dir_header_ofs & (pZip->m_file_offset_alignment - 1)) == 0); }'), (4467, 2, u'-  if (pZip->m_file_offset_alignment) { MZ_ASSERT((local_dir_header_ofs & (pZip->m_file_offset_alignment - 1)) == 0); }'), (4626, 2, u'-  if (pZip->m_file_offset_alignment) { MZ_ASSERT((local_dir_header_ofs & (pZip->m_file_offset_alignment - 1)) == 0); }')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert (fromIndex >= 0 && fromIndex < tPoints.size() &&')]
+===========================================
+===========================================
+Total add: 22
+Total del: 108
+Header: QuaternionCurve::generatePointsFromCurves
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert (fromIndex >= 0 && fromIndex < tPoints.size() &&')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert (fromIndex >= 0 && fromIndex < tPoints.size() &&')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(939, 1, u'+#define MZ_ASSERT(x) assert(x)'), (1907, 1, u'+  mz_uint bits = b; mz_uint len = l; MZ_ASSERT(bits <= ((1U << len) - 1U)); \\'), (1992, 1, u'+    mz_uint code = packed_code_sizes[packed_code_sizes_index++]; MZ_ASSERT(code < TDEFL_MAX_HUFF_SYMBOLS_2);'), (2041, 1, u'+      MZ_ASSERT(d->m_huff_code_sizes[0][s_tdefl_len_sym[match_len]]);'), (2053, 1, u'+      MZ_ASSERT(d->m_huff_code_sizes[1][sym]);'), (2060, 1, u'+      MZ_ASSERT(d->m_huff_code_sizes[0][lit]);'), (2067, 1, u'+        MZ_ASSERT(d->m_huff_code_sizes[0][lit]);'), (2074, 1, u'+          MZ_ASSERT(d->m_huff_code_sizes[0][lit]);'), (2123, 1, u'+      MZ_ASSERT(d->m_huff_code_sizes[0][s_tdefl_len_sym[match_len]]);'), (2135, 1, u'+      MZ_ASSERT(d->m_huff_code_sizes[1][sym]);'), (2142, 1, u'+      MZ_ASSERT(d->m_huff_code_sizes[0][lit]);'), (2173, 1, u'+  MZ_ASSERT(!d->m_output_flush_remaining);'), (2228, 1, u'+  MZ_ASSERT(d->m_pOutput_buf < d->m_pOutput_buf_end);'), (2271, 1, u'+  MZ_ASSERT(max_match_len <= TDEFL_MAX_MATCH_LEN); if (max_match_len <= match_len) return;'), (2305, 1, u'+  MZ_ASSERT(max_match_len <= TDEFL_MAX_MATCH_LEN); if (max_match_len <= match_len) return;'), (2390, 1, u'+          MZ_ASSERT((cur_match_len >= TDEFL_MIN_MATCH_LEN) && (cur_match_dist >= 1) && (cur_match_dist <= TDEFL_LZ_DICT_SIZE));'), (2419, 1, u'+      MZ_ASSERT(lookahead_size >= cur_match_len);'), (2479, 1, u'+  MZ_ASSERT((match_len >= TDEFL_MIN_MATCH_LEN) && (match_dist >= 1) && (match_dist <= TDEFL_LZ_DICT_SIZE));'), (2597, 1, u'+    MZ_ASSERT(d->m_lookahead_size >= len_to_move);'), (2694, 1, u'+  MZ_ASSERT(d->m_pPut_buf_func); return tdefl_compress(d, pIn_buf, &in_buf_size, NULL, NULL, flush);'), (2998, 1, u'+  void *pNew_p; size_t new_capacity = min_new_capacity; MZ_ASSERT(pArray->m_element_size); if (pArray->m_capacity >= min_new_capacity) return MZ_TRUE;'), (4332, 1, u'+  if (pZip->m_file_offset_alignment) { MZ_ASSERT((local_dir_header_ofs & (pZip->m_file_offset_alignment - 1)) == 0); }'), (4467, 1, u'+  if (pZip->m_file_offset_alignment) { MZ_ASSERT((local_dir_header_ofs & (pZip->m_file_offset_alignment - 1)) == 0); }'), (4626, 1, u'+  if (pZip->m_file_offset_alignment) { MZ_ASSERT((local_dir_header_ofs & (pZip->m_file_offset_alignment - 1)) == 0); }')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(94, 2, u'-\t\t\tassert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(219, 2, u'-\t\t\tassert(false); // invalid mode')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(330, 1, u'+\t\t\tassert(false); // invalid mode')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(151, 1, u'+\t\t\tassert(false); // invalid mode')]
+===========================================
+===========================================
+Total add: 231
+Total del: 1
+Header: TransformGizmo::TransformGizmo
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(151, 1, u'+\t\t\tassert(false); // invalid mode')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(151, 1, u'+\t\t\tassert(false); // invalid mode')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(58, 2, u'-\tassert(bufferLines.size() && lines.size());'), (60, 1, u'+\tassert(bufferLines.size() && wordWrapLines.size());')]
+===========================================
+===========================================
+Total add: 63
+Total del: 4
+Header: UITextInput::getText
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(58, 2, u'-\tassert(bufferLines.size() && lines.size());'), (60, 1, u'+\tassert(bufferLines.size() && wordWrapLines.size());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(58, 2, u'-\tassert(bufferLines.size() && lines.size());'), (60, 1, u'+\tassert(bufferLines.size() && wordWrapLines.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(bufferLines.size() && lines.size());')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: UITextInput::getText
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(bufferLines.size() && lines.size());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(bufferLines.size() && lines.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(181, 1, u'+    assert( elementSizePtr_ != 0 );')]
+===========================================
+Class:  class UdpSocket::Implementation{ class UdpSocket::Implementation
+Class:  class SocketReceiveMultiplexer::Implementation{ class SocketReceiveMultiplexer::Implementation
+Class:  class UdpSocket::Implementation{ class UdpSocket::Implementation
+Class:  class SocketReceiveMultiplexer::Implementation{ class SocketReceiveMultiplexer::Implementation
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\tassert(0);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: Particle::createSceneParticle
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\tassert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\t\tassert(0);')]
+===========================================
+Class:  class TiXmlParsingData { 
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+903
+Mismatch count:287
+Normal count:16489

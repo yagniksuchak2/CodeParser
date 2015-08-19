@@ -1,0 +1,1952 @@
+projects/top_C/openFrameworks
+Going to process projects/top_C/openFrameworks/all_log.txt 
+---------- openFrameworks ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(462, 2, u'-\tassert(getNumFaces()!=0);'), (463, 2, u'-\tassert(m_parentModel!=NULL);'), (505, 2, u'-\tassert(getNumFaces()!=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(462, 1, u'+\tassert(getNumFaces()!=0);'), (463, 1, u'+\tassert(m_parentModel!=NULL);'), (505, 1, u'+\tassert(getNumFaces()!=0);')]
+===========================================
+Class:  class TiXmlParsingData { 
+Class:  class TiXmlParsingData { 
+Class:  class TiXmlParsingData { 
+Class:  class TiXmlParsingData { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(410, 2, u'-   assert( collectComments_ );'), (413, 2, u'-      assert( lastValue_ != 0 );')]
+===========================================
+Class:class DefaultValueAllocator : public ValueAllocator class DefaultValueAllocator : public ValueAllocator
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-   assert( current >= buffer );'), (62, 2, u'-   assert( current >= buffer );'), (390, 2, u'-         assert( childValues_.size() == size );'), (478, 2, u'-   assert( int(indentString_.size()) >= indentSize_ );'), (666, 2, u'-         assert( childValues_.size() == size );'), (758, 2, u'-   assert( indentString_.size() >= indentation_.size() );')]
+===========================================
+Class:  class TiXmlParsingData { 
+Class:  class TiXmlParsingData { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-    assert(EGL_FALSE != result);'), (55, 2, u'-    assert(eglSurface != EGL_NO_SURFACE);')]
+===========================================
+===========================================
+Total add: 77
+Total del: 20
+Header: ofAppEGLWindow::setupEGL
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-    assert(EGL_FALSE != result);'), (55, 2, u'-    assert(eglSurface != EGL_NO_SURFACE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-    assert(EGL_FALSE != result);'), (55, 2, u'-    assert(eglSurface != EGL_NO_SURFACE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(eglContext != EGL_NO_CONTEXT);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 2
+Header: ofAppEGLWindow::setupEGL
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(eglContext != EGL_NO_CONTEXT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(eglContext != EGL_NO_CONTEXT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 2
+Header: ofAppEGLWindow::setupEGL
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(58, 2, u'-    assert( success >= 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(75, 2, u'-   assert(display!=EGL_NO_DISPLAY);'), (79, 2, u'-   assert(EGL_FALSE != result);'), (83, 2, u'-   assert(EGL_FALSE != result);'), (87, 2, u'-   assert(context!=EGL_NO_CONTEXT);'), (91, 2, u'-   assert( success >= 0 );'), (116, 2, u'-   assert(surface != EGL_NO_SURFACE);'), (120, 2, u'-   assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(462, 1, u'+\tassert(getNumFaces()!=0);'), (463, 1, u'+\tassert(m_parentModel!=NULL);'), (505, 1, u'+\tassert(getNumFaces()!=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(462, 2, u'-\tassert(getNumFaces()!=0);'), (463, 2, u'-\tassert(m_parentModel!=NULL);'), (505, 2, u'-\tassert(getNumFaces()!=0);')]
+===========================================
+Class:  class TiXmlParsingData { 
+Class:  class TiXmlParsingData { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(103, 1, u'+   assert(display!=EGL_NO_DISPLAY);'), (107, 1, u'+   assert(EGL_FALSE != result);'), (111, 1, u'+   assert(EGL_FALSE != result);'), (115, 1, u'+   assert(context!=EGL_NO_CONTEXT);'), (119, 1, u'+   assert( success >= 0 );'), (144, 1, u'+   assert(surface != EGL_NO_SURFACE);'), (148, 1, u'+   assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(103, 2, u'-   assert(display!=EGL_NO_DISPLAY);'), (107, 2, u'-   assert(EGL_FALSE != result);'), (111, 2, u'-   assert(EGL_FALSE != result);'), (115, 2, u'-   assert(context!=EGL_NO_CONTEXT);'), (119, 2, u'-   assert( success >= 0 );'), (144, 2, u'-   assert(surface != EGL_NO_SURFACE);'), (148, 2, u'-   assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+   assert(display!=EGL_NO_DISPLAY);'), (41, 1, u'+   assert(EGL_FALSE != result);'), (45, 1, u'+   assert(EGL_FALSE != result);'), (49, 1, u'+   assert(context!=EGL_NO_CONTEXT);'), (53, 1, u'+   assert( success >= 0 );'), (78, 1, u'+   assert(surface != EGL_NO_SURFACE);'), (82, 1, u'+   assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+Total add: 120
+Total del: 0
+Header: static bool threadedTouchEvents = false;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+   assert(display!=EGL_NO_DISPLAY);'), (41, 1, u'+   assert(EGL_FALSE != result);'), (45, 1, u'+   assert(EGL_FALSE != result);'), (49, 1, u'+   assert(context!=EGL_NO_CONTEXT);'), (53, 1, u'+   assert( success >= 0 );'), (78, 1, u'+   assert(surface != EGL_NO_SURFACE);'), (82, 1, u'+   assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+   assert(display!=EGL_NO_DISPLAY);'), (41, 1, u'+   assert(EGL_FALSE != result);'), (45, 1, u'+   assert(EGL_FALSE != result);'), (49, 1, u'+   assert(context!=EGL_NO_CONTEXT);'), (53, 1, u'+   assert( success >= 0 );'), (78, 1, u'+   assert(surface != EGL_NO_SURFACE);'), (82, 1, u'+   assert(EGL_FALSE != result);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(410, 1, u'+   assert( collectComments_ );'), (413, 1, u'+      assert( lastValue_ != 0 );')]
+===========================================
+Class:class DefaultValueAllocator : public ValueAllocator class DefaultValueAllocator : public ValueAllocator
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 1, u'+   assert( current >= buffer );'), (62, 1, u'+   assert( current >= buffer );'), (390, 1, u'+         assert( childValues_.size() == size );'), (478, 1, u'+   assert( int(indentString_.size()) >= indentSize_ );'), (666, 1, u'+         assert( childValues_.size() == size );'), (758, 1, u'+   assert( indentString_.size() >= indentation_.size() );')]
+===========================================
+Class:  class UdpSocket::Implementation{ class UdpSocket::Implementation
+Class:  class SocketReceiveMultiplexer::Implementation{ class SocketReceiveMultiplexer::Implementation
+Class:  class UdpSocket::Implementation{ class UdpSocket::Implementation
+Class:  class SocketReceiveMultiplexer::Implementation{ class SocketReceiveMultiplexer::Implementation
+Class:  class UdpSocket::Implementation{ class UdpSocket::Implementation
+Class:  class SocketReceiveMultiplexer::Implementation{ class SocketReceiveMultiplexer::Implementation
+Class:  class UdpSocket::Implementation{ class UdpSocket::Implementation
+Class:  class SocketReceiveMultiplexer::Implementation{ class SocketReceiveMultiplexer::Implementation
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(181, 1, u'+    assert( elementSizePtr_ != 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( false && "bad argument type" );'), (4, 1, u'+\t\t\tassert( false );')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: ofxOscSender::appendMessage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( false && "bad argument type" );'), (4, 1, u'+\t\t\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( false && "bad argument type" );'), (4, 1, u'+\t\t\tassert( false );')]
+===========================================
+Class:        class ExData2 { class ExData2 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(146, 2, u'-    assert(tempMovie != nil);')]
+===========================================
+Class:	class xml_buffered_writer 	class xml_buffered_writer
+Class:	class xpath_allocator 	class xpath_allocator
+Class:	class xpath_string 	class xpath_string
+Class:	class xpath_node_set_raw 	class xpath_node_set_raw
+Class:	class xpath_lexer 	class xpath_lexer
+Class: 	class xpath_ast_node 	{ 	
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( LEQ( **(i+1), **i ));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: pqInit
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( LEQ( **(i+1), **i ));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( LEQ( **(i+1), **i ));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( VertLeq( u, v ) && VertLeq( v, w ));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: tesedgeEval
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( VertLeq( u, v ) && VertLeq( v, w ));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( VertLeq( u, v ) && VertLeq( v, w ));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( VertLeq( u, v ) && VertLeq( v, w ));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: tesedgeSign
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( VertLeq( u, v ) && VertLeq( v, w ));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( VertLeq( u, v ) && VertLeq( v, w ));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TransLeq( u, v ) && TransLeq( v, w ));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: testransEval
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TransLeq( u, v ) && TransLeq( v, w ));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TransLeq( u, v ) && TransLeq( v, w ));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TransLeq( u, v ) && TransLeq( v, w ));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: testransSign
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TransLeq( u, v ) && TransLeq( v, w ));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TransLeq( u, v ) && TransLeq( v, w ));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(vNew != NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: MakeVertex
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(vNew != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(vNew != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(fNew != NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: MakeFace
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(fNew != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(fNew != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( mesh->vHead.next == &mesh->vHead );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: tessMeshDeleteMesh
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( mesh->vHead.next == &mesh->vHead );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( mesh->vHead.next == &mesh->vHead );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(child <= pq->max);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: FloatDown
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(child <= pq->max);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(child <= pq->max);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(free != INV_HANDLE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: pqHeapInsert
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(free != INV_HANDLE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(free != INV_HANDLE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( hCurr >= 1 && hCurr <= pq->max && h[hCurr].key != NULL );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: pqHeapDelete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( hCurr >= 1 && hCurr <= pq->max && h[hCurr].key != NULL );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( hCurr >= 1 && hCurr <= pq->max && h[hCurr].key != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(pq != NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: pqDeletePriorityQ
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(pq != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(pq != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(curr != INV_HANDLE);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: pqInsert
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(curr != INV_HANDLE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(curr != INV_HANDLE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( curr < pq->max && pq->keys[curr] != NULL );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: pqDelete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( curr < pq->max && pq->keys[curr] != NULL );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( curr < pq->max && pq->keys[curr] != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( reg->eUp->winding == 0 );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: DeleteRegion
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( reg->eUp->winding == 0 );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( reg->eUp->winding == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( reg->fixUpperEdge );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: FixUpperEdge
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( reg->fixUpperEdge );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( reg->fixUpperEdge );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( FALSE );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: IsWindingInside
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( FALSE );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( FALSE );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( VertLeq( e->Org, e->Dst ));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: AddRightEdges
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( VertLeq( e->Org, e->Dst ));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( VertLeq( e->Org, e->Dst ));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( regPrev->windingNumber - e->winding == reg->windingNumber );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: AddRightEdges
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( regPrev->windingNumber - e->winding == reg->windingNumber );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( regPrev->windingNumber - e->winding == reg->windingNumber );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( ! VertEq( eUp->Dst, eLo->Dst ));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: CheckForLeftSplice
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( ! VertEq( eUp->Dst, eLo->Dst ));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( ! VertEq( eUp->Dst, eLo->Dst ));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( ! VertEq( dstLo, dstUp ));'), (3, 2, u'-\tassert( EdgeSign( dstUp, tess->event, orgUp ) <= 0 );'), (4, 2, u'-\tassert( EdgeSign( dstLo, tess->event, orgLo ) >= 0 );'), (5, 2, u'-\tassert( orgUp != tess->event && orgLo != tess->event );'), (6, 2, u'-\tassert( ! regUp->fixUpperEdge && ! regLo->fixUpperEdge );')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: CheckForIntersect
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( ! VertEq( dstLo, dstUp ));'), (3, 2, u'-\tassert( EdgeSign( dstUp, tess->event, orgUp ) <= 0 );'), (4, 2, u'-\tassert( EdgeSign( dstLo, tess->event, orgLo ) >= 0 );'), (5, 2, u'-\tassert( orgUp != tess->event && orgLo != tess->event );'), (6, 2, u'-\tassert( ! regUp->fixUpperEdge && ! regLo->fixUpperEdge );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( ! VertEq( dstLo, dstUp ));'), (3, 2, u'-\tassert( EdgeSign( dstUp, tess->event, orgUp ) <= 0 );'), (4, 2, u'-\tassert( EdgeSign( dstLo, tess->event, orgLo ) >= 0 );'), (5, 2, u'-\tassert( orgUp != tess->event && orgLo != tess->event );'), (6, 2, u'-\tassert( ! regUp->fixUpperEdge && ! regLo->fixUpperEdge );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( MIN( orgUp->t, dstUp->t ) <= isect.t );'), (3, 2, u'-\tassert( isect.t <= MAX( orgLo->t, dstLo->t ));'), (4, 2, u'-\tassert( MIN( dstLo->s, dstUp->s ) <= isect.s );'), (5, 2, u'-\tassert( isect.s <= MAX( orgLo->s, orgUp->s ));')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: CheckForIntersect
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( MIN( orgUp->t, dstUp->t ) <= isect.t );'), (3, 2, u'-\tassert( isect.t <= MAX( orgLo->t, dstLo->t ));'), (4, 2, u'-\tassert( MIN( dstLo->s, dstUp->s ) <= isect.s );'), (5, 2, u'-\tassert( isect.s <= MAX( orgLo->s, orgUp->s ));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( MIN( orgUp->t, dstUp->t ) <= isect.t );'), (3, 2, u'-\tassert( isect.t <= MAX( orgLo->t, dstLo->t ));'), (4, 2, u'-\tassert( MIN( dstLo->s, dstUp->s ) <= isect.s );'), (5, 2, u'-\tassert( isect.s <= MAX( orgLo->s, orgUp->s ));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( TOLERANCE_NONZERO );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: ConnectLeftDegenerate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( TOLERANCE_NONZERO );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( TOLERANCE_NONZERO );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TOLERANCE_NONZERO );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: ConnectLeftDegenerate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TOLERANCE_NONZERO );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( TOLERANCE_NONZERO );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( eTopLeft != eTopRight );   /* there are some left edges too */')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: ConnectLeftDegenerate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( eTopLeft != eTopRight );   /* there are some left edges too */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( eTopLeft != eTopRight );   /* there are some left edges too */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( reg->fixUpperEdge );'), (3, 2, u'-\t\t\tassert( ++fixedEdges == 1 );'), (7, 2, u'-\t\tassert( reg->windingNumber == 0 );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: DoneEdgeDict
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( reg->fixUpperEdge );'), (3, 2, u'-\t\t\tassert( ++fixedEdges == 1 );'), (7, 2, u'-\t\tassert( reg->windingNumber == 0 );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( reg->fixUpperEdge );'), (3, 2, u'-\t\t\tassert( ++fixedEdges == 1 );'), (7, 2, u'-\t\tassert( reg->windingNumber == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( e->Lnext != e );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: RemoveDegenerateFaces
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( e->Lnext != e );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( e->Lnext != e );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( len > 0 );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: Normalize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( len > 0 );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( len > 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( up->Lnext != up && up->Lnext->Lnext != up );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: tessMeshTessellateMonoRegion
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( up->Lnext != up && up->Lnext->Lnext != up );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( up->Lnext != up && up->Lnext->Lnext != up );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( lo->Lnext != up );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: tessMeshTessellateMonoRegion
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( lo->Lnext != up );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( lo->Lnext != up );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( faceVerts <= polySize );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: OutputPolymesh
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( faceVerts <= polySize );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( faceVerts <= polySize );')]
+===========================================
+Class:    class ExtensionComparator : public unary_function<File, bool> { class ExtensionComparator : public unary_function<File, bool> 
+Class:    class ExtensionComparator : public unary_function<ofFile, bool> { class ExtensionComparator : public unary_function<ofFile, bool> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 2, u'-            default: assert(false);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 164
+Header: ofxAssimpModelLoader::loadGLResources
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 2, u'-            default: assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 2, u'-            default: assert(false);')]
+===========================================
+Class:    class ExtensionComparator : public unary_function<File, bool> { class ExtensionComparator : public unary_function<File, bool> 
+Class:    class ExtensionComparator : public unary_function<File, bool> { class ExtensionComparator : public unary_function<File, bool> 
+Class:    class ExtensionComparator : public unary_function<File, bool> { class ExtensionComparator : public unary_function<File, bool> 
+Class:class ExampleCustomData { class ExampleCustomData 
+Class:    class ExData1 { class ExData1 
+Class:      class ExData2 { class ExData2 
+Class: class MyData { class MyData 
+Class: class ExampleCustomData { class ExampleCustomData 
+Class: class MyData { class MyData 
+Class:class ofPathToShapeConverter{ class ofPathToShapeConverter
+Class: class ofPathToShapeConverter{ class ofPathToShapeConverter
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(124, 1, u'+    assert(tempMovie != nil);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( false && "message argument is not int, float, or string" );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: ofxOscReceiver::ProcessMessage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( false && "message argument is not int, float, or string" );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert( false && "message argument is not int, float, or string" );')]
+===========================================
+Class:  class TiXmlParsingData { 
+Class:  class TiXmlParsingData { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(445, 1, u'+\tassert(getNumFaces()!=0);'), (446, 1, u'+\tassert(m_parentModel!=NULL);'), (488, 1, u'+\tassert(getNumFaces()!=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(445, 2, u'-\tassert(getNumFaces()!=0);'), (446, 2, u'-\tassert(m_parentModel!=NULL);'), (488, 2, u'-\tassert(getNumFaces()!=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index < (int)args.size() && "index out of bounds" );'), (16, 2, u'-\tassert( index >=0 && index < (int)args.size() );')]
+===========================================
+===========================================
+Total add: 15
+Total del: 5
+Header: ofxOscMessage::getArgType
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index < (int)args.size() && "index out of bounds" );'), (16, 2, u'-\tassert( index >=0 && index < (int)args.size() );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index < (int)args.size() && "index out of bounds" );'), (16, 2, u'-\tassert( index >=0 && index < (int)args.size() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (3, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_INT32 && "wrong argument type" );')]
+===========================================
+===========================================
+Total add: 15
+Total del: 3
+Header: ofxOscMessage::getArgAsInt32
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (3, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_INT32 && "wrong argument type" );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (3, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_INT32 && "wrong argument type" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (3, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_FLOAT && "wrong argument type" );')]
+===========================================
+===========================================
+Total add: 15
+Total del: 3
+Header: ofxOscMessage::getArgAsFloat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (3, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_FLOAT && "wrong argument type" );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (3, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_FLOAT && "wrong argument type" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (6, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_STRING && "wrong argument type" );')]
+===========================================
+===========================================
+Total add: 25
+Total del: 4
+Header: ofxOscMessage::getArgAsFloat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (6, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_STRING && "wrong argument type" );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( index >=0 && index < (int)args.size() );'), (6, 2, u'-\tassert( getArgType(index) == OFXOSC_TYPE_STRING && "wrong argument type" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovie != NULL);'), (3, 2, u'-  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: MovieGetStaticFrameRate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovie != NULL);'), (3, 2, u'-  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovie != NULL);'), (3, 2, u'-  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(err == noErr);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: MovieGetStaticFrameRate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(err == noErr);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(err == noErr);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovie != NULL);'), (3, 2, u'-  assert(outMedia != NULL);'), (4, 2, u'-  assert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: MovieGetVideoMediaAndMediaHandler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovie != NULL);'), (3, 2, u'-  assert(outMedia != NULL);'), (4, 2, u'-  assert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovie != NULL);'), (3, 2, u'-  assert(outMedia != NULL);'), (4, 2, u'-  assert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMediaHandler != NULL);'), (3, 2, u'-  assert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 6
+Header: IsMPEGMediaHandler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMediaHandler != NULL);'), (3, 2, u'-  assert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMediaHandler != NULL);'), (3, 2, u'-  assert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMPEGMediaHandler != NULL);'), (3, 2, u'-  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: MPEGMediaGetStaticFrameRate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMPEGMediaHandler != NULL);'), (3, 2, u'-  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMPEGMediaHandler != NULL);'), (3, 2, u'-  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovieMedia != NULL);'), (3, 2, u'-  assert(outFPS != NULL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: MediaGetStaticFrameRate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovieMedia != NULL);'), (3, 2, u'-  assert(outFPS != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(inMovieMedia != NULL);'), (3, 2, u'-  assert(outFPS != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(inMovie != NULL);'), (10, 2, u'-\tassert(outStaticFrameRate != NULL);'), (40, 2, u'-\t\t\t\tassert(err == noErr);'), (44, 1, u'+  assert(inMovie != NULL);'), (45, 1, u'+  assert(outStaticFrameRate != NULL);'), (75, 1, u'+        assert(err == noErr);')]
+===========================================
+===========================================
+Total add: 37
+Total del: 37
+Header: SeqGrabberModalFilterUPP
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(inMovie != NULL);'), (10, 2, u'-\tassert(outStaticFrameRate != NULL);'), (40, 2, u'-\t\t\t\tassert(err == noErr);'), (44, 1, u'+  assert(inMovie != NULL);'), (45, 1, u'+  assert(outStaticFrameRate != NULL);'), (75, 1, u'+        assert(err == noErr);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(inMovie != NULL);'), (10, 2, u'-\tassert(outStaticFrameRate != NULL);'), (40, 2, u'-\t\t\t\tassert(err == noErr);'), (44, 1, u'+  assert(inMovie != NULL);'), (45, 1, u'+  assert(outStaticFrameRate != NULL);'), (75, 1, u'+        assert(err == noErr);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\tassert(inMovie != NULL);'), (14, 2, u'-\tassert(outMedia != NULL);'), (15, 2, u'-\tassert(outMediaHandler != NULL);'), (33, 1, u'+  assert(inMovie != NULL);'), (34, 1, u'+  assert(outMedia != NULL);'), (35, 1, u'+  assert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 24
+Header: MovieGetStaticFrameRate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\tassert(inMovie != NULL);'), (14, 2, u'-\tassert(outMedia != NULL);'), (15, 2, u'-\tassert(outMediaHandler != NULL);'), (33, 1, u'+  assert(inMovie != NULL);'), (34, 1, u'+  assert(outMedia != NULL);'), (35, 1, u'+  assert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\tassert(inMovie != NULL);'), (14, 2, u'-\tassert(outMedia != NULL);'), (15, 2, u'-\tassert(outMediaHandler != NULL);'), (33, 1, u'+  assert(inMovie != NULL);'), (34, 1, u'+  assert(outMedia != NULL);'), (35, 1, u'+  assert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMediaHandler != NULL);'), (12, 2, u'-\tassert(outIsMPEG != NULL);'), (13, 1, u'+  assert(inMediaHandler != NULL);'), (14, 1, u'+  assert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 9
+Header: MovieGetVideoMediaAndMediaHandler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMediaHandler != NULL);'), (12, 2, u'-\tassert(outIsMPEG != NULL);'), (13, 1, u'+  assert(inMediaHandler != NULL);'), (14, 1, u'+  assert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMediaHandler != NULL);'), (12, 2, u'-\tassert(outIsMPEG != NULL);'), (13, 1, u'+  assert(inMediaHandler != NULL);'), (14, 1, u'+  assert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMPEGMediaHandler != NULL);'), (12, 2, u'-\tassert(outStaticFrameRate != NULL);'), (31, 1, u'+  assert(inMPEGMediaHandler != NULL);'), (32, 1, u'+  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+Total add: 23
+Total del: 23
+Header: IsMPEGMediaHandler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMPEGMediaHandler != NULL);'), (12, 2, u'-\tassert(outStaticFrameRate != NULL);'), (31, 1, u'+  assert(inMPEGMediaHandler != NULL);'), (32, 1, u'+  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMPEGMediaHandler != NULL);'), (12, 2, u'-\tassert(outStaticFrameRate != NULL);'), (31, 1, u'+  assert(inMPEGMediaHandler != NULL);'), (32, 1, u'+  assert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMovieMedia != NULL);'), (12, 2, u'-\tassert(outFPS != NULL);'), (45, 1, u'+  assert(inMovieMedia != NULL);'), (46, 1, u'+  assert(outFPS != NULL);')]
+===========================================
+===========================================
+Total add: 39
+Total del: 37
+Header: MPEGMediaGetStaticFrameRate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMovieMedia != NULL);'), (12, 2, u'-\tassert(outFPS != NULL);'), (45, 1, u'+  assert(inMovieMedia != NULL);'), (46, 1, u'+  assert(outFPS != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(inMovieMedia != NULL);'), (12, 2, u'-\tassert(outFPS != NULL);'), (45, 1, u'+  assert(inMovieMedia != NULL);'), (46, 1, u'+  assert(outFPS != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-  assert(inMovie != NULL);'), (10, 2, u'-  assert(outStaticFrameRate != NULL);'), (40, 2, u'-        assert(err == noErr);'), (44, 1, u'+\tassert(inMovie != NULL);'), (45, 1, u'+\tassert(outStaticFrameRate != NULL);'), (75, 1, u'+\t\t\t\tassert(err == noErr);')]
+===========================================
+===========================================
+Total add: 37
+Total del: 37
+Header: SeqGrabberModalFilterUPP
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-  assert(inMovie != NULL);'), (10, 2, u'-  assert(outStaticFrameRate != NULL);'), (40, 2, u'-        assert(err == noErr);'), (44, 1, u'+\tassert(inMovie != NULL);'), (45, 1, u'+\tassert(outStaticFrameRate != NULL);'), (75, 1, u'+\t\t\t\tassert(err == noErr);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-  assert(inMovie != NULL);'), (10, 2, u'-  assert(outStaticFrameRate != NULL);'), (40, 2, u'-        assert(err == noErr);'), (44, 1, u'+\tassert(inMovie != NULL);'), (45, 1, u'+\tassert(outStaticFrameRate != NULL);'), (75, 1, u'+\t\t\t\tassert(err == noErr);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-  assert(inMovie != NULL);'), (14, 2, u'-  assert(outMedia != NULL);'), (15, 2, u'-  assert(outMediaHandler != NULL);'), (33, 1, u'+\tassert(inMovie != NULL);'), (34, 1, u'+\tassert(outMedia != NULL);'), (35, 1, u'+\tassert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 24
+Header: MovieGetStaticFrameRate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-  assert(inMovie != NULL);'), (14, 2, u'-  assert(outMedia != NULL);'), (15, 2, u'-  assert(outMediaHandler != NULL);'), (33, 1, u'+\tassert(inMovie != NULL);'), (34, 1, u'+\tassert(outMedia != NULL);'), (35, 1, u'+\tassert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-  assert(inMovie != NULL);'), (14, 2, u'-  assert(outMedia != NULL);'), (15, 2, u'-  assert(outMediaHandler != NULL);'), (33, 1, u'+\tassert(inMovie != NULL);'), (34, 1, u'+\tassert(outMedia != NULL);'), (35, 1, u'+\tassert(outMediaHandler != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMediaHandler != NULL);'), (12, 2, u'-  assert(outIsMPEG != NULL);'), (13, 1, u'+\tassert(inMediaHandler != NULL);'), (14, 1, u'+\tassert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 9
+Header: MovieGetVideoMediaAndMediaHandler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMediaHandler != NULL);'), (12, 2, u'-  assert(outIsMPEG != NULL);'), (13, 1, u'+\tassert(inMediaHandler != NULL);'), (14, 1, u'+\tassert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMediaHandler != NULL);'), (12, 2, u'-  assert(outIsMPEG != NULL);'), (13, 1, u'+\tassert(inMediaHandler != NULL);'), (14, 1, u'+\tassert(outIsMPEG != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMPEGMediaHandler != NULL);'), (12, 2, u'-  assert(outStaticFrameRate != NULL);'), (31, 1, u'+\tassert(inMPEGMediaHandler != NULL);'), (32, 1, u'+\tassert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+Total add: 23
+Total del: 23
+Header: IsMPEGMediaHandler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMPEGMediaHandler != NULL);'), (12, 2, u'-  assert(outStaticFrameRate != NULL);'), (31, 1, u'+\tassert(inMPEGMediaHandler != NULL);'), (32, 1, u'+\tassert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMPEGMediaHandler != NULL);'), (12, 2, u'-  assert(outStaticFrameRate != NULL);'), (31, 1, u'+\tassert(inMPEGMediaHandler != NULL);'), (32, 1, u'+\tassert(outStaticFrameRate != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMovieMedia != NULL);'), (12, 2, u'-  assert(outFPS != NULL);'), (47, 1, u'+\tassert(inMovieMedia != NULL);'), (48, 1, u'+\tassert(outFPS != NULL);')]
+===========================================
+===========================================
+Total add: 37
+Total del: 39
+Header: MPEGMediaGetStaticFrameRate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMovieMedia != NULL);'), (12, 2, u'-  assert(outFPS != NULL);'), (47, 1, u'+\tassert(inMovieMedia != NULL);'), (48, 1, u'+\tassert(outFPS != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-  assert(inMovieMedia != NULL);'), (12, 2, u'-  assert(outFPS != NULL);'), (47, 1, u'+\tassert(inMovieMedia != NULL);'), (48, 1, u'+\tassert(outFPS != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(437, 1, u'+\tassert(getNumFaces()!=0);'), (438, 1, u'+\tassert(m_parentModel!=NULL);'), (480, 1, u'+\tassert(getNumFaces()!=0);')]
+===========================================
+Class:  class TiXmlParsingData { 
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+3495
+Mismatch count:120763
+Normal count:2291639

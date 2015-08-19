@@ -1,0 +1,1251 @@
+projects/top_C/tig
+Going to process projects/top_C/tig/all_log.txt 
+---------- tig ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(symbol->color < ARRAY_SIZE(graph_colors));'), (4, 1, u'+\tassert(symbol->color < ARRAY_SIZE(palette_colors));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: get_graph_color
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(symbol->color < ARRAY_SIZE(graph_colors));'), (4, 1, u'+\tassert(symbol->color < ARRAY_SIZE(palette_colors));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(symbol->color < ARRAY_SIZE(graph_colors));'), (4, 1, u'+\tassert(symbol->color < ARRAY_SIZE(palette_colors));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(type < line_infos);'), (10, 1, u'+\tassert(type < line_rules);')]
+===========================================
+===========================================
+Total add: 14
+Total del: 3
+Header: get_line_type_from_ref
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(type < line_infos);'), (10, 1, u'+\tassert(type < line_rules);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(type < line_infos);'), (10, 1, u'+\tassert(type < line_rules);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(TO_CUSTOM_COLOR_OFFSET(type) < custom_colors);'), (6, 2, u'-\t\tassert(type < ARRAY_SIZE(line_info));'), (9, 1, u'+\tassert(type < line_infos);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 7
+Header: get_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(TO_CUSTOM_COLOR_OFFSET(type) < custom_colors);'), (6, 2, u'-\t\tassert(type < ARRAY_SIZE(line_info));'), (9, 1, u'+\tassert(type < line_infos);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(TO_CUSTOM_COLOR_OFFSET(type) < custom_colors);'), (6, 2, u'-\t\tassert(type < ARRAY_SIZE(line_info));'), (9, 1, u'+\tassert(type < line_infos);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-\tassert(!graph_needs_expansion(graph));')]
+===========================================
+===========================================
+Total add: 190
+Total del: 71
+Header: graph_canvas_append_symbol
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-\tassert(!graph_needs_expansion(graph));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-\tassert(!graph_needs_expansion(graph));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(map_size > 1);'), (3, 1, u'+\tassert(map->size > 1);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: parse_enum_do
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(map_size > 1);'), (3, 1, u'+\tassert(map->size > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(map_size > 1);'), (3, 1, u'+\tassert(map->size > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(line->type == LINE_COMMIT);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: add_pager_refs
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(line->type == LINE_COMMIT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(line->type == LINE_COMMIT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(size > 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: prompt_menu
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(size > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(size > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(0 <= view->offset && view->offset < view->lines);'), (6, 1, u'+\tassert(0 <= view->pos.offset && view->pos.offset < view->lines);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: do_scroll_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(0 <= view->offset && view->offset < view->lines);'), (6, 1, u'+\tassert(0 <= view->pos.offset && view->pos.offset < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(0 <= view->offset && view->offset < view->lines);'), (6, 1, u'+\tassert(0 <= view->pos.offset && view->pos.offset < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view->offset <= view->lineno && view->lineno < view->lines);'), (3, 1, u'+\tassert(view->pos.offset <= view->pos.lineno && view->pos.lineno < view->lines);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: do_scroll_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view->offset <= view->lineno && view->lineno < view->lines);'), (3, 1, u'+\tassert(view->pos.offset <= view->pos.lineno && view->pos.lineno < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view->offset <= view->lineno && view->lineno < view->lines);'), (3, 1, u'+\tassert(view->pos.offset <= view->pos.lineno && view->pos.lineno < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(0 <= view->lineno && view->lineno < view->lines);'), (5, 1, u'+\tassert(0 <= view->pos.lineno && view->pos.lineno < view->lines);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 8
+Header: move_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(0 <= view->lineno && view->lineno < view->lines);'), (5, 1, u'+\tassert(0 <= view->pos.lineno && view->pos.lineno < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(0 <= view->lineno && view->lineno < view->lines);'), (5, 1, u'+\tassert(0 <= view->pos.lineno && view->pos.lineno < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(0 <= view->offset && view->offset < view->lines);'), (6, 1, u'+\t\tassert(0 <= view->pos.offset && view->pos.offset < view->lines);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: move_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(0 <= view->offset && view->offset < view->lines);'), (6, 1, u'+\t\tassert(0 <= view->pos.offset && view->pos.offset < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(0 <= view->offset && view->offset < view->lines);'), (6, 1, u'+\t\tassert(0 <= view->pos.offset && view->pos.offset < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert(TO_CUSTOM_COLOR_OFFSET(type) < custom_colors);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 0
+Header: get_line_attr
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert(TO_CUSTOM_COLOR_OFFSET(type) < custom_colors);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert(TO_CUSTOM_COLOR_OFFSET(type) < custom_colors);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(flags ^ OPEN_REFRESH);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: open_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(flags ^ OPEN_REFRESH);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(flags ^ OPEN_REFRESH);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+\tassert(symbol->color < ARRAY_SIZE(graph_colors));')]
+===========================================
+===========================================
+Total add: 39
+Total del: 188
+Header: static struct view_ops stage_ops = {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+\tassert(symbol->color < ARRAY_SIZE(graph_colors));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+\tassert(symbol->color < ARRAY_SIZE(graph_colors));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(map_size > 1);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 0
+Header: parse_bool
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(map_size > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(map_size > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: select_view_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(view->lines);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 10
+Header: status_update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\t\t\t\tassert(sizeof(spaces) > TABSIZE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 28
+Header: pager_draw
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\t\t\t\tassert(sizeof(spaces) > TABSIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\t\t\t\tassert(sizeof(spaces) > TABSIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\tassert(view->lines);'), (18, 1, u'+\tassert(view->lines);')]
+===========================================
+===========================================
+Total add: 14
+Total del: 19
+Header: status_update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\tassert(view->lines);'), (18, 1, u'+\tassert(view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\tassert(view->lines);'), (18, 1, u'+\tassert(view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert(view->lines);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 3
+Header: status_update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert(view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert(view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(0 <= view->offset && view->offset < view->lines);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: move_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(0 <= view->offset && view->offset < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(0 <= view->offset && view->offset < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));'), (13, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Total add: 5
+Total del: 11
+Header: update_view_title
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));'), (13, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));'), (13, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-\tassert(commit->graph_size < ARRAY_SIZE(commit->graph));')]
+===========================================
+===========================================
+Total add: 22
+Total del: 22
+Header: draw_rev_graph
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-\tassert(commit->graph_size < ARRAY_SIZE(commit->graph));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-\tassert(commit->graph_size < ARRAY_SIZE(commit->graph));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-\tassert(commit->graph_size < ARRAY_SIZE(commit->graph));')]
+===========================================
+===========================================
+Total add: 4
+Total del: 23
+Header: push_rev_stack
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-\tassert(commit->graph_size < ARRAY_SIZE(commit->graph));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-\tassert(commit->graph_size < ARRAY_SIZE(commit->graph));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: do_scroll_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: scroll_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 0
+Header: do_scroll_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 2, u'-\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 11
+Header: do_scroll_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 2, u'-\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 2, u'-\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: draw_view_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: update_view_title
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: do_scroll_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: find_next_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view_is_displayed(view));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+\t\t\t\tassert(sizeof(spaces) > TABSIZE);')]
+===========================================
+===========================================
+Total add: 35
+Total del: 35
+Header: pager_draw
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+\t\t\t\tassert(sizeof(spaces) > TABSIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+\t\t\t\tassert(sizeof(spaces) > TABSIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-\tassert(view);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: switch_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-\tassert(view);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 2, u'-\tassert(view);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: view_driver
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(view);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 8
+Header: die
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(view);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(view);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 12
+Header: update_title
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(view);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert(0 <= lineno && lineno < view->height);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 6
+Header: static unsigned int current_view;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert(0 <= lineno && lineno < view->height);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert(0 <= lineno && lineno < view->height);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view->offset <= view->lineno && view->lineno <= view->lines);'), (3, 1, u'+\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: move_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view->offset <= view->lineno && view->lineno <= view->lines);'), (3, 1, u'+\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(view->offset <= view->lineno && view->lineno <= view->lines);'), (3, 1, u'+\tassert(view->offset <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(0 <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: navigate_view
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(0 <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(0 <= view->lineno && view->lineno < view->lines);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert(0 <= view->offset && view->offset < view->lines);'), (11, 1, u'+\tassert(lines);'), (36, 1, u'+\tassert(view->offset <= view->lineno && view->lineno <= view->lines);')]
+===========================================
+===========================================
+Total add: 42
+Total del: 7
+Header: report_position
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert(0 <= view->offset && view->offset < view->lines);'), (11, 1, u'+\tassert(lines);'), (36, 1, u'+\tassert(view->offset <= view->lineno && view->lineno <= view->lines);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert(0 <= view->offset && view->offset < view->lines);'), (11, 1, u'+\tassert(lines);'), (36, 1, u'+\tassert(view->offset <= view->lineno && view->lineno <= view->lines);')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+1474
+Mismatch count:129708
+Normal count:2834547

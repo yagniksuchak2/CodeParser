@@ -1,0 +1,2126 @@
+projects/top_C++/folly
+Going to process projects/top_C++/folly/all_log.txt 
+---------- folly ------------
+
+Class:  template <size_t K, class Callback>   template <size_t K, class Callback>
+Class:  template <size_t K, class Callback>   template <size_t K, class Callback>
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+#include <folly/SafeAssert.h>')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+#include <folly/SafeAssert.h>')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(futexQueues.count(futex) != 0 &&')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: futexWaitUntilImpl
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(futexQueues.count(futex) != 0 &&')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(futexQueues.count(futex) != 0 &&')]
+===========================================
+Class:class BufferedRandomDevice { class BufferedRandomDevice 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-static_assert(sizeof(small_vector<int32_t,1,OneBitMutex>) == 16,'), (7, 2, u'-static_assert(sizeof(small_vector<int16_t,4,uint16_t,OneBitMutex>) == 10,'), (9, 2, u'-static_assert(sizeof(small_vector<int16_t,4,NoHeap,uint16_t,')]
+===========================================
+===========================================
+Total add: 0
+Total del: 8
+Header: static_assert
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-static_assert(sizeof(small_vector<int32_t,1,OneBitMutex>) == 16,'), (7, 2, u'-static_assert(sizeof(small_vector<int16_t,4,uint16_t,OneBitMutex>) == 10,'), (9, 2, u'-static_assert(sizeof(small_vector<int16_t,4,NoHeap,uint16_t,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-static_assert(sizeof(small_vector<int32_t,1,OneBitMutex>) == 16,'), (7, 2, u'-static_assert(sizeof(small_vector<int16_t,4,uint16_t,OneBitMutex>) == 10,'), (9, 2, u'-static_assert(sizeof(small_vector<int16_t,4,NoHeap,uint16_t,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  static_assert(v2.max_size() == 32, "max_size is incorrect");')]
+===========================================
+===========================================
+Total add: 0
+Total del: 4
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  static_assert(v2.max_size() == 32, "max_size is incorrect");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  static_assert(v2.max_size() == 32, "max_size is incorrect");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+  empty<X*>() | field(&X::a) | assert_type<const int&>();'), (9, 1, u'+  empty<X*>() | field(&X::b) | assert_type<int&>();'), (11, 1, u'+  empty<X*>() | field(&X::c) | assert_type<int&>();')]
+===========================================
+===========================================
+Total add: 7
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+  empty<X*>() | field(&X::a) | assert_type<const int&>();'), (9, 1, u'+  empty<X*>() | field(&X::b) | assert_type<int&>();'), (11, 1, u'+  empty<X*>() | field(&X::c) | assert_type<int&>();')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+  empty<X*>() | field(&X::a) | assert_type<const int&>();'), (9, 1, u'+  empty<X*>() | field(&X::b) | assert_type<int&>();'), (11, 1, u'+  empty<X*>() | field(&X::c) | assert_type<int&>();')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  empty<const X*>() | field(&X::a) | assert_type<const int&>();'), (6, 1, u'+  empty<const X*>() | field(&X::b) | assert_type<const int&>();'), (9, 1, u'+  empty<const X*>() | field(&X::c) | assert_type<const int&>();')]
+===========================================
+===========================================
+Total add: 4
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  empty<const X*>() | field(&X::a) | assert_type<const int&>();'), (6, 1, u'+  empty<const X*>() | field(&X::b) | assert_type<const int&>();'), (9, 1, u'+  empty<const X*>() | field(&X::c) | assert_type<const int&>();')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  empty<const X*>() | field(&X::a) | assert_type<const int&>();'), (6, 1, u'+  empty<const X*>() | field(&X::b) | assert_type<const int&>();'), (9, 1, u'+  empty<const X*>() | field(&X::c) | assert_type<const int&>();')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  assert(reinterpret_cast<uintptr_t>(src) % alignof(unsigned long) == 0);'), (9, 1, u'+  assert(reinterpret_cast<uintptr_t>(dst) % alignof(unsigned long) == 0);')]
+===========================================
+===========================================
+Total add: 35
+Total del: 4
+Header: MemoryMapping::swap
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  assert(reinterpret_cast<uintptr_t>(src) % alignof(unsigned long) == 0);'), (9, 1, u'+  assert(reinterpret_cast<uintptr_t>(dst) % alignof(unsigned long) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  assert(reinterpret_cast<uintptr_t>(src) % alignof(unsigned long) == 0);'), (9, 1, u'+  assert(reinterpret_cast<uintptr_t>(dst) % alignof(unsigned long) == 0);')]
+===========================================
+Class: class ScopedFd : private boost::noncopyable { class ScopedFd : private boost::noncopyable 
+Class:  class ScopedDeleter : private boost::noncopyable { class ScopedDeleter : private boost::noncopyable 
+Class:   class ScopedMmap : private boost::noncopyable { class ScopedMmap : private boost::noncopyable 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 1, u'+    assert(ep);'), (47, 1, u'+    assert(ew.get());'), (63, 1, u'+          assert(ep);'), (84, 1, u'+          assert(ew.get());'), (108, 1, u'+      assert(false);'), (120, 1, u'+      assert(false);'), (132, 1, u'+    assert(ep);'), (151, 1, u'+            assert(false);'), (176, 1, u'+            assert(false);'), (201, 1, u'+          assert(ep);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 1, u'+  ASSERT_TRUE(v4addr.isV4());'), (43, 1, u'+  ASSERT_TRUE(v6map.isV6());'), (45, 1, u'+  ASSERT_TRUE(v6map.isIPv4Mapped());'), (85, 1, u'+    ASSERT_TRUE(net.first.isV4());'), (93, 1, u'+    ASSERT_TRUE(net.first.isV4());'), (101, 1, u'+    ASSERT_TRUE(net.first.isV6());'), (109, 1, u'+    ASSERT_TRUE(net.first.isV6());'), (122, 1, u'+    ASSERT_TRUE(net.first.isV4());'), (126, 1, u'+    ASSERT_TRUE(net.first.isV4());'), (133, 1, u'+    ASSERT_TRUE(net.first.isV6());'), (307, 1, u'+    ASSERT_TRUE(addr.isV4()); // test invariant'), (311, 1, u'+    ASSERT_TRUE(sockAddr.isV4());'), (320, 1, u'+    ASSERT_TRUE(addr.isV6()); // test invariant'), (324, 1, u'+    ASSERT_TRUE(sockAddr.isV6());'), (337, 1, u'+    ASSERT_EQ(AF_UNSPEC, addr.family());'), (554, 1, u'+    ASSERT_TRUE(genericAddr.isV4());'), (600, 1, u'+    ASSERT_TRUE(genericAddr.isV6());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(247, 1, u'+  ASSERT_EQ(5, n);'), (285, 1, u'+  ASSERT_EQ(NPOSTS, consumed);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(IsArenaAllocator<SysArena>::value, "");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: using namespace folly;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(IsArenaAllocator<SysArena>::value, "");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(IsArenaAllocator<SysArena>::value, "");')]
+===========================================
+Class:template <bool aligned, class T> template <bool aligned, class T>
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 1, u'+static_assert((-4) >> 1 == -2, "OH");')]
+===========================================
+===========================================
+Total add: 106
+Total del: 1
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 1, u'+static_assert((-4) >> 1 == -2, "OH");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 1, u'+static_assert((-4) >> 1 == -2, "OH");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(Future<void>),'), (5, 1, u'+  static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(Future<int>),')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(Future<void>),'), (5, 1, u'+  static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(Future<int>),')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(Future<void>),'), (5, 1, u'+  static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(Future<int>),')]
+===========================================
+Class:class Tr1FunctionLoopCallback : public EventBase::LoopCallback { class Tr1FunctionLoopCallback : public EventBase::LoopCallback 
+Class:template <typename Callback> class FunctionLoopCallback : public EventBase::LoopCallback { class FunctionLoopCallback : public EventBase::LoopCallback 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(v.max_size() == 10, "max_size is incorrect");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(v.max_size() == 10, "max_size is incorrect");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(v.max_size() == 10, "max_size is incorrect");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(v2.max_size() == 32, "max_size is incorrect");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(v2.max_size() == 32, "max_size is incorrect");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(v2.max_size() == 32, "max_size is incorrect");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(notsosmall.max_size() == sizeof(char*),')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(notsosmall.max_size() == sizeof(char*),')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  static_assert(notsosmall.max_size() == sizeof(char*),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(81, 1, u'+  assert(timeoutManager_ != nullptr);'), (104, 1, u'+  assert(timeoutManager_ == nullptr);'), (105, 1, u'+  assert(timeoutManager->isInTimeoutManagerThread());'), (139, 1, u'+  assert(fd == -1);'), (140, 1, u'+  assert(events == EV_TIMEOUT);'), (143, 1, u'+  assert((timeout->event_.ev_flags & ~EVLIST_INTERNAL) == EVLIST_INIT);')]
+===========================================
+Class:class Tr1FunctionLoopCallback : public EventBase::LoopCallback { class Tr1FunctionLoopCallback : public EventBase::LoopCallback 
+Class:class EventBase::FunctionRunner class EventBase::FunctionRunner
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(604, 1, u'+  assert(ev->ev_base == nullptr);'), (621, 1, u'+  assert(isInEventBaseThread());'), (637, 1, u'+  assert(isInEventBaseThread());'), (645, 1, u'+  assert(isInEventBaseThread());'), (656, 1, u'+  assert(isInEventBaseThread());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 1, u'+  assert(event_.ev_base != nullptr);'), (107, 1, u'+  assert(event_.ev_base == nullptr);'), (108, 1, u'+  assert(!isHandlerRegistered());'), (110, 1, u'+  assert(eventBase->isInEventBaseThread());'), (146, 1, u'+  assert(fd == handler->event_.ev_fd);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(std::unique_ptr<int>),')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: static_assert
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(std::unique_ptr<int>),')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(std::unique_ptr<int>),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(e == EAGAIN || e == ENOMEM);'), (4, 1, u'+    assert(errno == EAGAIN || errno == ENOMEM);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: MemoryIdler::unmapUnusedStack
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(e == EAGAIN || e == ENOMEM);'), (4, 1, u'+    assert(errno == EAGAIN || errno == ENOMEM);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(e == EAGAIN || e == ENOMEM);'), (4, 1, u'+    assert(errno == EAGAIN || errno == ENOMEM);')]
+===========================================
+Class:  class A {   class A 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+Total add: 20
+Total del: 0
+Header: const SymbolizePrinter::Color kFileColor = SymbolizePrinter::Color::DEFAULT;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: SymbolizePrinter::print
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+Class: class ThreadLocalPRNG::LocalInstancePRNG { class ThreadLocalPRNG::LocalInstancePRNG 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  static_assert(sizeof(HeapStorage) <= 64,')]
+===========================================
+===========================================
+Total add: 5
+Total del: 0
+Header: struct IOBuf::HeapStorage {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  static_assert(sizeof(HeapStorage) <= 64,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  static_assert(sizeof(HeapStorage) <= 64,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  assert(static_cast<bool>(flags & kFlagUserOwned) ==')]
+===========================================
+===========================================
+Total add: 1
+Total del: 5
+Header: IOBuf::IOBuf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  assert(static_cast<bool>(flags & kFlagUserOwned) ==')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  assert(static_cast<bool>(flags & kFlagUserOwned) ==')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(sharedInfo_ == nullptr);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: IOBuf::decrementRefcount
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(sharedInfo_ == nullptr);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(sharedInfo_ == nullptr);')]
+===========================================
+Class: class ElfCacheTest : public testing::Test { class ElfCacheTest : public testing::Test 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+  ASSERT_LE(4, goldenFrames.frameCount);'), (43, 1, u'+  ASSERT_LE(4, frames.frameCount);')]
+===========================================
+===========================================
+Total add: 64
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+  ASSERT_LE(4, goldenFrames.frameCount);'), (43, 1, u'+  ASSERT_LE(4, frames.frameCount);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+  ASSERT_LE(4, goldenFrames.frameCount);'), (43, 1, u'+  ASSERT_LE(4, frames.frameCount);')]
+===========================================
+Class:class TestIntSeq : public GenImpl<int, TestIntSeq> { class TestIntSeq : public GenImpl<int, TestIntSeq> 
+Class:class FileGenBufferedTest : public ::testing::TestWithParam<int> 
+Class:class TestIntSeq : public GenImpl<int, TestIntSeq> { class TestIntSeq : public GenImpl<int, TestIntSeq> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(60, 1, u'+    ASSERT_EQ(combined.size(), 3);'), (67, 1, u'+    ASSERT_FALSE(zippee.empty());'), (75, 1, u'+    ASSERT_EQ(combined.size(), 3);'), (85, 1, u'+    ASSERT_EQ(combined.size(), 1);'), (115, 1, u'+    | assert_type<tuple<tuple<int, string>, tuple<char>>>()'), (122, 1, u'+    | assert_type<tuple<int, string, char>&&>()'), (124, 1, u'+  ASSERT_EQ(zipped2.size(), 3);'), (130, 1, u'+    | assert_type<tuple<char, int, string>&&>()'), (132, 1, u'+  ASSERT_EQ(zipped3.size(), 3);'), (138, 1, u'+    | assert_type<tuple<int, string, double>&&>()'), (140, 1, u'+  ASSERT_EQ(zipped4.size(), 3);'), (145, 1, u'+    | assert_type<tuple<double, double>>()'), (147, 1, u'+    | assert_type<tuple<double, double>&&>()'), (149, 1, u'+  ASSERT_EQ(zipped5.size(), 5);'), (157, 1, u'+    | assert_type<tuple<int, string, char, double>&&>()'), (159, 1, u'+  ASSERT_EQ(zipped6.size(), 3);')]
+===========================================
+Class:class FileGenBufferedTest : public ::testing::TestWithParam<int> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(111, 1, u'+    assert(false);'), (115, 1, u'+  assert(addr != nullptr);'), (116, 1, u'+  assert(rawSize >= PTHREAD_STACK_MIN);'), (124, 1, u'+  assert(rawSize > guardSize);'), (130, 1, u'+  assert((tls_stackLimit & (s_pageSize - 1)) == 0);'), (149, 1, u'+  assert(sp >= tls_stackLimit);'), (150, 1, u'+  assert(sp - tls_stackLimit < tls_stackSize);'), (159, 1, u'+  assert((len & (s_pageSize - 1)) == 0);'), (167, 1, u'+    assert(e == EAGAIN || e == ENOMEM);')]
+===========================================
+Class: template <class T> class EliasFanoCodingTest : public ::testing::Test { class EliasFanoCodingTest : public ::testing::Test 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+    ASSERT_TRUE(ptr != nullptr);')]
+===========================================
+===========================================
+Total add: 41
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+    ASSERT_TRUE(ptr != nullptr);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+    ASSERT_TRUE(ptr != nullptr);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 2, u'-  assert(size <= kMaxIOBufSize);'), (97, 2, u'-    assert(iobuf->capacity() >= capacity);'), (168, 2, u'-  assert(end - int_.buf == kMaxInternalDataSize);'), (169, 2, u'-  assert(end - reinterpret_cast<uint8_t*>(this) == kMaxIOBufSize);'), (189, 2, u'-  assert(data >= buf);'), (190, 2, u'-  assert(data + length <= buf + capacity);'), (191, 2, u'-  assert(static_cast<bool>(flags & kFlagUserOwned) =='), (279, 2, u'-    assert((iobuf->flags_ & kFlagExt) == 0);'), (290, 2, u'-  assert(flags_ & kFlagExt);'), (319, 2, u'-  assert(isChained());'), (343, 2, u'-  assert(isChained());'), (344, 2, u'-  assert(length_ < maxLength);'), (358, 2, u'-  assert(length_ >= maxLength || !isChained());'), (384, 2, u'-    assert(current->length_ <= remaining);'), (390, 2, u'-  assert(remaining == 0);'), (417, 2, u'-  assert(flags_ & kFlagExt);'), (422, 2, u'-    assert(ext_.sharedInfo == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(86, 2, u'-  assert(head_);')]
+===========================================
+Class:  class MoveToFbStringTest   : public ::testing::TestWithParam<std::tr1::tuple<int, int, bool>> {   : public ::testing::TestWithParam<std::tr1::tuple<int, int, bool>> 
+Class: class Random { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(subDir_.empty());')]
+===========================================
+===========================================
+Total add: 5
+Total del: 0
+Header: Dwarf::Path::Path
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(subDir_.empty());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(subDir_.empty());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+      assert(false);')]
+===========================================
+Class:class LZMA2Codec FOLLY_FINAL : public Codec { class LZMA2Codec FOLLY_FINAL : public Codec 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(73, 1, u'+    static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+Total add: 54
+Total del: 22
+Header: SymbolizePrinter::print
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(73, 1, u'+    static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(73, 1, u'+    static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+Class:class StackTraceStack::Node : public StackTrace { class StackTraceStack::Node : public StackTrace 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(106, 1, u'+  assert(p);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+  static_assert(sizeof(uintptr_t) == sizeof(void*),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  ASSERT_TRUE(symbolizer.symbolize(a));'), (7, 1, u'+  ASSERT_TRUE(symbolizer.symbolize(reinterpret_cast<uintptr_t>(foo), a));')]
+===========================================
+===========================================
+Total add: 4
+Total del: 3
+Header: foo
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  ASSERT_TRUE(symbolizer.symbolize(a));'), (7, 1, u'+  ASSERT_TRUE(symbolizer.symbolize(reinterpret_cast<uintptr_t>(foo), a));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  ASSERT_TRUE(symbolizer.symbolize(a));'), (7, 1, u'+  ASSERT_TRUE(symbolizer.symbolize(reinterpret_cast<uintptr_t>(foo), a));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(530, 1, u'+  assert(counterAlignment >= sizeof(std::atomic<size_t>));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  assert(isChained());'), (7, 2, u'-  assert(length_ < maxLength);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: IOBuf::unshareChained
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  assert(isChained());'), (7, 2, u'-  assert(length_ < maxLength);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  assert(isChained());'), (7, 2, u'-  assert(length_ < maxLength);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-  assert(length_ >= maxLength || !isChained());')]
+===========================================
+===========================================
+Total add: 29
+Total del: 5
+Header: IOBuf::coalesceSlow
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-  assert(length_ >= maxLength || !isChained());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-  assert(length_ >= maxLength || !isChained());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(size <= kMaxIOBufSize);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(size <= kMaxIOBufSize);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(size <= kMaxIOBufSize);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-    assert(iobuf->capacity() >= capacity);')]
+===========================================
+===========================================
+Total add: 73
+Total del: 16
+Header: new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-    assert(iobuf->capacity() >= capacity);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-    assert(iobuf->capacity() >= capacity);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  assert(end - int_.buf == kMaxInternalDataSize);'), (9, 2, u'-  assert(end - reinterpret_cast<uint8_t*>(this) == kMaxIOBufSize);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 10
+Header: IOBuf::wrapBuffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  assert(end - int_.buf == kMaxInternalDataSize);'), (9, 2, u'-  assert(end - reinterpret_cast<uint8_t*>(this) == kMaxIOBufSize);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  assert(end - int_.buf == kMaxInternalDataSize);'), (9, 2, u'-  assert(end - reinterpret_cast<uint8_t*>(this) == kMaxIOBufSize);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 2, u'-    assert((iobuf->flags_ & kFlagExt) == 0);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 21
+Header: IOBuf::clone
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 2, u'-    assert((iobuf->flags_ & kFlagExt) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 2, u'-    assert((iobuf->flags_ & kFlagExt) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  assert(flags_ & kFlagExt);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 4
+Header: IOBuf::cloneOne
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  assert(flags_ & kFlagExt);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  assert(flags_ & kFlagExt);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(flags_ & kFlagExt);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: IOBuf::coalesceAndReallocate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(flags_ & kFlagExt);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(flags_ & kFlagExt);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(ext_.sharedInfo == NULL);'), (3, 1, u'+    assert(sharedInfo_ == nullptr);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: IOBuf::decrementRefcount
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(ext_.sharedInfo == NULL);'), (3, 1, u'+    assert(sharedInfo_ == nullptr);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(ext_.sharedInfo == NULL);'), (3, 1, u'+    assert(sharedInfo_ == nullptr);')]
+===========================================
+Class:class FatalSignalCallbackRegistry { class FatalSignalCallbackRegistry 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(188, 1, u'+  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+Total add: 234
+Total del: 26
+Header: Symbolizer::symbolize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(188, 1, u'+  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(188, 1, u'+  static_assert(sizeof(uintptr_t) <= 8, "huge uintptr_t?");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+  ASSERT_TRUE(symbolizer.symbolize(a));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(30, 1, u'+void assertionFailure(const char* expr, const char* msg, const char* file,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+TEST(SafeAssert, AssertionFailure) {')]
+===========================================
+Class:class DataHolder : private boost::noncopyable { class DataHolder : private boost::noncopyable 
+Class:class RandomDataHolder : public DataHolder { class RandomDataHolder : public DataHolder 
+Class:class ConstantDataHolder : public DataHolder { class ConstantDataHolder : public DataHolder 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-static_assert(!boost::has_trivial_copy<NontrivialType>::value,'), (4, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(NontrivialType),')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: struct NontrivialType {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-static_assert(!boost::has_trivial_copy<NontrivialType>::value,'), (4, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(NontrivialType),')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-static_assert(!boost::has_trivial_copy<NontrivialType>::value,'), (4, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(NontrivialType),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(NoncopyableCounter),')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: int NoncopyableCounter::alive = 0;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(NoncopyableCounter),')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(!FOLLY_IS_TRIVIALLY_COPYABLE(NoncopyableCounter),')]
+===========================================
+Class:class FillObject { class FillObject 
+Class:template <class T> class MmapAllocator { class MmapAllocator 
+Class:class NoCompressionCodec FOLLY_FINAL : public Codec { class NoCompressionCodec FOLLY_FINAL : public Codec 
+Class:class CompressionTest : public testing::TestWithParam< class CompressionTest : public testing::TestWithParam<
+Class:class CompressionCorruptionTest : public testing::TestWithParam<CodecType> { class CompressionCorruptionTest : public testing::TestWithParam<CodecType> 
+Class:class HoldsOne { class HoldsOne 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 1, u'+      ASSERT_GE(*pcount, 0)')]
+===========================================
+===========================================
+Total add: 38
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 1, u'+      ASSERT_GE(*pcount, 0)')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 1, u'+      ASSERT_GE(*pcount, 0)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(test2 == test);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 4
+Header: clause_21_3_1_a
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(test2 == test);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(test2 == test);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+  assert(tls_sem == nullptr);'), (42, 1, u'+  assert(tls_sched == nullptr);'), (52, 1, u'+  assert(tls_sched == this);'), (53, 1, u'+  assert(sems_.size() == 1);'), (54, 1, u'+  assert(sems_[0] == tls_sem);'), (103, 1, u'+    assert(perm_.size() == numActive);'), (149, 1, u'+  assert(tls_sem == nullptr);'), (150, 1, u'+  assert(tls_sched == nullptr);'), (165, 1, u'+  assert(tls_sched == this);'), (207, 1, u'+    assert(errno == EAGAIN);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(483, 1, u'+    assert(lc_outstanding() >= 0);'), (484, 1, u'+    assert(constructed);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(')]
+===========================================
+===========================================
+Total add: 5
+Total del: 0
+Header: using namespace folly;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+    ASSERT_EQ(combined.size(), 3);'), (36, 1, u'+    ASSERT_FALSE(zippee.empty());'), (44, 1, u'+    ASSERT_EQ(combined.size(), 3);'), (54, 1, u'+    ASSERT_EQ(combined.size(), 1);'), (84, 1, u'+    | assert_type<tuple<tuple<int, string>, tuple<char>>>()'), (91, 1, u'+    | assert_type<tuple<int, string, char>&&>()'), (93, 1, u'+  ASSERT_EQ(zipped2.size(), 3);'), (99, 1, u'+    | assert_type<tuple<char, int, string>&&>()'), (101, 1, u'+  ASSERT_EQ(zipped3.size(), 3);'), (107, 1, u'+    | assert_type<tuple<int, string, double>&&>()'), (109, 1, u'+  ASSERT_EQ(zipped4.size(), 3);'), (114, 1, u'+    | assert_type<tuple<double, double>>()'), (116, 1, u'+    | assert_type<tuple<double, double>&&>()'), (118, 1, u'+  ASSERT_EQ(zipped5.size(), 5);'), (126, 1, u'+    | assert_type<tuple<int, string, char, double>&&>()'), (128, 1, u'+  ASSERT_EQ(zipped6.size(), 3);')]
+===========================================
+===========================================
+Total add: 130
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+    ASSERT_EQ(combined.size(), 3);'), (36, 1, u'+    ASSERT_FALSE(zippee.empty());'), (44, 1, u'+    ASSERT_EQ(combined.size(), 3);'), (54, 1, u'+    ASSERT_EQ(combined.size(), 1);'), (84, 1, u'+    | assert_type<tuple<tuple<int, string>, tuple<char>>>()'), (91, 1, u'+    | assert_type<tuple<int, string, char>&&>()'), (93, 1, u'+  ASSERT_EQ(zipped2.size(), 3);'), (99, 1, u'+    | assert_type<tuple<char, int, string>&&>()'), (101, 1, u'+  ASSERT_EQ(zipped3.size(), 3);'), (107, 1, u'+    | assert_type<tuple<int, string, double>&&>()'), (109, 1, u'+  ASSERT_EQ(zipped4.size(), 3);'), (114, 1, u'+    | assert_type<tuple<double, double>>()'), (116, 1, u'+    | assert_type<tuple<double, double>&&>()'), (118, 1, u'+  ASSERT_EQ(zipped5.size(), 5);'), (126, 1, u'+    | assert_type<tuple<int, string, char, double>&&>()'), (128, 1, u'+  ASSERT_EQ(zipped6.size(), 3);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+    ASSERT_EQ(combined.size(), 3);'), (36, 1, u'+    ASSERT_FALSE(zippee.empty());'), (44, 1, u'+    ASSERT_EQ(combined.size(), 3);'), (54, 1, u'+    ASSERT_EQ(combined.size(), 1);'), (84, 1, u'+    | assert_type<tuple<tuple<int, string>, tuple<char>>>()'), (91, 1, u'+    | assert_type<tuple<int, string, char>&&>()'), (93, 1, u'+  ASSERT_EQ(zipped2.size(), 3);'), (99, 1, u'+    | assert_type<tuple<char, int, string>&&>()'), (101, 1, u'+  ASSERT_EQ(zipped3.size(), 3);'), (107, 1, u'+    | assert_type<tuple<int, string, double>&&>()'), (109, 1, u'+  ASSERT_EQ(zipped4.size(), 3);'), (114, 1, u'+    | assert_type<tuple<double, double>>()'), (116, 1, u'+    | assert_type<tuple<double, double>&&>()'), (118, 1, u'+  ASSERT_EQ(zipped5.size(), 5);'), (126, 1, u'+    | assert_type<tuple<int, string, char, double>&&>()'), (128, 1, u'+  ASSERT_EQ(zipped6.size(), 3);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+  m | member(&Counter::incr) | assert_type<int&&>();'), (34, 1, u'+  m | member(&Counter::count) | assert_type<int&&>();'), (35, 1, u'+  m | member(&Counter::count) | assert_type<int&&>();'), (36, 1, u'+  m | member<Const>(&Counter::ref) | assert_type<const int&>();'), (37, 1, u'+  m | member<Mutable>(&Counter::ref) | assert_type<int&>();'), (38, 1, u'+  c | member<Const>(&Counter::ref) | assert_type<const int&>();'), (62, 1, u'+  empty<X&>() | field(&X::a) | assert_type<const int&>();'), (63, 1, u'+  empty<X&>() | field(&X::b) | assert_type<int&>();'), (64, 1, u'+  empty<X&>() | field(&X::c) | assert_type<int&>();'), (65, 1, u'+  empty<X&&>() | field(&X::a) | assert_type<const int&&>();'), (66, 1, u'+  empty<X&&>() | field(&X::b) | assert_type<int&&>();'), (67, 1, u'+  empty<X&&>() | field(&X::c) | assert_type<int&&>();'), (69, 1, u'+  empty<const X&>() | field(&X::a) | assert_type<const int&>();'), (70, 1, u'+  empty<const X&>() | field(&X::b) | assert_type<const int&>();'), (72, 1, u'+  empty<const X&>() | field(&X::c) | assert_type<const int&>();')]
+===========================================
+===========================================
+Total add: 75
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+  m | member(&Counter::incr) | assert_type<int&&>();'), (34, 1, u'+  m | member(&Counter::count) | assert_type<int&&>();'), (35, 1, u'+  m | member(&Counter::count) | assert_type<int&&>();'), (36, 1, u'+  m | member<Const>(&Counter::ref) | assert_type<const int&>();'), (37, 1, u'+  m | member<Mutable>(&Counter::ref) | assert_type<int&>();'), (38, 1, u'+  c | member<Const>(&Counter::ref) | assert_type<const int&>();'), (62, 1, u'+  empty<X&>() | field(&X::a) | assert_type<const int&>();'), (63, 1, u'+  empty<X&>() | field(&X::b) | assert_type<int&>();'), (64, 1, u'+  empty<X&>() | field(&X::c) | assert_type<int&>();'), (65, 1, u'+  empty<X&&>() | field(&X::a) | assert_type<const int&&>();'), (66, 1, u'+  empty<X&&>() | field(&X::b) | assert_type<int&&>();'), (67, 1, u'+  empty<X&&>() | field(&X::c) | assert_type<int&&>();'), (69, 1, u'+  empty<const X&>() | field(&X::a) | assert_type<const int&>();'), (70, 1, u'+  empty<const X&>() | field(&X::b) | assert_type<const int&>();'), (72, 1, u'+  empty<const X&>() | field(&X::c) | assert_type<const int&>();')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+  m | member(&Counter::incr) | assert_type<int&&>();'), (34, 1, u'+  m | member(&Counter::count) | assert_type<int&&>();'), (35, 1, u'+  m | member(&Counter::count) | assert_type<int&&>();'), (36, 1, u'+  m | member<Const>(&Counter::ref) | assert_type<const int&>();'), (37, 1, u'+  m | member<Mutable>(&Counter::ref) | assert_type<int&>();'), (38, 1, u'+  c | member<Const>(&Counter::ref) | assert_type<const int&>();'), (62, 1, u'+  empty<X&>() | field(&X::a) | assert_type<const int&>();'), (63, 1, u'+  empty<X&>() | field(&X::b) | assert_type<int&>();'), (64, 1, u'+  empty<X&>() | field(&X::c) | assert_type<int&>();'), (65, 1, u'+  empty<X&&>() | field(&X::a) | assert_type<const int&&>();'), (66, 1, u'+  empty<X&&>() | field(&X::b) | assert_type<int&&>();'), (67, 1, u'+  empty<X&&>() | field(&X::c) | assert_type<int&&>();'), (69, 1, u'+  empty<const X&>() | field(&X::a) | assert_type<const int&>();'), (70, 1, u'+  empty<const X&>() | field(&X::b) | assert_type<const int&>();'), (72, 1, u'+  empty<const X&>() | field(&X::c) | assert_type<const int&>();')]
+===========================================
+Class:class Reader { class Reader 
+Class:class FileUtilTest : public ::testing::Test { class FileUtilTest : public ::testing::Test 
+Class: class IovecBuffers { class IovecBuffers 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(65, 1, u'+    ASSERT_FALSE(it == reader.end());'), (67, 1, u'+    ASSERT_FALSE(it == reader.end());'), (79, 1, u'+    ASSERT_FALSE(it == reader.end());'), (81, 1, u'+    ASSERT_FALSE(it == reader.end());'), (83, 1, u'+    ASSERT_FALSE(it == reader.end());'), (85, 1, u'+    ASSERT_FALSE(it == reader.end());'), (106, 1, u'+      ASSERT_FALSE(it == reader.end());'), (130, 1, u'+    ASSERT_FALSE(it == reader.end());'), (132, 1, u'+    ASSERT_FALSE(it == reader.end());'), (134, 1, u'+    ASSERT_FALSE(it == reader.end());'), (141, 1, u'+    ASSERT_FALSE(it == reader.end());'), (143, 1, u'+    ASSERT_FALSE(it == reader.end());'), (150, 1, u'+    ASSERT_FALSE(it == reader.end());'), (178, 1, u'+    ASSERT_FALSE(it == reader.end());'), (180, 1, u'+    ASSERT_FALSE(it == reader.end());'), (258, 1, u'+      ASSERT_LT(i, records.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(76, 1, u'+  ASSERT_TRUE(fp != nullptr);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  ASSERT_NE(nullptr, i.get());'), (11, 1, u'+  ASSERT_EQ(nullptr, i.get());'), (16, 1, u'+  ASSERT_NE(nullptr, d.get());'), (19, 1, u'+  ASSERT_EQ(nullptr, d.get());'), (24, 1, u'+  ASSERT_NE(nullptr, s.get());'), (27, 1, u'+  ASSERT_EQ(nullptr, s.get());')]
+===========================================
+===========================================
+Total add: 28
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  ASSERT_NE(nullptr, i.get());'), (11, 1, u'+  ASSERT_EQ(nullptr, i.get());'), (16, 1, u'+  ASSERT_NE(nullptr, d.get());'), (19, 1, u'+  ASSERT_EQ(nullptr, d.get());'), (24, 1, u'+  ASSERT_NE(nullptr, s.get());'), (27, 1, u'+  ASSERT_EQ(nullptr, s.get());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  ASSERT_NE(nullptr, i.get());'), (11, 1, u'+  ASSERT_EQ(nullptr, i.get());'), (16, 1, u'+  ASSERT_NE(nullptr, d.get());'), (19, 1, u'+  ASSERT_EQ(nullptr, d.get());'), (24, 1, u'+  ASSERT_NE(nullptr, s.get());'), (27, 1, u'+  ASSERT_EQ(nullptr, s.get());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+  ASSERT_NE(nullptr, i.get());'), (14, 1, u'+  ASSERT_EQ(nullptr, i.get());')]
+===========================================
+===========================================
+Total add: 15
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+  ASSERT_NE(nullptr, i.get());'), (14, 1, u'+  ASSERT_EQ(nullptr, i.get());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+  ASSERT_NE(nullptr, i.get());'), (14, 1, u'+  ASSERT_EQ(nullptr, i.get());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+  ASSERT_EQ(SIGKILL, proc.wait().killSignal());')]
+===========================================
+===========================================
+Total add: 29
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+  ASSERT_EQ(SIGKILL, proc.wait().killSignal());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+  ASSERT_EQ(SIGKILL, proc.wait().killSignal());')]
+===========================================
+Class: class ElfTest : public ::testing::Test { class ElfTest : public ::testing::Test 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(kMinPageSize >= 16,')]
+===========================================
+===========================================
+Total add: 9
+Total del: 4
+Header: namespace {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(kMinPageSize >= 16,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+static_assert(kMinPageSize >= 16,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(toFill);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 0
+Header: randomString
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(toFill);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(toFill);')]
+===========================================
+Class: class TestHasher { class TestHasher 
+Class: class ContainsOptional { class ContainsOptional 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+  ASSERT_TRUE(optStr.hasValue());'), (16, 1, u'+  ASSERT_TRUE(optStr2.hasValue());'), (25, 1, u'+  ASSERT_TRUE(optStr3.hasValue());'), (34, 1, u'+  ASSERT_TRUE(optIntPtr.hasValue());')]
+===========================================
+===========================================
+Total add: 35
+Total del: 0
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+  ASSERT_TRUE(optStr.hasValue());'), (16, 1, u'+  ASSERT_TRUE(optStr2.hasValue());'), (25, 1, u'+  ASSERT_TRUE(optStr3.hasValue());'), (34, 1, u'+  ASSERT_TRUE(optIntPtr.hasValue());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+  ASSERT_TRUE(optStr.hasValue());'), (16, 1, u'+  ASSERT_TRUE(optStr2.hasValue());'), (25, 1, u'+  ASSERT_TRUE(optStr3.hasValue());'), (34, 1, u'+  ASSERT_TRUE(optIntPtr.hasValue());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  ASSERT_LE(contents.size(), kPageSize);'), (14, 1, u'+    ASSERT_FALSE(true);'), (30, 1, u'+        ASSERT_TRUE(!s1.empty());')]
+===========================================
+===========================================
+Total add: 57
+Total del: 0
+Header: TYPED_TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  ASSERT_LE(contents.size(), kPageSize);'), (14, 1, u'+    ASSERT_FALSE(true);'), (30, 1, u'+        ASSERT_TRUE(!s1.empty());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+  ASSERT_LE(contents.size(), kPageSize);'), (14, 1, u'+    ASSERT_FALSE(true);'), (30, 1, u'+        ASSERT_TRUE(!s1.empty());')]
+===========================================
+Class:class TemporaryFile { class TemporaryFile 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 1, u'+  assert(size <= kMaxIOBufSize);'), (97, 1, u'+    assert(iobuf->capacity() >= capacity);'), (168, 1, u'+  assert(end - int_.buf == kMaxInternalDataSize);'), (169, 1, u'+  assert(end - reinterpret_cast<uint8_t*>(this) == kMaxIOBufSize);'), (189, 1, u'+  assert(data >= buf);'), (190, 1, u'+  assert(data + length <= buf + capacity);'), (191, 1, u'+  assert(static_cast<bool>(flags & kFlagUserOwned) =='), (279, 1, u'+    assert((iobuf->flags_ & kFlagExt) == 0);'), (290, 1, u'+  assert(flags_ & kFlagExt);'), (319, 1, u'+  assert(isChained());'), (343, 1, u'+  assert(isChained());'), (344, 1, u'+  assert(length_ < maxLength);'), (358, 1, u'+  assert(length_ >= maxLength || !isChained());'), (384, 1, u'+    assert(current->length_ <= remaining);'), (390, 1, u'+  assert(remaining == 0);'), (417, 1, u'+  assert(flags_ & kFlagExt);'), (422, 1, u'+    assert(ext_.sharedInfo == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(86, 1, u'+  assert(head_);')]
+===========================================
+Class:  class MoveToFbStringTest   : public ::testing::TestWithParam<std::tr1::tuple<int, int, bool>> {   : public ::testing::TestWithParam<std::tr1::tuple<int, int, bool>> 
+Class:class FastByteSet { class FastByteSet 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(test1.size() == strlen(test1.c_str()));'), (3, 1, u'+  assert(test1.size() == char_traits')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: clause_21_3_5_a
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(test1.size() == strlen(test1.c_str()));'), (3, 1, u'+  assert(test1.size() == char_traits')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(test1.size() == strlen(test1.c_str()));'), (3, 1, u'+  assert(test1.size() == char_traits')]
+===========================================
+Class: class IntPaddedTestBase : public ::testing::Test { class IntPaddedTestBase : public ::testing::Test 
+Class: class IntPaddedConstTest : public IntPaddedTestBase { class IntPaddedConstTest : public IntPaddedTestBase 
+Class: class IntPaddedNonConstTest : public IntPaddedTestBase { class IntPaddedNonConstTest : public IntPaddedTestBase 
+Class: class StructPaddedTestBase : public ::testing::Test { class StructPaddedTestBase : public ::testing::Test 
+Class: class StructPaddedConstTest : public StructPaddedTestBase { class StructPaddedConstTest : public StructPaddedTestBase 
+Class: class IntAdaptorTest : public IntPaddedConstTest { class IntAdaptorTest : public IntPaddedConstTest 
+Class: template <class Vector> class DataState { class DataState 
+Class:  template <typename It, class tag> class Transformer : public boost::iterator_adaptor<                             Transformer<It, tag>,                             It,                             typename iterator_traits<It>::value_type,                             tag                            > {                            > 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(705, 1, u'+  ASSERT_GE(tot, 0) << "more objects deleted than constructed";'), (707, 1, u'+  ASSERT_EQ(tot, Tracker::UIDTotal)'), (712, 1, u'+    ASSERT_TRUE(kv.second >= 0) << "there exists " << kv.second << " Data "'), (716, 1, u'+  ASSERT_EQ(tot, altTot) << "UIDCount corrupted";'), (719, 1, u'+    ASSERT_EQ(tot, Tracker::Locations.size())'), (722, 1, u'+      ASSERT_EQ(du.second, du.first->uid) << "Locations contains wrong uid";'), (723, 1, u'+      ASSERT_EQ(du.first, du.first->self) << "Data.self is corrupted";'), (1176, 1, u'+  for (int j_c = 0; j_c < 12; ++j_c) ASSERT_EQ(ijarC[j_c], ijarr[j_c]);'), (1286, 1, u'+  ASSERT_TRUE(v.begin() <= v.end()) << "end is before begin";'), (1287, 1, u'+  ASSERT_TRUE(v.empty() == (v.begin() == v.end())) << "empty != (begin == end)";'), (1288, 1, u'+  ASSERT_TRUE(v.size() == distance(v.begin(), v.end()))'), (1290, 1, u'+  ASSERT_TRUE(v.size() <= v.capacity()) << "size > capacity";'), (1291, 1, u'+  ASSERT_TRUE(v.capacity() <= v.max_size()) << "capacity > max_size";'), (1292, 1, u"+  ASSERT_TRUE(v.data() || true); // message won't print - it will just crash"), (1293, 1, u'+  ASSERT_TRUE(v.size() == 0 || v.data() != nullptr)'), (1298, 1, u'+  ASSERT_EQ(ele, AllocTracker::Constructed - AllocTracker::Destroyed);'), (1303, 1, u'+  ASSERT_EQ(cap, tot) << "the allocator counts " << tot << " space, "'), (1311, 1, u'+    ASSERT_EQ(0 + extras, getTotal()) << "there exist Data but no vectors";'), (1320, 1, u'+    ASSERT_EQ(v.size() + extras, getTotal())'), (1337, 1, u'+    ASSERT_EQ(size + extras, getTotal()) << "not all Data are in the vector(s)";'), (1463, 1, u'+  static_assert(is_same<T, typename Vector::value_type>::value,'), (1465, 1, u'+  static_assert(is_same<T&, typename Vector::reference>::value,'), (1467, 1, u'+  static_assert(is_same<const T&, typename Vector::const_reference>::value,'), (1469, 1, u'+  static_assert(is_convertible<'), (1473, 1, u'+  static_assert(is_same<T,'), (1476, 1, u'+  static_assert(is_convertible<'), (1481, 1, u'+  static_assert(is_same<T,'), (1485, 1, u'+  static_assert(is_convertible<'), (1488, 1, u'+  static_assert(is_signed<typename Vector::difference_type>::value,'), (1490, 1, u'+  static_assert(is_same<typename Vector::difference_type,'), (1494, 1, u'+  static_assert(is_same<typename Vector::difference_type,'), (1498, 1, u'+  static_assert(is_unsigned<typename Vector::size_type>::value,'), (1500, 1, u'+  static_assert(sizeof(typename Vector::size_type) >='), (1508, 1, u'+  ASSERT_TRUE(u.get_allocator() == Allocator());'), (1509, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (1511, 1, u'+  ASSERT_TRUE(u.empty()) << u.size();'), (1512, 1, u'+  ASSERT_EQ(0, u.capacity());'), (1524, 1, u'+  ASSERT_EQ(0, u.size());'), (1525, 1, u'+  ASSERT_EQ(nullptr, u.data());'), (1528, 1, u'+  ASSERT_EQ(1, u.size());'), (1529, 1, u'+  ASSERT_LT(u.capacity(), 100)'), (1531, 1, u'+  ASSERT_NE(nullptr, u.data());'), (1532, 1, u'+  ASSERT_EQ(17, convertToInt(u.data()[0]))'), (1539, 1, u'+      ASSERT_EQ(cap, u.capacity()) << "Vector grew when it did not need to";'), (1540, 1, u'+      ASSERT_EQ(22, convertToInt(u.data()[u.size() - 1]))'), (1544, 1, u'+    ASSERT_EQ(cap, u.size());'), (1547, 1, u'+    ASSERT_GT(u.capacity(), cap) << "capacity did not grow on overflow";'), (1548, 1, u'+    ASSERT_EQ(cap + 1, u.size());'), (1549, 1, u'+    ASSERT_EQ(4, convertToInt(u.data()[u.size() - 1]))'), (1562, 1, u'+  ASSERT_TRUE(std::allocator_traits<Allocator>::'), (1564, 1, u'+  ASSERT_TRUE(dsa == u);'), (1565, 1, u'+  ASSERT_TRUE('), (1582, 1, u'+  ASSERT_TRUE(m == u.get_allocator());'), (1583, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (1585, 1, u'+  ASSERT_TRUE(dsa == u);'), (1601, 1, u'+    ASSERT_TRUE(bm == a.get_allocator());'), (1603, 1, u'+    ASSERT_TRUE(am == a.get_allocator());'), (1605, 1, u'+  ASSERT_TRUE(&ret == &a);'), (1606, 1, u'+  ASSERT_TRUE(&a == &b || dsb == a) << "move assignment did not create a copy";'), (1625, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (1627, 1, u'+  ASSERT_TRUE(dsa == a) << "call to begin or end modified internal data";'), (1629, 1, u'+  ASSERT_TRUE(citb == Citb) << "cv.begin != v.cbegin";'), (1630, 1, u'+  ASSERT_TRUE(cite == Cite) << "cv.end != v.cend";'), (1633, 1, u'+    ASSERT_TRUE( itb ==  ite) << "begin != end when empty";'), (1634, 1, u'+    ASSERT_TRUE(Citb == Cite) << "cbegin != cend when empty";'), (1636, 1, u'+    ASSERT_TRUE( itb !=  ite) << "begin == end when non-empty";'), (1637, 1, u'+    ASSERT_TRUE(Citb != Cite) << "cbegin == cend when non-empty";'), (1642, 1, u'+  ASSERT_TRUE( dist == ca.size()) << "distance(begin, end) != size";'), (1643, 1, u'+  ASSERT_TRUE(Cdist == ca.size()) << "distance(cbegin, cend) != size";'), (1652, 1, u'+  ASSERT_TRUE((bool)(ca == cb) == (bool)(dsa == dsb))'), (1654, 1, u'+  ASSERT_TRUE((bool)(ca == cb) != (bool)(ca != cb))'), (1684, 1, u'+    ASSERT_TRUE(bm == a.get_allocator());'), (1685, 1, u'+    ASSERT_TRUE(am == b.get_allocator());'), (1687, 1, u'+    ASSERT_TRUE(am == a.get_allocator());'), (1688, 1, u'+    ASSERT_TRUE(bm == b.get_allocator());'), (1690, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (1692, 1, u'+  ASSERT_TRUE(adata == b.data() && bdata == a.data());'), (1693, 1, u'+  ASSERT_TRUE(dsa == b && dsb == a) << "swap did not swap";'), (1720, 1, u'+    ASSERT_TRUE(bm == a.get_allocator());'), (1721, 1, u'+    ASSERT_TRUE(am == b.get_allocator());'), (1723, 1, u'+    ASSERT_TRUE(am == a.get_allocator());'), (1724, 1, u'+    ASSERT_TRUE(bm == b.get_allocator());'), (1726, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (1728, 1, u'+  ASSERT_TRUE(adata == b.data() && bdata == a.data());'), (1729, 1, u'+  ASSERT_TRUE(dsa == b && dsb == a) << "swap did not swap";'), (1755, 1, u'+    ASSERT_TRUE(bm == a.get_allocator());'), (1757, 1, u'+    ASSERT_TRUE(am == a.get_allocator());'), (1759, 1, u'+  ASSERT_TRUE(&ret == &a);'), (1760, 1, u'+  ASSERT_TRUE(dsb == a) << "copy-assign not equal to original";'), (1772, 1, u'+  static_assert(is_same<typename Vector::reverse_iterator,'), (1775, 1, u'+  static_assert(is_same<typename Vector::const_reverse_iterator,'), (1792, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (1794, 1, u'+  ASSERT_TRUE(ds == a) << "call to rbegin or rend modified internal data";'), (1796, 1, u'+  ASSERT_TRUE(critb == Critb) << "cv.rbegin != v.crbegin";'), (1797, 1, u'+  ASSERT_TRUE(crite == Crite) << "cv.rend != v.crend";'), (1800, 1, u'+    ASSERT_TRUE( ritb ==  rite) << "rbegin != rend when empty";'), (1801, 1, u'+    ASSERT_TRUE(Critb == Crite) << "crbegin != crend when empty";'), (1803, 1, u'+    ASSERT_TRUE( ritb !=  rite) << "rbegin == rend when non-empty";'), (1804, 1, u'+    ASSERT_TRUE(Critb != Crite) << "crbegin == crend when non-empty";'), (1809, 1, u'+  ASSERT_TRUE( dist == ca.size()) << "distance(rbegin, rend) != size";'), (1810, 1, u'+  ASSERT_TRUE(Cdist == ca.size()) << "distance(crbegin, crend) != size";'), (1824, 1, u'+  ASSERT_TRUE(v1 < v2);'), (1825, 1, u'+  ASSERT_TRUE(v1 > v3);'), (1826, 1, u'+  ASSERT_TRUE(v1 > v4);'), (1827, 1, u'+  ASSERT_TRUE(v1 > v5);'), (1828, 1, u'+  ASSERT_TRUE(v1 <= v6);'), (1829, 1, u'+  ASSERT_TRUE(v1 >= v6);'), (1836, 1, u'+  static_assert(is_same<T, typename Vector::allocator_type::value_type>::value,'), (1853, 1, u'+  ASSERT_TRUE(u.get_allocator() == m);'), (1867, 1, u'+  ASSERT_TRUE(u.get_allocator() == m);'), (1868, 1, u'+  ASSERT_TRUE(dsa == u);'), (1869, 1, u'+  ASSERT_TRUE('), (1889, 1, u'+  ASSERT_TRUE(u.get_allocator() == m);'), (1893, 1, u'+      ASSERT_EQ(osize, AllocTracker::Constructed - oalloc);'), (1896, 1, u'+    ASSERT_EQ(0, Counter::CountTotalOps);'), (1910, 1, u'+  ASSERT_TRUE(m == u.get_allocator());'), (1920, 1, u'+  ASSERT_TRUE(m == u.get_allocator());'), (1933, 1, u'+  ASSERT_TRUE(m == u.get_allocator());'), (1950, 1, u'+  ASSERT_TRUE(m == u.get_allocator());'), (1961, 1, u'+  ASSERT_TRUE(m == u.get_allocator());'), (1994, 1, u'+  ASSERT_TRUE(Allocator() == u.get_allocator());'), (1995, 1, u'+  ASSERT_EQ(n, u.size());'), (1996, 1, u'+  ASSERT_EQ(Counter::CountTotalOps, Counter::CountDC);'), (2005, 1, u'+  ASSERT_TRUE(Allocator() == u.get_allocator());'), (2006, 1, u'+  ASSERT_EQ(n, u.size()) << "Vector(n, t).size() != n" << endl;'), (2007, 1, u'+  for (const auto& val : u) ASSERT_EQ(convertToInt(t), convertToInt(val))'), (2023, 1, u'+  ASSERT_TRUE(Allocator() == u.get_allocator());'), (2024, 1, u'+  ASSERT_LE(Counter::CountTotalOps, j-i);'), (2026, 1, u'+  ASSERT_EQ(j - i, u.size()) << "u(i,j).size() != j-i";'), (2028, 1, u'+    ASSERT_EQ(*i, convertToInt(*it)) << "u(i,j) constructed incorrectly";'), (2044, 1, u'+  ASSERT_TRUE(Allocator() == u.get_allocator());'), (2045, 1, u'+  ASSERT_EQ(j - i, u.size()) << "u(i,j).size() != j-i";'), (2047, 1, u'+    ASSERT_EQ(*i, convertToInt(*it)) << "u(i,j) constructed incorrectly";'), (2059, 1, u'+  ASSERT_TRUE(Allocator() == u.get_allocator());'), (2060, 1, u'+  ASSERT_EQ(3, u.size()) << "u(il).size() fail";'), (2064, 1, u'+    ASSERT_EQ(i, convertToInt(*it)) << "u(il) constructed incorrectly";'), (2079, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2080, 1, u'+  ASSERT_TRUE(&b == &a) << "\'a = ...\' did not return *this";'), (2082, 1, u'+  ASSERT_EQ(3, a.size()) << "u(il).size() fail";'), (2086, 1, u'+    ASSERT_EQ(i, convertToInt(*it)) << "u(il) constructed incorrectly";'), (2095, 1, u'+  ASSERT_EQ(dsa.size() + n, a.size());'), (2098, 1, u'+    ASSERT_EQ(dsa[i], convertToInt(a.data()[i])) << i;'), (2101, 1, u'+    ASSERT_EQ(val, convertToInt(a.data()[i])) << i;'), (2104, 1, u'+    ASSERT_EQ(dsa[i-n], convertToInt(a.data()[i])) << i;'), (2116, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2117, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), q)) << "incorrect iterator returned";'), (2131, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2132, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), q)) << "incorrect iterator returned";'), (2148, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2149, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), q)) << "incorrect iterator returned";'), (2167, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2169, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), q)) << "incorrect iterator returned";'), (2178, 1, u'+  ASSERT_EQ(dsa.size() + (e - b), a.size());'), (2181, 1, u'+    ASSERT_EQ(dsa[i], convertToInt(a.data()[i]));'), (2184, 1, u'+    ASSERT_EQ(*(b + i - idx), convertToInt(a.data()[i]));'), (2187, 1, u'+    ASSERT_EQ(dsa[i - (e - b)], convertToInt(a.data()[i]));'), (2208, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2210, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), q)) << "incorrect iterator returned";'), (2233, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2235, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), q)) << "incorrect iterator returned";'), (2259, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2261, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), q)) << "incorrect iterator returned";'), (2272, 1, u'+  ASSERT_EQ(dsa.size() - n, a.size());'), (2277, 1, u'+    ASSERT_EQ(dsa[i], convertToInt(*it));'), (2290, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2291, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), rit)) << "wrong iterator returned";'), (2305, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2306, 1, u'+  ASSERT_EQ(idx, distance(a.begin(), rit)) << "wrong iterator returned";'), (2323, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2324, 1, u'+  ASSERT_TRUE(a.empty());'), (2336, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2337, 1, u'+  ASSERT_EQ(distance(i, j), a.size());'), (2339, 1, u'+    ASSERT_EQ(*i, convertToInt(*it));'), (2352, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2353, 1, u'+  ASSERT_EQ(distance(i, j), a.size());'), (2355, 1, u'+    ASSERT_EQ(*i, convertToInt(*it));'), (2371, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2375, 1, u'+  ASSERT_EQ(3, a.size());'), (2377, 1, u'+    ASSERT_EQ(*i, convertToInt(*it));'), (2388, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2389, 1, u'+  ASSERT_EQ(n, a.size());'), (2391, 1, u'+    ASSERT_EQ(tval, convertToInt(*it));'), (2397, 1, u'+  ASSERT_TRUE(addressof(a.front()) == a.data());'), (2399, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (2411, 1, u'+  ASSERT_TRUE(addressof(a.back()) == a.data() + a.size() - 1);'), (2413, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (2432, 1, u'+    ASSERT_TRUE(dsa == a) << "failed strong exception guarantee";'), (2436, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2437, 1, u'+  if (excess > 0) ASSERT_TRUE(a.data() == adata) << "unnecessary relocation";'), (2438, 1, u'+  ASSERT_EQ(dsa.size() + 1, a.size());'), (2442, 1, u'+    ASSERT_EQ(dsa[i], convertToInt(*it));'), (2443, 1, u'+  ASSERT_EQ(44, convertToInt(a.back()));'), (2457, 1, u'+    ASSERT_TRUE(dsa == a) << "failed strong exception guarantee";'), (2461, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2462, 1, u'+  if (excess > 0) ASSERT_TRUE(a.data() == adata) << "unnecessary relocation";'), (2463, 1, u'+  ASSERT_EQ(dsa.size() + 1, a.size());'), (2467, 1, u'+    ASSERT_EQ(dsa[i], convertToInt(*it));'), (2468, 1, u'+  ASSERT_EQ(tval, convertToInt(a.back()));'), (2482, 1, u'+    ASSERT_TRUE(dsa == a) << "failed strong exception guarantee";'), (2486, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2487, 1, u'+  if (excess > 0) ASSERT_TRUE(a.data() == adata) << "unnecessary relocation";'), (2488, 1, u'+  ASSERT_EQ(dsa.size() + 1, a.size());'), (2492, 1, u'+    ASSERT_EQ(dsa[i], convertToInt(*it));'), (2493, 1, u'+  ASSERT_EQ(tval, convertToInt(a.back()));'), (2504, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2505, 1, u'+  ASSERT_EQ(dsa.size() - 1, a.size());'), (2509, 1, u'+    ASSERT_EQ(dsa[i], convertToInt(*it));'), (2515, 1, u'+    ASSERT_TRUE(addressof(ca[i]) == ca.data()+i);'), (2517, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (2527, 1, u'+    ASSERT_TRUE(addressof(ca.at(i)) == ca.data()+i);'), (2529, 1, u'+  ASSERT_EQ(0, Counter::CountTotalOps);'), (2581, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2583, 1, u'+    ASSERT_EQ(0, Counter::CountTotalOps);'), (2584, 1, u'+    ASSERT_TRUE(adata == a.data());'), (2586, 1, u'+    ASSERT_TRUE(a.capacity() >= n);'), (2587, 1, u'+    ASSERT_LE(Counter::CountTotalOps, 2*a.size()); // move and delete'), (2613, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2614, 1, u'+  ASSERT_EQ(n, a.size());'), (2618, 1, u'+      ASSERT_EQ(dsa[i], convertToInt(a[i]));'), (2622, 1, u'+      ASSERT_EQ(dsa[i], convertToInt(a[i]));'), (2640, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2641, 1, u'+  ASSERT_EQ(n, a.size());'), (2645, 1, u'+      ASSERT_EQ(dsa[i], convertToInt(a[i]));'), (2650, 1, u'+      ASSERT_EQ(dsa[i], convertToInt(a[i]));'), (2653, 1, u'+      ASSERT_EQ(val, convertToInt(a[i]));'), (2674, 1, u'+  ASSERT_TRUE(am == a.get_allocator());'), (2675, 1, u'+  ASSERT_TRUE(dsa == a);'), (2680, 1, u'+    ASSERT_TRUE(a.capacity() == 0 || a.capacity() < ocap) << "Look into this";'), (2686, 1, u'+  static_assert(!is_same<Allocator, std::allocator<T>>::value ||'), (2698, 1, u'+  ASSERT_EQ(data, guts);'), (2699, 1, u'+  ASSERT_TRUE(a.empty());'), (2700, 1, u'+  ASSERT_EQ(0, a.capacity());'), (2716, 1, u'+  ASSERT_EQ(a.data(), nullptr);'), (2719, 1, u'+  ASSERT_TRUE(dsa == a);')]
+===========================================
+Class:class TestIntSeq : public GenImpl<int, TestIntSeq> { class TestIntSeq : public GenImpl<int, TestIntSeq> 
+Class:class FileGenBufferedTest : public ::testing::TestWithParam<int> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+static_assert(findFirstSet(2u) == 2, "findFirstSet");'), (4, 1, u'+static_assert(findLastSet(2u) == 2, "findLastSet");'), (5, 1, u'+static_assert(nextPowTwo(2u) == 2, "nextPowTwo");'), (6, 1, u'+static_assert(isPowTwo(2u), "isPowTwo");')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: using namespace folly;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+static_assert(findFirstSet(2u) == 2, "findFirstSet");'), (4, 1, u'+static_assert(findLastSet(2u) == 2, "findLastSet");'), (5, 1, u'+static_assert(nextPowTwo(2u) == 2, "nextPowTwo");'), (6, 1, u'+static_assert(isPowTwo(2u), "isPowTwo");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+static_assert(findFirstSet(2u) == 2, "findFirstSet");'), (4, 1, u'+static_assert(findLastSet(2u) == 2, "findLastSet");'), (5, 1, u'+static_assert(nextPowTwo(2u) == 2, "nextPowTwo");'), (6, 1, u'+static_assert(isPowTwo(2u), "isPowTwo");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(length_ >= maxLength || !isChained());')]
+===========================================
+===========================================
+Total add: 9
+Total del: 0
+Header: IOBuf::coalesceSlow
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(length_ >= maxLength || !isChained());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(length_ >= maxLength || !isChained());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(current->length_ <= remaining);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: IOBuf::coalesceSlow
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(current->length_ <= remaining);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(current->length_ <= remaining);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  assert(remaining == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: IOBuf::coalesceSlow
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  assert(remaining == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  assert(remaining == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  assert(length_ >= maxLength || !isChained());')]
+===========================================
+===========================================
+Total add: 3
+Total del: 4
+Header: IOBuf::coalesceSlow
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  assert(length_ >= maxLength || !isChained());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  assert(length_ >= maxLength || !isChained());')]
+===========================================
+Class: class MoveToFbStringTest   : public ::testing::TestWithParam<std::tr1::tuple<int, int, bool>> {   : public ::testing::TestWithParam<std::tr1::tuple<int, int, bool>> 
+Class:class Initializer { class Initializer 
+Class: class Exception : public std::exception { class Exception : public std::exception 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 1, u'+  static_assert(std::is_same<A, B>::value, "Mismatched: " #A ", " #B)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 1, u'+static_assert(sizeof(Optional<char>) == 2, "");'), (39, 1, u'+static_assert(sizeof(Optional<int>) == 8, "");'), (40, 1, u'+static_assert(sizeof(Optional<NoDefault>) == 4, "");'), (41, 1, u'+static_assert(sizeof(Optional<char>) == sizeof(boost::optional<char>), "");'), (42, 1, u'+static_assert(sizeof(Optional<short>) == sizeof(boost::optional<short>), "");'), (43, 1, u'+static_assert(sizeof(Optional<int>) == sizeof(boost::optional<int>), "");'), (44, 1, u'+static_assert(sizeof(Optional<double>) == sizeof(boost::optional<double>), "");')]
+===========================================
+Class: class Random { 
+Class: class Random { 
+Class:class ScopedFd : private boost::noncopyable { class ScopedFd : private boost::noncopyable 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(190, 1, u'+    assert(!baseDir_.empty());'), (201, 1, u'+  assert(totalSize == size());'), (212, 1, u'+    assert(!baseDir_.empty());'), (220, 1, u'+  assert(dest.size() == initialSize + size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(82, 1, u'+  assert(this != &other);')]
+===========================================
+Class: class Random { 
+Class: template <class Integral1, class Integral2> Integral2 random(Integral1 low, Integral2 up) { Integral2 random(Integral1 low, Integral2 up) 
+Class: template <class String, class Integral> void Num2String(String& str, Integral n) { void Num2String(String& str, Integral n) 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 1, u'+  assert(toFill);')]
+===========================================
+Class: template <class Integral1, class Integral2> Integral2 random(Integral1 low, Integral2 up) { Integral2 random(Integral1 low, Integral2 up) 
+Class: template <class String, class Integral> void Num2String(String& str, Integral n) { void Num2String(String& str, Integral n) 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+  assert(toFill);')]
+===========================================
+Class: class Derived : public Base { class Derived : public Base 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+  assert(head_);')]
+===========================================
+===========================================
+Total add: 31
+Total del: 0
+Header: IOBufQueue::operator=
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+  assert(head_);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+  assert(head_);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(int_.capacity <= kMaxInternalDataSize);'), (4, 1, u'+  assert(end - int_.buf == kMaxInternalDataSize);'), (5, 1, u'+  assert(end - reinterpret_cast<uint8_t*>(this) == kMaxIOBufSize);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: IOBuf::IOBuf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(int_.capacity <= kMaxInternalDataSize);'), (4, 1, u'+  assert(end - int_.buf == kMaxInternalDataSize);'), (5, 1, u'+  assert(end - reinterpret_cast<uint8_t*>(this) == kMaxIOBufSize);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(int_.capacity <= kMaxInternalDataSize);'), (4, 1, u'+  assert(end - int_.buf == kMaxInternalDataSize);'), (5, 1, u'+  assert(end - reinterpret_cast<uint8_t*>(this) == kMaxIOBufSize);')]
+===========================================
+Class:class Semaphore { class Semaphore 
+Class: template <class T, class Random> void randomPartition(Random& random, T key, int n,                      std::vector<std::pair<T, int>>& out) {                      std::vector<std::pair<T, int>>& out) 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(58, 1, u'+  assert(begin < end);'), (59, 1, u'+  assert(bandwidth > 0.0);'), (74, 1, u'+  assert(begin < end);'), (89, 1, u'+  assert(begin < end);'), (104, 1, u'+    assert(i == begin || *i >= i[-1]);'), (123, 1, u'+  assert(begin < end);'), (144, 1, u'+    assert(begin < end);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(40, 1, u'+static_assert(sizeof(unsigned long) >= 4,'), (45, 1, u'+static_assert(sizeof(unsigned long long) >= 8,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(185, 1, u'+  assert(type >= 0);'), (186, 1, u'+  assert(type < PRETTY_NUM_TYPES);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 1, u'+  assert(size <= kMaxIOBufSize);'), (97, 1, u'+    assert(iobuf->capacity() >= capacity);'), (168, 1, u'+  assert(int_.capacity <= kMaxInternalDataSize);'), (188, 1, u'+  assert(data >= buf);'), (189, 1, u'+  assert(data + length <= buf + capacity);'), (190, 1, u'+  assert(static_cast<bool>(flags & kFlagUserOwned) =='), (278, 1, u'+    assert((iobuf->flags_ & kFlagExt) == 0);'), (289, 1, u'+  assert(flags_ & kFlagExt);'), (318, 1, u'+  assert(isChained());'), (342, 1, u'+  assert(isChained());'), (343, 1, u'+  assert(length_ < maxLength);'), (400, 1, u'+  assert(length_ >= maxLength || !isChained());'), (404, 1, u'+  assert(flags_ & kFlagExt);'), (409, 1, u'+    assert(ext_.sharedInfo == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(432, 1, u"+  assert(*in == '{');"), (465, 1, u"+  assert(*in == '[');"), (580, 1, u'+  assert(*in == \'\\"\');')]
+===========================================
+Class: class Counters { class Counters 
+Class: class Integer { class Integer 
+Class:template <class INT, class IT> template <class INT, class IT>
+Class: template <class INT, class IT> void checkRange(INT exp, IT begin, IT end) { void checkRange(INT exp, IT begin, IT end) 
+Class:class ConcurrentAccessData { class ConcurrentAccessData 
+Class: template <class String, class Int, class... Ints> void testIntegral2String() { void testIntegral2String() 
+Class: template <class String, class Int, class... Ints> void testString2Integral() { void testString2Integral() 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(195, 1, u'+    static_assert(sizeof(Int) <= 8, "Now that would be interesting");'), (632, 1, u'+  assert(*p.end() == 0);'), (633, 1, u'+  static_assert(sizeof(long) == 8, "64-bit long assumed");'), (641, 1, u'+  assert(*p.end() == 0);'), (650, 1, u'+  assert(*p.end() == 0);')]
+===========================================
+Class: template <class Integral1, class Integral2> Integral2 random(Integral1 low, Integral2 up) { Integral2 random(Integral1 low, Integral2 up) 
+Class: template <class String, class Integral> void Num2String(String& str, Integral n) { void Num2String(String& str, Integral n) 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+  assert(toFill);'), (198, 1, u'+  assert(test1.size() == strlen(test1.c_str()));'), (477, 1, u'+  assert(test.c_str() == test.data());'), (481, 1, u'+  assert(test.get_allocator() == s.get_allocator());')]
+===========================================
+Class: template <class Integral1, class Integral2> Integral2 random(Integral1 low, Integral2 up) { Integral2 random(Integral1 low, Integral2 up) 
+Class: template <class String, class Integral> void Num2String(String& str, Integral n) { void Num2String(String& str, Integral n) 
+Class:class UserDefinedType 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+  assert(toFill);')]
+===========================================
+Class:template <> class FormatValue<KeyValue> { template <> class FormatValue<KeyValue> 
+Class:class StringAppender { class StringAppender 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+static_assert(sizeof(ignore) == 9, "PackedSyncPtr wasn\'t packable");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+BOOST_CONCEPT_ASSERT((boost::RandomAccessRangeConcept<StringPiece>));')]
+===========================================
+Class: class MyFunctor { class MyFunctor 
+Class: class Foo { class Foo 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+static_assert(sizeof(ignore1) == 3, "Size check failed");'), (52, 1, u'+static_assert(sizeof(ignore2) == 6, "Size check failed");')]
+===========================================
+Class:class ArenaTester { class ArenaTester 
+Class: class SimpleThreadCachedInt { class SimpleThreadCachedInt 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+static_assert(sizeof(small_vector<int>) == 16,'), (36, 1, u'+static_assert(sizeof(small_vector<int32_t,2>) == 16,'), (39, 1, u'+static_assert(sizeof(small_vector<int,10>) =='), (43, 1, u'+static_assert(sizeof(small_vector<int32_t,1,uint32_t>) =='), (46, 1, u'+static_assert(sizeof(small_vector<int32_t,1,uint16_t>) =='), (49, 1, u'+static_assert(sizeof(small_vector<int32_t,1,uint8_t>) =='), (53, 1, u'+static_assert(sizeof(small_vector<int32_t,1,OneBitMutex>) == 16,'), (56, 1, u'+static_assert(sizeof(small_vector<int16_t,4,uint16_t>) == 10,'), (58, 1, u'+static_assert(sizeof(small_vector<int16_t,4,uint16_t,OneBitMutex>) == 10,'), (60, 1, u'+static_assert(sizeof(small_vector<int16_t,4,NoHeap,uint16_t,'), (87, 1, u'+static_assert(!boost::has_trivial_copy<NontrivialType>::value,')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+543
+Mismatch count:26216
+Normal count:460130

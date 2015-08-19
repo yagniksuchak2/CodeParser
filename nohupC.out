@@ -1,0 +1,98 @@
+==== Utility to process Github logs ===
+projects/top_C/RedPhone
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/mruby
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/macvim
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/gumbo-parser
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/huptime
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/ccv
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/firmware
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/luvit
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/openFrameworks
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/textmate
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/tig
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/cphalcon
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/redcarpet
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/libgdx
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/phpredis
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/git
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/dnspod-sr
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/cocos2d-x
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/skynet
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/DocSets-for-iOS
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/memcached
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/tengine
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/vim.js
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/gcc
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/cjdns
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/wrk
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/libgit2
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/python-for-android
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/GBA4iOS
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/redis
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/jq
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/libCello
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/legacy-cc
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/beanstalkd
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/the_silver_searcher
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/numpy
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/julia
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/linux
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/scikit-learn
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/node-fibers
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/libuv
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/oj
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/php-src
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/How-to-Make-a-Computer-Operating-System
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/xbmc
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/Craft
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/ProjectTox-Core
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C/twemproxy
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+Done!!

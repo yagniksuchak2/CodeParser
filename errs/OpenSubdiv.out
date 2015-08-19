@@ -1,0 +1,3404 @@
+projects/top_C++/OpenSubdiv
+Going to process projects/top_C++/OpenSubdiv/all_log.txt 
+---------- OpenSubdiv ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 22
+Total del: 0
+Header: OsdD3D11ComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(_kernelComputeQuadFace);'), (6, 1, u'+    assert(_kernelComputeTriQuadFace);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: OsdD3D11ComputeKernelBundle::Compile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(_kernelComputeQuadFace);'), (6, 1, u'+    assert(_kernelComputeTriQuadFace);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(_kernelComputeQuadFace);'), (6, 1, u'+    assert(_kernelComputeTriQuadFace);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 26
+Total del: 0
+Header: OsdOmpComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 26
+Total del: 0
+Header: OsdTbbComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+Class:class TBBQuadFaceKernel { class TBBQuadFaceKernel 
+Class: class TBBTriQuadFaceKernel { class TBBTriQuadFaceKernel 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (8, 1, u'+    assert(F_IT);'), (25, 1, u'+    assert(context);'), (28, 1, u'+    assert(F_IT);')]
+===========================================
+===========================================
+Total add: 40
+Total del: 0
+Header: OsdCudaComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (8, 1, u'+    assert(F_IT);'), (25, 1, u'+    assert(context);'), (28, 1, u'+    assert(F_IT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (8, 1, u'+    assert(F_IT);'), (25, 1, u'+    assert(context);'), (28, 1, u'+    assert(F_IT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (16, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 22
+Total del: 0
+Header: OsdGLSLComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (16, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (16, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 23
+Total del: 0
+Header: OsdGLSLTransformFeedbackComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (33, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 56
+Total del: 0
+Header: OsdCLComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (33, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (33, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 26
+Total del: 0
+Header: OsdCpuComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (19, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 28
+Total del: 0
+Header: OsdGcdComputeController::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (19, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(context);'), (19, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(244, 1, u'+        assert(false);'), (299, 1, u'+        assert(png_ptr);'), (303, 1, u'+        assert(info_ptr);'), (395, 1, u'+            assert(0);')]
+===========================================
+Class:   class InstancesBase { class InstancesBase 
+Class: template <class VERTEX_BUFFER> class Instances : public InstancesBase { class Instances : public InstancesBase 
+Class:   class TopologyBase { class TopologyBase 
+Class: template <class COMPUTE_CONTROLLER, class VERTEX_BUFFER> class Topology : public TopologyBase { class Topology : public TopologyBase 
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert(false);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: OsdGLSLComputeKernelBundle::Compile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(numVertexElements >= 3); // at least xyz required (for performance reason)')]
+===========================================
+===========================================
+Total add: 13
+Total del: 4
+Header: OsdGLSLTransformFeedbackKernelBundle::~OsdGLSLTransformFeedbackKernelBundle
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(numVertexElements >= 3); // at least xyz required (for performance reason)')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(numVertexElements >= 3); // at least xyz required (for performance reason)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+        assert(_vertexStride == _varyingStride);'), (35, 1, u'+        assert(_numVertexElements + _numVaryingElements <= _vertexStride);')]
+===========================================
+===========================================
+Total add: 75
+Total del: 11
+Header: OsdGLSLTransformFeedbackKernelBundle::Compile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+        assert(_vertexStride == _varyingStride);'), (35, 1, u'+        assert(_numVertexElements + _numVaryingElements <= _vertexStride);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+        assert(_vertexStride == _varyingStride);'), (35, 1, u'+        assert(_numVertexElements + _numVaryingElements <= _vertexStride);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+                assert(0);')]
+===========================================
+===========================================
+Total add: 103
+Total del: 4
+Header: OsdCpuEvalLimitController::~OsdCpuEvalLimitController
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+                assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+                assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: evalBilinear
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: evalBSpline
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: evalBoundary
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: evalCorner
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: evalGregory
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: evalGregoryBoundary
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (3, 1, u'+    assert( outQ and inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+Class:class PartitionedMesh { class PartitionedMesh 
+Class:template <class VERTEX_BUFFER, class COMPUTE_CONTROLLER> class PartitionedMesh : public OpenSubdiv::OsdMesh<VERTEX_BUFFER, COMPUTE_CONTROLLER, OpenSubdiv::OsdGLDrawContext> { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(farmesh);'), (6, 1, u'+    assert(patchTables);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 7
+Header: namespace OPENSUBDIV_VERSION {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(farmesh);'), (6, 1, u'+    assert(patchTables);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(farmesh);'), (6, 1, u'+    assert(patchTables);')]
+===========================================
+Class: class PartitionedMesh { class PartitionedMesh 
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 1, u'+        assert(png_ptr);'), (52, 1, u'+        assert(info_ptr);')]
+===========================================
+===========================================
+Total add: 82
+Total del: 0
+Header: display
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 1, u'+        assert(png_ptr);'), (52, 1, u'+        assert(info_ptr);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 1, u'+        assert(png_ptr);'), (52, 1, u'+        assert(info_ptr);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fvarDataTable.size() == expectedFvarTotalWidth*faceConnects.length());')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: convertOsdFarToMayaMeshData
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fvarDataTable.size() == expectedFvarTotalWidth*faceConnects.length());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fvarDataTable.size() == expectedFvarTotalWidth*faceConnects.length());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(58, 1, u'+    assert(iDesc.length==3 and oDesc.length==3);')]
+===========================================
+Class:class TBBResetKernel { class TBBResetKernel 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(64, 1, u'+    assert(iDesc.length==3 and oDesc.length==3);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-                        assert(vidx>-1);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 25
+Header: OsdPolySmooth::compute
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-                        assert(vidx>-1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-                        assert(vidx>-1);')]
+===========================================
+Class:class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-        case 3: assert(false); break;'), (24, 2, u'-        case 3:assert(false); break;'), (33, 2, u'-        case 3: assert(false); break;'), (42, 1, u'+                case 3: assert(false); break;'), (60, 1, u'+                case 3:assert(false); break;'), (69, 1, u'+                case 3: assert(false); break;')]
+===========================================
+===========================================
+Total add: 36
+Total del: 36
+Header: OsdD3D11PtexMipmapTexture::Create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-        case 3: assert(false); break;'), (24, 2, u'-        case 3:assert(false); break;'), (33, 2, u'-        case 3: assert(false); break;'), (42, 1, u'+                case 3: assert(false); break;'), (60, 1, u'+                case 3:assert(false); break;'), (69, 1, u'+                case 3: assert(false); break;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-        case 3: assert(false); break;'), (24, 2, u'-        case 3:assert(false); break;'), (33, 2, u'-        case 3: assert(false); break;'), (42, 1, u'+                case 3: assert(false); break;'), (60, 1, u'+                case 3:assert(false); break;'), (69, 1, u'+                case 3: assert(false); break;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+                        assert(vidx>-1);')]
+===========================================
+===========================================
+Total add: 45
+Total del: 9
+Header: OsdPolySmooth::compute
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+                        assert(vidx>-1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+                        assert(vidx>-1);')]
+===========================================
+Class:   class OsdPtexMipmapTextureLoader::CornerIterator { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+        assert(g_pcbConfig);')]
+===========================================
+===========================================
+Total add: 30
+Total del: 0
+Header: bindProgram
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+        assert(g_pcbConfig);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+        assert(g_pcbConfig);')]
+===========================================
+Class:  class EffectDrawRegistry : public OpenSubdiv::OsdD3D11DrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdD3D11DrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(116, 1, u'+        case 3: assert(false); break;'), (134, 1, u'+        case 3:assert(false); break;'), (143, 1, u'+        case 3: assert(false); break;')]
+===========================================
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { 
+Class:class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(687, 1, u'+            assert(added);')]
+===========================================
+Class: class StencilType { class StencilType 
+Class:  class GLSLProgram { class GLSLProgram 
+Class:class StencilKernel { class StencilKernel 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(81, 1, u'+        assert(_stencils and _ctrlData and _length and _outStride and _outData);'), (97, 1, u'+        assert( weight);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 2, u'-                assert(0);'), (38, 1, u'+                    assert(0);')]
+===========================================
+===========================================
+Total add: 17
+Total del: 21
+Header: OsdCpuEvalLimitController::_EvalLimitSample
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 2, u'-                assert(0);'), (38, 1, u'+                    assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 2, u'-                assert(0);'), (38, 1, u'+                    assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(86, 1, u'+    assert(context);'), (103, 1, u'+    assert(context);'), (119, 1, u'+    assert(context);'), (135, 1, u'+    assert(context);'), (152, 1, u'+    assert(context);'), (169, 1, u'+    assert(context);'), (187, 1, u'+    assert(context);'), (204, 1, u'+    assert(context);'), (221, 1, u'+    assert(context);'), (238, 1, u'+    assert(context);'), (256, 1, u'+    assert(context);'), (273, 1, u'+    assert(context);'), (290, 1, u'+    assert(context);'), (293, 1, u'+    assert(edit);')]
+===========================================
+Class:class TBBFaceKernel { class TBBFaceKernel 
+Class:class TBBEdgeKernel { class TBBEdgeKernel 
+Class: class TBBVertexKernelA { class TBBVertexKernelA 
+Class: class TBBVertexKernelB { class TBBVertexKernelB 
+Class: class TBBLoopVertexKernelB { class TBBLoopVertexKernelB 
+Class: class TBBBilinearEdgeKernel { class TBBBilinearEdgeKernel 
+Class: class TBBBilinearVertexKernel { class TBBBilinearVertexKernel 
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdD3D11DrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdD3D11DrawRegistry<EffectDesc> 
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdD3D11DrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdD3D11DrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (137, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (204, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (305, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (373, 2, u'-            assert(in);'), (476, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (500, 2, u'-        assert(valence<=maxValence);'), (728, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (755, 2, u'-        assert(ivalence<=maxValence);'), (854, 2, u'-            assert(idx_diagonal>0);'), (874, 2, u'-                assert( idx_neighbor>0 and idx_diagonal>0 );'), (1155, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1213, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1280, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1381, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1449, 1, u'+            assert(in);'), (1552, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1576, 1, u'+        assert(valence<=maxValence);'), (1804, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1831, 1, u'+        assert(ivalence<=maxValence);'), (1930, 1, u'+            assert(idx_diagonal>0);'), (1950, 1, u'+                assert( idx_neighbor>0 and idx_diagonal>0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(sconfig);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: EffectDrawRegistry::_CreateDrawSourceConfig
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(sconfig);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(sconfig);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(sconfig);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 4
+Header: EffectDrawRegistry::_CreateDrawSourceConfig
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(sconfig);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(sconfig);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 2, u'-            assert(0);'), (131, 1, u'+                assert(0);')]
+===========================================
+===========================================
+Total add: 72
+Total del: 62
+Header: OsdCpuEvalLimitController::_EvalLimitSample
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 2, u'-            assert(0);'), (131, 1, u'+                assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 2, u'-            assert(0);'), (131, 1, u'+                assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(88, 1, u'+            assert(0);'), (117, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );'), (129, 2, u'-        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );'), (197, 2, u'-                assert(0);')]
+===========================================
+===========================================
+Total add: 120
+Total del: 136
+Header: OsdCpuEvalLimitController::_EvalLimitSample
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(88, 1, u'+            assert(0);'), (117, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );'), (129, 2, u'-        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );'), (197, 2, u'-                assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(88, 1, u'+            assert(0);'), (117, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );'), (129, 2, u'-        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );'), (197, 2, u'-                assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert( handle.array < context->GetPatchArrayVector().size() );'), (5, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: OsdCpuEvalLimitController::_EvalLimitSample
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert( handle.array < context->GetPatchArrayVector().size() );'), (5, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert( handle.array < context->GetPatchArrayVector().size() );'), (5, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );')]
+===========================================
+Class:   class MyPatch { class MyPatch 
+Class:     class OsdEvalContext : OpenSubdiv::OsdNonCopyable<OsdEvalContext> { class OsdEvalContext : OpenSubdiv::OsdNonCopyable<OsdEvalContext> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert( handle.array < context->GetPatchArrayVector().size() );'), (24, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );'), (25, 1, u'+        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );')]
+===========================================
+===========================================
+Total add: 8
+Total del: 14
+Header: OsdCpuEvalLimitController::_EvalLimitSample
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert( handle.array < context->GetPatchArrayVector().size() );'), (24, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );'), (25, 1, u'+        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert( handle.array < context->GetPatchArrayVector().size() );'), (24, 2, u'-        assert( handle.array < context->GetPatchArrayVector().size() );'), (25, 1, u'+        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );'), (19, 2, u'-                 assert(0);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 16
+Header: OsdCpuEvalLimitController::_EvalLimitSample
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );'), (19, 2, u'-                 assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );'), (19, 2, u'-                 assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Total add: 32
+Total del: 2
+Header: namespace OPENSUBDIV_VERSION {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+            assert(idx_diagonal>0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: evalGregoryBoundary
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+            assert(idx_diagonal>0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+            assert(idx_diagonal>0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+                assert( idx_neighbor>0 and idx_diagonal>0 );')]
+===========================================
+===========================================
+Total add: 6
+Total del: 5
+Header: evalGregoryBoundary
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+                assert( idx_neighbor>0 and idx_diagonal>0 );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+                assert( idx_neighbor>0 and idx_diagonal>0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (174, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (275, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (343, 2, u'-            assert(in);'), (447, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (471, 2, u'-        assert(valence<=maxValence);'), (699, 2, u'-    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (725, 2, u'-        assert(ivalence<=maxValence);'), (1185, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1252, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1353, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1421, 1, u'+            assert(in);'), (1524, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1548, 1, u'+        assert(valence<=maxValence);'), (1776, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (1802, 1, u'+        assert(ivalence<=maxValence);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(valence<=maxValence);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 10
+Header: evalGregory
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(valence<=maxValence);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(valence<=maxValence);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-                     assert(0);'), (19, 1, u'+                 assert(0);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 10
+Header: OsdCpuEvalLimitController::_EvalLimitSample
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-                     assert(0);'), (19, 1, u'+                 assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-                     assert(0);'), (19, 1, u'+                 assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (94, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (211, 1, u'+            assert(in);')]
+===========================================
+===========================================
+Total add: 246
+Total del: 0
+Header: evalBSpline
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (94, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (211, 1, u'+            assert(in);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (94, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (211, 1, u'+            assert(in);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(pd3d11Device);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 51
+Header: OsdD3D11DrawContext::Create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(pd3d11Device);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(pd3d11Device);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(71, 2, u'-    assert(primIndex >= 0 && primIndex <= (int)_primFidelity.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 2, u'-                                              assert(0);'), (61, 1, u'+                     assert(0);')]
+===========================================
+===========================================
+Total add: 41
+Total del: 49
+Header: OsdCpuEvalLimitController::_EvalLimitSample
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 2, u'-                                              assert(0);'), (61, 1, u'+                     assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 2, u'-                                              assert(0);'), (61, 1, u'+                     assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 1, u'+    assert(pd3d11Device);'), (65, 2, u'-    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+Total add: 24
+Total del: 39
+Header: OsdD3D11DrawContext::allocate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 1, u'+    assert(pd3d11Device);'), (65, 2, u'-    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 1, u'+    assert(pd3d11Device);'), (65, 2, u'-    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(89, 1, u'+    assert(sconfig);'), (145, 1, u'+    assert(config);')]
+===========================================
+Class:class MeshBase { 
+Class: template <class VERTEX_BUFFER,           class COMPUTE_CONTEXT,           class COMPUTE_CONTROLLER> class Mesh : public MeshBase { 
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(72, 1, u'+    assert(farmesh);'), (85, 1, u'+    assert(patchTables);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 1, u'+        assert( handle.array < context->GetPatchArrayVector().size() );'), (117, 1, u'+        assert( (u>=0.0f) and (u<=1.0f) and (v>=0.0f) and (v<=1.0f) );'), (157, 1, u'+                                              assert(0);'), (172, 1, u'+                assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(105, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );'), (215, 1, u'+    assert( inDesc.length <= (outDesc.stride-outDesc.offset) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((int)ptexTable.size()/2 == numElements);'), (3, 1, u'+        assert((int)ptexTable.size() == numElements);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: OsdGLDrawContext::_AppendPatchArray
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((int)ptexTable.size()/2 == numElements);'), (3, 1, u'+        assert((int)ptexTable.size() == numElements);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((int)ptexTable.size()/2 == numElements);'), (3, 1, u'+        assert((int)ptexTable.size() == numElements);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Total add: 44
+Total del: 0
+Header: reshape
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+        assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+        assert(false);')]
+===========================================
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+Class: template <class CONTROLLER> class Controller { 
+Class: template <class VERTEX_BUFFER,           class COMPUTE_CONTEXT,           class COMPUTE_CONTROLLER> class Mesh : public MeshBase { 
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (44, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (105, 1, u'+    assert(context);'), (137, 1, u'+    assert(context);'), (171, 1, u'+    assert(context);'), (205, 1, u'+    assert(context);'), (239, 1, u'+    assert(context);'), (271, 1, u'+    assert(context);'), (305, 1, u'+    assert(context);'), (339, 1, u'+    assert(context);'), (373, 1, u'+    assert(context);'), (380, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Total add: 412
+Total del: 0
+Header: OsdCLComputeController::getKernelBundle
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (44, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (105, 1, u'+    assert(context);'), (137, 1, u'+    assert(context);'), (171, 1, u'+    assert(context);'), (205, 1, u'+    assert(context);'), (239, 1, u'+    assert(context);'), (271, 1, u'+    assert(context);'), (305, 1, u'+    assert(context);'), (339, 1, u'+    assert(context);'), (373, 1, u'+    assert(context);'), (380, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (44, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (105, 1, u'+    assert(context);'), (137, 1, u'+    assert(context);'), (171, 1, u'+    assert(context);'), (205, 1, u'+    assert(context);'), (239, 1, u'+    assert(context);'), (271, 1, u'+    assert(context);'), (305, 1, u'+    assert(context);'), (339, 1, u'+    assert(context);'), (373, 1, u'+    assert(context);'), (380, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(123, 2, u'-    assert(context);'), (154, 2, u'-    assert(context);'), (185, 2, u'-    assert(context);'), (221, 2, u'-    assert(context);'), (257, 2, u'-    assert(context);'), (297, 2, u'-    assert(context);'), (335, 2, u'-    assert(context);'), (371, 2, u'-    assert(context);'), (411, 2, u'-    assert(context);'), (448, 2, u'-    assert(context);'), (457, 2, u'-        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (24, 1, u'+    assert(context);'), (40, 1, u'+    assert(context);'), (56, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (90, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (125, 1, u'+    assert(context);'), (142, 1, u'+    assert(context);'), (159, 1, u'+    assert(context);'), (177, 1, u'+    assert(context);'), (194, 1, u'+    assert(context);'), (211, 1, u'+    assert(context);'), (214, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Total add: 243
+Total del: 0
+Header: OsdCpuComputeController::~OsdCpuComputeController
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (24, 1, u'+    assert(context);'), (40, 1, u'+    assert(context);'), (56, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (90, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (125, 1, u'+    assert(context);'), (142, 1, u'+    assert(context);'), (159, 1, u'+    assert(context);'), (177, 1, u'+    assert(context);'), (194, 1, u'+    assert(context);'), (211, 1, u'+    assert(context);'), (214, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (24, 1, u'+    assert(context);'), (40, 1, u'+    assert(context);'), (56, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (90, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (125, 1, u'+    assert(context);'), (142, 1, u'+    assert(context);'), (159, 1, u'+    assert(context);'), (177, 1, u'+    assert(context);'), (194, 1, u'+    assert(context);'), (211, 1, u'+    assert(context);'), (214, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(96, 2, u'-    assert(context);'), (114, 2, u'-    assert(context);'), (131, 2, u'-    assert(context);'), (148, 2, u'-    assert(context);'), (166, 2, u'-    assert(context);'), (184, 2, u'-    assert(context);'), (203, 2, u'-    assert(context);'), (221, 2, u'-    assert(context);'), (239, 2, u'-    assert(context);'), (258, 2, u'-    assert(context);'), (275, 2, u'-    assert(context);'), (283, 2, u'-        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (11, 1, u'+    assert(F_IT);'), (12, 1, u'+    assert(F_ITa);'), (30, 1, u'+    assert(context);'), (33, 1, u'+    assert(E_IT);'), (50, 1, u'+    assert(context);'), (53, 1, u'+    assert(V_ITa);'), (70, 1, u'+    assert(context);'), (74, 1, u'+    assert(F_IT);'), (75, 1, u'+    assert(F_ITa);'), (93, 1, u'+    assert(context);'), (97, 1, u'+    assert(E_IT);'), (98, 1, u'+    assert(E_W);'), (116, 1, u'+    assert(context);'), (121, 1, u'+    assert(V_ITa);'), (122, 1, u'+    assert(V_IT);'), (123, 1, u'+    assert(V_W);'), (142, 1, u'+    assert(context);'), (146, 1, u'+    assert(V_ITa);'), (147, 1, u'+    assert(V_W);'), (165, 1, u'+    assert(context);'), (169, 1, u'+    assert(V_ITa);'), (170, 1, u'+    assert(V_W);'), (188, 1, u'+    assert(context);'), (192, 1, u'+    assert(E_IT);'), (193, 1, u'+    assert(E_W);'), (211, 1, u'+    assert(context);'), (216, 1, u'+    assert(V_ITa);'), (217, 1, u'+    assert(V_IT);'), (218, 1, u'+    assert(V_W);'), (237, 1, u'+    assert(context);'), (241, 1, u'+    assert(V_ITa);'), (242, 1, u'+    assert(V_W);'), (260, 1, u'+    assert(context);'), (264, 1, u'+    assert(V_ITa);'), (265, 1, u'+    assert(V_W);'), (283, 1, u'+    assert(context);'), (286, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Total add: 307
+Total del: 0
+Header: OsdCudaComputeController::~OsdCudaComputeController
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (11, 1, u'+    assert(F_IT);'), (12, 1, u'+    assert(F_ITa);'), (30, 1, u'+    assert(context);'), (33, 1, u'+    assert(E_IT);'), (50, 1, u'+    assert(context);'), (53, 1, u'+    assert(V_ITa);'), (70, 1, u'+    assert(context);'), (74, 1, u'+    assert(F_IT);'), (75, 1, u'+    assert(F_ITa);'), (93, 1, u'+    assert(context);'), (97, 1, u'+    assert(E_IT);'), (98, 1, u'+    assert(E_W);'), (116, 1, u'+    assert(context);'), (121, 1, u'+    assert(V_ITa);'), (122, 1, u'+    assert(V_IT);'), (123, 1, u'+    assert(V_W);'), (142, 1, u'+    assert(context);'), (146, 1, u'+    assert(V_ITa);'), (147, 1, u'+    assert(V_W);'), (165, 1, u'+    assert(context);'), (169, 1, u'+    assert(V_ITa);'), (170, 1, u'+    assert(V_W);'), (188, 1, u'+    assert(context);'), (192, 1, u'+    assert(E_IT);'), (193, 1, u'+    assert(E_W);'), (211, 1, u'+    assert(context);'), (216, 1, u'+    assert(V_ITa);'), (217, 1, u'+    assert(V_IT);'), (218, 1, u'+    assert(V_W);'), (237, 1, u'+    assert(context);'), (241, 1, u'+    assert(V_ITa);'), (242, 1, u'+    assert(V_W);'), (260, 1, u'+    assert(context);'), (264, 1, u'+    assert(V_ITa);'), (265, 1, u'+    assert(V_W);'), (283, 1, u'+    assert(context);'), (286, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (11, 1, u'+    assert(F_IT);'), (12, 1, u'+    assert(F_ITa);'), (30, 1, u'+    assert(context);'), (33, 1, u'+    assert(E_IT);'), (50, 1, u'+    assert(context);'), (53, 1, u'+    assert(V_ITa);'), (70, 1, u'+    assert(context);'), (74, 1, u'+    assert(F_IT);'), (75, 1, u'+    assert(F_ITa);'), (93, 1, u'+    assert(context);'), (97, 1, u'+    assert(E_IT);'), (98, 1, u'+    assert(E_W);'), (116, 1, u'+    assert(context);'), (121, 1, u'+    assert(V_ITa);'), (122, 1, u'+    assert(V_IT);'), (123, 1, u'+    assert(V_W);'), (142, 1, u'+    assert(context);'), (146, 1, u'+    assert(V_ITa);'), (147, 1, u'+    assert(V_W);'), (165, 1, u'+    assert(context);'), (169, 1, u'+    assert(V_ITa);'), (170, 1, u'+    assert(V_W);'), (188, 1, u'+    assert(context);'), (192, 1, u'+    assert(E_IT);'), (193, 1, u'+    assert(E_W);'), (211, 1, u'+    assert(context);'), (216, 1, u'+    assert(V_ITa);'), (217, 1, u'+    assert(V_IT);'), (218, 1, u'+    assert(V_W);'), (237, 1, u'+    assert(context);'), (241, 1, u'+    assert(V_ITa);'), (242, 1, u'+    assert(V_W);'), (260, 1, u'+    assert(context);'), (264, 1, u'+    assert(V_ITa);'), (265, 1, u'+    assert(V_W);'), (283, 1, u'+    assert(context);'), (286, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(137, 2, u'-    assert(context);'), (141, 2, u'-    assert(F_IT);'), (142, 2, u'-    assert(F_ITa);'), (161, 2, u'-    assert(context);'), (164, 2, u'-    assert(E_IT);'), (182, 2, u'-    assert(context);'), (185, 2, u'-    assert(V_ITa);'), (203, 2, u'-    assert(context);'), (207, 2, u'-    assert(F_IT);'), (208, 2, u'-    assert(F_ITa);'), (227, 2, u'-    assert(context);'), (231, 2, u'-    assert(E_IT);'), (232, 2, u'-    assert(E_W);'), (251, 2, u'-    assert(context);'), (256, 2, u'-    assert(V_ITa);'), (257, 2, u'-    assert(V_IT);'), (258, 2, u'-    assert(V_W);'), (278, 2, u'-    assert(context);'), (282, 2, u'-    assert(V_ITa);'), (283, 2, u'-    assert(V_W);'), (302, 2, u'-    assert(context);'), (306, 2, u'-    assert(E_IT);'), (307, 2, u'-    assert(E_W);'), (326, 2, u'-    assert(context);'), (331, 2, u'-    assert(V_ITa);'), (332, 2, u'-    assert(V_IT);'), (333, 2, u'-    assert(V_W);'), (353, 2, u'-    assert(context);'), (357, 2, u'-    assert(V_ITa);'), (358, 2, u'-    assert(V_W);'), (376, 2, u'-    assert(context);'), (382, 2, u'-        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(context);'), (23, 1, u'+    assert(context);'), (37, 1, u'+    assert(context);'), (51, 1, u'+    assert(context);'), (67, 1, u'+    assert(context);'), (81, 1, u'+    assert(context);'), (95, 1, u'+    assert(context);'), (109, 1, u'+    assert(context);'), (123, 1, u'+    assert(context);'), (137, 1, u'+    assert(context);'), (151, 1, u'+    assert(context);'), (165, 1, u'+    assert(context);'), (179, 1, u'+    assert(context);'), (184, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Total add: 199
+Total del: 0
+Header: OsdD3D11ComputeController::getKernels
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(context);'), (23, 1, u'+    assert(context);'), (37, 1, u'+    assert(context);'), (51, 1, u'+    assert(context);'), (67, 1, u'+    assert(context);'), (81, 1, u'+    assert(context);'), (95, 1, u'+    assert(context);'), (109, 1, u'+    assert(context);'), (123, 1, u'+    assert(context);'), (137, 1, u'+    assert(context);'), (151, 1, u'+    assert(context);'), (165, 1, u'+    assert(context);'), (179, 1, u'+    assert(context);'), (184, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(context);'), (23, 1, u'+    assert(context);'), (37, 1, u'+    assert(context);'), (51, 1, u'+    assert(context);'), (67, 1, u'+    assert(context);'), (81, 1, u'+    assert(context);'), (95, 1, u'+    assert(context);'), (109, 1, u'+    assert(context);'), (123, 1, u'+    assert(context);'), (137, 1, u'+    assert(context);'), (151, 1, u'+    assert(context);'), (165, 1, u'+    assert(context);'), (179, 1, u'+    assert(context);'), (184, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(96, 2, u'-    assert(context);'), (113, 2, u'-    assert(context);'), (129, 2, u'-    assert(context);'), (145, 2, u'-    assert(context);'), (164, 2, u'-    assert(context);'), (181, 2, u'-    assert(context);'), (199, 2, u'-    assert(context);'), (218, 2, u'-    assert(context);'), (235, 2, u'-    assert(context);'), (253, 2, u'-    assert(context);'), (270, 2, u'-    assert(context);'), (280, 2, u'-        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+Total add: 6
+Total del: 11
+Header: OsdD3D11DrawContext::_AppendPatchArray
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (24, 1, u'+    assert(context);'), (40, 1, u'+    assert(context);'), (56, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (90, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (125, 1, u'+    assert(context);'), (142, 1, u'+    assert(context);'), (159, 1, u'+    assert(context);'), (177, 1, u'+    assert(context);'), (194, 1, u'+    assert(context);'), (211, 1, u'+    assert(context);'), (214, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Total add: 243
+Total del: 0
+Header: OsdGcdComputeController::OsdGcdComputeController
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (24, 1, u'+    assert(context);'), (40, 1, u'+    assert(context);'), (56, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (90, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (125, 1, u'+    assert(context);'), (142, 1, u'+    assert(context);'), (159, 1, u'+    assert(context);'), (177, 1, u'+    assert(context);'), (194, 1, u'+    assert(context);'), (211, 1, u'+    assert(context);'), (214, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(context);'), (24, 1, u'+    assert(context);'), (40, 1, u'+    assert(context);'), (56, 1, u'+    assert(context);'), (73, 1, u'+    assert(context);'), (90, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (125, 1, u'+    assert(context);'), (142, 1, u'+    assert(context);'), (159, 1, u'+    assert(context);'), (177, 1, u'+    assert(context);'), (194, 1, u'+    assert(context);'), (211, 1, u'+    assert(context);'), (214, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(93, 2, u'-    assert(context);'), (112, 2, u'-    assert(context);'), (130, 2, u'-    assert(context);'), (148, 2, u'-    assert(context);'), (167, 2, u'-    assert(context);'), (186, 2, u'-    assert(context);'), (206, 2, u'-    assert(context);'), (225, 2, u'-    assert(context);'), (244, 2, u'-    assert(context);'), (264, 2, u'-    assert(context);'), (282, 2, u'-    assert(context);'), (290, 2, u'-        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+Total add: 6
+Total del: 13
+Header: OsdGLDrawContext::_AppendPatchArray
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+    assert(numElements == (int)ptable.second.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(ptexTable.size()/2 == levels.size());'), (3, 1, u'+        assert((int)ptexTable.size()/2 == numElements);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: OsdGLDrawContext::_AppendPatchArray
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(ptexTable.size()/2 == levels.size());'), (3, 1, u'+        assert((int)ptexTable.size()/2 == numElements);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(ptexTable.size()/2 == levels.size());'), (3, 1, u'+        assert((int)ptexTable.size()/2 == numElements);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fvarTable.size()/(fvarDataWidth*4) == levels.size());'), (3, 1, u'+        assert((int)fvarTable.size()/(fvarDataWidth*4) == numElements);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: OsdGLDrawContext::_AppendPatchArray
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fvarTable.size()/(fvarDataWidth*4) == levels.size());'), (3, 1, u'+        assert((int)fvarTable.size()/(fvarDataWidth*4) == numElements);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fvarTable.size()/(fvarDataWidth*4) == levels.size());'), (3, 1, u'+        assert((int)fvarTable.size()/(fvarDataWidth*4) == numElements);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(context);'), (22, 1, u'+    assert(context);'), (36, 1, u'+    assert(context);'), (50, 1, u'+    assert(context);'), (66, 1, u'+    assert(context);'), (80, 1, u'+    assert(context);'), (94, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (122, 1, u'+    assert(context);'), (136, 1, u'+    assert(context);'), (150, 1, u'+    assert(context);'), (164, 1, u'+    assert(context);'), (178, 1, u'+    assert(context);'), (183, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Total add: 199
+Total del: 0
+Header: OsdGLSLComputeController::getKernels
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(context);'), (22, 1, u'+    assert(context);'), (36, 1, u'+    assert(context);'), (50, 1, u'+    assert(context);'), (66, 1, u'+    assert(context);'), (80, 1, u'+    assert(context);'), (94, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (122, 1, u'+    assert(context);'), (136, 1, u'+    assert(context);'), (150, 1, u'+    assert(context);'), (164, 1, u'+    assert(context);'), (178, 1, u'+    assert(context);'), (183, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(context);'), (22, 1, u'+    assert(context);'), (36, 1, u'+    assert(context);'), (50, 1, u'+    assert(context);'), (66, 1, u'+    assert(context);'), (80, 1, u'+    assert(context);'), (94, 1, u'+    assert(context);'), (108, 1, u'+    assert(context);'), (122, 1, u'+    assert(context);'), (136, 1, u'+    assert(context);'), (150, 1, u'+    assert(context);'), (164, 1, u'+    assert(context);'), (178, 1, u'+    assert(context);'), (183, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(110, 2, u'-    assert(context);'), (127, 2, u'-    assert(context);'), (143, 2, u'-    assert(context);'), (159, 2, u'-    assert(context);'), (178, 2, u'-    assert(context);'), (195, 2, u'-    assert(context);'), (213, 2, u'-    assert(context);'), (232, 2, u'-    assert(context);'), (249, 2, u'-    assert(context);'), (267, 2, u'-    assert(context);'), (284, 2, u'-    assert(context);'), (294, 2, u'-        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(context);'), (26, 1, u'+    assert(context);'), (44, 1, u'+    assert(context);'), (62, 1, u'+    assert(context);'), (82, 1, u'+    assert(context);'), (100, 1, u'+    assert(context);'), (118, 1, u'+    assert(context);'), (136, 1, u'+    assert(context);'), (154, 1, u'+    assert(context);'), (172, 1, u'+    assert(context);'), (190, 1, u'+    assert(context);'), (208, 1, u'+    assert(context);'), (226, 1, u'+    assert(context);'), (231, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Total add: 251
+Total del: 0
+Header: OsdGLSLTransformFeedbackComputeController::getKernels
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(context);'), (26, 1, u'+    assert(context);'), (44, 1, u'+    assert(context);'), (62, 1, u'+    assert(context);'), (82, 1, u'+    assert(context);'), (100, 1, u'+    assert(context);'), (118, 1, u'+    assert(context);'), (136, 1, u'+    assert(context);'), (154, 1, u'+    assert(context);'), (172, 1, u'+    assert(context);'), (190, 1, u'+    assert(context);'), (208, 1, u'+    assert(context);'), (226, 1, u'+    assert(context);'), (231, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(context);'), (26, 1, u'+    assert(context);'), (44, 1, u'+    assert(context);'), (62, 1, u'+    assert(context);'), (82, 1, u'+    assert(context);'), (100, 1, u'+    assert(context);'), (118, 1, u'+    assert(context);'), (136, 1, u'+    assert(context);'), (154, 1, u'+    assert(context);'), (172, 1, u'+    assert(context);'), (190, 1, u'+    assert(context);'), (208, 1, u'+    assert(context);'), (226, 1, u'+    assert(context);'), (231, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 2, u'-    assert(context);'), (121, 2, u'-    assert(context);'), (141, 2, u'-    assert(context);'), (161, 2, u'-    assert(context);'), (184, 2, u'-    assert(context);'), (205, 2, u'-    assert(context);'), (227, 2, u'-    assert(context);'), (250, 2, u'-    assert(context);'), (271, 2, u'-    assert(context);'), (293, 2, u'-    assert(context);'), (315, 2, u'-    assert(context);'), (325, 2, u'-        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(context);'), (26, 1, u'+    assert(context);'), (42, 1, u'+    assert(context);'), (58, 1, u'+    assert(context);'), (75, 1, u'+    assert(context);'), (92, 1, u'+    assert(context);'), (110, 1, u'+    assert(context);'), (127, 1, u'+    assert(context);'), (144, 1, u'+    assert(context);'), (161, 1, u'+    assert(context);'), (179, 1, u'+    assert(context);'), (196, 1, u'+    assert(context);'), (213, 1, u'+    assert(context);'), (216, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Total add: 244
+Total del: 0
+Header: OsdOmpComputeController::OsdOmpComputeController
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(context);'), (26, 1, u'+    assert(context);'), (42, 1, u'+    assert(context);'), (58, 1, u'+    assert(context);'), (75, 1, u'+    assert(context);'), (92, 1, u'+    assert(context);'), (110, 1, u'+    assert(context);'), (127, 1, u'+    assert(context);'), (144, 1, u'+    assert(context);'), (161, 1, u'+    assert(context);'), (179, 1, u'+    assert(context);'), (196, 1, u'+    assert(context);'), (213, 1, u'+    assert(context);'), (216, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(context);'), (26, 1, u'+    assert(context);'), (42, 1, u'+    assert(context);'), (58, 1, u'+    assert(context);'), (75, 1, u'+    assert(context);'), (92, 1, u'+    assert(context);'), (110, 1, u'+    assert(context);'), (127, 1, u'+    assert(context);'), (144, 1, u'+    assert(context);'), (161, 1, u'+    assert(context);'), (179, 1, u'+    assert(context);'), (196, 1, u'+    assert(context);'), (213, 1, u'+    assert(context);'), (216, 1, u'+    assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(96, 2, u'-    assert(context);'), (114, 2, u'-    assert(context);'), (131, 2, u'-    assert(context);'), (148, 2, u'-    assert(context);'), (166, 2, u'-    assert(context);'), (184, 2, u'-    assert(context);'), (203, 2, u'-    assert(context);'), (221, 2, u'-    assert(context);'), (239, 2, u'-    assert(context);'), (258, 2, u'-    assert(context);'), (275, 2, u'-    assert(context);'), (283, 2, u'-        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(71, 1, u'+    assert(primIndex >= 0 && primIndex <= (int)_primFidelity.size());')]
+===========================================
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+Class:   class MyPatch { class MyPatch 
+Class:     class OsdEvalContext : OpenSubdiv::OsdNonCopyable<OsdEvalContext> { class OsdEvalContext : OpenSubdiv::OsdNonCopyable<OsdEvalContext> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+    assert(context);'), (113, 1, u'+    assert(context);'), (130, 1, u'+    assert(context);'), (147, 1, u'+    assert(context);'), (165, 1, u'+    assert(context);'), (183, 1, u'+    assert(context);'), (202, 1, u'+    assert(context);'), (220, 1, u'+    assert(context);'), (238, 1, u'+    assert(context);'), (257, 1, u'+    assert(context);'), (274, 1, u'+    assert(context);'), (282, 1, u'+        assert(edit);')]
+===========================================
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(numVertexElements >= 3);\t// at least xyz required (for performance reason)'), (3, 1, u'+    assert(numVertexElements >= 3); // at least xyz required (for performance reason)')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: OsdGLSLTransformFeedbackKernelBundle::Compile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(numVertexElements >= 3);\t// at least xyz required (for performance reason)'), (3, 1, u'+    assert(numVertexElements >= 3); // at least xyz required (for performance reason)')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(numVertexElements >= 3);\t// at least xyz required (for performance reason)'), (3, 1, u'+    assert(numVertexElements >= 3); // at least xyz required (for performance reason)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 1, u'+    assert(device);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(94, 1, u'+        assert(device);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(96, 1, u'+    assert(context);'), (113, 1, u'+    assert(context);'), (129, 1, u'+    assert(context);'), (145, 1, u'+    assert(context);'), (164, 1, u'+    assert(context);'), (181, 1, u'+    assert(context);'), (199, 1, u'+    assert(context);'), (218, 1, u'+    assert(context);'), (235, 1, u'+    assert(context);'), (253, 1, u'+    assert(context);'), (270, 1, u'+    assert(context);'), (280, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(163, 1, u'+    assert(device);'), (166, 1, u'+    assert(_classLinkage);'), (172, 1, u'+    assert(_computeShader);'), (178, 1, u'+    assert(reflector);'), (180, 1, u'+    assert(reflector->GetNumInterfaceSlots() == 1);'), (187, 1, u'+    assert(_kernelComputeFace);'), (190, 1, u'+    assert(_kernelComputeEdge);'), (193, 1, u'+    assert(_kernelComputeBilinearEdge);'), (196, 1, u'+    assert(_kernelComputeVertex);'), (199, 1, u'+    assert(_kernelComputeVertexA);'), (202, 1, u'+    assert(_kernelComputeCatmarkVertexB);'), (205, 1, u'+    assert(_kernelComputeLoopVertexB);'), (208, 1, u'+    assert(_kernelEditAdd);'), (246, 1, u'+        assert(device);'), (257, 1, u'+    assert(_kernelCB);')]
+===========================================
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdD3D11DrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdD3D11DrawRegistry<EffectDesc> 
+Class:class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+Class: class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { 
+Class:   class OsdBufferGenerator : public MHWRender::MPxVertexBufferGenerator { 
+Class: class OpenSubdivPtexShader : public MPxHwShaderNode { 
+Class:    class OsdPtexMeshData : public MUserData { 
+Class:  class OpenSubdivPtexShaderOverride : public MHWRender::MPxShaderOverride { 
+Class: class OsdBufferGenerator : public MHWRender::MPxVertexBufferGenerator { 
+Class:  class SubdivUserData : public MUserData { 
+Class:   class OpenSubdivDrawOverride : public MHWRender::MPxDrawOverride { 
+Class:   class OpenSubdivCommand : public MPxCommand { 
+Class:      class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { 
+Class: class OpenSubdivShader : public MPxHwShaderNode { 
+Class:  class OpenSubdivShaderOverride : public MHWRender::MPxShaderOverride { 
+Class:               class OpenSubdivShader : public MPxHwShaderNode { 
+Class:       class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { 
+Class:         class OpenSubdivShaderOverride : public MHWRender::MPxShaderOverride { 
+Class:         class OsdBufferGenerator : public MHWRender::MPxVertexBufferGenerator { 
+Class:             class FVarDataDesc { 
+Class:class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> { class EffectDrawRegistry : public OpenSubdiv::OsdGLDrawRegistry<EffectDesc> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(116, 1, u'+    assert(sconfig);'), (164, 1, u'+    assert(config);'), (236, 1, u'+    assert(config);')]
+===========================================
+===========================================
+Total add: 168
+Total del: 81
+Header: bindPTexture
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(116, 1, u'+    assert(sconfig);'), (164, 1, u'+    assert(config);'), (236, 1, u'+    assert(config);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(116, 1, u'+    assert(sconfig);'), (164, 1, u'+    assert(config);'), (236, 1, u'+    assert(config);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 8
+Header: OsdClKernelDispatcher::Synchronize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: OsdClKernelDispatcher::ApplyBilinearEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: OsdClKernelDispatcher::ApplyBilinearVertexVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: OsdClKernelDispatcher::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: OsdClKernelDispatcher::ApplyCatmarkEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: OsdClKernelDispatcher::ApplyCatmarkVertexVerticesKernelB
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: OsdClKernelDispatcher::ApplyCatmarkVertexVerticesKernelA
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: OsdClKernelDispatcher::ApplyLoopEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: OsdClKernelDispatcher::ApplyLoopVertexVerticesKernelB
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+    assert(context);'), (61, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Total add: 41
+Total del: 85
+Header: OsdClKernelDispatcher::initCL
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+    assert(context);'), (61, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+    assert(context);'), (61, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(137, 1, u'+    assert(clContext);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(115, 1, u'+    assert(clContext);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u'+    assert(deviceContext);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 10
+Header: OsdCpuKernelDispatcher::UnbindVertexBuffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 14
+Total del: 6
+Header: OsdCpuKernelDispatcher::ApplyBilinearFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 14
+Total del: 5
+Header: OsdCpuKernelDispatcher::ApplyBilinearEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 6
+Header: OsdCpuKernelDispatcher::ApplyBilinearVertexVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 7
+Header: OsdCpuKernelDispatcher::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 7
+Header: OsdCpuKernelDispatcher::ApplyCatmarkEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 6
+Header: OsdCpuKernelDispatcher::ApplyCatmarkVertexVerticesKernelB
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 7
+Header: OsdCpuKernelDispatcher::ApplyCatmarkVertexVerticesKernelA
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 7
+Header: OsdCpuKernelDispatcher::ApplyLoopEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 6
+Header: OsdCpuKernelDispatcher::ApplyLoopVertexVerticesKernelB
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+    assert(context);'), (27, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Total add: 36
+Total del: 12
+Header: OsdCpuKernelDispatcher::ApplyLoopVertexVerticesKernelA
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+    assert(context);'), (27, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+    assert(context);'), (27, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (17, 1, u'+    assert(E_IT);')]
+===========================================
+===========================================
+Total add: 18
+Total del: 6
+Header: OsdCudaKernelDispatcher::Synchronize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (17, 1, u'+    assert(E_IT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (17, 1, u'+    assert(E_IT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (17, 1, u'+    assert(V_ITa);')]
+===========================================
+===========================================
+Total add: 18
+Total del: 6
+Header: OsdCudaKernelDispatcher::ApplyBilinearFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (17, 1, u'+    assert(V_ITa);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (17, 1, u'+    assert(V_ITa);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(F_IT);'), (19, 1, u'+    assert(F_ITa);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 6
+Header: OsdCudaKernelDispatcher::ApplyBilinearEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(F_IT);'), (19, 1, u'+    assert(F_ITa);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(F_IT);'), (19, 1, u'+    assert(F_ITa);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(E_IT);'), (19, 1, u'+    assert(E_W);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 6
+Header: OsdCudaKernelDispatcher::ApplyBilinearVertexVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(E_IT);'), (19, 1, u'+    assert(E_W);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(E_IT);'), (19, 1, u'+    assert(E_W);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (20, 1, u'+    assert(V_ITa);'), (21, 1, u'+    assert(V_IT);'), (22, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 7
+Header: OsdCudaKernelDispatcher::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (20, 1, u'+    assert(V_ITa);'), (21, 1, u'+    assert(V_IT);'), (22, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (20, 1, u'+    assert(V_ITa);'), (21, 1, u'+    assert(V_IT);'), (22, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    assert(context);'), (20, 1, u'+    assert(V_ITa);'), (21, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 8
+Header: OsdCudaKernelDispatcher::ApplyCatmarkEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    assert(context);'), (20, 1, u'+    assert(V_ITa);'), (21, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    assert(context);'), (20, 1, u'+    assert(V_ITa);'), (21, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (19, 1, u'+    assert(E_IT);'), (20, 1, u'+    assert(E_W);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 7
+Header: OsdCudaKernelDispatcher::ApplyCatmarkVertexVerticesKernelB
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (19, 1, u'+    assert(E_IT);'), (20, 1, u'+    assert(E_W);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (19, 1, u'+    assert(E_IT);'), (20, 1, u'+    assert(E_W);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+    assert(context);'), (31, 1, u'+    assert(V_ITa);'), (32, 1, u'+    assert(V_IT);'), (33, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 18
+Header: OsdCudaKernelDispatcher::ApplyCatmarkVertexVerticesKernelA
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+    assert(context);'), (31, 1, u'+    assert(V_ITa);'), (32, 1, u'+    assert(V_IT);'), (33, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+    assert(context);'), (31, 1, u'+    assert(V_ITa);'), (32, 1, u'+    assert(V_IT);'), (33, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(V_ITa);'), (19, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 6
+Header: OsdCudaKernelDispatcher::ApplyLoopVertexVerticesKernelB
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(V_ITa);'), (19, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);'), (18, 1, u'+    assert(V_ITa);'), (19, 1, u'+    assert(V_W);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+    assert(context);'), (24, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Total add: 28
+Total del: 11
+Header: OsdCudaKernelDispatcher::ApplyLoopVertexVerticesKernelA
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+    assert(context);'), (24, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+    assert(context);'), (24, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(105, 1, u'+    assert(pd3d11Device);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(298, 1, u'+    assert(sconfig);'), (309, 1, u'+        assert(vertexShader);'), (315, 1, u'+            assert(ppInputLayout);'), (329, 1, u'+        assert(hullShader);'), (340, 1, u'+        assert(domainShader);'), (351, 1, u'+        assert(geometryShader);'), (362, 1, u'+        assert(pixelShader);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(165, 1, u'+        case 3: assert(false); break;'), (183, 1, u'+        case 3:assert(false); break;'), (192, 1, u'+        case 3: assert(false); break;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(93, 1, u'+    assert(pd3dDeviceContext);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(433, 1, u'+        assert(ptexTable.size()/2 == levels.size());'), (443, 1, u'+        assert(fvarTable.size()/(fvarDataWidth*4) == levels.size());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(285, 1, u'+    assert(sconfig);'), (288, 1, u'+    assert(config);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 48
+Header: OsdGlslKernelDispatcher::InitializeVertexBuffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 1, u'+    assert(context);'), (63, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 46
+Header: OsdGlslKernelDispatcher::BindVertexBuffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 1, u'+    assert(context);'), (63, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 1, u'+    assert(context);'), (63, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 23
+Header: OsdGlslKernelDispatcher::ApplyBilinearFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (59, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 43
+Header: OsdGlslKernelDispatcher::ApplyCatmarkFaceVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (59, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (59, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+    assert(context);'), (39, 2, u'-    assert(numVertexElements == 6);'), (89, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 23
+Total del: 103
+Header: OsdGlslKernelDispatcher::ApplyLoopVertexVerticesKernelB
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+    assert(context);'), (39, 2, u'-    assert(numVertexElements == 6);'), (89, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+    assert(context);'), (39, 2, u'-    assert(numVertexElements == 6);'), (89, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+    assert(context);'), (78, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 55
+Header: OsdGlslKernelDispatcher::ComputeShader::Compile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+    assert(context);'), (78, 1, u'+    assert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+    assert(context);'), (78, 1, u'+    assert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (56, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Total add: 28
+Total del: 85
+Header: OsdGlslKernelDispatcher::ComputeShader::ApplyBilinearEdgeVerticesKernel
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (56, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(context);'), (56, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(139, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+    assert(context);'), (121, 1, u'+    assert(context);'), (141, 1, u'+    assert(context);'), (161, 1, u'+    assert(context);'), (184, 1, u'+    assert(context);'), (205, 1, u'+    assert(context);'), (227, 1, u'+    assert(context);'), (250, 1, u'+    assert(context);'), (271, 1, u'+    assert(context);'), (293, 1, u'+    assert(context);'), (315, 1, u'+    assert(context);'), (325, 1, u'+        assert(edit);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(106, 1, u'+    assert(numVertexElements >= 3);\t// at least xyz required (for performance reason)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(96, 1, u'+    assert(context);'), (114, 1, u'+    assert(context);'), (131, 1, u'+    assert(context);'), (148, 1, u'+    assert(context);'), (166, 1, u'+    assert(context);'), (184, 1, u'+    assert(context);'), (203, 1, u'+    assert(context);'), (221, 1, u'+    assert(context);'), (239, 1, u'+    assert(context);'), (258, 1, u'+    assert(context);'), (275, 1, u'+    assert(context);'), (283, 1, u'+        assert(edit);')]
+===========================================
+Class:class loader { class loader 
+Class: class OpenSubdivShader : public MPxHwShaderNode { 
+Class:    class OsdMeshData : public MUserData { 
+Class:  class OpenSubdivShaderOverride : public MHWRender::MPxShaderOverride { 
+Class: class OsdBufferGenerator : public MHWRender::MPxVertexBufferGenerator { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(147, 1, u'+    assert(shapeStr);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(202, 1, u'+        assert(sh);')]
+===========================================
+Class: class OpenSubdivPtexShader : public MPxHwShaderNode { 
+Class:    class OsdPtexMeshData : public MUserData { 
+Class:  class OpenSubdivPtexShaderOverride : public MHWRender::MPxShaderOverride { 
+Class: class OsdBufferGenerator : public MHWRender::MPxVertexBufferGenerator { 
+Class:class loader { class loader 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+    assert(numVertexElements == 6);')]
+===========================================
+===========================================
+Total add: 100
+Total del: 2
+Header: OsdGlslKernelDispatcher::bindTextureBuffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+    assert(numVertexElements == 6);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+    assert(numVertexElements == 6);')]
+===========================================
+Class:  class SubdivUserData : public MUserData { 
+Class:   class OpenSubdivDrawOverride : public MHWRender::MPxDrawOverride { 
+Class:   class OpenSubdivCommand : public MPxCommand { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(251, 1, u'+    assert(msg);')]
+===========================================
+426
+Mismatch count:220
+Normal count:5535

@@ -1,0 +1,101 @@
+projects/top_C++/node-canvas
+Going to process projects/top_C++/node-canvas/all_log.txt 
+---------- node-canvas ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(_closure);'), (16, 1, u'+    assert(status == CAIRO_STATUS_SUCCESS);'), (20, 1, u'+    assert(_surface);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 3
+Header: Canvas::StreamJPEGSync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(_closure);'), (16, 1, u'+    assert(status == CAIRO_STATUS_SUCCESS);'), (20, 1, u'+    assert(_surface);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(_closure);'), (16, 1, u'+    assert(status == CAIRO_STATUS_SUCCESS);'), (20, 1, u'+    assert(_surface);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- * RGBA arg assertions.')]
+===========================================
+===========================================
+Total add: 0
+Total del: 18
+Header: using namespace node;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- * RGBA arg assertions.')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- * RGBA arg assertions.')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+ * RGBA arg assertions.')]
+===========================================
+===========================================
+Total add: 18
+Total del: 0
+Header: using namespace node;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+ * RGBA arg assertions.')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+ * RGBA arg assertions.')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+499
+Mismatch count:14950
+Normal count:455284

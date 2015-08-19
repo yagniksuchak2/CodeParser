@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "./runAll.py", line 112, in <module>
+    main(sys.argv[1:])
+  File "./runAll.py", line 105, in main
+    ghProc.processLog(project_path)
+  File "/home/bairay/bitbucket/assert/src/ghProc_v2/ghProc.py", line 39, in processLog
+    ghDb.processLog()
+  File "/home/bairay/bitbucket/assert/src/ghProc_v2/ghLogDb.py", line 528, in processLog
+    self.processLastChunk(patchObj, curLogChunk)
+  File "/home/bairay/bitbucket/assert/src/ghProc_v2/ghLogDb.py", line 407, in processLastChunk
+    curLogChunk.parseText()
+  File "/home/bairay/bitbucket/assert/src/ghProc_v2/logChunk.py", line 377, in parseText
+    if(self.isFunction(functionName) or (classContext != [] and self.isConstructor(functionName, classContext[len(classContext) - 1]))): #Skip things are aren't functions
+  File "/home/bairay/bitbucket/assert/src/ghProc_v2/logChunk.py", line 264, in isConstructor
+    return re.search(classContext + paramPattern, line.strip().replace("\n", ""))
+  File "/usr/lib/python2.7/re.py", line 142, in search
+    return _compile(pattern, flags).search(string)
+  File "/usr/lib/python2.7/re.py", line 242, in _compile
+    raise error, v # invalid expression
+sre_constants.error: unbalanced parenthesis

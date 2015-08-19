@@ -1,0 +1,2125 @@
+projects/top_C/scikit-learn
+Going to process projects/top_C/scikit-learn/all_log.txt 
+---------- scikit-learn ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+Total add: 41
+Total del: 0
+Header: static PyTypeObject *__pyx_ptype_7sklearn_5utils_9fast_dict_IntFloatDict = 0;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3133, 1, u'+    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[2]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (5688, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (5821, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (5823, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 10795
+Total del: 57
+Header: *__pyx_f_5numpy_get_array_base
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3133, 1, u'+    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[2]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (5688, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (5821, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (5823, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3133, 1, u'+    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[2]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (5688, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (5821, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (5823, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+Total add: 42
+Total del: 1
+Header: *__pyx_f_5numpy__util_dtypestring
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3106, 1, u'+    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[2]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (5661, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (5794, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (5796, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 10579
+Total del: 34
+Header: *__pyx_f_5numpy_get_array_base
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3106, 1, u'+    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[2]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (5661, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (5794, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (5796, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3106, 1, u'+    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[2]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (5661, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (5794, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (5796, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(262, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (263, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS'), (1127, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (1135, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (1147, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (1152, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(306, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (308, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (563, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (565, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 786
+Header: __pyx_f_7sklearn_9neighbors_12dist_metrics_euclidean_cdist
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(306, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (308, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (563, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (565, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(306, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (308, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (563, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (565, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(53, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (62, 1, u'+      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 328
+Total del: 0
+Header: __pyx_memoryview__slice_assign_scalar
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(53, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (62, 1, u'+      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(53, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (62, 1, u'+      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+Total add: 0
+Total del: 40
+Header: static __pyx_t_7sklearn_9neighbors_8typedefs_DTYPE_t __pyx_v_7sklearn_9neighbors
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1756, 2, u'-    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (4309, 2, u'-static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (4439, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4441, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (8765, 2, u'-    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8774, 2, u'-      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 273
+Total del: 12445
+Header: *__pyx_array_MemoryView_5array_8__getitem__
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1756, 2, u'-    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (4309, 2, u'-static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (4439, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4441, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (8765, 2, u'-    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8774, 2, u'-      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1756, 2, u'-    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (4309, 2, u'-static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (4439, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4441, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (8765, 2, u'-    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8774, 2, u'-      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+Class:       class SWIG_Python_Thread_Allow {        class SWIG_Python_Thread_Allow 
+Class:  class SwigPtr_PyObject {   class SwigPtr_PyObject 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(266, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (267, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS'), (1385, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *, int); /*proto*/'), (6701, 1, u'+    __pyx_t_7 = assert_direct_dimensions(__pyx_v_self->view.suboffsets, __pyx_v_self->view.ndim); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[1]; __pyx_lineno = 433; __pyx_clineno = __LINE__; goto __pyx_L1_error;}'), (9250, 1, u'+static PyObject *assert_direct_dimensions(Py_ssize_t *__pyx_v_suboffsets, int __pyx_v_ndim) {'), (9382, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (9384, 1, u'+    PyErr_SetNone(PyExc_AssertionError);'), (13725, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (13734, 1, u'+      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(263, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (264, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(263, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (264, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(262, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (263, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(262, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (263, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(259, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (260, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+Class:class l2r_l2_svr_fun: public l2r_l2_svc_fun { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(239, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (240, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *__pyx_pf_7sklearn_12linear_model_15sgd_fast_sparse_plain_sgd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *__pyx_pf_7sklearn_12linear_model_15sgd_fast_sparse_plain_sgd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1'), (3, 2, u'- *             assert offset >= 0')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: *__pyx_pf_7sklearn_12linear_model_15sgd_fast_sparse_plain_sgd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1'), (3, 2, u'- *             assert offset >= 0')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1'), (3, 2, u'- *             assert offset >= 0')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1             # <<<<<<<<<<<<<<'), (3, 2, u'- *             assert offset >= 0'), (6, 2, u'-      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8, 2, u'-        PyErr_SetNone(PyExc_AssertionError);'), (20, 2, u'-      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (22, 2, u'-        PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 28
+Header: *__pyx_pf_7sklearn_12linear_model_15sgd_fast_sparse_plain_sgd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1             # <<<<<<<<<<<<<<'), (3, 2, u'- *             assert offset >= 0'), (6, 2, u'-      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8, 2, u'-        PyErr_SetNone(PyExc_AssertionError);'), (20, 2, u'-      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (22, 2, u'-        PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert xnnz >= 1             # <<<<<<<<<<<<<<'), (3, 2, u'- *             assert offset >= 0'), (6, 2, u'-      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8, 2, u'-        PyErr_SetNone(PyExc_AssertionError);'), (20, 2, u'-      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (22, 2, u'-        PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *             assert xnnz >= 1')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *__pyx_pf_7sklearn_12linear_model_15sgd_fast_sparse_plain_sgd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *             assert xnnz >= 1')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *             assert xnnz >= 1')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *             assert xnnz >= 1')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *__pyx_pf_7sklearn_12linear_model_15sgd_fast_sparse_plain_sgd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *             assert xnnz >= 1')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *             assert xnnz >= 1')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+ *             assert xnnz >= 1'), (5, 1, u'+ *             assert offset >= 0')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: *__pyx_pf_7sklearn_12linear_model_15sgd_fast_sparse_plain_sgd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+ *             assert xnnz >= 1'), (5, 1, u'+ *             assert offset >= 0')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+ *             assert xnnz >= 1'), (5, 1, u'+ *             assert offset >= 0')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+ *             assert xnnz >= 1             # <<<<<<<<<<<<<<'), (3, 1, u'+ *             assert offset >= 0'), (6, 1, u'+      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8, 1, u'+        PyErr_SetNone(PyExc_AssertionError);'), (20, 1, u'+      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (22, 1, u'+        PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 28
+Total del: 0
+Header: *__pyx_pf_7sklearn_12linear_model_15sgd_fast_sparse_plain_sgd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+ *             assert xnnz >= 1             # <<<<<<<<<<<<<<'), (3, 1, u'+ *             assert offset >= 0'), (6, 1, u'+      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8, 1, u'+        PyErr_SetNone(PyExc_AssertionError);'), (20, 1, u'+      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (22, 1, u'+        PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+ *             assert xnnz >= 1             # <<<<<<<<<<<<<<'), (3, 1, u'+ *             assert offset >= 0'), (6, 1, u'+      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (8, 1, u'+        PyErr_SetNone(PyExc_AssertionError);'), (20, 1, u'+      #ifndef CYTHON_WITHOUT_ASSERTIONS'), (22, 1, u'+        PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: *__pyx_pf_7sklearn_3svm_6sparse_6libsvm_libsvm_sparse_train
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (7, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (6, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:class Cache class Cache
+Class:class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:       class SWIG_Python_Thread_Allow {        class SWIG_Python_Thread_Allow 
+Class:  class SwigPtr_PyObject {   class SwigPtr_PyObject 
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:class Cache class Cache
+Class:class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:       class SWIG_Python_Thread_Allow {        class SWIG_Python_Thread_Allow 
+Class:  class SwigPtr_PyObject {   class SwigPtr_PyObject 
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:class Cache class Cache
+Class:class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:       class SWIG_Python_Thread_Allow {        class SWIG_Python_Thread_Allow 
+Class:  class SwigPtr_PyObject {   class SwigPtr_PyObject 
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:class Cache class Cache
+Class:class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:       class SWIG_Python_Thread_Allow {        class SWIG_Python_Thread_Allow 
+Class:  class SwigPtr_PyObject {   class SwigPtr_PyObject 
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:class Cache class Cache
+Class:class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:       class SWIG_Python_Thread_Allow {        class SWIG_Python_Thread_Allow 
+Class:  class SwigPtr_PyObject {   class SwigPtr_PyObject 
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:class Cache class Cache
+Class:class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:       class SWIG_Python_Thread_Allow {        class SWIG_Python_Thread_Allow 
+Class:  class SwigPtr_PyObject {   class SwigPtr_PyObject 
+Class:   class SyntaxError : public std::runtime_error { class SyntaxError : public std::runtime_error 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(132, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (134, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 222
+Header: *__pyx_f_7scikits_5learn_4tree_5_tree_bincount_k
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(132, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (134, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(132, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (134, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(129, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (131, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 211
+Total del: 5
+Header: *__pyx_pf_7scikits_5learn_10tree_model_5_tree_set_entropy
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(129, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (131, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(129, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (131, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: *__pyx_pf_7scikits_5learn_3svm_6libsvm_fit
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 2, u'-      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (38, 1, u'+      PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_t_5));')]
+===========================================
+===========================================
+Total add: 16
+Total del: 16
+Header: *__pyx_pf_7scikits_5learn_3svm_6libsvm_fit
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 2, u'-      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (38, 1, u'+      PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_t_5));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 2, u'-      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (38, 1, u'+      PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_t_5));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: *__pyx_pf_7scikits_5learn_3svm_6libsvm_cross_validation
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    #ifndef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (37, 1, u'+      PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_t_5));')]
+===========================================
+===========================================
+Total add: 17
+Total del: 17
+Header: *__pyx_pf_7scikits_5learn_3svm_6libsvm_cross_validation
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (37, 1, u'+      PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_t_5));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (37, 1, u'+      PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_t_5));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"'), (4, 1, u'+ *         assert arr.ndim == 2, ("input points must be 2 dimensional "')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: __pyx_pf_9ball_tree_8BallTree___cinit__
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"'), (4, 1, u'+ *         assert arr.ndim == 2, ("input points must be 2 dimensional "')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"'), (4, 1, u'+ *         assert arr.ndim == 2, ("input points must be 2 dimensional "')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"             # <<<<<<<<<<<<<<'), (3, 1, u'+ *         assert arr.ndim == 2, ("input points must be 2 dimensional "             # <<<<<<<<<<<<<<')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: __pyx_pf_9ball_tree_8BallTree___cinit__
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"             # <<<<<<<<<<<<<<'), (3, 1, u'+ *         assert arr.ndim == 2, ("input points must be 2 dimensional "             # <<<<<<<<<<<<<<')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"             # <<<<<<<<<<<<<<'), (3, 1, u'+ *         assert arr.ndim == 2, ("input points must be 2 dimensional "             # <<<<<<<<<<<<<<')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert r.shape[:-1] == x.shape[:-1]'), (3, 1, u'+ *             assert r.shape == x.shape[:-1]')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *__pyx_pf_9ball_tree_8BallTree_3query_radius
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert r.shape[:-1] == x.shape[:-1]'), (3, 1, u'+ *             assert r.shape == x.shape[:-1]')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert r.shape[:-1] == x.shape[:-1]'), (3, 1, u'+ *             assert r.shape == x.shape[:-1]')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert r.shape[:-1] == x.shape[:-1]             # <<<<<<<<<<<<<<'), (3, 1, u'+ *             assert r.shape == x.shape[:-1]             # <<<<<<<<<<<<<<')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *__pyx_pf_9ball_tree_8BallTree_3query_radius
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert r.shape[:-1] == x.shape[:-1]             # <<<<<<<<<<<<<<'), (3, 1, u'+ *             assert r.shape == x.shape[:-1]             # <<<<<<<<<<<<<<')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'- *             assert r.shape[:-1] == x.shape[:-1]             # <<<<<<<<<<<<<<'), (3, 1, u'+ *             assert r.shape == x.shape[:-1]             # <<<<<<<<<<<<<<')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (118, 1, u'+      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 133
+Total del: 2
+Header: *__pyx_pf_9ball_tree_8BallTree_3query_radius
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (118, 1, u'+      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+    #ifndef CYTHON_WITHOUT_ASSERTIONS'), (118, 1, u'+      PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (116, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (166, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (178, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 572
+Header: __pyx_pf_9ball_tree_8BallTree_4data_2__del__
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (116, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (166, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (178, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (116, 2, u'-    PyErr_SetNone(PyExc_AssertionError);'), (166, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (178, 2, u'-    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(130, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (145, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 499
+Total del: 1
+Header: *__pyx_pf_9ball_tree_8BallTree_2query
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(130, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (145, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(130, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (145, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: __pyx_pf_9ball_tree_8BallTree___cinit__
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: *__pyx_pf_9ball_tree_8BallTree_query
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: *__pyx_pf_9ball_tree_8BallTree_query
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef PYREX_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(211, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (220, 1, u'+    PyErr_SetNone(PyExc_AssertionError);'), (270, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (282, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Total add: 675
+Total del: 50
+Header: *__pyx_pf_9ball_tree_8BallTree_query
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(211, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (220, 1, u'+    PyErr_SetNone(PyExc_AssertionError);'), (270, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (282, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(211, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (220, 1, u'+    PyErr_SetNone(PyExc_AssertionError);'), (270, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (282, 1, u'+    PyErr_SetNone(PyExc_AssertionError);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: __pyx_pf_9ball_tree_8BallTree___cinit__
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'- *         assert x.shape[-1] == self.num_dims')]
+===========================================
+===========================================
+Total add: 5
+Total del: 4
+Header: __pyx_pf_9ball_tree_8BallTree_1__dealloc__
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'- *         assert x.shape[-1] == self.num_dims')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'- *         assert x.shape[-1] == self.num_dims')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: *__pyx_pf_9ball_tree_8BallTree_2query
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: *__pyx_pf_9ball_tree_8BallTree_2query
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (4, 1, u'+  #ifndef PYREX_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'- *         assert x.shape[-1] == self.num_dims')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: PyInit_ball_tree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'- *         assert x.shape[-1] == self.num_dims')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'- *         assert x.shape[-1] == self.num_dims')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"'), (48, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (57, 1, u'+    PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_kp_s_1));')]
+===========================================
+===========================================
+Total add: 83
+Total del: 0
+Header: __pyx_pf_9ball_tree_8BallTree___cinit__
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"'), (48, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (57, 1, u'+    PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_kp_s_1));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+ *         assert arr.ndim == 2, "input points must be 2 dimensional (points x dimensions)"'), (48, 1, u'+  #ifndef CYTHON_WITHOUT_ASSERTIONS'), (57, 1, u'+    PyErr_SetObject(PyExc_AssertionError, ((PyObject *)__pyx_kp_s_1));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (23, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(55, 2, u'-    assert(false);'), (289, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (290, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own);'), (3, 1, u'+                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: SWIG_Python_ConvertPtrAndOwn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own);'), (3, 1, u'+                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own);'), (3, 1, u'+                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(433, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (461, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (728, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 711
+Total del: 29
+Header: *__pyx_pf_7scikits_5learn_3svm_6libsvm_decision_function
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(433, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (461, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (728, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(433, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (461, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);'), (728, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */'), (3, 1, u'+                assert(own);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: SWIG_Python_ConvertPtrAndOwn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */'), (3, 1, u'+                assert(own);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */'), (3, 1, u'+                assert(own);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own);'), (3, 1, u'+                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: SWIG_Python_ConvertPtrAndOwn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own);'), (3, 1, u'+                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                assert(own);'), (3, 1, u'+                assert(own); /* badly formed typemap which will lead to a memory leak - it must set and use own to delete *ptr */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 2, u'-#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#ifdef PYREX_WITHOUT_ASSERTIONS'), (3, 1, u'+#define CYTHON_WITHOUT_ASSERTIONS')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(104, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (133, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);')]
+===========================================
+===========================================
+Total add: 133
+Total del: 13
+Header: *__pyx_pf_7_libsvm_libsvm_train
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(104, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (133, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(104, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (133, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(81, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (109, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);')]
+===========================================
+===========================================
+Total add: 116
+Total del: 2
+Header: *__pyx_pf_14_libsvm_sparse_libsvm_sparse_train
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(81, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (109, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(81, 1, u'+    #ifndef PYREX_WITHOUT_ASSERTIONS'), (109, 1, u'+      PyErr_SetObject(PyExc_AssertionError, __pyx_t_5);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 37
+Total del: 0
+Header: *__pyx_pf_7_libsvm_libsvm_decision_function
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 37
+Total del: 0
+Header: *__pyx_pf_14_libsvm_sparse_libsvm_sparse_predict
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 1
+Total del: 38
+Header: *__pyx_pf_7_libsvm_predict_margin_from_model_wrap
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 38
+Total del: 1
+Header: *__pyx_pf_7_libsvm_libsvm_decision_function
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 0
+Total del: 37
+Header: *__pyx_pf_7_libsvm_libsvm_decision_function
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 0
+Total del: 37
+Header: *__pyx_pf_14_libsvm_sparse_libsvm_sparse_predict
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 37
+Total del: 0
+Header: *__pyx_pf_7_libsvm_libsvm_decision_function
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 37
+Total del: 0
+Header: *__pyx_pf_14_libsvm_sparse_libsvm_sparse_predict
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 1
+Total del: 38
+Header: *__pyx_pf_7_libsvm_predict_margin_from_model_wrap
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+Total add: 37
+Total del: 0
+Header: *__pyx_pf_7_libsvm_predict_margin_from_model_wrap
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+  assert(__pyx_arg_verbosity); {')]
+===========================================
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:       class SWIG_Python_Thread_Allow {        class SWIG_Python_Thread_Allow 
+Class:  class SwigPtr_PyObject {   class SwigPtr_PyObject 
+Class: class l2r_l2_svc_fun : public function { 
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class: class l2r_l2_svc_fun : public function { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> static inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+Class:template <class S, class T> inline void clone(T*& dst, S* src, int n) { 
+Class:        class QMatrix { class QMatrix 
+Class: class Kernel: public QMatrix { class Kernel: public QMatrix 
+Class:                   class Solver { class Solver 
+Class:      class Solver_NU : public Solver { 
+Class:    class SVC_Q: public Kernel { 
+Class: class ONE_CLASS_Q: public Kernel { 
+Class: class SVR_Q: public Kernel { 
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+1075
+Mismatch count:128572
+Normal count:2814589

@@ -1,0 +1,127 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADD	logChunk.py	/^ADD = 1$/;"	v
+CPP_PATH	runAll.py	/^CPP_PATH = 'projects' + os.sep + 'top_C++'$/;"	v
+C_PATH	runAll.py	/^C_PATH = 'projects' + os.sep + 'top_C'$/;"	v
+DATE	ghLogDb.py	/^DATE  = '[0-9]{4}-[0-9]{2}-[0-9]{2}'$/;"	v
+DEBUG	ghLogDb.py	/^DEBUG = 1$/;"	v
+EMAIL	ghLogDb.py	/^EMAIL = '<[\\w.%+-]+@([\\w.+-])+>'$/;"	v
+LOG_FILE	getGitLog.py	/^LOG_FILE = "all_log.txt"$/;"	v
+LOG_FILE	ghProc.py	/^LOG_FILE = "all_log.txt"$/;"	v
+LOOKFOREND	logChunk.py	/^LOOKFOREND = 2$/;"	v
+LOOKFORNAME	logChunk.py	/^LOOKFORNAME = 1$/;"	v
+MOCK	logChunk.py	/^MOCK = "Mock_Function_For_Asserts"$/;"	v
+OTHER	logChunk.py	/^OTHER = 3$/;"	v
+Patch	ghLogDb.py	/^class Patch:$/;"	c
+PatchMethod	PatchMethod.py	/^class PatchMethod:$/;"	c
+REMOVE	logChunk.py	/^REMOVE = 2$/;"	v
+SHA	ghLogDb.py	/^SHA   = '[a-f0-9]{40}'$/;"	v
+Sha	ghLogDb.py	/^class Sha:$/;"	c
+TestStringMethods	testExample.py	/^class TestStringMethods(unittest.TestCase):$/;"	c
+__init__	PatchMethod.py	/^  def __init__(self, methodName):$/;"	m	class:PatchMethod
+__init__	dumpLogs.py	/^  def __init__(self, configFile='config.ini'):$/;"	m	class:dumpLogs
+__init__	ghLogDb.py	/^  def __init__(self, fileName, language):$/;"	m	class:Patch
+__init__	ghLogDb.py	/^  def __init__(self, logFile):$/;"	m	class:ghLogDb
+__init__	ghLogDb.py	/^  def __init__(self, project, sha):$/;"	m	class:Sha
+__init__	logChunk.py	/^    def __init__(self, name, start=0, end=0, added=0, deleted=0):$/;"	m	class:functionObj
+__init__	logChunk.py	/^    def __init__(self, text = ""):$/;"	m	class:logChunk
+__str__	ghLogDb.py	/^  def __str__(self):$/;"	m	class:Sha	file:
+__str__	ghLogDb.py	/^  def __str__(self):$/;"	m	class:ghLogDb	file:
+addAssertion	logChunk.py	/^    def addAssertion(self, lineNum, modType, assertText):$/;"	m	class:functionObj
+addFunctions	ghLogDb.py	/^  def addFunctions(self, nextLogChunk):$/;"	m	class:Patch
+addMethod	ghLogDb.py	/^  def addMethod(self, methodName):$/;"	m	class:Patch
+addToText	logChunk.py	/^    def addToText(self, line):$/;"	m	class:logChunk
+checkProj	ghProc.py	/^def checkProj(project):$/;"	f
+cleanDb	dumpLogs.py	/^  def cleanDb(self):$/;"	m	class:dumpLogs
+close	dumpLogs.py	/^  def close(self):$/;"	m	class:dumpLogs
+commentPattern	logChunk.py	/^commentPattern = "\/\\*.*\\*\/"$/;"	v
+commentPattern2	logChunk.py	/^commentPattern2 = "\/\/.*"$/;"	v
+connectDb	dumpLogs.py	/^  def connectDb(self):$/;"	m	class:dumpLogs
+containsAssert	logChunk.py	/^    def containsAssert(self, line):$/;"	m	class:logChunk
+convertMockToReal	logChunk.py	/^    def convertMockToReal(self):$/;"	m	class:logChunk
+convertToPatchMethod	logChunk.py	/^    def convertToPatchMethod(self):$/;"	m	class:functionObj
+createPatch	ghLogDb.py	/^  def createPatch(self, line):$/;"	m	class:ghLogDb
+createPatchWithNoPrevVersion	ghLogDb.py	/^  def createPatchWithNoPrevVersion(self, line):$/;"	m	class:ghLogDb
+debugFunctions	logChunkTest.py	/^    def debugFunctions(self, funcList):$/;"	m	class:logChunkTest
+dumpLog	getGitLog.py	/^def dumpLog(projPath):$/;"	f
+dumpLog	ghProc.py	/^def dumpLog(projPath):$/;"	f
+dumpLogs	dumpLogs.py	/^class dumpLogs:$/;"	c
+dumpMethod	PatchMethod.py	/^  def dumpMethod(self):$/;"	m	class:PatchMethod
+dumpMethodChanges	dumpLogs.py	/^  def dumpMethodChanges(self, methodChange):$/;"	m	class:dumpLogs
+dumpPatch	ghLogDb.py	/^  def dumpPatch(self, sha, project, dumpLog):$/;"	m	class:Patch
+dumpPatches	ghLogDb.py	/^  def dumpPatches(self,dumpLogDb):$/;"	m	class:Sha
+dumpSha	ghLogDb.py	/^  def dumpSha(self, dumpLogDb):$/;"	m	class:Sha
+dumpSummary	dumpLogs.py	/^  def dumpSummary(self, summaryStr):$/;"	m	class:dumpLogs
+error_cases	ghLogDb.py	/^error_cases = 0 #Global Count of the incorrectly named spots$/;"	v
+extractClassName	logChunk.py	/^    def extractClassName(self, line):$/;"	m	class:logChunk
+findAll	runAll.py	/^def findAll(root):$/;"	f
+functionCount	logChunk.py	/^    def functionCount(self):$/;"	m	class:logChunk
+functionObj	logChunk.py	/^class functionObj:$/;"	c
+functionPattern1	logChunk.py	/^functionPattern1 = "[\\w\\d_]+ *\\** +[\\w\\d_:]+ *\\([\\w\\d_,\\[\\]\\*\\(\\)&: ]*\\) *{$"$/;"	v
+functionPattern2	logChunk.py	/^functionPattern2 = "[\\w\\d_]+ +\\** *[\\w\\d_:]+ *\\([\\w\\d_,\\[\\]\\*\\(\\)&: ]*\\) *{$"$/;"	v
+getGitLog	getGitLog.py	/^def getGitLog(project):$/;"	f
+ghLogDb	ghLogDb.py	/^class ghLogDb:$/;"	c
+ghLogDbTest	ghLogDbTest.py	/^class ghLogDbTest(unittest.TestCase):$/;"	c
+hasMockFunction	logChunk.py	/^    def hasMockFunction(self):$/;"	m	class:logChunk
+isAssignment	logChunk.py	/^    def isAssignment(self, line):$/;"	m	class:logChunk
+isAuthor	ghLogDb.py	/^  def isAuthor(self,line,shaObj):$/;"	m	class:ghLogDb
+isClassDef	logChunk.py	/^    def isClassDef(self, line):$/;"	m	class:logChunk
+isConstructor	logChunk.py	/^    def isConstructor(self, line, classContext):$/;"	m	class:logChunk
+isDate	ghLogDb.py	/^  def isDate(self,line,shaObj):$/;"	m	class:ghLogDb
+isFunction	logChunk.py	/^    def isFunction(self, line):$/;"	m	class:logChunk
+isHeaderMismatch	logChunk.py	/^    def isHeaderMismatch(self):$/;"	m	class:logChunk
+isMethodLine	utilities.py	/^def isMethodLine(line):$/;"	f
+isSha	ghLogDb.py	/^  def isSha(self,line):$/;"	m	class:ghLogDb
+logChunk	logChunk.py	/^class logChunk:$/;"	c
+logChunkTest	logChunkTest.py	/^class logChunkTest(unittest.TestCase):$/;"	c
+main	getGitLog.py	/^def main():$/;"	f
+main	ghProc.py	/^def main():$/;"	f
+main	runAll.py	/^def main(argv):$/;"	f
+normal_cases	ghLogDb.py	/^normal_cases = 0 #Global Count of correctly named spots$/;"	v
+otherAssertFile	logChunk.py	/^otherAssertFile = "assertFunctions.txt" $/;"	v
+paramPattern	logChunk.py	/^paramPattern = " *\\([\\w\\d_,\\[\\]\\*\\(\\)&: ]*\\)[^;]*{" #What parameters to a call look like.$/;"	v
+parenPattern	logChunk.py	/^parenPattern = "\\(.*\\)"$/;"	v
+parseFunctionName	logChunk.py	/^    def parseFunctionName(self, fullName):$/;"	m	class:logChunk
+parseText	logChunk.py	/^    def parseText(self):$/;"	m	class:logChunk
+printFunc	logChunk.py	/^    def printFunc(self):$/;"	m	class:functionObj
+printLogChunk	logChunk.py	/^    def printLogChunk(self):$/;"	m	class:logChunk
+printPatch	PatchMethod.py	/^  def printPatch(self):$/;"	m	class:PatchMethod
+printPatch	ghLogDb.py	/^  def printPatch(self):$/;"	m	class:Patch
+printPatches	ghLogDb.py	/^  def printPatches(self):$/;"	m	class:Sha
+printSha	ghLogDb.py	/^  def printSha(self):$/;"	m	class:Sha
+processLastChunk	ghLogDb.py	/^  def processLastChunk(self, patchObj, curLogChunk):$/;"	m	class:ghLogDb
+processLog	getGitLog.py	/^def processLog(projPath):$/;"	f
+processLog	ghLogDb.py	/^  def processLog(self):$/;"	m	class:ghLogDb
+processLog	ghProc.py	/^def processLog(projPath):$/;"	f
+processPatch	ghLogDb.py	/^  def processPatch(self, line, patchObj, curLogChunk):$/;"	m	class:ghLogDb
+processProject	runAll.py	/^def processProject(projPath):$/;"	f
+processProjects	runAll.py	/^def processProjects(projList):$/;"	f
+readHelper	logChunkTest.py	/^    def readHelper(self, filename):$/;"	m	class:logChunkTest
+readKnownTypes	logChunk.py	/^    def readKnownTypes(self):$/;"	m	class:logChunk
+reset	logChunk.py	/^    def reset(self):$/;"	m	class:logChunk
+setLog	ghLogDb.py	/^  def setLog(self, log):$/;"	m	class:Sha
+setUp	ghLogDbTest.py	/^    def setUp(self):$/;"	m	class:ghLogDbTest
+setUp	logChunkTest.py	/^    def setUp(self):$/;"	m	class:logChunkTest
+stringPattern	logChunk.py	/^stringPattern = "\\".*\\""$/;"	v
+templatePattern1	logChunk.py	/^templatePattern1 = "template +< *class +.*> +[\\w\\d_]+ *\\** +[\\w\\d_<>:]+ *\\([\\w\\d_,\\[\\]\\*\\(\\)&: ]*\\) *{$"$/;"	v
+templatePattern2	logChunk.py	/^templatePattern2 = "template +< *class +.*> +[\\w\\d_]+ +\\** *[\\w\\d_<>:]+ *\\([\\w\\d_,\\[\\]\\*\\(\\)&: ]*\\) *{$"$/;"	v
+test	ghLogDb.py	/^def test():$/;"	f
+test_AssignPattern	logChunkTest.py	/^    def test_AssignPattern(self):$/;"	m	class:logChunkTest
+test_Commit1	ghLogDbTest.py	/^    def test_Commit1(self):$/;"	m	class:ghLogDbTest
+test_Commit2	ghLogDbTest.py	/^    def test_Commit2(self):$/;"	m	class:ghLogDbTest
+test_Commit3	ghLogDbTest.py	/^    def test_Commit3(self):$/;"	m	class:ghLogDbTest
+test_Commit4	ghLogDbTest.py	/^    def test_Commit4(self):   $/;"	m	class:ghLogDbTest
+test_Commit5	ghLogDbTest.py	/^    def test_Commit5(self):$/;"	m	class:ghLogDbTest
+test_FunctionNameParse	logChunkTest.py	/^    def test_FunctionNameParse(self):$/;"	m	class:logChunkTest
+test_isClassDef	logChunkTest.py	/^    def test_isClassDef(self):$/;"	m	class:logChunkTest
+test_isFunction	logChunkTest.py	/^    def test_isFunction(self):$/;"	m	class:logChunkTest
+test_isupper	testExample.py	/^  def test_isupper(self):$/;"	m	class:TestStringMethods
+test_parseText	logChunkTest.py	/^    def test_parseText(self):$/;"	m	class:logChunkTest
+test_split	testExample.py	/^  def test_split(self):$/;"	m	class:TestStringMethods
+test_upper	testExample.py	/^  def test_upper(self):$/;"	m	class:TestStringMethods
+toStr	PatchMethod.py	/^def toStr(text):$/;"	f
+toStr	ghLogDb.py	/^def toStr(text):$/;"	f

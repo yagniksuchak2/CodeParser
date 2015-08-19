@@ -1,0 +1,1576 @@
+==== Utility to process Github logs ===
+projects/top_C++/tiled
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/turbulenz_engine
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/bitcoin
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/node-serialport
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/hiphop-php
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/grive
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/node-webkit
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/TrinityCore
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/SmartDeblur
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/v8
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/subvim
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/mongo
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/opencv
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/rethinkdb
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/fish-shell
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/wkhtmltopdf
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/rocksdb
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/Polycode
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/mysql
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/libsass
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/folly
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/scribe
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/capnproto
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/DOOM-3-BFG
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/node-canvas
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/ngx_pagespeed
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/phantomjs
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/doom3.gpl
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/appjs
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/OpenSubdiv
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/openh264
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/fr_public
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/vowpal_wabbit
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/brackets-app
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/darner
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/node.bcrypt.js
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/pdf2htmlEX
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/node-qt
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/YouCompleteMe
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/TideSDK
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/mosh
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/Torque3D
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+projects/top_C++/source-sdk-2013
+git log --date=short -U1 --  \*.c \*.C \*.cc \*.CC \*.cpp \*.CPP \*.c++ \*.C++ \*.cp \*.CP \*.cxx \*.CXX \*.h \*.H \*.ic \*.IC > all_log.txt
+Done!!
+Utility to process github logs
+!! /home/bairay/exception_handling_project/top_projects/top_Java/nohup.out does not exist
+!! Please provide a valid directory
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/NineOldAndroids/all_changed_log.txt 
+---------- NineOldAndroids ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/PhotoView/all_changed_log.txt 
+---------- PhotoView ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/clojure/all_changed_log.txt 
+---------- clojure ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Android-Universal-Image-Loader/all_changed_log.txt 
+---------- Android-Universal-Image-Loader ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/otto/all_changed_log.txt 
+---------- otto ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/SlidingMenu/all_changed_log.txt 
+---------- SlidingMenu ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android/all_changed_log.txt 
+---------- android ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/XobotOS/all_changed_log.txt 
+---------- XobotOS ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Android-Bootstrap/all_changed_log.txt 
+---------- Android-Bootstrap ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/processing-js/all_changed_log.txt 
+---------- processing-js ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/facebook-android-sdk/all_changed_log.txt 
+---------- facebook-android-sdk ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/elasticsearch/all_changed_log.txt 
+---------- elasticsearch ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android-pulltorefresh/all_changed_log.txt 
+---------- android-pulltorefresh ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/springside4/all_changed_log.txt 
+---------- springside4 ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Android-ViewPagerIndicator/all_changed_log.txt 
+---------- Android-ViewPagerIndicator ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/rootbeer1/all_changed_log.txt 
+---------- rootbeer1 ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/presto/all_changed_log.txt 
+---------- presto ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/ActionBar-PullToRefresh/all_changed_log.txt 
+---------- ActionBar-PullToRefresh ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/dagger/all_changed_log.txt 
+---------- dagger ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Hystrix/all_changed_log.txt 
+---------- Hystrix ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/AndEngine/all_changed_log.txt 
+---------- AndEngine ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Arduino/all_changed_log.txt 
+---------- Arduino ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/disruptor/all_changed_log.txt 
+---------- disruptor ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/androidannotations/all_changed_log.txt 
+---------- androidannotations ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/ActionBarSherlock/all_changed_log.txt 
+---------- ActionBarSherlock ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/stream-lib/all_changed_log.txt 
+---------- stream-lib ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/drag-sort-listview/all_changed_log.txt 
+---------- drag-sort-listview ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Android-PullToRefresh/all_changed_log.txt 
+---------- Android-PullToRefresh ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/platform_frameworks_base/all_changed_log.txt 
+---------- platform_frameworks_base ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/storm/all_changed_log.txt 
+---------- storm ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/ActionBar-PullToRefresh_copy/all_changed_log.txt 
+---------- ActionBar-PullToRefresh_copy ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/androidquery/all_changed_log.txt 
+---------- androidquery ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/phonegap-plugins/all_changed_log.txt 
+---------- phonegap-plugins ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/roboguice/all_changed_log.txt 
+---------- roboguice ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/jedis/all_changed_log.txt 
+---------- jedis ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/GreenDroid/all_changed_log.txt 
+---------- GreenDroid ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/CraftBukkit/all_changed_log.txt 
+---------- CraftBukkit ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/spring-framework/all_changed_log.txt 
+---------- spring-framework ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/atmosphere/all_changed_log.txt 
+---------- atmosphere ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android-bootstrap/all_changed_log.txt 
+---------- android-bootstrap ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/picasso/all_changed_log.txt 
+---------- picasso ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/dropwizard/all_changed_log.txt 
+---------- dropwizard ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/netty/all_changed_log.txt 
+---------- netty ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/jenkins/all_changed_log.txt 
+---------- jenkins ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/metrics/all_changed_log.txt 
+---------- metrics ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/RxJava/all_changed_log.txt 
+---------- RxJava ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/scribe-java/all_changed_log.txt 
+---------- scribe-java ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+!! /home/bairay/exception_handling_project/top_projects/top_Java/nohup.err does not exist
+!! Please provide a valid directory
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android-async-http/all_changed_log.txt 
+---------- android-async-http ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android-swipelistview/all_changed_log.txt 
+---------- android-swipelistview ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to BULK process github logs
+/home/bairay/exception_handling_project/top_projects/top_Java/nohup.out
+/home/bairay/exception_handling_project/top_projects/top_Java/NineOldAndroids
+/home/bairay/exception_handling_project/top_projects/top_Java/PhotoView
+/home/bairay/exception_handling_project/top_projects/top_Java/clojure
+/home/bairay/exception_handling_project/top_projects/top_Java/Android-Universal-Image-Loader
+/home/bairay/exception_handling_project/top_projects/top_Java/otto
+/home/bairay/exception_handling_project/top_projects/top_Java/SlidingMenu
+/home/bairay/exception_handling_project/top_projects/top_Java/android
+/home/bairay/exception_handling_project/top_projects/top_Java/XobotOS
+/home/bairay/exception_handling_project/top_projects/top_Java/Android-Bootstrap
+/home/bairay/exception_handling_project/top_projects/top_Java/processing-js
+/home/bairay/exception_handling_project/top_projects/top_Java/facebook-android-sdk
+/home/bairay/exception_handling_project/top_projects/top_Java/elasticsearch
+/home/bairay/exception_handling_project/top_projects/top_Java/android-pulltorefresh
+/home/bairay/exception_handling_project/top_projects/top_Java/springside4
+/home/bairay/exception_handling_project/top_projects/top_Java/Android-ViewPagerIndicator
+/home/bairay/exception_handling_project/top_projects/top_Java/rootbeer1
+/home/bairay/exception_handling_project/top_projects/top_Java/presto
+/home/bairay/exception_handling_project/top_projects/top_Java/ActionBar-PullToRefresh
+/home/bairay/exception_handling_project/top_projects/top_Java/dagger
+/home/bairay/exception_handling_project/top_projects/top_Java/Hystrix
+/home/bairay/exception_handling_project/top_projects/top_Java/AndEngine
+/home/bairay/exception_handling_project/top_projects/top_Java/Arduino
+/home/bairay/exception_handling_project/top_projects/top_Java/disruptor
+/home/bairay/exception_handling_project/top_projects/top_Java/androidannotations
+/home/bairay/exception_handling_project/top_projects/top_Java/ActionBarSherlock
+/home/bairay/exception_handling_project/top_projects/top_Java/stream-lib
+/home/bairay/exception_handling_project/top_projects/top_Java/drag-sort-listview
+/home/bairay/exception_handling_project/top_projects/top_Java/Android-PullToRefresh
+/home/bairay/exception_handling_project/top_projects/top_Java/platform_frameworks_base
+/home/bairay/exception_handling_project/top_projects/top_Java/storm
+/home/bairay/exception_handling_project/top_projects/top_Java/ActionBar-PullToRefresh_copy
+/home/bairay/exception_handling_project/top_projects/top_Java/androidquery
+/home/bairay/exception_handling_project/top_projects/top_Java/phonegap-plugins
+/home/bairay/exception_handling_project/top_projects/top_Java/roboguice
+/home/bairay/exception_handling_project/top_projects/top_Java/jedis
+/home/bairay/exception_handling_project/top_projects/top_Java/GreenDroid
+/home/bairay/exception_handling_project/top_projects/top_Java/CraftBukkit
+/home/bairay/exception_handling_project/top_projects/top_Java/spring-framework
+/home/bairay/exception_handling_project/top_projects/top_Java/atmosphere
+/home/bairay/exception_handling_project/top_projects/top_Java/android-bootstrap
+/home/bairay/exception_handling_project/top_projects/top_Java/picasso
+/home/bairay/exception_handling_project/top_projects/top_Java/dropwizard
+/home/bairay/exception_handling_project/top_projects/top_Java/netty
+/home/bairay/exception_handling_project/top_projects/top_Java/jenkins
+/home/bairay/exception_handling_project/top_projects/top_Java/metrics
+/home/bairay/exception_handling_project/top_projects/top_Java/RxJava
+/home/bairay/exception_handling_project/top_projects/top_Java/scribe-java
+/home/bairay/exception_handling_project/top_projects/top_Java/nohup.err
+/home/bairay/exception_handling_project/top_projects/top_Java/android-async-http
+/home/bairay/exception_handling_project/top_projects/top_Java/android-swipelistview
+Utility to process github logs
+!! /home/bairay/exception_handling_project/top_projects/top_Java/nohup.out does not exist
+!! Please provide a valid directory
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/NineOldAndroids/all_changed_log.txt 
+---------- NineOldAndroids ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/PhotoView/all_changed_log.txt 
+---------- PhotoView ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/clojure/all_changed_log.txt 
+---------- clojure ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Android-Universal-Image-Loader/all_changed_log.txt 
+---------- Android-Universal-Image-Loader ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/otto/all_changed_log.txt 
+---------- otto ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/SlidingMenu/all_changed_log.txt 
+---------- SlidingMenu ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android/all_changed_log.txt 
+---------- android ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/XobotOS/all_changed_log.txt 
+---------- XobotOS ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Android-Bootstrap/all_changed_log.txt 
+---------- Android-Bootstrap ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/processing-js/all_changed_log.txt 
+---------- processing-js ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/facebook-android-sdk/all_changed_log.txt 
+---------- facebook-android-sdk ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/elasticsearch/all_changed_log.txt 
+---------- elasticsearch ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android-pulltorefresh/all_changed_log.txt 
+---------- android-pulltorefresh ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/springside4/all_changed_log.txt 
+---------- springside4 ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Android-ViewPagerIndicator/all_changed_log.txt 
+---------- Android-ViewPagerIndicator ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/rootbeer1/all_changed_log.txt 
+---------- rootbeer1 ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/presto/all_changed_log.txt 
+---------- presto ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/ActionBar-PullToRefresh/all_changed_log.txt 
+---------- ActionBar-PullToRefresh ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/dagger/all_changed_log.txt 
+---------- dagger ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Hystrix/all_changed_log.txt 
+---------- Hystrix ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/AndEngine/all_changed_log.txt 
+---------- AndEngine ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Arduino/all_changed_log.txt 
+---------- Arduino ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/disruptor/all_changed_log.txt 
+---------- disruptor ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/androidannotations/all_changed_log.txt 
+---------- androidannotations ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/ActionBarSherlock/all_changed_log.txt 
+---------- ActionBarSherlock ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/stream-lib/all_changed_log.txt 
+---------- stream-lib ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/drag-sort-listview/all_changed_log.txt 
+---------- drag-sort-listview ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/Android-PullToRefresh/all_changed_log.txt 
+---------- Android-PullToRefresh ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/platform_frameworks_base/all_changed_log.txt 
+---------- platform_frameworks_base ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/storm/all_changed_log.txt 
+---------- storm ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/ActionBar-PullToRefresh_copy/all_changed_log.txt 
+---------- ActionBar-PullToRefresh_copy ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/androidquery/all_changed_log.txt 
+---------- androidquery ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/phonegap-plugins/all_changed_log.txt 
+---------- phonegap-plugins ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/roboguice/all_changed_log.txt 
+---------- roboguice ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/jedis/all_changed_log.txt 
+---------- jedis ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/GreenDroid/all_changed_log.txt 
+---------- GreenDroid ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/CraftBukkit/all_changed_log.txt 
+---------- CraftBukkit ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/spring-framework/all_changed_log.txt 
+---------- spring-framework ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/atmosphere/all_changed_log.txt 
+---------- atmosphere ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android-bootstrap/all_changed_log.txt 
+---------- android-bootstrap ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/picasso/all_changed_log.txt 
+---------- picasso ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/dropwizard/all_changed_log.txt 
+---------- dropwizard ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/netty/all_changed_log.txt 
+---------- netty ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/jenkins/all_changed_log.txt 
+---------- jenkins ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/metrics/all_changed_log.txt 
+---------- metrics ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/RxJava/all_changed_log.txt 
+---------- RxJava ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/scribe-java/all_changed_log.txt 
+---------- scribe-java ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+!! /home/bairay/exception_handling_project/top_projects/top_Java/nohup.err does not exist
+!! Please provide a valid directory
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android-async-http/all_changed_log.txt 
+---------- android-async-http ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to process github logs
+Going to process /home/bairay/exception_handling_project/top_projects/top_Java/android-swipelistview/all_changed_log.txt 
+---------- android-swipelistview ------------
+
+Traceback (most recent call last):
+  File "ghProc.py", line 78, in <module>
+    main()
+  File "ghProc.py", line 73, in main
+    processLog(project)
+  File "ghProc.py", line 41, in processLog
+    ghDb.processLog()
+  File "/home/yvsuchak/logChunkExep/ghLogDb.py", line 544, in processLog
+    if(Util.CSV==1):
+AttributeError: 'module' object has no attribute 'CSV'
+Utility to BULK process github logs
+/home/bairay/exception_handling_project/top_projects/top_Java/nohup.out
+/home/bairay/exception_handling_project/top_projects/top_Java/NineOldAndroids
+/home/bairay/exception_handling_project/top_projects/top_Java/PhotoView
+/home/bairay/exception_handling_project/top_projects/top_Java/clojure
+/home/bairay/exception_handling_project/top_projects/top_Java/Android-Universal-Image-Loader
+/home/bairay/exception_handling_project/top_projects/top_Java/otto
+/home/bairay/exception_handling_project/top_projects/top_Java/SlidingMenu
+/home/bairay/exception_handling_project/top_projects/top_Java/android
+/home/bairay/exception_handling_project/top_projects/top_Java/XobotOS
+/home/bairay/exception_handling_project/top_projects/top_Java/Android-Bootstrap
+/home/bairay/exception_handling_project/top_projects/top_Java/processing-js
+/home/bairay/exception_handling_project/top_projects/top_Java/facebook-android-sdk
+/home/bairay/exception_handling_project/top_projects/top_Java/elasticsearch
+/home/bairay/exception_handling_project/top_projects/top_Java/android-pulltorefresh
+/home/bairay/exception_handling_project/top_projects/top_Java/springside4
+/home/bairay/exception_handling_project/top_projects/top_Java/Android-ViewPagerIndicator
+/home/bairay/exception_handling_project/top_projects/top_Java/rootbeer1
+/home/bairay/exception_handling_project/top_projects/top_Java/presto
+/home/bairay/exception_handling_project/top_projects/top_Java/ActionBar-PullToRefresh
+/home/bairay/exception_handling_project/top_projects/top_Java/dagger
+/home/bairay/exception_handling_project/top_projects/top_Java/Hystrix
+/home/bairay/exception_handling_project/top_projects/top_Java/AndEngine
+/home/bairay/exception_handling_project/top_projects/top_Java/Arduino
+/home/bairay/exception_handling_project/top_projects/top_Java/disruptor
+/home/bairay/exception_handling_project/top_projects/top_Java/androidannotations
+/home/bairay/exception_handling_project/top_projects/top_Java/ActionBarSherlock
+/home/bairay/exception_handling_project/top_projects/top_Java/stream-lib
+/home/bairay/exception_handling_project/top_projects/top_Java/drag-sort-listview
+/home/bairay/exception_handling_project/top_projects/top_Java/Android-PullToRefresh
+/home/bairay/exception_handling_project/top_projects/top_Java/platform_frameworks_base
+/home/bairay/exception_handling_project/top_projects/top_Java/storm
+/home/bairay/exception_handling_project/top_projects/top_Java/ActionBar-PullToRefresh_copy
+/home/bairay/exception_handling_project/top_projects/top_Java/androidquery
+/home/bairay/exception_handling_project/top_projects/top_Java/phonegap-plugins
+/home/bairay/exception_handling_project/top_projects/top_Java/roboguice
+/home/bairay/exception_handling_project/top_projects/top_Java/jedis
+/home/bairay/exception_handling_project/top_projects/top_Java/GreenDroid
+/home/bairay/exception_handling_project/top_projects/top_Java/CraftBukkit
+/home/bairay/exception_handling_project/top_projects/top_Java/spring-framework
+/home/bairay/exception_handling_project/top_projects/top_Java/atmosphere
+/home/bairay/exception_handling_project/top_projects/top_Java/android-bootstrap
+/home/bairay/exception_handling_project/top_projects/top_Java/picasso
+/home/bairay/exception_handling_project/top_projects/top_Java/dropwizard
+/home/bairay/exception_handling_project/top_projects/top_Java/netty
+/home/bairay/exception_handling_project/top_projects/top_Java/jenkins
+/home/bairay/exception_handling_project/top_projects/top_Java/metrics
+/home/bairay/exception_handling_project/top_projects/top_Java/RxJava
+/home/bairay/exception_handling_project/top_projects/top_Java/scribe-java
+/home/bairay/exception_handling_project/top_projects/top_Java/nohup.err
+/home/bairay/exception_handling_project/top_projects/top_Java/android-async-http
+/home/bairay/exception_handling_project/top_projects/top_Java/android-swipelistview

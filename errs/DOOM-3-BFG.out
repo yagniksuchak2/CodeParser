@@ -1,0 +1,2161 @@
+projects/top_C++/DOOM-3-BFG
+Going to process projects/top_C++/DOOM-3-BFG/all_log.txt 
+---------- DOOM-3-BFG ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(198, 1, u'+\tassert( projected[0].Compare( projBnds[0], 0.01f ) );'), (199, 1, u'+\tassert( projected[1].Compare( projBnds[1], 0.01f ) );')]
+===========================================
+===========================================
+Total add: 300
+Total del: 0
+Header: idRenderMatrix::ProjectedNearClippedBounds
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(198, 1, u'+\tassert( projected[0].Compare( projBnds[0], 0.01f ) );'), (199, 1, u'+\tassert( projected[1].Compare( projBnds[1], 0.01f ) );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(198, 1, u'+\tassert( projected[0].Compare( projBnds[0], 0.01f ) );'), (199, 1, u'+\tassert( projected[1].Compare( projBnds[1], 0.01f ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\tassert( newPoints != points );'), (30, 1, u'+\tassert( numPoints < 16 );'), (57, 1, u'+\tassert( numNewPoints <= 16 );'), (69, 1, u'+\tassert( numPoints < 16 - 6 );')]
+===========================================
+===========================================
+Total add: 84
+Total del: 0
+Header: ClipHomogeneousPolygonToUnitCube_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\tassert( newPoints != points );'), (30, 1, u'+\tassert( numPoints < 16 );'), (57, 1, u'+\tassert( numNewPoints <= 16 );'), (69, 1, u'+\tassert( numPoints < 16 - 6 );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\tassert( newPoints != points );'), (30, 1, u'+\tassert( numPoints < 16 );'), (57, 1, u'+\tassert( numNewPoints <= 16 );'), (69, 1, u'+\tassert( numPoints < 16 - 6 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(49, 1, u'+\t\tassert( c.w > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+Total add: 89
+Total del: 0
+Header: idRenderMatrix::ProjectedFullyClippedBounds
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(49, 1, u'+\t\tassert( c.w > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(49, 1, u'+\t\tassert( c.w > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(83, 1, u'+\t\tassert( c.w > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+Total add: 102
+Total del: 0
+Header: idRenderMatrix::DepthBoundsForShadowBounds
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(83, 1, u'+\t\tassert( c.w > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(83, 1, u'+\t\tassert( c.w > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\t\t\t\tassert( tw > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+Total add: 27
+Total del: 0
+Header: idRenderMatrix::GetFrustumCorners
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\t\t\t\tassert( tw > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\t\t\t\tassert( tw > idMath::FLT_SMALLEST_NON_DENORMAL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert_16_byte_aligned( &dst[i] );'), (6, 1, u'+\t\tassert_16_byte_aligned( &src0[i] );'), (7, 1, u'+\t\tassert_16_byte_aligned( &src1[i] );')]
+===========================================
+===========================================
+Total add: 14
+Total del: 0
+Header: Multiply_SIMD
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert_16_byte_aligned( &dst[i] );'), (6, 1, u'+\t\tassert_16_byte_aligned( &src0[i] );'), (7, 1, u'+\t\tassert_16_byte_aligned( &src1[i] );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert_16_byte_aligned( &dst[i] );'), (6, 1, u'+\t\tassert_16_byte_aligned( &src0[i] );'), (7, 1, u'+\t\tassert_16_byte_aligned( &src1[i] );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert_16_byte_aligned( &src[i] );'), (6, 1, u'+\t\tassert_16_byte_aligned( &dst[i] );')]
+===========================================
+===========================================
+Total add: 13
+Total del: 0
+Header: MultiplyAdd_SIMD
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert_16_byte_aligned( &src[i] );'), (6, 1, u'+\t\tassert_16_byte_aligned( &dst[i] );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert_16_byte_aligned( &src[i] );'), (6, 1, u'+\t\tassert_16_byte_aligned( &dst[i] );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert_16_byte_aligned( dst );'), (6, 1, u'+\tassert_16_byte_aligned( src );')]
+===========================================
+===========================================
+Total add: 9
+Total del: 0
+Header: CopyBuffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert_16_byte_aligned( dst );'), (6, 1, u'+\tassert_16_byte_aligned( src );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert_16_byte_aligned( dst );'), (6, 1, u'+\tassert_16_byte_aligned( src );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::ExtractBlock_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::GetMinMaxBBox_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::InsetColorsBBox_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::EmitColorIndices_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::EmitColorAlphaIndices_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::EmitCoCgIndices_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxAlpha_ >= minAlpha_ );')]
+===========================================
+===========================================
+Total add: 138
+Total del: 0
+Header: paramO:	maxAlpha	- Max alpha found
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxAlpha_ >= minAlpha_ );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxAlpha_ >= minAlpha_ );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::EmitAlphaIndices_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxAlpha_ >= minAlpha_ );')]
+===========================================
+===========================================
+Total add: 145
+Total del: 0
+Header: idDxtEncoder::EmitAlphaIndices_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxAlpha_ >= minAlpha_ );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxAlpha_ >= minAlpha_ );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::EmitAlphaIndices_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::ScaleYCoCg_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::InsetYCoCgBBox_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::SelectYCoCgDiagonal_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxGreen >= minGreen );')]
+===========================================
+===========================================
+Total add: 107
+Total del: 0
+Header: paramO:	maxGreen	- Maximal normal Y found
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxGreen >= minGreen );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( maxGreen >= minGreen );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::EmitGreenIndices_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: idDxtEncoder::InsetNormalsBBoxDXT5_SSE2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( ( decal->numIndexes & 1 ) == 0 );'), (16, 1, u'+\t\tassert( decal->indexes[i + 0] < decal->numVerts && decal->indexes[i + 1] < decal->numVerts );')]
+===========================================
+===========================================
+Total add: 19
+Total del: 0
+Header: R_CopyDecalSurface
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( ( decal->numIndexes & 1 ) == 0 );'), (16, 1, u'+\t\tassert( decal->indexes[i + 0] < decal->numVerts && decal->indexes[i + 1] < decal->numVerts );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( ( decal->numIndexes & 1 ) == 0 );'), (16, 1, u'+\t\tassert( decal->indexes[i + 0] < decal->numVerts && decal->indexes[i + 1] < decal->numVerts );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\t\tassert( overlay->indexes[i + 0] < overlay->numVerts && overlay->indexes[i + 1] < overlay->numVerts );')]
+===========================================
+===========================================
+Total add: 19
+Total del: 0
+Header: R_CopyOverlaySurface
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\t\tassert( overlay->indexes[i + 0] < overlay->numVerts && overlay->indexes[i + 1] < overlay->numVerts );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\t\tassert( overlay->indexes[i + 0] < overlay->numVerts && overlay->indexes[i + 1] < overlay->numVerts );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(580, 1, u'+\t\tassert( false );\t\t// FIXME: add another set of achievement bit flags'), (594, 1, u'+\t\tassert( false );\t\t// FIXME: add another set of achievement bit flags'), (608, 1, u'+\t\tassert( false );\t\t// FIXME: add another set of achievement bit flags')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(403, 1, u'+\t\tassert( node != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(443, 1, u'+\tassert( models );'), (745, 1, u'+\tassert( models );'), (804, 1, u'+\tassert( models );'), (1945, 1, u'+\tassert(node != NULL);'), (1969, 1, u'+\tassert(node != NULL);'), (2000, 1, u'+\tassert(node != NULL);'), (3117, 1, u'+\tassert( model->brushRefBlocks == NULL || ( model->brushRefBlocks->next == NULL && model->brushRefBlocks->nextRef == NULL ) );'), (3118, 1, u'+\tassert( model->polygonRefBlocks == NULL || ( model->polygonRefBlocks->next == NULL && model->polygonRefBlocks->nextRef == NULL ) );'), (3119, 1, u'+\tassert( model->polygonBlock->bytesRemaining == 0 );'), (3120, 1, u'+\tassert( model->brushBlock->bytesRemaining == 0 );'), (3220, 1, u'+\tassert( polys.Num() == model->numPolygons );'), (3221, 1, u'+\tassert( brushes.Num() == model->numBrushes );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1290, 1, u'+\tassert( tw.angle > -180.0f && tw.angle < 180.0f );'), (1383, 1, u'+\t\tassert( results->fraction <= 1.0f );'), (1593, 1, u'+\tassert( results->fraction <= 1.0f );'), (1624, 1, u'+\tassert( ((byte *)&start) < ((byte *)results) || ((byte *)&start) > (((byte *)results) + sizeof( trace_t )) );'), (1625, 1, u'+\tassert( ((byte *)&trmAxis) < ((byte *)results) || ((byte *)&trmAxis) > (((byte *)results) + sizeof( trace_t )) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(746, 1, u'+\tassert( ((byte *)&start) < ((byte *)results) || ((byte *)&start) >= (((byte *)results) + sizeof( trace_t )) );'), (747, 1, u'+\tassert( ((byte *)&end) < ((byte *)results) || ((byte *)&end) >= (((byte *)results) + sizeof( trace_t )) );'), (748, 1, u'+\tassert( ((byte *)&trmAxis) < ((byte *)results) || ((byte *)&trmAxis) >= (((byte *)results) + sizeof( trace_t )) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(457, 1, u'+\tassert( handle < animator->NumJoints() );'), (541, 1, u'+\t\t\tassert( 0 );'), (803, 1, u'+\tassert( ent );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(837, 1, u'+\tassert( combatModel );'), (839, 1, u'+\t\tassert( !combatModel->GetContents() );'), (843, 1, u'+\t\tassert( !combatModelContents );'), (1170, 1, u'+\tassert( !common->IsClient() );'), (3193, 1, u'+\tassert(parent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u'+\tassert( owner );'), (121, 1, u'+\tassert( _animator );'), (154, 1, u'+\t\tassert( 0 );'), (780, 1, u'+\tassert( !head.GetEntity() );'), (919, 1, u'+\t\tassert( ent );'), (1933, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(195, 1, u'+\tassert( view );'), (475, 1, u'+\tassert( view );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1128, 1, u'+\tassert( modelname );'), (1619, 1, u'+\tassert( idStr::Icmpn( soundName, "snd_", 4 ) == 0 );'), (2033, 1, u'+\tassert( ent == this ); // If ent is not pointing to this, then something is very wrong.'), (2375, 1, u'+\tassert( teammember );'), (2454, 1, u'+\t\tassert( teamMaster );'), (2455, 1, u'+\t\tassert( teamMaster->teamChain );'), (2460, 1, u'+\t\t\tassert( ent->teamChain ); // this should never happen'), (2584, 1, u'+\tassert( phys != NULL );'), (3438, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (3453, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (3459, 1, u'+\tassert( thread );'), (3485, 1, u'+\tassert( thread );'), (3508, 1, u'+\tassert( thread );'), (3541, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (5224, 1, u'+\t\t\tassert( gameLocal.isNewFrame );'), (5240, 1, u'+\t\t\tassert( gameLocal.isNewFrame );'), (5545, 1, u'+\t\tassert( 0 );'), (5551, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(404, 1, u'+\t\tassert( useAction );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1286, 1, u'+\tassert( numLobbyUsers == 1 );'), (1304, 1, u'+\t\tassert( ent );'), (1313, 1, u'+\t\tassert( ent );'), (1464, 1, u'+\t\tassert( !entities[ i ] );'), (2274, 1, u'+\t\tassert( !common->IsClient() );'), (2547, 1, u'+\tassert( playerNumber < MAX_PLAYERS );'), (3094, 1, u'+\t\tassert( check == obstacle );'), (3202, 1, u'+\tassert( ent );'), (3237, 1, u'+\t\tassert( bIsClientReadSnapshot );'), (3633, 1, u'+\t\tassert( ent );'), (3855, 1, u'+\t\tassert( ent );'), (4378, 1, u'+\t\t\t\tassert( spot.team == 0 || spot.team == 1 );'), (4479, 1, u'+\t\tassert( player->team == 0 || player->team == 1 );'), (4490, 1, u'+\t\t\tassert( player->team == 0 || player->team == 1 );'), (4506, 1, u'+\t\t\t\tassert( player->team == 0 || player->team == 1 );'), (4516, 1, u'+\t\t\tassert( team == 0 || team == 1 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(458, 1, u'+\t\t\tassert( ent );'), (656, 1, u'+\t\t\tassert( false );'), (672, 1, u'+\t\t\tassert( numPortals == gameRenderWorld->NumPortals() );'), (745, 1, u'+\t\t\t\t\tassert( predictedEntity->GetEntityNumber() >= ENTITYNUM_FIRST_NON_REPLICATED );'), (769, 1, u'+\t\t\t\t\tassert( entities[predictedEntity->GetEntityNumber()] == NULL );'), (894, 1, u'+\t\t\tassert( ent );'), (1206, 1, u'+\tassert( !event->next && !event->prev );')]
+===========================================
+Class: class idLeaderboardCallbackTest : public idLeaderboardCallback { class idLeaderboardCallbackTest : public idLeaderboardCallback 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(90, 1, u'+\tassert( gametype > GAME_RANDOM );'), (168, 1, u'+\tassert( gameType > GAME_RANDOM );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(271, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1336, 1, u'+\tassert ( speed > 0.0f );'), (1560, 1, u'+\tassert( areaPortal );'), (2737, 1, u'+\t\tassert( partial >= 0 );'), (2783, 1, u'+\t\tassert( partial >= 0 );'), (3118, 1, u'+\tassert( areaPortal );'), (3923, 1, u'+\tassert( other && other->IsType( idPlayer::Type ) && static_cast< idPlayer * >( other )->spectating );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(958, 1, u'+\tassert( weapon_index != -1 || weapon_classname );'), (1884, 1, u'+\t\t\tassert( spectating );'), (2693, 1, u'+\t\tassert( spectating );'), (2707, 1, u'+\tassert( !common->IsClient() );'), (2799, 1, u'+\tassert( !common->IsClient() );'), (3035, 1, u'+\t\t\tassert( p->hud );'), (3059, 1, u'+\t\t\tassert( p->hud );'), (4028, 1, u'+\t\tassert( !common->IsClient() );\t// healthPool never be set on client'), (4045, 1, u'+\t\tassert( !common->IsClient() );\t// healthPool never be set on client'), (4687, 1, u'+\tassert( !common->IsClient() );'), (4754, 1, u'+\tassert( !common->IsClient() );'), (4771, 1, u'+\tassert( weapon_classname );'), (4783, 1, u'+\t\tassert( decl );'), (4785, 1, u'+\t\tassert( keypair );'), (4844, 1, u'+\t\t\tassert( common->IsClient() );'), (4865, 1, u'+\t\t\t\tassert( idealWeapon.Get() >= 0 );'), (4866, 1, u'+\t\t\t\tassert( idealWeapon.Get() < MAX_WEAPONS );'), (5038, 1, u'+\tassert( !spectating );'), (5060, 1, u'+\t\t\tassert( weapon.GetEntity()->IsLinked() );'), (5161, 1, u'+\t\tassert( flashlight.GetEntity()->IsLinked() );'), (5315, 1, u'+\t\tassert( player ); // never call here when the current spectator is wrong'), (5331, 1, u'+\tassert( spectating );'), (5332, 1, u'+\tassert( !common->IsClient() );'), (5333, 1, u'+\tassert( IsHidden() );'), (7360, 1, u'+\t\tassert( !MPAimHighlight );'), (8013, 1, u'+\tassert( !common->IsClient() );'), (8334, 1, u'+\tassert( !common->IsClient() );'), (9171, 1, u'+\t\tassert( aimed );'), (9187, 1, u'+\t\tassert( aimed );'), (9868, 1, u'+\t\t\t\t\tassert( IsLocallyControlled() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(133, 1, u'+\tassert( type < ICON_NONE );'), (144, 1, u'+\tassert( type != ICON_NONE );'), (184, 1, u'+\tassert( iconHandle >= 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1606, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(589, 1, u'+\t\tassert( 0 );'), (1483, 1, u'+\tassert( common->IsMultiplayer() && common->IsServer() );'), (2256, 1, u'+\t\tassert( ent );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1033, 1, u'+\t\t\tassert( sourceAreas[i] >= 0 && sourceAreas[i] < numAreas );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(189, 1, u'+\tassert( gameLocal.time == 0 || systemStartTime <= gameLocal.time );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(230, 1, u'+\tassert( !owner );'), (247, 1, u'+\tassert( !owner );'), (906, 1, u'+\tassert( ent );'), (907, 1, u'+\tassert( def );'), (968, 1, u'+\tassert( owner );'), (1564, 1, u'+\tassert( modelname );'), (1886, 1, u'+\tassert( !common->IsClient() );'), (1943, 1, u'+\t\tassert( 0 );'), (2688, 1, u'+\tassert( ammoname );'), (3004, 1, u'+\t\tassert( 0 );'), (3206, 1, u'+\tassert( owner );'), (3224, 1, u'+\tassert( owner );'), (3236, 1, u'+\tassert( owner );'), (3499, 1, u'+\tassert( owner != NULL );'), (3533, 1, u'+\tassert( owner != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(63, 1, u'+\tassert( gameLocal.world == NULL );'), (115, 1, u'+\tassert( gameLocal.world == this );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(147, 1, u'+\t\t\tassert( i < MAX_REACH_PER_AREA );'), (171, 1, u'+\tassert( ( (unsigned int) bytePtr - (unsigned int) areaTravelTimes ) <= numAreaTravelTimes * sizeof( unsigned short ) );'), (363, 1, u'+\tassert( areaNum > 0 && areaNum < file->GetNumAreas() );'), (380, 1, u'+\tassert( areaNum > 0 && areaNum < file->GetNumAreas() );'), (650, 1, u'+\tassert( cacheListStart );'), (785, 1, u'+\t\t\tassert( clusterAreaNum < areaCache->size );'), (909, 1, u'+\t\t\tassert( portalNum < portalCache->size );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2363, 1, u'+\tassert( source );'), (2364, 1, u'+\tassert( dest );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(209, 1, u'+\tassert( bestObstacle < numObstacles );'), (228, 1, u'+\t\t\tassert( queueEnd < numObstacles );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(121, 1, u'+\tassert( ( num > 0 ) && ( num <= ANIM_MaxSyncedAnims ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+\t\tassert( idStr::Cmp( classname, (*insert)->classname ) );'), (291, 1, u'+\tassert( ( size & 3 ) == 0 );'), (583, 1, u'+\tassert( ev );'), (793, 1, u'+\tassert( ev );'), (794, 1, u'+\tassert( idEvent::initialized );'), (903, 1, u'+\tassert( ev );'), (904, 1, u'+\tassert( idEvent::initialized );'), (951, 1, u'+\tassert( D_EVENT_MAXARGS == 8 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(66, 1, u'+\tassert( command );'), (67, 1, u'+\tassert( !idEvent::initialized );'), (80, 1, u'+\tassert( numargs <= D_EVENT_MAXARGS );'), (198, 1, u'+\tassert( name );'), (388, 1, u'+\tassert( initialized );'), (505, 1, u'+\t\tassert( event );'), (562, 1, u'+\t\tassert( event->object );'), (606, 1, u'+\t\tassert( event );'), (661, 1, u'+\t\tassert( event->object );'), (798, 1, u'+\t\tassert( size == (int)event->eventdef->GetArgSize() );'), (870, 1, u'+\t\t\tassert( format );'), (906, 1, u'+\t\t\tassert( size == (int)event->eventdef->GetArgSize() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2085, 1, u'+\tassert( surfaces != NULL );'), (2086, 1, u'+\tassert( ent != NULL );')]
+===========================================
+Class:	class idSWFScriptFunction_updateMenuDisplay : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_updateMenuDisplay : public idSWFScriptFunction_RefCounted 
+Class: 	class idSWFScriptFunction_activateMenu : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_activateMenu : public idSWFScriptFunction_RefCounted 
+Class:	class idPDAGGUIClose : public idSWFScriptFunction_RefCounted { 	class idPDAGGUIClose : public idSWFScriptFunction_RefCounted 
+Class:	class idSWFScriptFunction_activateMenu : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_activateMenu : public idSWFScriptFunction_RefCounted 
+Class:	class idScoreboardGUIClose : public idSWFScriptFunction_RefCounted { 	class idScoreboardGUIClose : public idSWFScriptFunction_RefCounted 
+Class:							class idSWFScriptFunction_RebindKey : public idSWFScriptFunction_RefCounted { 							class idSWFScriptFunction_RebindKey : public idSWFScriptFunction_RefCounted 
+Class:	class idPauseGUIClose : public idSWFScriptFunction_RefCounted { 	class idPauseGUIClose : public idSWFScriptFunction_RefCounted 
+Class:	class idSWFScriptFunction_QuitDialog : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_QuitDialog : public idSWFScriptFunction_RefCounted 
+Class:				class idIntroTextUpdate : public idSWFScriptFunction_RefCounted { 				class idIntroTextUpdate : public idSWFScriptFunction_RefCounted 
+Class:				class idIntroTextUpdate : public idSWFScriptFunction_RefCounted { 				class idIntroTextUpdate : public idSWFScriptFunction_RefCounted 
+Class:			class idIntroTextUpdate : public idSWFScriptFunction_RefCounted { 			class idIntroTextUpdate : public idSWFScriptFunction_RefCounted 
+Class:	class idTriggerNewPDAOrVideo : public idSWFScriptFunction_RefCounted { 	class idTriggerNewPDAOrVideo : public idSWFScriptFunction_RefCounted 
+Class:				class idPostTextChat : public idSWFScriptFunction_RefCounted { 				class idPostTextChat : public idSWFScriptFunction_RefCounted 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(330, 1, u'+\t\t\tassert( parms.Num() == 2 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(231, 1, u'+\t\t\tassert( parms.Num() == 2 );')]
+===========================================
+Class:	class idInfoBoxRefresh : public idSWFScriptFunction_RefCounted { 	class idInfoBoxRefresh : public idSWFScriptFunction_RefCounted 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(301, 1, u'+\t\t\tassert( parms.Num() == 2 );')]
+===========================================
+Class:	class idSWFScriptFunction_Restore : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_Restore : public idSWFScriptFunction_RefCounted 
+Class: class idSort_PlayerGamesList : public idSort_Quick< idPair< serverInfo_t, int >, idSort_PlayerGamesList > { class idSort_PlayerGamesList : public idSort_Quick< idPair< serverInfo_t, int >, idSort_PlayerGamesList > 
+Class:	class idRefreshCredits : public idSWFScriptFunction_RefCounted { 	class idRefreshCredits : public idSWFScriptFunction_RefCounted 
+Class:			class idSWFScriptFunction_Accept : public idSWFScriptFunction_RefCounted { 			class idSWFScriptFunction_Accept : public idSWFScriptFunction_RefCounted 
+Class:      class LBCallback : public idLeaderboardCallback { 
+Class:	class idSWFScriptFunction_LoadDamaged : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_LoadDamaged : public idSWFScriptFunction_RefCounted 
+Class:		class idSWFScriptFunction_LoadDialog : public idSWFScriptFunction_RefCounted { 		class idSWFScriptFunction_LoadDialog : public idSWFScriptFunction_RefCounted 
+Class:	class idSWFScriptFunction_DeleteGame : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_DeleteGame : public idSWFScriptFunction_RefCounted 
+Class:			class idSWFScriptFunction_Accept : public idSWFScriptFunction_RefCounted { 			class idSWFScriptFunction_Accept : public idSWFScriptFunction_RefCounted 
+Class:	class idSWFScriptFunction_QuitDialog : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_QuitDialog : public idSWFScriptFunction_RefCounted 
+Class:	class idSWFScriptFunction_RestartDialog : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_RestartDialog : public idSWFScriptFunction_RefCounted 
+Class:	class UICmd_RegisterUser : public idSWFScriptFunction_RefCounted { 	class UICmd_RegisterUser : public idSWFScriptFunction_RefCounted 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(257, 1, u'+\t\t\tassert( parms.Num() == 2 );')]
+===========================================
+Class:					class idSWFFuncAcceptVideoChanges : public idSWFScriptFunction_RefCounted { 					class idSWFFuncAcceptVideoChanges : public idSWFScriptFunction_RefCounted 
+Class:	class idSWFScriptFunction_QuitDialog : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_QuitDialog : public idSWFScriptFunction_RefCounted 
+Class:						class idSWFScriptFunction_Accept : public idSWFScriptFunction_RefCounted { 						class idSWFScriptFunction_Accept : public idSWFScriptFunction_RefCounted 
+Class:		class idSWFScriptFunction_OverwriteSave : public idSWFScriptFunction_RefCounted { 		class idSWFScriptFunction_OverwriteSave : public idSWFScriptFunction_RefCounted 
+Class:	class idSWFScriptFunction_DeleteGame : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_DeleteGame : public idSWFScriptFunction_RefCounted 
+Class:			class idSWFScriptFunction_ContinueDamaged : public idSWFScriptFunction_RefCounted { 			class idSWFScriptFunction_ContinueDamaged : public idSWFScriptFunction_RefCounted 
+Class:					class idSWFScriptFunction_NewGame : public idSWFScriptFunction_RefCounted { 					class idSWFScriptFunction_NewGame : public idSWFScriptFunction_RefCounted 
+Class:		class idSWFScriptFunction_Restart : public idSWFScriptFunction_RefCounted { 		class idSWFScriptFunction_Restart : public idSWFScriptFunction_RefCounted 
+Class:		class idSWFScriptFunction_Restart : public idSWFScriptFunction_RefCounted { 		class idSWFScriptFunction_Restart : public idSWFScriptFunction_RefCounted 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(68, 1, u'+\t\tassert( observers[j]->refCount > 0 );'), (76, 1, u'+\t\tassert( children[i]->refCount > 0 );'), (112, 1, u'+\t\tassert( children[ i ]->GetParent() == this );'), (127, 1, u'+\tassert( widget->GetParent() == this );'), (176, 1, u'+\tassert( focusRunawayCounter != 0 );'), (334, 1, u'+\tassert( GetSpritePath().Num() > 0 );'), (413, 1, u'+\tassert( index >= 0 && index < GetChildren().Num() ); //&& oldIndex >= 0 && oldIndex < GetChildren().Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(82, 1, u'+compile_time_assert( sizeof( CONTROL_SPRITE_NAMES ) / sizeof( CONTROL_SPRITE_NAMES[ 0 ] ) == MAX_MENU_OPTION_TYPES );')]
+===========================================
+Class:	class idCarouselRefresh : public idSWFScriptFunction_RefCounted { 	class idCarouselRefresh : public idSWFScriptFunction_RefCounted 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(59, 1, u'+compile_time_assert( sizeof( BUTTON_NAMES ) / sizeof( BUTTON_NAMES[ 0 ] ) == idMenuWidget_CommandBar::MAX_BUTTONS );')]
+===========================================
+Class:	class DevList_NavigateForward : public idSWFScriptFunction_RefCounted { 	class DevList_NavigateForward : public idSWFScriptFunction_RefCounted 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(161, 1, u'+\tassert( devMapListInfos.Num() != 0 );'), (177, 1, u'+\tassert( indexes.focusIndex < GetChildren().Num() );'), (178, 1, u'+\tassert( ( indexes.viewIndex - indexes.viewOffset ) < GetNumVisibleOptions() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(139, 1, u'+\tassert( indexDelta != 0 );'), (190, 1, u'+\tassert( outIndex - outOffset < windowSize );'), (191, 1, u'+\tassert( outIndex >= outOffset && outIndex >= 0 && outOffset >= 0 );'), (202, 1, u'+\tassert( offsetDelta != 0 );'), (220, 1, u'+\tassert( outIndex - outOffset < windowSize );'), (221, 1, u'+\tassert( outIndex >= outOffset && outIndex >= 0 && outOffset >= 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(543, 1, u'+\tassert( renderModelHandle == -1 );'), (632, 1, u'+\tassert( idClipModel::entity );'), (896, 1, u'+\t\tassert( false );'), (1056, 1, u'+\t\tassert( 0 );'), (1293, 1, u'+\tassert( rotation.GetOrigin() == start );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(160, 1, u'+\tassert( clipModel );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(156, 1, u'+\tassert( 0 );'), (194, 1, u'+\tassert( 0 );'), (203, 1, u'+\tassert( 0 );'), (254, 1, u'+\tassert( t == type );'), (270, 1, u'+\tassert( body1 );'), (463, 1, u'+\tassert( body1 );'), (920, 1, u'+\tassert( body1 );'), (999, 1, u'+\tassert( l != 0.0f );'), (1002, 1, u'+\tassert( l != 0.0f );'), (1511, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1520, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1529, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1538, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1547, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1556, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1572, 1, u'+\tassert( body1 );'), (2274, 1, u'+\tassert( body1 );'), (2461, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2470, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2479, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2488, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2497, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2506, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2522, 1, u'+\tassert( body1 );'), (2687, 1, u'+\tassert( body1 );'), (2721, 1, u'+\tassert( stretch >= 0.0f && compress >= 0.0f && restLength >= 0.0f );'), (2734, 1, u'+\tassert( minLength >= 0.0f && maxLength >= 0.0f && maxLength >= minLength );'), (3006, 1, u'+\tassert( b1 );'), (3116, 1, u'+\tassert( 0 );\t// contact should never be translated'), (3125, 1, u'+\tassert( 0 );\t// contact should never be rotated'), (4151, 1, u'+\tassert( clipModel );'), (4152, 1, u'+\tassert( clipModel->IsTraceModel() );'), (6798, 1, u'+\tassert( num == bodies.Num() );'), (6809, 1, u'+\tassert( num == constraints.Num() );'), (7985, 1, u'+\tassert( num == bodies.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(160, 1, u'+\tassert( self );'), (161, 1, u'+\tassert( model );\t\t\t\t\t// a clip model is required'), (162, 1, u'+\tassert( model->IsTraceModel() );\t// and it should be a trace model'), (163, 1, u'+\tassert( density > 0.0f );\t\t\t// density should be valid'), (196, 1, u'+\tassert( _mass > 0.0f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(118, 1, u'+\tassert( e );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(110, 1, u'+\t\t\tassert( tr.c.entityNum < MAX_GENTITIES );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(315, 1, u'+\tassert( clipModel );'), (477, 1, u'+\tassert( self );'), (478, 1, u'+\tassert( model );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(601, 1, u'+\tassert( self );'), (602, 1, u'+\tassert( model );\t\t\t\t\t// we need a clip model'), (603, 1, u'+\tassert( model->IsTraceModel() );\t// and it should be a trace model'), (604, 1, u'+\tassert( density > 0.0f );\t\t\t// density should be valid'), (671, 1, u'+\tassert( mass > 0.0f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(114, 1, u'+\tassert( e );'), (124, 1, u'+\tassert( self );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(148, 1, u'+\tassert( e );'), (177, 1, u'+\tassert( self );'), (1073, 1, u'+\tassert( num == current.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1091, 1, u'+\t\tassert( clipModel->IsTraceModel() );'), (1267, 1, u'+\t\tassert( clipModel->IsTraceModel() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(215, 1, u'+\tassert( ( sizeof( opcodes ) / sizeof( opcodes[ 0 ] ) ) == ( NUM_OPCODES + 1 ) );'), (1054, 1, u'+\tassert( funcDef );'), (1064, 1, u'+\tassert( funcDef->value.functionPtr );'), (1150, 1, u'+\tassert( funcDef->value.functionPtr->eventdef != NULL ); // to remove stupid analyze warning'), (1704, 1, u'+\tassert( op->name );'), (2063, 1, u'+\t\t\tassert( !type->def );'), (2137, 1, u'+\t\tassert( func );'), (2192, 1, u'+\t\t\tassert( selfDef );'), (2230, 1, u'+\t\t\tassert( selfDef );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(600, 1, u'+\tassert( !func->eventdef );'), (606, 1, u'+\tassert( c >= 0 );'), (656, 1, u'+\tassert( localstackUsed == localstackBase );'), (703, 1, u'+\tassert( func->eventdef );'), (875, 1, u'+\tassert( func->eventdef );'), (996, 1, u'+\t\t\t\tassert( st->c->value.argSize == func->parmTotal );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(483, 1, u'+\tassert( parmNumber >= 0 );'), (484, 1, u'+\tassert( parmNumber < parmTypes.Num() );'), (494, 1, u'+\tassert( parmNumber >= 0 );'), (495, 1, u'+\tassert( parmNumber < parmTypes.Num() );'), (530, 1, u'+\tassert( funcNumber >= 0 );'), (531, 1, u'+\tassert( funcNumber < functions.Num() );'), (635, 1, u'+\tassert( typeDef );'), (637, 1, u'+\tassert( typeDef->Type() == ev_function );'), (647, 1, u'+\tassert( typeDef );'), (649, 1, u'+\tassert( typeDef->Inherits( &type_object ) );'), (659, 1, u'+\tassert( typeDef );'), (729, 1, u'+\tassert( typeDef && ( typeDef->Type() == ev_string ) );'), (831, 1, u'+\tassert( def->next == NULL );'), (1246, 1, u'+\t\t\tassert( scope->Type() == ev_function );'), (1448, 1, u'+\tassert( name );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 1, u'+const idEventDef EV_Thread_Assert( "assert", "f" );'), (131, 1, u'+\tEVENT( EV_Thread_Assert,\t\t\t\tidThread::Event_Assert )'), (278, 1, u'+\tassert( self );'), (294, 1, u'+\tassert( func );'), (323, 1, u'+\tassert( self );'), (730, 1, u'+\tassert( self );'), (752, 1, u'+\tassert( obj );'), (762, 1, u'+\tassert( obj );'), (1039, 1, u'+void idThread::Event_Assert( float value ) {'), (1040, 1, u'+\tassert( value );'), (1130, 1, u'+\tassert( name );'), (1430, 1, u'+\tassert( func );')]
+===========================================
+Class:  class idInternalCVar : public idCVar { class idInternalCVar : public idCVar 
+Class:   class idCVarSystemLocal : public idCVarSystem { class idCVarSystemLocal : public idCVarSystem 
+Class: class idCmdSystemLocal : public idCmdSystem { class idCmdSystemLocal : public idCmdSystem 
+Class: class idSort_CommandDef : public idSort_Quick< commandDef_t, idSort_CommandDef > { class idSort_CommandDef : public idSort_Quick< commandDef_t, idSort_CommandDef > 
+Class:		class idSWFScriptFunction_Continue : public idSWFScriptFunction_RefCounted { 		class idSWFScriptFunction_Continue : public idSWFScriptFunction_RefCounted 
+Class:		class idSWFScriptFunction_Accept : public idSWFScriptFunction_RefCounted { 		class idSWFScriptFunction_Accept : public idSWFScriptFunction_RefCounted 
+Class:	class idSWFScriptFunction_Continue : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_Continue : public idSWFScriptFunction_RefCounted 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(535, 1, u'+\t\t\tassert( game->GetLocalClientNum() == 0 );'), (536, 1, u'+\t\t\tassert( matchParameters.gameMode == GAME_MODE_SINGLEPLAYER );'), (537, 1, u'+\t\t\tassert( matchParameters.gameMap == GAME_MAP_SINGLEPLAYER );'), (1008, 1, u'+\tassert( pipelineFile != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(152, 1, u'+\t\tassert( writeSnapshotIndex % RECEIVE_SNAPSHOT_BUFFER_SIZE == readSnapshotIndex % RECEIVE_SNAPSHOT_BUFFER_SIZE );'), (564, 1, u'+\t\t\tassert( IsValid( delta_interpolate ) );')]
+===========================================
+Class:   class idCompressor_BitStream : public idCompressor_None { class idCompressor_BitStream : public idCompressor_None 
+Class:   class idCompressor_RunLength : public idCompressor_BitStream { class idCompressor_RunLength : public idCompressor_BitStream 
+Class:   class idCompressor_RunLength_ZeroBased : public idCompressor_BitStream { class idCompressor_RunLength_ZeroBased : public idCompressor_BitStream 
+Class: class idCompressor_Huffman : public idCompressor_None { class idCompressor_Huffman : public idCompressor_None 
+Class: class idCompressor_Arithmetic : public idCompressor_BitStream { class idCompressor_Arithmetic : public idCompressor_BitStream 
+Class: class idCompressor_LZSS : public idCompressor_BitStream { class idCompressor_LZSS : public idCompressor_BitStream 
+Class:  class idCompressor_LZSS_WordAligned : public idCompressor_LZSS { class idCompressor_LZSS_WordAligned : public idCompressor_LZSS 
+Class:  class idCompressor_LZW : public idCompressor_BitStream { class idCompressor_LZW : public idCompressor_BitStream 
+Class:    class idConsoleLocal : public idConsole { class idConsoleLocal : public idConsole 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1194, 1, u'+\t\t\tassert( false );'), (1212, 1, u'+\t\t\t\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(363, 1, u'+\t\t\tassert( 0 );')]
+===========================================
+Class: class idDeclFolder { class idDeclFolder 
+Class: class idDeclLocal : public idDeclBase { class idDeclLocal : public idDeclBase 
+Class: class idDeclFile { class idDeclFile 
+Class: class idDeclManagerLocal : public idDeclManager { class idDeclManagerLocal : public idDeclManager 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(370, 1, u'+\t\tassert( code.numBits < sizeof( codes[0].bits ) * 8 );'), (379, 1, u'+\t\tassert( code.numBits <= sizeof( codes[0].bits ) * 8 );'), (452, 1, u'+\tassert( maxHuffmanBits == height );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(568, 1, u'+\t\tassert( stages.Num() <= MAX_PARTICLE_STAGES );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(138, 1, u'+\tassert( w <= MAX_EDIT_LINE );'), (148, 1, u'+\tassert( c <= MAX_EDIT_LINE );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1801, 1, u'+\tassert( srcData == testData );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1396, 1, u'+\tassert( path );')]
+===========================================
+Class: class idSGFcompressThread : public idSysThread { class idSGFcompressThread : public idSysThread 
+Class:class idSGFdecompressThread : public idSysThread { class idSGFdecompressThread : public idSysThread 
+Class:class idSGFwriteThread : public idSysThread { class idSGFwriteThread : public idSysThread 
+Class:class idSGFreadThread : public idSysThread { class idSGFreadThread : public idSysThread 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(312, 1, u'+\tassert( mode == CLOSED );'), (365, 1, u'+\tassert( mode == CLOSED );'), (420, 1, u'+\tassert( mode == WRITE );'), (459, 1, u'+\tassert( nativeFile != NULL );'), (562, 1, u'+\t\t\t\tassert( zLibFlushType == Z_FINISH );'), (567, 1, u'+\t\t\tassert( 0 == ( compressedProducedBytes & ( COMPRESSED_BLOCK_SIZE - 1 ) ) );'), (640, 1, u'+\tassert( mode == WRITE );'), (676, 1, u'+\tassert( mode == CLOSED );'), (721, 1, u'+\tassert( mode == CLOSED );'), (770, 1, u'+\tassert( mode == READ );'), (772, 1, u'+\tassert( ( lastReadBytes & ( COMPRESSED_BLOCK_SIZE - 1 ) ) == 0 || block == NULL );'), (790, 1, u'+\tassert( 0 == ( compressedProducedBytes & ( COMPRESSED_BLOCK_SIZE - 1 ) ) );'), (811, 1, u'+\tassert( nativeFile != NULL );'), (817, 1, u'+\tassert( 0 == ( compressedProducedBytes & ( COMPRESSED_BLOCK_SIZE - 1 ) ) );'), (898, 1, u'+\tassert( ( uncompressedProducedBytes & ( UNCOMPRESSED_BLOCK_SIZE - 1 ) ) == 0 );'), (953, 1, u'+\tassert( ( uncompressedProducedBytes & ( UNCOMPRESSED_BLOCK_SIZE - 1 ) ) == 0 );'), (1006, 1, u'+\tassert( mode == READ );'), (1089, 1, u'+\t\tassert( 0 );')]
+===========================================
+Class: class idKey { class idKey 
+Class: class idPlayerProfileLocal : public idPlayerProfile { class idPlayerProfileLocal : public idPlayerProfile 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(280, 1, u'+\t\tassert( false );\t\t// FIXME: add another set of achievement bit flags'), (308, 1, u'+\t\tassert( false );\t\t// FIXME: add another set of achievement bit flags'), (328, 1, u'+\t\tassert( false );\t\t// FIXME: add another set of achievement bit flags')]
+===========================================
+Class:  class buttonState_t {  class buttonState_t 
+Class: class idUsercmdGenLocal : public idUsercmdGen { class idUsercmdGenLocal : public idUsercmdGen 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1292, 1, u'+\t\t\t\tassert( !"Unknown joystick event" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1459, 1, u'+\t\t\tassert( total == (size_t)src.Length() );'), (1568, 1, u'+\t\t\tassert( total == (size_t)src->Length() );'), (1662, 1, u'+\t\tassert( total == (size_t)src->Length() );'), (1839, 1, u'+\t\t\tassert( false && "couldn\'t read the combined file" );'), (1925, 1, u'+\tassert( ret && "couldn\'t create temp file" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(827, 1, u'+    Assert(strm->avail_out > 0, "bug2");'), (1061, 1, u'+    Assert(s->hash_bits >= 8 && MAX_MATCH == 258, "Code too clever");'), (1072, 1, u'+    Assert((ulg)s->strstart <= s->window_size-MIN_LOOKAHEAD, "need lookahead");'), (1075, 1, u'+        Assert(cur_match < s->strstart, "no future");'), (1102, 1, u'+        Assert(scan[2] == match[2], "scan[2]?");'), (1113, 1, u'+        Assert(scan <= s->window+(unsigned)(s->window_size-1), "wild scan");'), (1133, 1, u'+        Assert(*scan == *match, "match[2]?");'), (1145, 1, u'+        Assert(scan <= s->window+(unsigned)(s->window_size-1), "wild scan");'), (1187, 1, u'+    Assert(s->hash_bits >= 8 && MAX_MATCH == 258, "Code too clever");'), (1189, 1, u'+    Assert((ulg)s->strstart <= s->window_size-MIN_LOOKAHEAD, "need lookahead");'), (1191, 1, u'+    Assert(cur_match < s->strstart, "no future");'), (1206, 1, u'+    Assert(*scan == *match, "match[2]?");'), (1218, 1, u'+    Assert(scan <= s->window+(unsigned)(s->window_size-1), "wild scan");'), (1340, 1, u'+        Assert(more >= 2, "more < 2");'), (1409, 1, u'+            Assert(s->strstart < s->w_size+MAX_DIST(s) ||'), (1417, 1, u'+        Assert(s->block_start >= 0L, "block gone");'), (1666, 1, u'+    Assert (flush != Z_NO_FLUSH, "no flush?");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(467, 1, u'+\tassert( numBits >= 6 && numBits <= 32 );'), (468, 1, u'+\tassert( dir.LengthSqr() - 1.0f < 0.01f );'), (494, 1, u'+\tassert( numBits >= 6 && numBits <= 32 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 1, u'+\tassert( argc < MAX_COMMAND_ARGS );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(561, 1, u'+\t\tassert( FindKey( args[i].GetKey() ) != NULL );'), (576, 1, u'+\tassert( prefix );'), (582, 1, u'+\t\tassert( start >= 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(156, 1, u'+\t\tassert( false );\t// this should have been handled in VerifyUTF8 with a FatalError')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(362, 1, u'+\t\tassert( script_p <= end_p );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(63, 1, u'+\tassert( sizeof( bool ) == 1 );')]
+===========================================
+Class: class idParallelJobList_Threads { class idParallelJobList_Threads 
+Class: class idJobThread : public idSysThread { class idJobThread : public idSysThread 
+Class: class idParallelJobManagerLocal : public idParallelJobManager { class idParallelJobManagerLocal : public idParallelJobManager 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(458, 1, u'+\tassert( idParser::tokens != NULL );')]
+===========================================
+Class: class idSortrects : public idSort_Quick< int, idSortrects > { class idSortrects : public idSort_Quick< int, idSortrects > 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+bool SpursEmulationAssertFailed( const char *filename, int line, const char *expression ) {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(82, 1, u'+\tassert( amount > 0 );'), (160, 1, u'+\t\tassert( strlen( text ) < (unsigned)len );'), (525, 1, u'+\tassert( buf[i-1] == \'\\"\' );'), (1260, 1, u'+\tassert( n >= 0 );'), (1320, 1, u'+\tassert( n >= 0 );'), (1472, 1, u'+\tassert( n >= 0 );')]
+===========================================
+Class:  class idMyThread : public idSysThread { class idMyThread : public idSysThread 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(116, 1, u'+\tassert ( timers.Num() == names.Num() );'), (128, 1, u'+\tassert ( timers.Num() == names.Num() );'), (151, 1, u'+\tassert( timers.Num() == names.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 1, u'+\tassert( type == TT_NUMBER );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(40, 1, u'+\tassert( idMath::IsPowerOfTwo( initialHashSize ) );'), (57, 1, u'+\tassert( idMath::IsPowerOfTwo( newHashSize ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(721, 1, u'+\tassert( &src != &out );'), (780, 1, u'+\tassert( &src != &out );'), (821, 1, u'+\tassert( &src != &out );'), (1022, 1, u'+\tassert( &src != &out );'), (1023, 1, u'+\tassert( src.IsAffineTransform( 0.01f ) );'), (1187, 1, u'+\tassert_16_byte_aligned( row0.ToFloatPtr() );'), (1188, 1, u'+\tassert_16_byte_aligned( row1.ToFloatPtr() );'), (1189, 1, u'+\tassert_16_byte_aligned( row2.ToFloatPtr() );'), (1190, 1, u'+\tassert_16_byte_aligned( row3.ToFloatPtr() );'), (1211, 1, u'+\tassert_16_byte_aligned( row0.ToFloatPtr() );'), (1212, 1, u'+\tassert_16_byte_aligned( row1.ToFloatPtr() );'), (1213, 1, u'+\tassert_16_byte_aligned( row2.ToFloatPtr() );'), (1214, 1, u'+\tassert_16_byte_aligned( row3.ToFloatPtr() );'), (1237, 1, u'+\tassert_16_byte_aligned( row0.ToFloatPtr() );'), (1238, 1, u'+\tassert_16_byte_aligned( row1.ToFloatPtr() );'), (1239, 1, u'+\tassert_16_byte_aligned( row2.ToFloatPtr() );'), (1240, 1, u'+\tassert_16_byte_aligned( row3.ToFloatPtr() );'), (1298, 1, u'+\tassert_16_byte_aligned( row0.ToFloatPtr() );'), (1299, 1, u'+\tassert_16_byte_aligned( row1.ToFloatPtr() );'), (1300, 1, u'+\tassert_16_byte_aligned( row2.ToFloatPtr() );'), (1301, 1, u'+\tassert_16_byte_aligned( row3.ToFloatPtr() );'), (1520, 1, u'+\tassert( idMath::Fabs( extrudeDirection * clipPlane.Normal() ) >= idMath::FLT_SMALLEST_NON_DENORMAL );'), (2246, 1, u'+\tassert( newPoints != points );'), (2370, 1, u'+\tassert( numPoints < 16 - 6 );'), (2647, 1, u'+\tassert( idMath::Fabs( extrudeDirection * clipPlane.Normal() ) >= idMath::FLT_SMALLEST_NON_DENORMAL );'), (3123, 1, u'+\tassert_16_byte_aligned( &corners );'), (3205, 1, u'+\tassert_16_byte_aligned( &corners );'), (3232, 1, u'+\tcompile_time_assert( FRUSTUM_CULL_FRONT == 1 );'), (3233, 1, u'+\tcompile_time_assert( FRUSTUM_CULL_BACK == 2 );'), (3234, 1, u'+\tcompile_time_assert( FRUSTUM_CULL_CROSS == 3 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(891, 1, u'+\t\t\t\tassert( edges[edgeNum].tris[0] == -1 ); // edge may not be shared by more than two triangles'), (895, 1, u'+\t\t\t\tassert( edges[edgeNum].tris[1] == -1 ); // edge may not be shared by more than two triangles')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(60, 1, u'+\tassert( expanded == true );'), (106, 1, u'+\tassert( expanded == true );'), (159, 1, u'+\tassert( expanded == true );'), (258, 1, u'+\tassert( expanded == false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(102, 1, u'+\tassert( this );'), (245, 1, u'+\tassert( this );'), (360, 1, u'+\tassert( this );'), (1469, 1, u'+\tassert( n <= MAX_POINTS_ON_WINDING );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(90, 1, u'+\t\tassert( numPlanes < MAX_POINTS_ON_WINDING_2D );'), (93, 1, u'+\tassert( numPlanes < MAX_POINTS_ON_WINDING_2D && numPlanes > 0 );')]
+===========================================
+Class:  class idLCP_Symmetric : public idLCP { class idLCP_Symmetric : public idLCP 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(87, 1, u'+\t\tassert_16_byte_aligned( &dst[i] );'), (88, 1, u'+\t\tassert_16_byte_aligned( &src0[i] );'), (89, 1, u'+\t\tassert_16_byte_aligned( &src1[i] );'), (121, 1, u'+\t\tassert_16_byte_aligned( &dst[i] );'), (122, 1, u'+\t\tassert_16_byte_aligned( &src[i] );'), (144, 1, u'+\tassert_16_byte_aligned( src0 );'), (145, 1, u'+\tassert_16_byte_aligned( src1 );'), (210, 1, u'+\tassert( ( nc & 3 ) == 0 );'), (296, 1, u'+\t\tassert_16_byte_aligned( lptr0 );'), (297, 1, u'+\t\tassert_16_byte_aligned( lptr1 );'), (298, 1, u'+\t\tassert_16_byte_aligned( lptr2 );'), (299, 1, u'+\t\tassert_16_byte_aligned( lptr3 );'), (379, 1, u'+\tassert_16_byte_aligned( x );'), (387, 1, u'+\t\tassert_16_byte_aligned( lptr0 );'), (388, 1, u'+\t\tassert_16_byte_aligned( lptr1 );'), (389, 1, u'+\t\tassert_16_byte_aligned( lptr2 );'), (390, 1, u'+\t\tassert_16_byte_aligned( lptr3 );'), (498, 1, u'+\tassert( ( nc & 3 ) == 0 );'), (527, 1, u'+\t\tassert_16_byte_aligned( b );'), (528, 1, u'+\t\tassert_16_byte_aligned( xptr );'), (529, 1, u'+\t\tassert_16_byte_aligned( lptr );'), (576, 1, u'+\t\tassert_16_byte_aligned( b );'), (577, 1, u'+\t\tassert_16_byte_aligned( xptr );'), (578, 1, u'+\t\tassert_16_byte_aligned( lptr );'), (758, 1, u'+\tassert( ( nc & 3 ) == 0 );'), (863, 1, u'+\t\tassert_16_byte_aligned( v );'), (864, 1, u'+\t\tassert_16_byte_aligned( mptr );'), (865, 1, u'+\t\tassert_16_byte_aligned( diag );'), (914, 1, u'+\t\t\tassert_16_byte_aligned( v );'), (915, 1, u'+\t\t\tassert_16_byte_aligned( ra );'), (916, 1, u'+\t\t\tassert_16_byte_aligned( rb );'), (917, 1, u'+\t\t\tassert_16_byte_aligned( rc );'), (918, 1, u'+\t\t\tassert_16_byte_aligned( rd );'), (972, 1, u'+\t\t\tassert_16_byte_aligned( v );'), (973, 1, u'+\t\t\tassert_16_byte_aligned( mptr );'), (1010, 1, u'+\t\tassert_16_byte_aligned( v );'), (1011, 1, u'+\t\tassert_16_byte_aligned( mptr );'), (1012, 1, u'+\t\tassert_16_byte_aligned( diag );'), (1073, 1, u'+\t\t\tassert_16_byte_aligned( v );'), (1074, 1, u'+\t\t\tassert_16_byte_aligned( ra );'), (1075, 1, u'+\t\t\tassert_16_byte_aligned( rb );'), (1076, 1, u'+\t\t\tassert_16_byte_aligned( rc );'), (1077, 1, u'+\t\t\tassert_16_byte_aligned( rd );'), (1170, 1, u'+\t\t\tassert_16_byte_aligned( v );'), (1171, 1, u'+\t\t\tassert_16_byte_aligned( mptr );'), (1691, 1, u'+\tassert( r >= numClamped );'), (1931, 1, u'+\tassert( padded || o_m.GetNumRows() == o_m.GetNumColumns() );'), (1932, 1, u'+\tassert( o_x.GetSize() == o_m.GetNumRows() );'), (1933, 1, u'+\tassert( o_b.GetSize() == o_m.GetNumRows() );'), (1934, 1, u'+\tassert( o_lo.GetSize() == o_m.GetNumRows() );'), (1935, 1, u'+\tassert( o_hi.GetSize() == o_m.GetNumRows() );'), (2308, 1, u'+\tassert( r >= numClamped );'), (2613, 1, u'+\tassert( padded || o_m.GetNumRows() == o_m.GetNumColumns() );'), (2614, 1, u'+\tassert( o_x.GetSize() == o_m.GetNumRows() );'), (2615, 1, u'+\tassert( o_b.GetSize() == o_m.GetNumRows() );'), (2616, 1, u'+\tassert( o_lo.GetSize() == o_m.GetNumRows() );'), (2617, 1, u'+\tassert( o_hi.GetSize() == o_m.GetNumRows() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(104, 1, u'+\tassert( r < numRows );'), (123, 1, u'+\tassert( r < numColumns );'), (143, 1, u'+\tassert( r < numRows && r < numColumns );'), (171, 1, u'+\tassert( ( GetNumColumns() & 3 ) == 0 );'), (172, 1, u'+\tassert( GetNumColumns() >= GetNumRows() );'), (314, 1, u'+\t\t\tassert( mat[ i * numColumns + j ] == mat[ j * numColumns + i ] );'), (708, 1, u'+\tassert( v.GetSize() >= numRows );'), (709, 1, u'+\tassert( w.GetSize() >= numColumns );'), (730, 1, u'+\tassert( numRows == numColumns );'), (731, 1, u'+\tassert( v.GetSize() >= numRows );'), (757, 1, u'+\tassert( w[r] == 0.0f );'), (758, 1, u'+\tassert( v.GetSize() >= numColumns );'), (759, 1, u'+\tassert( w.GetSize() >= numRows );'), (785, 1, u'+\tassert( numRows == numColumns );'), (786, 1, u'+\tassert( v.GetSize() >= numRows );'), (814, 1, u'+\tassert( numRows == numColumns );'), (815, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (816, 1, u'+\tassert( w.GetSize() >= numColumns+1 );'), (843, 1, u'+\tassert( numRows == numColumns );'), (844, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (878, 1, u'+\tassert( numRows == numColumns );'), (968, 1, u'+\tassert( numRows == numColumns );'), (969, 1, u'+\tassert( v.GetSize() >= numColumns );'), (970, 1, u'+\tassert( w.GetSize() >= numRows );'), (1010, 1, u'+\tassert( numRows == numColumns );'), (1011, 1, u'+\tassert( v.GetSize() >= numColumns );'), (1012, 1, u'+\tassert( w.GetSize() >= numRows );'), (1013, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (1014, 1, u'+\tassert( w[r] == 0.0f );'), (1044, 1, u'+\tassert( numRows == numColumns );'), (1045, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (1046, 1, u'+\tassert( w.GetSize() >= numColumns+1 );'), (1069, 1, u'+\tassert( numRows == numColumns );'), (1070, 1, u'+\tassert( v.GetSize() >= numRows );'), (1071, 1, u'+\tassert( w.GetSize() >= numColumns );'), (1072, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (1206, 1, u'+\tassert( v.GetSize() >= numColumns );'), (1207, 1, u'+\tassert( w.GetSize() >= numRows );'), (1281, 1, u'+\tassert( v.GetSize() >= numColumns );'), (1282, 1, u'+\tassert( w.GetSize() >= numRows );'), (1283, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (1284, 1, u'+\tassert( w[r] == 0.0f );'), (1304, 1, u'+\tassert( v.GetSize() >= numColumns );'), (1305, 1, u'+\tassert( w.GetSize() >= numRows );'), (1306, 1, u'+\tassert( r >= 0 && r < numColumns && r < numRows );'), (1307, 1, u'+\tassert( w[r] == 0.0f );'), (1428, 1, u'+\tassert( numRows == numColumns );'), (1429, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (1430, 1, u'+\tassert( w.GetSize() >= numColumns+1 );'), (1477, 1, u'+\tassert( numRows == numColumns );'), (1478, 1, u'+\tassert( v.GetSize() >= numColumns );'), (1479, 1, u'+\tassert( w.GetSize() >= numRows );'), (1480, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (1566, 1, u'+\tassert( x.GetSize() == numColumns && b.GetSize() == numRows );'), (1602, 1, u'+\tassert( numRows == numColumns );'), (1694, 1, u'+\tassert( numRows == numColumns );'), (1695, 1, u'+\tassert( c.GetSize() >= numRows && d.GetSize() >= numRows );'), (1806, 1, u'+\tassert( v.GetSize() >= numColumns );'), (1807, 1, u'+\tassert( w.GetSize() >= numRows );'), (1855, 1, u'+\tassert( v.GetSize() >= numColumns );'), (1856, 1, u'+\tassert( w.GetSize() >= numRows );'), (1857, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (1858, 1, u'+\tassert( w[r] == 0.0f );'), (1888, 1, u'+\tassert( numRows == numColumns );'), (1889, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (1890, 1, u'+\tassert( w.GetSize() >= numColumns+1 );'), (1916, 1, u'+\tassert( numRows == numColumns );'), (1917, 1, u'+\tassert( v.GetSize() >= numRows );'), (1918, 1, u'+\tassert( w.GetSize() >= numColumns );'), (1919, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (1952, 1, u'+\tassert( numRows == numColumns );'), (1953, 1, u'+\tassert( x.GetSize() >= numRows && b.GetSize() >= numRows );'), (1954, 1, u'+\tassert( c.GetSize() >= numRows && d.GetSize() >= numRows );'), (1995, 1, u'+\tassert( numRows == numColumns );'), (2022, 1, u'+\tassert( numRows == numColumns );'), (2444, 1, u'+\tassert( x.GetSize() >= numColumns );'), (2445, 1, u'+\tassert( b.GetSize() >= numColumns );'), (2446, 1, u'+\tassert( w.GetSize() == numColumns );'), (2447, 1, u'+\tassert( V.GetNumRows() == numColumns && V.GetNumColumns() == numColumns );'), (2482, 1, u'+\tassert( numRows == numColumns );'), (2553, 1, u'+\tassert( numRows == numColumns );'), (2596, 1, u'+\tassert( numRows == numColumns );'), (2597, 1, u'+\tassert( v.GetSize() >= numRows );'), (2598, 1, u'+\tassert( offset >= 0 && offset < numRows );'), (2652, 1, u'+\tassert( numRows == numColumns );'), (2653, 1, u'+\tassert( v.GetSize() >= numRows );'), (2654, 1, u'+\tassert( r >= 0 && r < numRows );'), (2833, 1, u'+\tassert( numRows == numColumns );'), (2834, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (2877, 1, u'+\tassert( numRows == numColumns );'), (2878, 1, u'+\tassert( v.GetSize() >= numRows );'), (2879, 1, u'+\tassert( r >= 0 && r < numRows );'), (2915, 1, u'+\tassert( numRows == numColumns );'), (2916, 1, u'+\tassert( x.GetSize() >= numRows && b.GetSize() >= numRows );'), (2948, 1, u'+\tassert( numRows == numColumns );'), (3009, 1, u'+\tassert( numRows == numColumns );'), (3054, 1, u'+\tassert( numRows == numColumns );'), (3055, 1, u'+\tassert( v.GetSize() >= numRows );'), (3056, 1, u'+\tassert( offset >= 0 && offset < numRows );'), (3107, 1, u'+\tassert( numRows == numColumns );'), (3108, 1, u'+\tassert( v.GetSize() >= numRows );'), (3109, 1, u'+\tassert( r >= 0 && r < numRows );'), (3300, 1, u'+\tassert( numRows == numColumns );'), (3301, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (3344, 1, u'+\tassert( numRows == numColumns );'), (3345, 1, u'+\tassert( v.GetSize() >= numRows );'), (3346, 1, u'+\tassert( r >= 0 && r < numRows );'), (3382, 1, u'+\tassert( numRows == numColumns );'), (3383, 1, u'+\tassert( x.GetSize() >= numRows && b.GetSize() >= numRows );'), (3420, 1, u'+\tassert( numRows == numColumns );'), (3504, 1, u'+\tassert( numRows == numColumns );'), (3525, 1, u'+\tassert( numRows == numColumns );'), (3526, 1, u'+\tassert( x.GetSize() >= numRows && b.GetSize() >= numRows );'), (3562, 1, u'+\tassert( numRows == numColumns );'), (3595, 1, u'+\tassert( numRows == numColumns );'), (3701, 1, u'+\tassert( numRows == numColumns );'), (3778, 1, u'+\tassert( numRows == numColumns );'), (3807, 1, u'+\tassert( numRows == numColumns );'), (4323, 1, u'+\tassert( numRows == numColumns );'), (4512, 1, u'+\t\tassert( 0 );'), (4540, 1, u'+\t\t\tassert( 0 );'), (4568, 1, u'+\t\tassert( 0 );'), (4599, 1, u'+\t\t\tassert( 0 );'), (4640, 1, u'+\t\tassert( 0 );'), (4672, 1, u'+\t\t\tassert( 0 );'), (4704, 1, u'+\t\tassert( 0 );'), (4739, 1, u'+\t\t\tassert( 0 );'), (4810, 1, u'+\t\tassert( 0 );'), (4845, 1, u'+\t\t\tassert( 0 );'), (4880, 1, u'+\t\tassert( 0 );'), (4918, 1, u'+\t\t\tassert( 0 );'), (5006, 1, u'+\t\tassert( 0 );'), (5036, 1, u'+\t\t\tassert( 0 );'), (5069, 1, u'+\t\tassert( 0 );'), (5101, 1, u'+\t\t\tassert( 0 );'), (5162, 1, u'+\t\tassert( 0 );'), (5190, 1, u'+\t\t\tassert( 0 );'), (5223, 1, u'+\t\tassert( 0 );'), (5255, 1, u'+\t\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+\tassert( exponentBits >= 2 && exponentBits <= 8 );'), (96, 1, u'+\tassert( mantissaBits >= 2 && mantissaBits <= 23 );'), (138, 1, u'+\tassert( exponentBits >= 2 && exponentBits <= 8 );'), (139, 1, u'+\tassert( mantissaBits >= 2 && mantissaBits <= 23 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(198, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (205, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (212, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (219, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (226, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (233, 1, u'+\t\tassert( idMath::Fabs( complexValue.r ) < 1e-4f && idMath::Fabs( complexValue.i ) < 1e-4f );'), (240, 1, u'+\t\tassert( idMath::Fabs( complexValue.r ) < 1e-4f && idMath::Fabs( complexValue.i ) < 1e-4f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+#define NODEFAULT\tdefault: assert( 0 )'), (196, 1, u'+\t\tassert( parents[i] < i );'), (208, 1, u'+\t\tassert( parents[i] < i );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(302, 1, u'+\tassert_16_byte_aligned( joints );'), (303, 1, u'+\tassert_16_byte_aligned( blendJoints );'), (304, 1, u'+\tassert_16_byte_aligned( JOINTQUAT_Q_OFFSET );'), (305, 1, u'+\tassert_16_byte_aligned( JOINTQUAT_T_OFFSET );'), (306, 1, u'+\tassert_sizeof_16_byte_multiple( idJointQuat );'), (484, 1, u'+\tassert( sizeof( idJointQuat ) == JOINTQUAT_SIZE );'), (485, 1, u'+\tassert( sizeof( idJointMat ) == JOINTMAT_SIZE );'), (486, 1, u'+\tassert( (int)(&((idJointQuat *)0)->t) == (int)(&((idJointQuat *)0)->q) + (int)sizeof( ((idJointQuat *)0)->q ) );'), (617, 1, u'+\tassert( sizeof( idJointQuat ) == JOINTQUAT_SIZE );'), (618, 1, u'+\tassert( sizeof( idJointMat ) == JOINTMAT_SIZE );'), (619, 1, u'+\tassert( (int)(&((idJointQuat *)0)->t) == (int)(&((idJointQuat *)0)->q) + (int)sizeof( ((idJointQuat *)0)->q ) );'), (888, 1, u'+\t\tassert( parents[joint] < joint );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+idCVar com_assertOutOfDebugger( "com_assertOutOfDebugger", "0", CVAR_BOOL, "by default, do not assert while not running under the debugger" );'), (39, 1, u'+struct skippedAssertion_t {'), (40, 1, u'+\t\t\t\t\tskippedAssertion_t() :'), (47, 1, u'+static idStaticList< skippedAssertion_t,20 > skippedAssertions;'), (54, 1, u'+bool AssertFailed( const char * file, int line, const char * expression ) {'), (56, 1, u'+\tstatic volatile bool skipAllAssertions = false;'), (57, 1, u'+\tif ( skipAllAssertions ) {'), (62, 1, u'+\tstatic volatile bool skipThisAssertion = false;'), (63, 1, u'+\tskipThisAssertion = false;'), (65, 1, u'+\tfor ( int i = 0; i < skippedAssertions.Num(); i++ ) {'), (66, 1, u'+\t\tif ( skippedAssertions[i].file == file && skippedAssertions[i].line == line ) {'), (67, 1, u'+\t\t\tskipThisAssertion = true;'), (69, 1, u'+\t\t\tif ( !skipThisAssertion ) {'), (70, 1, u'+\t\t\t\tskippedAssertions.RemoveIndexFast( i );'), (78, 1, u'+\tif ( IsDebuggerPresent() || com_assertOutOfDebugger.GetBool() ) {'), (82, 1, u'+\tif ( skipThisAssertion ) {'), (83, 1, u'+\t\tskippedAssertion_t * skipped = skippedAssertions.Alloc();')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(218, 1, u'+\tassert( result == WAIT_OBJECT_0 || ( timeout != idSysSignal::WAIT_INFINITE && result == WAIT_TIMEOUT ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(213, 1, u'+\tassert( width <= 4 && height <= 4 );'), (214, 1, u'+\tassert( width > 0 && height > 0 );'), (408, 1, u'+\t\tassert( img.level >= 0 && img.level < fileData.numLevels );'), (409, 1, u'+\t\tassert( img.destZ == 0 || fileData.textureType == TT_CUBIC );'), (410, 1, u'+\t\tassert( img.dataSize > 0 );'), (414, 1, u'+\t\tassert( img.dataSize >= img.width * img.height * BitsForFormat( (textureFormat_t)fileData.format ) / 8 );')]
+===========================================
+Class:   class interactionPair_t { class interactionPair_t 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(192, 1, u'+\tassert( (unsigned)index < MAX_BOUNDS_TRACK_INDEXES );'), (198, 1, u'+\tassert( (unsigned)index < MAX_BOUNDS_TRACK_INDEXES );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(77, 1, u'+\tassert_16_byte_aligned( dst );'), (78, 1, u'+\tassert_16_byte_aligned( src );'), (148, 1, u'+\tassert( apiObject == NULL );'), (149, 1, u'+\tassert_16_byte_aligned( data );'), (231, 1, u'+\tassert( IsMapped() == false );'), (233, 1, u'+\tassert( other.GetAPIObject() != NULL );'), (234, 1, u'+\tassert( other.GetSize() > 0 );'), (240, 1, u'+\tassert( OwnsBuffer() == false );'), (249, 1, u'+\tassert( IsMapped() == false );'), (251, 1, u'+\tassert( other.GetAPIObject() != NULL );'), (252, 1, u'+\tassert( refOffset >= 0 );'), (253, 1, u'+\tassert( refSize >= 0 );'), (254, 1, u'+\tassert( refOffset + refSize <= other.GetSize() );'), (260, 1, u'+\tassert( OwnsBuffer() == false );'), (269, 1, u'+\tassert( apiObject != NULL );'), (270, 1, u'+\tassert( IsMapped() == false );'), (271, 1, u'+\tassert_16_byte_aligned( data );'), (272, 1, u'+\tassert( ( GetOffset() & 15 ) == 0 );'), (296, 1, u'+\tassert( apiObject != NULL );'), (297, 1, u'+\tassert( IsMapped() == false );'), (315, 1, u'+\t\tassert( IsWriteCombined( buffer ) );'), (317, 1, u'+\t\tassert( false );'), (334, 1, u'+\tassert( apiObject != NULL );'), (335, 1, u'+\tassert( IsMapped() );'), (392, 1, u'+\tassert( apiObject == NULL );'), (393, 1, u'+\tassert_16_byte_aligned( data );'), (476, 1, u'+\tassert( IsMapped() == false );'), (478, 1, u'+\tassert( other.GetAPIObject() != NULL );'), (479, 1, u'+\tassert( other.GetSize() > 0 );'), (485, 1, u'+\tassert( OwnsBuffer() == false );'), (494, 1, u'+\tassert( IsMapped() == false );'), (496, 1, u'+\tassert( other.GetAPIObject() != NULL );'), (497, 1, u'+\tassert( refOffset >= 0 );'), (498, 1, u'+\tassert( refSize >= 0 );'), (499, 1, u'+\tassert( refOffset + refSize <= other.GetSize() );'), (505, 1, u'+\tassert( OwnsBuffer() == false );'), (515, 1, u'+\tassert( apiObject != NULL );'), (516, 1, u'+\tassert( IsMapped() == false );'), (517, 1, u'+\tassert_16_byte_aligned( data );'), (518, 1, u'+\tassert( ( GetOffset() & 15 ) == 0 );'), (543, 1, u'+\tassert( apiObject != NULL );'), (544, 1, u'+\tassert( IsMapped() == false );'), (562, 1, u'+\t\tassert( IsWriteCombined( buffer ) );'), (564, 1, u'+\t\tassert( false );'), (581, 1, u'+\tassert( apiObject != NULL );'), (582, 1, u'+\tassert( IsMapped() );'), (639, 1, u'+\tassert( apiObject == NULL );'), (640, 1, u'+\tassert_16_byte_aligned( joints );'), (708, 1, u'+\tassert( IsMapped() == false );'), (709, 1, u'+\tassert( other.IsMapped() == false );'), (710, 1, u'+\tassert( other.GetAPIObject() != NULL );'), (711, 1, u'+\tassert( other.GetNumJoints() > 0 );'), (717, 1, u'+\tassert( OwnsBuffer() == false );'), (726, 1, u'+\tassert( IsMapped() == false );'), (727, 1, u'+\tassert( other.IsMapped() == false );'), (728, 1, u'+\tassert( other.GetAPIObject() != NULL );'), (729, 1, u'+\tassert( jointRefOffset >= 0 );'), (730, 1, u'+\tassert( numRefJoints >= 0 );'), (731, 1, u'+\tassert( jointRefOffset + numRefJoints * sizeof( idJointMat ) <= other.GetNumJoints() * sizeof( idJointMat ) );'), (732, 1, u'+\tassert_16_byte_aligned( numRefJoints * 3 * 4 * sizeof( float ) );'), (738, 1, u'+\tassert( OwnsBuffer() == false );'), (747, 1, u'+\tassert( apiObject != NULL );'), (748, 1, u'+\tassert( IsMapped() == false );'), (749, 1, u'+\tassert_16_byte_aligned( joints );'), (750, 1, u'+\tassert( ( GetOffset() & 15 ) == 0 );'), (768, 1, u'+\tassert( IsMapped() == false );'), (769, 1, u'+\tassert( mapType == BM_WRITE );'), (770, 1, u'+\tassert( apiObject != NULL );'), (778, 1, u'+\tassert( GetOffset() == 0 );'), (799, 1, u'+\tassert( apiObject != NULL );'), (800, 1, u'+\tassert( IsMapped() );'), (828, 1, u'+\tassert( other.OwnsBuffer() == OwnsBuffer() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(286, 1, u'+\tassert( normal0 >= normal1 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1099, 1, u'+\t\tassert( color0 == color1 );'), (1292, 1, u'+\t\tassert( smax == smin );'), (2129, 1, u'+\tassert( HasConstantValuePer4x4Block( inBuf, width, height, 2 ) );'), (2226, 1, u'+\tassert( HasConstantValuePer4x4Block( inBuf, width, height, 2 ) );'), (3399, 1, u'+\tassert( maxAlpha >= minAlpha );'), (3550, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (3551, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (3591, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (3592, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (3638, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (3639, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (3950, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (3951, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (4001, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (4002, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (4061, 1, u'+\tassert( HasConstantValuePer4x4Block( inBuf, width, height, 2 ) );'), (4063, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (4064, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (4107, 1, u'+\tassert( maxGreen >= minGreen );'), (4246, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (4247, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (4291, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (4292, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (4331, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (4332, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (4482, 1, u'+\t\tassert( 0 );'), (4529, 1, u'+\tassert( normal0 >= normal1 );'), (4618, 1, u'+\t\tassert( 0 );'), (4663, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(937, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (938, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (970, 1, u'+\t\t\t\tassert( ptr1[k] == ptr2[k] );'), (993, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (994, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (1031, 1, u'+\t\t\t\tassert( ptr1[k] == ptr2[k] );'), (1054, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (1055, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (1091, 1, u'+\t\t\t\tassert( ptr1[k] == ptr2[k] );'), (1321, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (1322, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (1361, 1, u'+\t\t\t\tassert( ptr1[k] == ptr2[k] );'), (1536, 1, u'+\tassert( width >= 4 && ( width & 3 ) == 0 );'), (1537, 1, u'+\tassert( height >= 4 && ( height & 3 ) == 0 );'), (1573, 1, u'+\t\t\t\tassert( ptr1[k] == ptr2[k] );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(154, 1, u'+\t\tassert( glyphInfo[i].imageWidth == glyphInfo[i].pitch );'), (155, 1, u'+\t\tassert( glyphInfo[i].imageHeight == glyphInfo[i].height );'), (156, 1, u'+\t\tassert( glyphInfo[i].imageWidth == ( glyphInfo[i].s2 - glyphInfo[i].s ) * 256 );'), (157, 1, u'+\t\tassert( glyphInfo[i].imageHeight == ( glyphInfo[i].t2 - glyphInfo[i].t ) * 256 );'), (158, 1, u'+\t\tassert( glyphInfo[i].junk == 0 );'), (192, 1, u'+\tassert( pointSize == 48 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(428, 1, u'+\trelease_assert( loadingIconImage->referencedOutsideLevelLoad );'), (429, 1, u'+\trelease_assert( hellLoadingIconImage->referencedOutsideLevelLoad );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(55, 1, u'+\t\t\tassert( 0 );'), (119, 1, u'+\t\t\t\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(643, 1, u'+\tassert( entityDef->world->interactionTable[ interactionIndex ] == this );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(802, 1, u'+\t\tassert( 0 ); // FIX ME'), (2601, 1, u'+\tassert( GetStage(0) && GetStage(0)->texture.image );'), (2611, 1, u'+\tassert( GetStage(0) && GetStage(0)->texture.image );'), (2686, 1, u'+\tassert( constantRegisters == NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(379, 1, u'+\t\t\t\tassert( tri.verts != NULL );'), (431, 1, u'+\t\t\t\tassert( tri.silEdges != NULL );'), (444, 1, u'+\t\t\t\tassert( tri.dominantTris != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+\tassert( material != NULL );'), (220, 1, u'+\t\tassert( w.GetNumPoints() <= MAX_DECAL_VERTS );'), (252, 1, u'+\t\tassert( decal.numIndexes + 3 <= MAX_DECAL_INDEXES );'), (261, 1, u'+\t\tassert( decal.numIndexes + 3 <= MAX_DECAL_INDEXES );'), (274, 1, u'+\tassert_16_byte_aligned( cullBits );'), (275, 1, u'+\tassert_16_byte_aligned( verts );'), (419, 1, u'+\t\tassert( tri->staticModelWithJoints == NULL );'), (568, 1, u'+\tassert_16_byte_aligned( &verts[numVerts] );'), (569, 1, u'+\tassert_16_byte_aligned( &indexes[numIndexes] );'), (570, 1, u'+\tassert_16_byte_aligned( decal->indexes );'), (571, 1, u'+\tassert_16_byte_aligned( decal->verts );'), (572, 1, u'+\tassert( ( ( decal->numVerts * sizeof( idDrawVert ) ) & 15 ) == 0 );'), (573, 1, u'+\tassert( ( ( decal->numIndexes * sizeof( triIndex_t ) ) & 15 ) == 0 );'), (574, 1, u'+\tassert_16_byte_aligned( fadeColor );'), (583, 1, u'+\tassert_offsetof( idDrawVert, color, 6 * 4 );'), (603, 1, u'+\tassert( ( decal->numIndexes & 7 ) == 0 );'), (604, 1, u'+\tassert( sizeof( triIndex_t ) == 2 );')]
+===========================================
+Class: class idRenderModelManagerLocal : public idRenderModelManager { class idRenderModelManagerLocal : public idRenderModelManager 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+\tassert_16_byte_aligned( cullBits );'), (101, 1, u'+\tassert_16_byte_aligned( texCoordS );'), (102, 1, u'+\tassert_16_byte_aligned( texCoordT );'), (103, 1, u'+\tassert_16_byte_aligned( verts );'), (187, 1, u'+\tassert_16_byte_aligned( cullBits );'), (188, 1, u'+\tassert_16_byte_aligned( texCoordS );'), (189, 1, u'+\tassert_16_byte_aligned( texCoordT );'), (190, 1, u'+\tassert_16_byte_aligned( verts );'), (442, 1, u'+\tassert_16_byte_aligned( &verts[numVerts] );'), (443, 1, u'+\tassert_16_byte_aligned( &indexes[numIndexes] );'), (444, 1, u'+\tassert_16_byte_aligned( overlay->verts );'), (445, 1, u'+\tassert_16_byte_aligned( overlay->indexes );'), (446, 1, u'+\tassert( ( ( overlay->numVerts * sizeof( idDrawVert ) ) & 15 ) == 0 );'), (447, 1, u'+\tassert( ( ( overlay->numIndexes * sizeof( triIndex_t ) ) & 15 ) == 0 );'), (473, 1, u'+\tassert( ( overlay->numIndexes & 7 ) == 0 );'), (474, 1, u'+\tassert( sizeof( triIndex_t ) == 2 );'), (527, 1, u'+\tassert( baseModel->IsDynamicModel() == DM_STATIC );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(85, 1, u'+\t\tassert( dynamic_cast<idRenderModelStatic *>( cachedModel ) != NULL );'), (86, 1, u'+\t\tassert( idStr::Icmp( cachedModel->Name(), beam_SnapshotName ) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(199, 1, u'+\tassert( numJoints < 256 );\t\t// so we can pack into bytes'), (312, 1, u'+\t\tassert( totalWeight > 0.999f && totalWeight < 1.001f );'), (330, 1, u'+\t\t\tassert( fw >= 0.0f && fw <= 1.0f );'), (360, 1, u'+\t\t\tassert( dv.color2[j] == 0 );'), (487, 1, u'+\t\t\tassert( tri->verts != NULL );\t// quiet analyze warning'), (733, 1, u'+\t\t\tassert( deform.silEdges != NULL );'), (1084, 1, u'+\tassert_16_byte_aligned( outFloats );'), (1085, 1, u'+\tassert_16_byte_aligned( inFloats1 );'), (1086, 1, u'+\tassert_16_byte_aligned( inFloats2 );'), (1195, 1, u'+\t\tassert( dynamic_cast<idRenderModelStatic *>(cachedModel) != NULL );'), (1196, 1, u'+\t\tassert( idStr::Icmp( cachedModel->Name(), MD5_SnapshotName ) == 0 );'), (1226, 1, u'+\t\tassert( staticModel->numInvertedJoints == numInvertedJoints );'), (1260, 1, u'+\t\tassert( surf->geometry != NULL );\t// to get around compiler warning')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+\t\tassert( dynamic_cast<idRenderModelStatic *>(cachedModel) != NULL );'), (101, 1, u'+\t\tassert( idStr::Icmp( cachedModel->Name(), parametricParticle_SnapshotName ) == 0 );'), (217, 1, u'+\t\tassert( ( numVerts & 3 ) == 0 && numVerts <= 4 * count );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(84, 1, u'+\t\tassert( dynamic_cast<idRenderModelStatic *>( cachedModel ) != NULL );'), (85, 1, u'+\t\tassert( idStr::Icmp( cachedModel->Name(), sprite_SnapshotName ) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(313, 1, u'+\t\t\t\tassert( !"GL_State: invalid src blend state bits\\n" );'), (327, 1, u'+\t\t\t\tassert( !"GL_State: invalid dst blend state bits\\n" );'), (400, 1, u'+\t\t\t\tdefault: assert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+\tassert( x >= 0 && y >= 0 && mipLevel >= 0 && width >= 0 && height >= 0 && mipLevel < opts.numLevels );'), (50, 1, u'+\t\tassert( !(x&3) && !(y&3) );'), (61, 1, u'+\t\tassert( x + width <= padW && y + height <= padH );'), (71, 1, u'+\t\tassert( x + width <= opts.width && y + height <= opts.height );'), (83, 1, u'+\t\tassert( !"invalid opts.textureType" );'), (381, 1, u'+\tassert( texnum != TEXTURE_NOT_LOADED );'), (398, 1, u'+\t\tassert( !"opts.textureType" );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(298, 1, u'+\tassert( foundEye[0] && foundEye[1] );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+\tASSERT_ENUM_STRING( MRB_NONE,\t\t\t\t\t\t\t0 ),'), (46, 1, u'+\tASSERT_ENUM_STRING( MRB_BEGIN_DRAWING_VIEW,\t\t\t\t1 ),'), (47, 1, u'+\tASSERT_ENUM_STRING( MRB_FILL_DEPTH_BUFFER,\t\t\t\t2 ),'), (48, 1, u'+\tASSERT_ENUM_STRING( MRB_DRAW_INTERACTIONS,\t\t\t\t3 ),'), (49, 1, u'+\tASSERT_ENUM_STRING( MRB_DRAW_SHADER_PASSES,\t\t\t\t4 ),'), (50, 1, u'+\tASSERT_ENUM_STRING( MRB_FOG_ALL_LIGHTS,\t\t\t\t\t5 ),'), (51, 1, u'+\tASSERT_ENUM_STRING( MRB_DRAW_SHADER_PASSES_POST,\t\t6 ),'), (52, 1, u'+\tASSERT_ENUM_STRING( MRB_DRAW_DEBUG_TOOLS,\t\t\t\t7 ),'), (53, 1, u'+\tASSERT_ENUM_STRING( MRB_CAPTURE_COLORBUFFER,\t\t\t8 ),'), (54, 1, u'+\tASSERT_ENUM_STRING( MRB_POSTPROCESS,\t\t\t\t\t9 ),'), (55, 1, u'+\tASSERT_ENUM_STRING( MRB_GPU_SYNC,\t\t\t\t\t\t10 ),'), (56, 1, u'+\tASSERT_ENUM_STRING( MRB_END_FRAME,\t\t\t\t\t\t11 ),'), (57, 1, u'+\tASSERT_ENUM_STRING( MRB_BINK_FRAME,\t\t\t\t\t\t12 ),'), (58, 1, u'+\tASSERT_ENUM_STRING( MRB_BINK_NEXT_FRAME,\t\t\t\t13 ),'), (59, 1, u'+\tASSERT_ENUM_STRING( MRB_TOTAL,\t\t\t\t\t\t\t14 ),'), (60, 1, u'+\tASSERT_ENUM_STRING( MRB_MAX,\t\t\t\t\t\t\t15 )'), (423, 1, u'+\tassert( logLevel > 0 );')]
+===========================================
+Class: class idSort_QuickUniforms : public idSort_Quick< glslUniformLocation_t, idSort_QuickUniforms > { class idSort_QuickUniforms : public idSort_Quick< glslUniformLocation_t, idSort_QuickUniforms > 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1099, 1, u'+\tassert( rp < RENDERPARM_TOTAL );'), (1230, 1, u'+\t\tassert( prog.vertexUniformArray != -1 || vertexShaderIndex < 0 || vertexShaders[vertexShaderIndex].uniforms.Num() == 0 );'), (1231, 1, u'+\t\tassert( prog.fragmentUniformArray != -1 || fragmentShaderIndex < 0 || fragmentShaders[fragmentShaderIndex].uniforms.Num() == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1057, 1, u'+\tassert( areas );'), (1058, 1, u'+\tassert( bounds[0][0] <= bounds[1][0] && bounds[0][1] <= bounds[1][1] && bounds[0][2] <= bounds[1][2] );'), (1059, 1, u'+\tassert( bounds[1][0] - bounds[0][0] < 1e4f && bounds[1][1] - bounds[0][1] < 1e4f && bounds[1][2] - bounds[0][2] < 1e4f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(214, 1, u'+\tassert( light->parms.pointLight );'), (303, 1, u'+\tassert( light->parms.parallel );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(321, 1, u'+\tassert( ( tri->numVerts & 1 ) == 0 );'), (1011, 1, u'+\tassert( areaNum >= 0 && areaNum < numPortalAreas );'), (1014, 1, u'+\t\tassert( ref->area == &portalAreas[areaNum] );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(168, 1, u'+\t\t\tassert( ps->numPortalPlanes <= MAX_PORTAL_PLANES );'), (169, 1, u'+\t\t\tassert( w.GetNumPoints() + ps->numPortalPlanes < MAX_POINTS_ON_WINDING );'), (288, 1, u'+\t\t\tassert( ps->numPortalPlanes <= MAX_PORTAL_PLANES );'), (289, 1, u'+\t\t\tassert( w.GetNumPoints() + ps->numPortalPlanes < MAX_POINTS_ON_WINDING );'), (582, 1, u'+\tassert( numPlanes <= MAX_PORTAL_PLANES );'), (733, 1, u'+\tassert( ps != NULL ); // compiler warning')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(89, 1, u'+\tassert( currentResolution >= MINIMUM_RESOLUTION_SCALE );'), (90, 1, u'+\tassert( currentResolution <= MAXIMUM_RESOLUTION_SCALE );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(171, 1, u'+\tassert( ( ((UINT_PTR)(data)) & 15 ) == 0 );'), (172, 1, u'+\tassert( ( bytes & 15 ) == 0 );'), (196, 1, u'+\t\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(87, 1, u'+\tassert_16_byte_aligned( cullBits );'), (88, 1, u'+\tassert_16_byte_aligned( verts );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(141, 1, u'+\tassert_spu_local_store( facing );'), (142, 1, u'+\tassert_not_spu_local_store( indexes );'), (143, 1, u'+\tassert_not_spu_local_store( verts );'), (276, 1, u'+\tassert_spu_local_store( facing );'), (277, 1, u'+\tassert_spu_local_store( joints );'), (278, 1, u'+\tassert_not_spu_local_store( indexes );'), (279, 1, u'+\tassert_not_spu_local_store( verts );'), (440, 1, u'+\tassert_16_byte_aligned( dst );'), (441, 1, u'+\tassert_16_byte_aligned( src );'), (476, 1, u'+\tassert_spu_local_store( facing );'), (477, 1, u'+\tassert_not_spu_local_store( shadowIndices );'), (478, 1, u'+\tassert_not_spu_local_store( silEdges );'), (479, 1, u'+\tassert_not_spu_local_store( indexes );'), (488, 1, u'+\tcompile_time_assert( OUT_BUFFER_SIZE * OUT_BUFFER_DEPTH * sizeof( triIndex_t ) == OUTPUT_INDEX_BUFFER_SIZE );'), (489, 1, u'+\tassert_16_byte_aligned( indexBuffer );'), (668, 1, u'+\t\tassert( numShadowIndices - numStreamedIndices < OUT_BUFFER_SIZE );'), (765, 1, u'+\tassert_spu_local_store( culled );'), (766, 1, u'+\tassert_not_spu_local_store( lightIndices );'), (767, 1, u'+\tassert_not_spu_local_store( indexes );'), (776, 1, u'+\tcompile_time_assert( OUT_BUFFER_SIZE * OUT_BUFFER_DEPTH * sizeof( triIndex_t ) == OUTPUT_INDEX_BUFFER_SIZE );'), (777, 1, u'+\tassert_16_byte_aligned( indexBuffer );'), (841, 1, u'+\t\tassert( numLightIndices - numStreamedIndices < OUT_BUFFER_SIZE );'), (908, 1, u'+\tassert( parms->joints == NULL || parms->numJoints > 0 );'), (976, 1, u'+\t\t\t\tassert( numShadowIndices <= parms->maxShadowIndices );'), (984, 1, u'+\t\t\tassert( numLightIndices <= parms->maxLightIndices );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(177, 1, u'+\t\tassert( ( jointBuffer.GetOffset() & ( glConfig.uniformBufferOffsetAlignment - 1 ) ) == 0 );'), (693, 1, u'+\t\t\t\tassert( ( GL_GetCurrentState() & GLS_DEPTHFUNC_BITS ) == GLS_DEPTHFUNC_LESS );'), (728, 1, u'+\t\t\tassert( ( GL_GetCurrentState() & GLS_DEPTHFUNC_BITS ) == GLS_DEPTHFUNC_LESS );'), (830, 1, u'+\t\tassert( ( GL_GetCurrentState() & GLS_DEPTHFUNC_BITS ) == GLS_DEPTHFUNC_LESS );'), (1057, 1, u'+\t\t\tassert( walk->shadowVolumeState == SHADOWVOLUME_UNFINISHED || walk->shadowVolumeState == SHADOWVOLUME_DONE );'), (1384, 1, u'+\t\t\tassert( drawSurf->shadowVolumeState == SHADOWVOLUME_UNFINISHED || drawSurf->shadowVolumeState == SHADOWVOLUME_DONE );'), (1507, 1, u'+\t\t\tassert( renderProgManager.ShaderUsesJoints() );'), (1514, 1, u'+\t\t\tassert( ( jointBuffer.GetOffset() & ( glConfig.uniformBufferOffsetAlignment - 1 ) ) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(624, 1, u'+\t\tassert( drawSurf->space != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(389, 1, u'+\t\tassert( vertexCache.CacheIsCurrent( tri->shadowCache ) );'), (390, 1, u'+\t\tassert( vertexCache.CacheIsCurrent( tri->indexCache ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(298, 1, u'+\tassert( model->jointsInverted != NULL );'), (444, 1, u'+\t\tassert( !vEntity->scissorRect.IsEmpty() );'), (593, 1, u'+\t\t\t\t\tassert( tri->staticModelWithJoints == NULL );'), (595, 1, u'+\t\t\t\t\tassert( false );\t// this should no longer be hit'), (663, 1, u'+\t\t\t\tassert( model->NumSurfaces() == interaction->numSurfaces );'), (867, 1, u'+\t\t\t\t\tassert( !gpuSkinned );\t// the shadow cache should be static when using GPU skinning'), (943, 1, u'+\t\t\tassert( vertexCache.CacheIsCurrent( shadowDrawSurf->shadowCache ) );'), (944, 1, u'+\t\t\tassert( vertexCache.CacheIsCurrent( shadowDrawSurf->indexCache ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(348, 1, u'+\tassert( srcTri->staticModelWithJoints == NULL );'), (476, 1, u'+\tassert( srcTri->staticModelWithJoints == NULL );'), (504, 1, u'+\tassert( srcTri->staticModelWithJoints == NULL );'), (532, 1, u'+\tassert( srcTri->staticModelWithJoints == NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(244, 1, u'+\tassert( numDrawSurfs <= 0xFFFF );'), (247, 1, u'+\t\tassert( sort >= 0.0f );'), (285, 1, u'+\t\t\tassert( level < MAX_LEVELS - 1 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(444, 1, u'+\tassert( tr.viewDef != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 1, u'+\tassert_16_byte_aligned( cullBits );'), (44, 1, u'+\tassert_16_byte_aligned( verts );'), (175, 1, u'+\tassert_16_byte_aligned( cullBits );'), (176, 1, u'+\tassert_16_byte_aligned( verts );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(294, 1, u'+\tassert( tri->verts == NULL );'), (304, 1, u'+\tassert( tri->indexes == NULL );'), (314, 1, u'+\tassert( tri->silIndexes == NULL );'), (324, 1, u'+\tassert( tri->dominantTris == NULL );'), (334, 1, u'+\tassert( tri->mirroredVerts == NULL );'), (344, 1, u'+\tassert( tri->dupVerts == NULL );'), (354, 1, u'+\tassert( tri->silEdges == NULL );'), (364, 1, u'+\tassert( tri->preLightShadowVertexes == NULL );'), (541, 1, u'+\tassert( tri->silIndexes != NULL );'), (1117, 1, u'+\tassert( tri->silIndexes != NULL );'), (1514, 1, u'+\tassert( tri->silIndexes != NULL );'), (1958, 1, u"+\t\tassert( tri.verts == NULL );\t// pre-light shadow volume surfaces don't have ambient vertices")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(136, 1, u'+\tassert( ( dstLFE == -1 ) || ( ( dstMask & idWaveFile::CHANNEL_MASK_LOW_FREQUENCY ) != 0 ) );'), (137, 1, u'+\tassert( ( dstCenter == -1 ) || ( ( dstMask & idWaveFile::CHANNEL_MASK_FRONT_CENTER ) != 0 ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(317, 1, u'+\t\tassert( format.extra.xma2.blockCount == ALIGN( totalBufferSize, bytesPerBlock ) / bytesPerBlock );'), (318, 1, u'+\t\tassert( format.extra.xma2.blockCount * bytesPerBlock >= totalBufferSize );'), (319, 1, u'+\t\tassert( format.extra.xma2.blockCount * bytesPerBlock < totalBufferSize + bytesPerBlock );'), (382, 1, u'+\tassert( buffers[buffers.Num()-1].numSamples == playBegin + playLength );'), (409, 1, u'+\tassert( format.basic.blockSize == 2 );')]
+===========================================
+Class: class idStreamingVoiceContext : public IXAudio2VoiceCallback { class idStreamingVoiceContext : public IXAudio2VoiceCallback 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(205, 1, u'+\tassert( offsetMS >= 0 );'), (309, 1, u'+\tassert( idMath::Fabs( gain ) <= XAUDIO2_MAX_VOLUME_LEVEL );'), (453, 1, u'+\tassert( filter.Frequency >= 0.0f && filter.Frequency <= XAUDIO2_MAX_FILTER_FREQUENCY );'), (459, 1, u'+\tassert( freqRatio >= XAUDIO2_MIN_FREQ_RATIO && freqRatio <= XAUDIO2_MAX_FREQ_RATIO );'), (464, 1, u'+\t\tassert( freqRatio * (float)SYSTEM_SAMPLE_RATE <= XAUDIO2_MAX_RATIO_TIMES_RATE_XMA_MONO );'), (466, 1, u'+\t\tassert( freqRatio * (float)SYSTEM_SAMPLE_RATE <= XAUDIO2_MAX_RATIO_TIMES_RATE_XMA_MULTICHANNEL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(379, 1, u'+\tassert( channels.Num() == 0 );'), (392, 1, u'+\tassert( channels.Num() == 0 );'), (561, 1, u'+\tassert( soundWorld );'), (562, 1, u'+\tassert( soundWorld->emitters[this->index] == this );'), (575, 1, u'+\tassert( soundWorld );'), (576, 1, u'+\tassert( soundWorld->emitters[this->index] == this );'), (602, 1, u'+\tassert( soundWorld != NULL );'), (603, 1, u'+\tassert( soundWorld->emitters[this->index] == this );'), (636, 1, u'+\tassert( soundWorld != NULL );'), (637, 1, u'+\tassert( soundWorld->emitters[this->index] == this );'), (837, 1, u'+\tassert( soundWorld != NULL );'), (838, 1, u'+\tassert( soundWorld->emitters[this->index] == this );'), (868, 1, u'+\tassert( soundWorld != NULL );'), (869, 1, u'+\tassert( soundWorld->emitters[this->index] == this );'), (902, 1, u'+\tassert( soundWorld != NULL );'), (903, 1, u'+\tassert( soundWorld->emitters[this->index] == this );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(174, 1, u'+\tassert( bufferContexts.Num() == MAX_SOUND_BUFFERS );'), (175, 1, u'+\tassert( freeStreamBufferContexts.Num() == MAX_SOUND_BUFFERS );'), (176, 1, u'+\tassert( activeStreamBufferContexts.Num() == 0 );')]
+===========================================
+Class: class idActiveChannel { class idActiveChannel 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(145, 1, u'+\tassert( readp >= startp && readp <= endp );'), (149, 1, u'+\t\tassert( false );'), (155, 1, u'+\tassert( readp >= startp && readp <= endp );'), (165, 1, u'+\tassert( numBits <= 32 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(206, 1, u'+\t\tassert( pack.imageData != NULL );'), (253, 1, u'+\t\tassert( ( x + blockWidth )* 4 <= atlasWidth );'), (254, 1, u'+\t\tassert( ( y + blockHeight )* 4 <= atlasHeight );'), (283, 1, u'+\t\tassert( entry->material == NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(86, 1, u'+\tassert( scope.Num() == 0 );'), (110, 1, u'+\tassert( scope.Num() > 0 );'), (217, 1, u'+\tassert( scope.Num() == scopeSize + 1 );'), (467, 1, u'+\t\t\t\tassert( recordLength == 2 );'), (681, 1, u'+\t\t\t\tassert( thisSprite && thisSprite->sprite && thisSprite->sprite->GetSWF() );'), (1190, 1, u'+\t\t\t\tassert( false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(150, 1, u'+\tdefault:\t\t\t\tassert( false ); return false;'), (171, 1, u'+\t\tdefault:\t\t\t\tassert( false ); return false;'), (199, 1, u'+\t\tdefault:\t\t\t\tassert( false ); return false;'), (226, 1, u'+\t\tdefault:\t\t\t\tassert( false ); return "";'), (248, 1, u'+\t\tdefault:\t\t\t\tassert( false ); return 0.0f;'), (270, 1, u'+\t\tdefault:\t\t\t\tassert( false ); return false;'), (293, 1, u'+\t\tdefault:\t\t\t\tassert( false ); return 0;'), (401, 1, u'+\tdefault:\t\t\t\tassert( false ); return "";')]
+===========================================
+Class:class idSort_Ears : public idSort_Quick< earVert_t, idSort_Ears > { class idSort_Ears : public idSort_Quick< earVert_t, idSort_Ears > 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(73, 1, u'+\t\t\t\tassert( spld.edges[e].end.cp != 0xFFFF );'), (381, 1, u'+\t\t\t\t\tassert( fill.edges[e1].end.cp != 0xFFFF );'), (416, 1, u'+\t\t\t\t\tassert( edge1.v0 != edge2.v0 );'), (417, 1, u'+\t\t\t\t\tassert( edge1.v1 != edge2.v1 );'), (430, 1, u'+\t\t\t\t\t\tassert( beste != -1 );'), (507, 1, u'+\t\t\t\t\tassert( v1 != holePoint );'), (508, 1, u'+\t\t\t\t\tassert( v2 != holePoint );'), (632, 1, u'+\tassert( fillDraws.Num() == 1 );'), (681, 1, u'+\tassert( loop.vindex1.Num() == loop.vindex2.Num() );'), (791, 1, u'+\t\tassert( index1 == index2 );'), (839, 1, u"+\t\t\t\tassert( morph == false ); // focal gradients aren't allowed in morph shapes")]
+===========================================
+Class: class idSort_SpriteDepth : public idSort_Quick< swfDisplayEntry_t, idSort_SpriteDepth > { class idSort_SpriteDepth : public idSort_Quick< swfDisplayEntry_t, idSort_SpriteDepth > 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(529, 1, u'+\t\t\tassert( materialOverride->GetImageWidth() > 0 && materialOverride->GetImageHeight() > 0 );'), (530, 1, u'+\t\t\tassert( materialOverride->GetImageWidth() <= 8192 && materialOverride->GetImageHeight() <= 8192 );'), (1328, 1, u'+\tassert( value.ToInteger() > 0 );'), (1329, 1, u'+\tassert( value.ToInteger() <= 8192 );'), (1340, 1, u'+\tassert( value.ToInteger() > 0 );'), (1341, 1, u'+\tassert( value.ToInteger() <= 8192 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+\t\tassert( lzwData->nextCode > LZW_FIRST_CODE );'), (62, 1, u'+\t\tassert( originalNextCode == lzwData->nextCode );'), (156, 1, u'+\t\tassert( i < lzwCompressionData_t::LZW_DICT_SIZE && code < lzwCompressionData_t::LZW_DICT_SIZE && code >= 0 );'), (173, 1, u"+\tassert( blockIndex == blockSize );\t\t// Make sure we've read all we can"), (180, 1, u'+\t\tassert( lzwData->codeBits <= lzwCompressionData_t::LZW_DICT_BITS );'), (188, 1, u'+\t\t\tassert( code < 256 );'), (196, 1, u'+\t\t\tassert( code == lzwData->nextCode );'), (224, 1, u'+\t\t\tassert( !"idLZWCompressor::ReadByte overflowed!" );'), (268, 1, u'+\t\t\tassert( j < lzwCompressionData_t::LZW_DICT_SIZE );'), (283, 1, u'+\tassert( w < 0xFFFF - 1 );'), (284, 1, u'+\tassert( k < 256 );'), (285, 1, u'+\tassert( lzwData->nextCode < lzwCompressionData_t::LZW_DICT_SIZE );'), (322, 1, u'+\tassert( lzwData->tempBits < 8 );'), (323, 1, u'+\tassert( lzwData->bytesWritten < maxSize - ( lzwData->codeBits + lzwData->tempBits + 7 ) / 8 );'), (325, 1, u'+\tassert( ( Length() > 0 ) == ( lzwData->codeWord != -1 ) );'), (348, 1, u'+\tassert( !overflowed );'), (350, 1, u'+\tassert( lzwData->bytesWritten < maxSize - ( lzwData->codeBits + lzwData->tempBits + 7 ) / 8 );'), (398, 1, u'+\t\tassert( zeroCount <= 255 );'), (447, 1, u'+\t\t\tassert( 0 );'), (456, 1, u'+\tassert( zeroCount > 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(263, 1, u'+\t\t\tassert( 0 );'), (353, 1, u'+\t\tassert( currentSize > 0 );'), (354, 1, u'+\t\tassert( unsentMsg.GetRemainingData() - currentSize >= 0 );'), (360, 1, u'+\t\t\tassert( moreFragments );\t\t\t// If we have a first, we must have more or something went wrong'), (372, 1, u'+\t\tassert( moreFragments == unsentMsg.GetRemainingData() > 0 );'), (393, 1, u'+\tassert( msg.GetSize() <= MAX_FINAL_PACKET_SIZE );'), (402, 1, u'+\tassert( sessionID == expectedSessionID );'), (440, 1, u'+\tassert( msg.GetRemainingData() > 0 );'), (587, 1, u'+\tassert( reliable.Num() == clean.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+\t\tassert( size > 0 );'), (101, 1, u'+\t\tassert( data[size] < 255 );'), (114, 1, u'+\t\tassert( size > 0 );'), (288, 1, u'+\t\t\tassert( state.buffer.Size() > 0 );'), (418, 1, u'+\tassert( newState != NULL || oldState != NULL );'), (419, 1, u'+\tassert_16_byte_aligned( curHeader );'), (420, 1, u'+\tassert_16_byte_aligned( curObjDest );'), (441, 1, u'+\tassert( submitDeltaJobsInfo.visIndex < 256 );'), (450, 1, u'+\t\tassert( newState->buffer.Size() <= 65535 );'), (460, 1, u'+\t\tassert( oldState->buffer.Size() <= 65535 );'), (469, 1, u'+\tassert_16_byte_aligned( curObjParm );'), (470, 1, u'+\tassert_16_byte_aligned( curObjParm->newState.data );'), (471, 1, u'+\tassert_16_byte_aligned( curObjParm->oldState.data );'), (669, 1, u'+\t\t\tassert( state.buffer.Size() > 0 );'), (710, 1, u'+\t\t\tassert( checksum == MD5_BlockChecksum( state.buffer.Ptr(), state.buffer.Size() ) );'), (725, 1, u'+\tassert( newState != NULL || oldState != NULL );'), (735, 1, u'+\t\tassert( newState->objectNum == oldState->objectNum );'), (776, 1, u'+\tassert( objectNum == 0 || objectNum > lastobjectNum );'), (785, 1, u'+\t\tassert( oldState != NULL );'), (789, 1, u'+\t\tassert( newState != NULL );'), (795, 1, u'+\t\tassert( newState != NULL && oldState != NULL );'), (796, 1, u'+\t\tassert( newState->objectNum == oldState->objectNum );'), (824, 1, u'+\t\tassert( newState->buffer.Size() > 0 );'), (996, 1, u'+\tassert( FindObjectIndexByID( objectNum ) >= 0 );'), (1183, 1, u'+\tassert( objectStates[index] != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(46, 1, u'+\tassert_16_byte_aligned( jobMemory );'), (47, 1, u'+\tassert_16_byte_aligned( jobMemory->objParms.Ptr() );'), (48, 1, u'+\tassert_16_byte_aligned( jobMemory->headers.Ptr() );'), (49, 1, u'+\tassert_16_byte_aligned( jobMemory->lzwParms.Ptr() );'), (136, 1, u'+\tassert_16_byte_aligned( objMemory );'), (137, 1, u'+\tassert_16_byte_aligned( lzwData );'), (139, 1, u'+\tassert( hasPendingSnap );'), (140, 1, u'+\tassert( jobMemory->lzwInOutData.numlzwDeltas == 0 );'), (142, 1, u'+\tassert( net_optimalSnapDeltaSize.GetInteger() < jobMemory_t::MAX_LZW_MEM - 128 );\t\t// Leave padding'), (197, 1, u'+\tassert( PendingSnapReadyToSend() );'), (204, 1, u'+\tassert( hasPendingSnap );'), (229, 1, u'+\tassert( deltaSequence == jobMemory->lzwDeltas[0].snapSequence );'), (239, 1, u'+\tassert( jobMemory->lzwDeltas[0].snapSequence == snapSequence + 1 );'), (319, 1, u'+\tassert( baseSequence == deltaBaseSequence );'), (416, 1, u'+\tassert( deltaSequence == snapshotNumber );\t\t// Make sure compressed sequence number matches that in data queue'), (417, 1, u"+\tassert( baseSequence == deltaBaseSequence );\t// If this delta isn't based off of our currently ack'd basestate, something is trashed..."), (418, 1, u'+\tassert( deltaSequence > baseSequence );'), (499, 1, u'+\t\tassert( deltaSequence == deltas.ItemSequence( i ) );\t// Make sure delta stored in compressed form matches the one stored in the data queue'), (500, 1, u'+\t\tassert( deltaSequence > lastDeltaSequence );\t\t\t// Make sure they are in order (we reject out of order sequences in ApplysnapshotDelta)'), (501, 1, u"+\t\tassert( deltaBaseSequence >= lastDeltaBaseSequence );\t// Make sure they are in order (they can be the same, since base sequences don't change until they've been ack'd)"), (502, 1, u"+\t\tassert( deltaBaseSequence >= baseSequence );\t\t\t// We should have removed old delta's that can no longer be applied"), (503, 1, u'+\t\tassert( deltaBaseSequence == baseSequence || deltaBaseSequence == lastDeltaSequence );\t// Make sure we still have a base (or eventually will have) that we can apply this delta to')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 1, u'+\tassert( newState.valid && oldState.valid );'), (45, 1, u'+\tassert( newState.objectNum == oldState.objectNum );'), (80, 1, u'+\tassert( newState.valid || oldState.valid );'), (89, 1, u'+\tassert( header->size <= MAX_UNSIGNED_TYPE( objectSize_t ) );'), (106, 1, u'+\t\tassert( newState.objectNum == oldState.objectNum );'), (146, 1, u'+\t\tassert( oldState.valid );'), (150, 1, u'+\t\tassert( newState.valid );'), (162, 1, u'+\t\tassert( newState.objectNum == oldState.objectNum );'), (201, 1, u'+\tassert( header->csize <= OBJ_DEST_SIZE_ALIGN16( header->size ) );'), (205, 1, u'+\t\tassert( newState.size );'), (282, 1, u'+\tassert( parm->numObjects > 0 );'), (288, 1, u'+\t\tassert( parm->ioData->numlzwDeltas == 1 );'), (289, 1, u'+\t\tassert( !parm->ioData->fullSnap );'), (294, 1, u'+\tassert( parm->ioData->lzwBytes < parm->ioData->maxlzwMem );'), (315, 1, u'+\t\tassert( !lzwCompressor.IsOverflowed() || numChangedObjProcessed > 1 );'), (327, 1, u'+\t\t\tassert( !parm->ioData->fullSnap );'), (328, 1, u'+\t\t\tassert( parm->ioData->numlzwDeltas == 1 );'), (342, 1, u'+\t\t\tassert( header->flags & OBJ_SAME );'), (392, 1, u'+\t\tassert( !lzwCompressor.IsOverflowed() || numChangedObjProcessed > 1 );'), (410, 1, u"+\t\tassert( parm->ioData->lzwBytes == 0 ); // I don't think we ever hit this with lzwBytes != 0, but adding it just in case"), (414, 1, u'+\tassert( parm->ioData->lzwBytes < parm->ioData->maxlzwMem );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(99, 1, u'+\tassert( userList.Max() == freeUsers.Max() );'), (100, 1, u'+\tassert( userList.Max() == userPool.Max() );'), (104, 1, u'+\tassert( freeUsers.Num() == 0 );'), (105, 1, u'+\tassert( freeUsers.Num() == 0 );'), (122, 1, u'+\tassert( callbacks != NULL );'), (151, 1, u'+\tassert( GetNumLobbyUsers() == 0 );'), (152, 1, u'+\tassert( lobbyBackend == NULL );'), (168, 1, u'+\tassert( GetNumLobbyUsers() == 0 );'), (169, 1, u'+\tassert( lobbyBackend == NULL );'), (245, 1, u'+\t\tassert( GetNumLobbyUsers() == 0 );'), (246, 1, u'+\t\tassert( host == -1 );'), (247, 1, u'+\t\tassert( peerIndexOnHost == -1 );'), (248, 1, u'+\t\tassert( !isHost );'), (249, 1, u'+\t\tassert( lobbyType != GetActingGameStateLobbyType() || !loaded );'), (250, 1, u'+\t\tassert( lobbyType != GetActingGameStateLobbyType() || !respondToArbitrate );'), (251, 1, u'+\t\tassert( snapDeltaAckQueue.Num() == 0 );'), (255, 1, u'+\t\t\tassert( peers[p].GetConnectionState() == CONNECTION_FREE );'), (641, 1, u'+\tASSERT_ENUM_STRING( STATE_IDLE, 0 ),'), (642, 1, u'+\tASSERT_ENUM_STRING( STATE_CREATE_LOBBY_BACKEND, 1 ),'), (643, 1, u'+\tASSERT_ENUM_STRING( STATE_SEARCHING, 2 ),'), (644, 1, u'+\tASSERT_ENUM_STRING( STATE_OBTAINING_ADDRESS, 3 ),'), (645, 1, u'+\tASSERT_ENUM_STRING( STATE_CONNECT_HELLO_WAIT, 4 ),'), (646, 1, u'+\tASSERT_ENUM_STRING( STATE_FINALIZE_CONNECT, 5 ),'), (647, 1, u'+\tASSERT_ENUM_STRING( STATE_FAILED, 6 ),'), (686, 1, u'+\tassert( lobbyBackend != NULL );'), (844, 1, u'+\t\tassert( connectionAttempts >= 1 );\t\t// Should have at least the initial connection attempt'), (864, 1, u'+\tassert( newState < NUM_STATES );'), (865, 1, u'+\tassert( state < NUM_STATES );'), (890, 1, u'+\tassert( lobbyBackend == NULL );'), (891, 1, u'+\tassert( state == STATE_IDLE );'), (1001, 1, u"+\tassert( p == -1 );\t\t// When using session ID's, we SHOULDN'T find this remoteAddress/sessionID combo"), (1017, 1, u'+\t\tassert( peer.connectionState == CONNECTION_FREE );'), (1112, 1, u"+\t\tassert( 0 );\t// This case means something is most likely bad, and it's the programmers fault"), (1113, 1, u'+\t\tassert( ( peer.packetProc != NULL ) == peer.IsActive() );'), (1114, 1, u'+\t\tassert( ( ( peer.snapProc != NULL ) == peer.IsActive() ) == ( actingGameStateLobbyType == lobbyType ) );'), (1122, 1, u'+\t\tassert( peer.GetConnectionState() == CONNECTION_FREE );'), (1124, 1, u'+\t\tassert( peer.packetProc == NULL );'), (1128, 1, u'+\t\t\tassert( peer.snapProc == NULL );'), (1135, 1, u'+\t\tassert( peer.GetConnectionState() == CONNECTION_CONNECTING );'), (1153, 1, u'+\t\t\tassert( lobbyType == actingGameStateLobbyType );'), (1351, 1, u'+\tassert( state == STATE_CONNECT_HELLO_WAIT );'), (1352, 1, u'+\tassert( peers[host].GetConnectionState() == CONNECTION_CONNECTING );'), (1353, 1, u'+\tassert( GetNumLobbyUsers() == 0 );'), (1676, 1, u'+\t\tassert( existingPeer.GetConnectionState() != CONNECTION_FREE );'), (1698, 1, u'+\t\t\tassert( lobbyType == TYPE_GAME );\t\t// Only games sessions should be creating snap processors'), (1736, 1, u'+\tassert( newPeer.GetConnectionState() == CONNECTION_CONNECTING );'), (1737, 1, u'+\tassert( lobbyType != GetActingGameStateLobbyType() || newPeer.snapProc != NULL );'), (1824, 1, u'+\tassert( lobbyBackend != NULL );'), (1921, 1, u'+\tassert( peerIndex >= 0 );'), (1922, 1, u'+\tassert( peerIndex < peers.Num() );'), (1999, 1, u'+\tassert( lobbyType == TYPE_PARTY );'), (2000, 1, u'+\tassert( IsHost() );'), (2022, 1, u'+\tassert( sizeof( uint32 ) >= sizeof( idPacketProcessor::sessionId_t ) );'), (2036, 1, u'+\tassert( sizeof( uint32 ) >= sizeof( idPacketProcessor::sessionId_t ) );'), (2159, 1, u'+\tassert( GetNumLobbyUsers() == 0 );'), (2608, 1, u'+\t\tassert( destLobbyType > lobbyType );\t\t// Make sure this is a proper transition (i.e. TYPE_PARTY moves to TYPE_GAME, TYPE_GAME moves to TYPE_GAME_STATE)'), (3647, 1, u'+\tassert( IsPeer() );'), (3909, 1, u'+\tassert( type < 256 ); // QueueReliable only accepts a byte for message type'), (3913, 1, u'+\tassert( msg.GetReadCount() + msg.GetReadBit() == 0 );'), (3963, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (3964, 1, u'+\tassert( type < 256 );\t\t\t// QueueReliable only accepts a byte for message type'), (3965, 1, u'+\tassert( IsHost() );\t\t\t\t// This function should only be called in the server atm'), (3969, 1, u'+\t\tassert( msg.GetReadBit() == 0 );'), (3983, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (3989, 1, u'+\t\tassert( msg.GetReadBit() == 0 );'), (4014, 1, u'+\tassert( lobby != NULL );'), (4079, 1, u"+\tassert( lobbyType == GetActingGameStateLobbyType() );\t\t// This function doesn't make sense on a party lobby currently")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(66, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (114, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (154, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (166, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (198, 1, u'+\tassert( !peer.snapProc->PendingSnapReadyToSend() );'), (215, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (230, 1, u'+\tassert( peer.snapProc->HasPendingSnap() );'), (320, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (420, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (455, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (493, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (559, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (581, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (599, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (637, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (668, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (692, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (724, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (746, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (769, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (792, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (818, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 1, u'+\tassert( userList.Num() == userPool.Max() - freeUsers.Num() );'), (110, 1, u'+\tassert( userList.Num() == 0 );'), (111, 1, u'+\tassert( freeUsers.Num() == userPool.Max() );'), (206, 1, u'+\tassert( lobbyUserId.GetLobbyType() == lobbyType || ignoreLobbyType );'), (281, 1, u'+\tassert( lobbyBackend != NULL );'), (366, 1, u'+\t\tassert( IsSessionUserIndexLocal( sessionUserIndex ) );'), (401, 1, u'+\t\t\tassert( false );'), (432, 1, u'+\tassert( lobbyBackend != NULL || usersToRemoveByID.Num() == 0 );'), (555, 1, u'+\tassert( GetNumLobbyUsers() - userStart == numUsers );'), (640, 1, u'+\t\tassert( false );'), (684, 1, u'+\tassert( lobbyBackend != NULL );'), (705, 1, u'+\t\t\tassert( fromPeer == host );'), (734, 1, u'+\t\tassert( appendedUser->peerIndex == newUser.peerIndex );\t\t// paranoia'), (735, 1, u'+\t\tassert( appendedUser->lobbyUserID == newUser.lobbyUserID );\t// paranoia'), (790, 1, u'+\t\t\tassert( userCount == 1 );'), (950, 1, u'+\tassert( IsRunningAsHostOrPeer() );'), (1159, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (1198, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );'), (1256, 1, u'+\tassert( lobbyType == GetActingGameStateLobbyType() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(130, 1, u'+\tassert( user != NULL );')]
+===========================================
+Class:	class idSWFScriptFunction_Continue : public idSWFScriptFunction_RefCounted { 	class idSWFScriptFunction_Continue : public idSWFScriptFunction_RefCounted 
+Class:		class idSWFScriptFunction_TryAgain : public idSWFScriptFunction_RefCounted { 		class idSWFScriptFunction_TryAgain : public idSWFScriptFunction_RefCounted 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(641, 1, u'+\tassert( !discSwapStateMgr->IsWorking() );'), (692, 1, u'+\tassert( *detailsFile != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(676, 1, u'+\tassert( level >= 1 && level <= 3 );')]
+===========================================
+Class:			class idSort_VidMode : public idSort_Quick< vidMode_t, idSort_VidMode > { 			class idSort_VidMode : public idSort_Quick< vidMode_t, idSort_VidMode > 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(856, 1, u'+\tassert( inputDeviceNum < 4 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+\tassert( savegameParms != NULL );'), (166, 1, u'+\t\t\tassert( inputFile != NULL );'), (276, 1, u'+\t\t\tassert( outputFile != NULL );'), (496, 1, u'+\t\t\t\tassert( fileSystem->IsFolder( details.slotName, "fs_savePath" ) == FOLDER_YES );')]
+===========================================
+Class:  class idSessionLocalWin : public idSessionLocal { class idSessionLocalWin : public idSessionLocal 
+Class: class idLobbyToSessionCBLocal : public idLobbyToSessionCB { class idLobbyToSessionCBLocal : public idLobbyToSessionCB 
+Class: class idVoiceChatMgrWin : public idVoiceChatMgr { class idVoiceChatMgrWin : public idVoiceChatMgr 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 1, u'+\t\tassert( ticksPerMicrosecondTimes1024 > 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(220, 1, u'+\t\t\tassert(acv && dcv);'), (416, 1, u'+\t\tassert(gs);'), (443, 1, u'+\t\tassert(str);'), (513, 1, u'+\t\tassert(str);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(232, 1, u'+\t\tassert( type >= 0 && type < idRegister::NUMTYPES );'), (255, 1, u'+\t\tassert(type >= 0 && type < idRegister::NUMTYPES);')]
+===========================================
+Class: class idSort_TimeLine : public idSort_Quick< idTimeLineEvent *, idSort_TimeLine > { class idSort_TimeLine : public idSort_Quick< idTimeLineEvent *, idSort_TimeLine > 
+3
+Mismatch count:116
+Normal count:136

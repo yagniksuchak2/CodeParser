@@ -1,0 +1,36 @@
+commit a4b7e0480178cda79f6dbd467367259159c08c0d
+Author: Chris Banes <chris@senab.co.uk>
+Date:   2013-06-01
+
+    Don't handle touch event if the ImageView doesn't have a Drawable set.
+    //try 1a1d
+	//catch 1a0d
+	
+	//try 0a0d
+	//catch 1a1d
+	
+	//try 0a1d
+	//catch 2a0d
+    Fix #51 and #57.
+
+diff --git a/library/src/uk/co/senab/photoview/PhotoViewAttacher.java b/library/src/uk/co/senab/photoview/PhotoViewAttacher.java
+index 7c22355..bf279a9 100644
+--- a/library/src/uk/co/senab/photoview/PhotoViewAttacher.java
++++ b/library/src/uk/co/senab/photoview/PhotoViewAttacher.java
+@@ -34,935 +34,931 @@ import roboguice.util.RoboAsyncTask;
+  @Override
+     public Bundle getAuthToken(AccountAuthenticatorResponse response,
+             Account account, String authTokenType, Bundle options)
+             throws NetworkErrorException {
+
+        try {
+           
+-        } catch (Exception e) {
++        } catch (IOException e) {
+           
++            throw new NetworkErrorException(e);
+         }
+-        return bundle;
+     }
+	 
+	 

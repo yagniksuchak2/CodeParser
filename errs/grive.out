@@ -1,0 +1,5007 @@
+projects/top_C++/grive
+Going to process projects/top_C++/grive/all_log.txt 
+---------- grive ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( m_ctx.top().key.Is<void>() ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: ValBuilder::End
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( m_ctx.top().key.Is<void>() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( m_ctx.top().key.Is<void>() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 1, u'+\tassert( out != 0 ) ;'), (105, 1, u'+\tassert( pthis != 0 ) ;'), (106, 1, u'+\tassert( pthis->m_impl->out != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 2, u'-\tassert( out != 0 ) ;'), (105, 2, u'-\tassert( pthis != 0 ) ;'), (106, 2, u'-\tassert( pthis->m_impl->out != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 1, u'+\tassert( out != 0 ) ;'), (105, 1, u'+\tassert( pthis != 0 ) ;'), (106, 1, u'+\tassert( pthis->m_impl->out != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(126, 2, u'-\tassert( m_ctx.size() == 1U ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(126, 1, u'+\tassert( m_ctx.size() == 1U ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(126, 1, u'+\tassert( m_ctx.size() == 1U ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( child != 0 ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 3
+Header: Drive::Refresh
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( child != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( child != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root == 0 ) ;')]
+===========================================
+===========================================
+Total add: 5
+Total del: 1
+Header: Drive::Refresh
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root == 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( Find(r->ID()) == r ) ;')]
+===========================================
+===========================================
+Total add: 5
+Total del: 10
+Header: Drive::Add
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( Find(r->ID()) == r ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( Find(r->ID()) == r ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( file != 0 ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: CurlAgent::Put
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( file != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( file != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert( ::json_object_get_string( m_json ) == str ) ;')]
+===========================================
+===========================================
+Total add: 12
+Total del: 6
+Header: template <>
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert( ::json_object_get_string( m_json ) == str ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert( ::json_object_get_string( m_json ) == str ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( j != 0 ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 4
+Header: Json::operator[]
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( j != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert( j != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert( j != 0 ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: Json::Get
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert( j != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert( j != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( out != 0 ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: operator<<
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( out != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( out != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert( in != 0 ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 3
+Header: Json::Parse
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert( in != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert( in != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+\tassert( fd >= 0 ) ;'), (119, 1, u'+\tassert( m_fd == -1 ) ;'), (169, 1, u'+\tassert( IsOpened() ) ;'), (184, 1, u'+\tassert( IsOpened() ) ;'), (199, 1, u'+\tassert( IsOpened() ) ;'), (205, 1, u'+\tassert( IsOpened() ) ;'), (211, 1, u'+\tassert( IsOpened() ) ;'), (215, 1, u'+\tassert( s.st_size >= 0 ) ;'), (221, 1, u'+\tassert( IsOpened() ) ;'), (237, 1, u'+\tassert( IsOpened() ) ;'), (240, 1, u'+\tassert( false ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 2, u'-\tassert( fd >= 0 ) ;'), (100, 2, u'-\tassert( m_fd == -1 ) ;'), (139, 2, u'-\tassert( IsOpened() ) ;'), (154, 2, u'-\tassert( IsOpened() ) ;'), (169, 2, u'-\tassert( IsOpened() ) ;'), (175, 2, u'-\tassert( IsOpened() ) ;'), (181, 2, u'-\tassert( IsOpened() ) ;'), (185, 2, u'-\tassert( s.st_size >= 0 ) ;'), (191, 2, u'-\tassert( IsOpened() ) ;'), (205, 2, u'-\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string()) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string()) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: ConfigTest::TestInitialiseWithEmptyString
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string()) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string()) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string()) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string()) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string()) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string()) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: ConfigTest::TestInitialiseWithString
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string()) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string()) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string()) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string()) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string());'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string());')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: ConfigTest::TestInitialiseWithFileSystemPath
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string());'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  GRUT_ASSERT_EQUAL( "/home/.grive", config.ConfigFile().string());'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( "/home/.grive", config.Filename().string());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( "." ) ) ;'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( rootFolder ) ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 2
+Header: ResourceTest::TestRootPath
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( "." ) ) ;'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( rootFolder ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( "." ) ) ;'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( rootFolder ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( subject.StateStr(), "local_changed" ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( "local_changed", subject.StateStr() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: ResourceTest::TestNormal
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( subject.StateStr(), "local_changed" ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( "local_changed", subject.StateStr() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( subject.StateStr(), "local_changed" ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( "local_changed", subject.StateStr() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 4
+Header: namespace
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( http != 0 ) ;'), (6, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: Drive::SaveState
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( http != 0 ) ;'), (6, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( http != 0 ) ;'), (6, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert( http != 0 ) ;'), (10, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: Drive::DryRun
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert( http != 0 ) ;'), (10, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert( http != 0 ) ;'), (10, 1, u'+\tassert( m_http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+\tassert( m_agent.get() != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\tassert( file.Size() == data.size() ) ;')]
+===========================================
+===========================================
+Total add: 0
+Total del: 10
+Header: Resource::Upload
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\tassert( file.Size() == data.size() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\tassert( file.Size() == data.size() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( file.Size() == data.size() ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: Resource::Upload
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( file.Size() == data.size() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( file.Size() == data.size() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert( fd >= 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( m_next != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: ResponseLog::ResponseLog
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( m_next != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( m_next != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( m_next != 0 ) ;'), (15, 1, u'+\tassert( m_next != 0 ) ;')]
+===========================================
+===========================================
+Total add: 11
+Total del: 2
+Header: ResponseLog::ResponseLog
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( m_next != 0 ) ;'), (15, 1, u'+\tassert( m_next != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( m_next != 0 ) ;'), (15, 1, u'+\tassert( m_next != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( m_log.rdbuf() != 0 ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 1
+Header: ResponseLog::OnData
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( m_log.rdbuf() != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( m_log.rdbuf() != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_mtime != DateTime() ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: Resource::Download
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_mtime != DateTime() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_mtime != DateTime() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !IsRoot() || m_state == sync ) ;\t// root is already sync'), (3, 2, u'-\tassert( IsRoot() || fs::is_directory( m_parent->Path() ) ) ;'), (4, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root is always sync'), (5, 1, u'+\tassert( IsRoot() || http == 0 || fs::is_directory( m_parent->Path() ) ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: Resource::SyncSelf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !IsRoot() || m_state == sync ) ;\t// root is already sync'), (3, 2, u'-\tassert( IsRoot() || fs::is_directory( m_parent->Path() ) ) ;'), (4, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root is always sync'), (5, 1, u'+\tassert( IsRoot() || http == 0 || fs::is_directory( m_parent->Path() ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !IsRoot() || m_state == sync ) ;\t// root is already sync'), (3, 2, u'-\tassert( IsRoot() || fs::is_directory( m_parent->Path() ) ) ;'), (4, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root is always sync'), (5, 1, u'+\tassert( IsRoot() || http == 0 || fs::is_directory( m_parent->Path() ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Resource::DeleteRemote
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root is already sync'), (3, 1, u'+\tassert( IsRoot() || fs::is_directory( m_parent->Path() ) ) ;'), (4, 1, u'+\tassert( IsRoot() || m_parent->m_state != remote_deleted ) ;'), (5, 1, u'+\tassert( IsRoot() || m_parent->m_state != local_deleted ) ;')]
+===========================================
+===========================================
+Total add: 7
+Total del: 0
+Header: Resource::SyncSelf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root is already sync'), (3, 1, u'+\tassert( IsRoot() || fs::is_directory( m_parent->Path() ) ) ;'), (4, 1, u'+\tassert( IsRoot() || m_parent->m_state != remote_deleted ) ;'), (5, 1, u'+\tassert( IsRoot() || m_parent->m_state != local_deleted ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root is already sync'), (3, 1, u'+\tassert( IsRoot() || fs::is_directory( m_parent->Path() ) ) ;'), (4, 1, u'+\tassert( IsRoot() || m_parent->m_state != remote_deleted ) ;'), (5, 1, u'+\tassert( IsRoot() || m_parent->m_state != local_deleted ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\t\tassert( !IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 12
+Total del: 2
+Header: Resource::SyncSelf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\t\tassert( !IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\t\tassert( !IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_parent->m_state == sync ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: Resource::EditContent
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_parent->m_state == sync ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_parent->m_state == sync ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_parent->m_state == sync ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: Resource::Create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_parent->m_state == sync ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_parent->m_state == sync ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert( m_state == sync ) ;'), (9, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root folder is already synced')]
+===========================================
+===========================================
+Total add: 9
+Total del: 7
+Header: Resource::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert( m_state == sync ) ;'), (9, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root folder is already synced')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert( m_state == sync ) ;'), (9, 1, u'+\tassert( !IsRoot() || m_state == sync ) ;\t// root folder is already synced')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert( false ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 0
+Header: Resource::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert( false ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert( false ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: Drive::SyncFolders
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: Resource::Download
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Resource::EditContent
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Resource::Create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: Resource::Upload
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-\tassert( ptr != 0 ) ;'), (49, 2, u'-\tassert( data != 0 ) ;'), (124, 2, u'-\tassert( recv != 0 ) ;'), (134, 2, u'-\tassert( curl != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(49, 1, u'+\tassert( ptr != 0 ) ;'), (50, 1, u'+\tassert( data != 0 ) ;'), (119, 1, u'+\tassert( recv != 0 ) ;'), (129, 1, u'+\tassert( curl != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tCPPUNIT_ASSERT( root.IsRoot() ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( "." ) ) ;')]
+===========================================
+===========================================
+Total add: 22
+Total del: 3
+Header: ResourceTest::ResourceTest
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tCPPUNIT_ASSERT( root.IsRoot() ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( "." ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tCPPUNIT_ASSERT( root.IsRoot() ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( root.Path(), fs::path( "." ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_state == local_new || m_state == local_changed || m_state == remote_deleted ) ;'), (3, 1, u'+\t\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: Resource::FromRemoteFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_state == local_new || m_state == local_changed || m_state == remote_deleted ) ;'), (3, 1, u'+\t\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_state == local_new || m_state == local_changed || m_state == remote_deleted ) ;'), (3, 1, u'+\t\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( e.IsChange() ) ;'), (5, 1, u'+\tassert( !IsIgnore( e.Name() ) ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: State::FromChange
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( e.IsChange() ) ;'), (5, 1, u'+\tassert( !IsIgnore( e.Name() ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( e.IsChange() ) ;'), (5, 1, u'+\tassert( !IsIgnore( e.Name() ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !e.IsChange() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: State::Update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !e.IsChange() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !e.IsChange() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert( m_entry.MTime() != DateTime() ) ;'), (8, 1, u'+\t\tassert( m_mtime != DateTime() ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: Resource::Download
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert( m_entry.MTime() != DateTime() ) ;'), (8, 1, u'+\t\tassert( m_mtime != DateTime() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert( m_entry.MTime() != DateTime() ) ;'), (8, 1, u'+\t\tassert( m_mtime != DateTime() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tGRUT_ASSERT_EQUAL( subject.Path(), fs::path( "./abc.txt" ) ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 3
+Header: ResourceTest::TestNormal
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tGRUT_ASSERT_EQUAL( subject.Path(), fs::path( "./abc.txt" ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tGRUT_ASSERT_EQUAL( subject.Path(), fs::path( "./abc.txt" ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tCPPUNIT_ASSERT( r != 0 ) ;'), (5, 2, u'-\tGRUT_ASSERT_EQUAL( r->Name(), "abc.txt" ) ;')]
+===========================================
+===========================================
+Total add: 0
+Total del: 9
+Header: StateTest::TestSync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tCPPUNIT_ASSERT( r != 0 ) ;'), (5, 2, u'-\tGRUT_ASSERT_EQUAL( r->Name(), "abc.txt" ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tCPPUNIT_ASSERT( r != 0 ) ;'), (5, 2, u'-\tGRUT_ASSERT_EQUAL( r->Name(), "abc.txt" ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(54, 1, u'+\tassert( http != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-\tassert( s >= log::debug && s <= log::critical ) ;'), (71, 2, u'-\tassert( s >= log::debug && s <= log::critical ) ;')]
+===========================================
+Class:class MockLog : public LogBase class MockLog : public LogBase
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(36, 1, u'+\tassert( s >= debug && s < serverity_count ) ;'), (46, 1, u'+\tassert( s >= debug && s < serverity_count ) ;')]
+===========================================
+Class:class MockLog : public LogBase class MockLog : public LogBase
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_entry.MTime() != DateTime() ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: Resource::Download
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_entry.MTime() != DateTime() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_entry.MTime() != DateTime() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Total add: 24
+Total del: 0
+Header: Resource::FromRemote
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: Resource::FromRemote
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\t\tassert( config.Get()["refresh_token"].Str() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: main
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\t\tassert( config.Get()["refresh_token"].Str() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\t\tassert( config.Get()["refresh_token"].Str() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Resource::FromRemote
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 0
+Header: Resource::FromLocal
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: Resource::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_state != unknown ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_state == sync ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: Resource::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_state == sync ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_state == sync ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Total add: 14
+Total del: 0
+Header: Json::Has
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_state == local_new || m_state == local_changed || m_state == local_deleted ) ;'), (3, 1, u'+\t\tassert( m_state == local_new || m_state == local_changed || m_state == remote_deleted ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: Resource::FromRemote
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_state == local_new || m_state == local_changed || m_state == local_deleted ) ;'), (3, 1, u'+\t\tassert( m_state == local_new || m_state == local_changed || m_state == remote_deleted ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( m_state == local_new || m_state == local_changed || m_state == local_deleted ) ;'), (3, 1, u'+\t\tassert( m_state == local_new || m_state == local_changed || m_state == remote_deleted ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( fs::exists( path ) ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: Resource::FromRemote
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( fs::exists( path ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( fs::exists( path ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Resource::Create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 5
+Header: Resource::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: Resource::EditContent
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !m_parent->m_entry.CreateLink().empty() ) ;')]
+===========================================
+===========================================
+Total add: 30
+Total del: 2
+Header: Resource::Create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !m_parent->m_entry.CreateLink().empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !m_parent->m_entry.CreateLink().empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !m_parent->m_entry.CreateLink().empty() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: Resource::Create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !m_parent->m_entry.CreateLink().empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !m_parent->m_entry.CreateLink().empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root == 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: ResourceTree::Read
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root == 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file == 0 ) ;'), (6, 1, u'+\tassert( m_fd == -1 ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 4
+Header: StdioFile::Open
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file == 0 ) ;'), (6, 1, u'+\tassert( m_fd == -1 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file == 0 ) ;'), (6, 1, u'+\tassert( m_fd == -1 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Total add: 11
+Total del: 2
+Header: StdioFile::Read
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;'), (20, 2, u'-\tassert( m_file != 0 ) ;'), (22, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Total add: 14
+Total del: 5
+Header: StdioFile::Write
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;'), (20, 2, u'-\tassert( m_file != 0 ) ;'), (22, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;'), (20, 2, u'-\tassert( m_file != 0 ) ;'), (22, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: StdioFile::Tell
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (4, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (13, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 12
+Header: StdioFile::Chmod
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (13, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_file != 0 ) ;'), (13, 1, u'+\tassert( IsOpened() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Resource::Parent
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Resource::Parent
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert( false ) ;')]
+===========================================
+===========================================
+Total add: 17
+Total del: 3
+Header: ResourceTree::FindByPath
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert( false ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert( false ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tCPPUNIT_ASSERT( r != 0 ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( r->Name(), "abc.txt" ) ;')]
+===========================================
+===========================================
+Total add: 10
+Total del: 3
+Header: StateTest::TestSync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tCPPUNIT_ASSERT( r != 0 ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( r->Name(), "abc.txt" ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tCPPUNIT_ASSERT( r != 0 ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( r->Name(), "abc.txt" ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(69, 2, u'-\tassert( m_impl->db != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 2, u'-\t\tGRUT_ASSERT_EQUAL( db.Get("key"), "value" ) ;'), (46, 2, u'-\tGRUT_ASSERT_EQUAL( db.Get("key"), "value" ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( s >= 0 && s < Count(state) ) ;')]
+===========================================
+===========================================
+Total add: 10
+Total del: 0
+Header: Resource::size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( s >= 0 && s < Count(state) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( s >= 0 && s < Count(state) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_state == local_new || m_state == local_changed || m_state == local_deleted ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: Resource::FromRemote
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_state == local_new || m_state == local_changed || m_state == local_deleted ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( m_state == local_new || m_state == local_changed || m_state == local_deleted ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( child->m_parent == 0 ) ;'), (3, 1, u'+\tassert( child->m_parent == 0 || child->m_parent == this ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: Resource::AddChild
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( child->m_parent == 0 ) ;'), (3, 1, u'+\tassert( child->m_parent == 0 || child->m_parent == this ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( child->m_parent == 0 ) ;'), (3, 1, u'+\tassert( child->m_parent == 0 || child->m_parent == this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\t\t\tassert( child == m_folders.FindByHref( e.SelfHref() ) ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 3
+Header: State::Update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\t\t\tassert( child == m_folders.FindByHref( e.SelfHref() ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\t\t\tassert( child == m_folders.FindByHref( e.SelfHref() ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( coll != 0 ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: ResourceTree::Update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( coll != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( coll != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tassert( child == m_folders.FindByHref( e.SelfHref() ) ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: State::Update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tassert( child == m_folders.FindByHref( e.SelfHref() ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\t\tassert( child == m_folders.FindByHref( e.SelfHref() ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( !e.ParentHref().empty() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 11
+Header: State::Update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( !e.ParentHref().empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( !e.ParentHref().empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 2, u'-\tassert( m_root != 0 ) ;'), (63, 2, u'-\tassert( m_root != 0 ) ;'), (69, 2, u'-\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: Resource::Path
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Resource::IsInRootTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_parent == 0 || m_parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+\tassert( m_root != 0 ) ;'), (63, 1, u'+\tassert( m_root != 0 ) ;'), (69, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( folder->IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: State::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( folder->IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( folder->IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert( parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 0
+Header: State::Update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert( parent->IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert( parent->IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( parent != 0 ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: Drive::ConstructDirTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( parent != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( parent != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-\tassert( m_parent != 0 ) ;'), (151, 2, u'-\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !m_impl->unresolved.empty() ) ;'), (3, 1, u'+\tassert( !m_unresolved.empty() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: State::TryResolveEntry
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !m_impl->unresolved.empty() ) ;'), (3, 1, u'+\tassert( !m_unresolved.empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( !m_impl->unresolved.empty() ) ;'), (3, 1, u'+\tassert( !m_unresolved.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_coll.empty() ) ;')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: Drive::ConstructDirTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_coll.empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_coll.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\tassert( Root()->Parent() == 0 ) ;')]
+===========================================
+===========================================
+Total add: 0
+Total del: 27
+Header: Drive::ConstructDirTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\tassert( Root()->Parent() == 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\tassert( Root()->Parent() == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: FolderSet::FolderSet
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: FolderSet::Root
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: FolderSet::Root
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_root != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( file != 0 ) ;'), (6, 1, u'+\tassert( !file->IsFolder() ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: Resource::AddChild
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( file != 0 ) ;'), (6, 1, u'+\tassert( !file->IsFolder() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert( file != 0 ) ;'), (6, 1, u'+\tassert( !file->IsFolder() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(91, 2, u'-\tassert( child != 0 ) ;'), (92, 2, u'-\tassert( child->m_parent == 0 ) ;'), (93, 2, u'-\tassert( child != this ) ;'), (119, 2, u'-\t\tassert( (*i)->m_parent == this ) ;'), (132, 2, u'-\tassert( m_parent != this ) ;'), (145, 2, u'-\t\tassert( (*i)->m_parent == this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(91, 1, u'+\tassert( child != 0 ) ;'), (92, 1, u'+\tassert( child->m_parent == 0 ) ;'), (93, 1, u'+\tassert( child != this ) ;'), (119, 1, u'+\t\tassert( (*i)->m_parent == this ) ;'), (126, 1, u'+\tassert( m_parent != this ) ;'), (139, 1, u'+\t\tassert( (*i)->m_parent == this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( it != idx.end() ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 5
+Header: State::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( it != idx.end() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert( it != idx.end() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( folder != 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: State::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( folder != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( folder != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( it != idx.end() ) ;')]
+===========================================
+===========================================
+Total add: 17
+Total del: 3
+Header: State::Sync
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( it != idx.end() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\tassert( it != idx.end() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+Total add: 11
+Total del: 0
+Header: File::Upload
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_parent != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(70, 2, u'-\tassert( !path.m_paths.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string( "./dir1/dir2" ), relative.Str() ) ;'), (38, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string( "/usr/X11R6/lib" ), absolute.Str() ) ;'), (46, 2, u'-\tCPPUNIT_ASSERT_EQUAL( relative2, relative ) ;'), (50, 2, u'-\tCPPUNIT_ASSERT_EQUAL( absolute2, absolute ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(69, 1, u'+\tassert( m_impl->db != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+\t\tGRUT_ASSERT_EQUAL( db.Get("key"), "value" ) ;'), (46, 1, u'+\tGRUT_ASSERT_EQUAL( db.Get("key"), "value" ) ;')]
+===========================================
+Class:	class ConfigError : public std::runtime_error 	class ConfigError : public std::runtime_error
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\t\t\tassert( config["refresh_token"].As<std::string>() == token.RefreshToken() ) ;'), (6, 1, u'+\t\t\t\tassert( config.Get()["refresh_token"].Str() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: main
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\t\t\tassert( config["refresh_token"].As<std::string>() == token.RefreshToken() ) ;'), (6, 1, u'+\t\t\t\tassert( config.Get()["refresh_token"].Str() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\t\t\tassert( config["refresh_token"].As<std::string>() == token.RefreshToken() ) ;'), (6, 1, u'+\t\t\t\tassert( config.Get()["refresh_token"].Str() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(49, 1, u'+\tassert( m_parent != 0 ) ;')]
+===========================================
+Class:	class ConfigError : public std::runtime_error 	{ 	
+Class:	class ConfigError : public std::runtime_error 	{ 	
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 1, u'+\tassert( m_file != 0 ) ;'), (58, 1, u'+\tassert( m_file != 0 ) ;'), (64, 1, u'+\tassert( m_file != 0 ) ;'), (70, 1, u'+\tassert( m_file != 0 ) ;'), (76, 1, u'+\tassert( m_file != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+\tassert( s >= log::debug && s <= log::critical ) ;'), (69, 1, u'+\tassert( s >= log::debug && s <= log::critical ) ;')]
+===========================================
+Class:class DefaultLog : public LogBase class MockLog : public LogBase 	void Log( const log::Fmt& msg, log::Serverity s ) 	void Log( const log::Fmt&, log::Serverity ) 		switch ( s ) 		{ 		
+Class:class DefaultLog : public Log class DefaultLog : public LogBase 	 	void operator()( const Fmt& msg, Serverity s ) 	{ 	
+Class:class DefaultLog : public Log class DefaultLog : public Log
+Class:class Backtrace ;
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+\tassert( name != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( 1, subject.ParentHrefs().size() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 1U, subject.ParentHrefs().size() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: EntryTest::TestXml
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( 1, subject.ParentHrefs().size() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 1U, subject.ParentHrefs().size() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( 1, subject.ParentHrefs().size() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 1U, subject.ParentHrefs().size() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( 2, r.size() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 2U, r.size() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: NodeTest::TestParseFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( 2, r.size() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 2U, r.size() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tGRUT_ASSERT_EQUAL( 2, r.size() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 2U, r.size() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_root.Parent() == 0 ) ;'), (4, 1, u'+\tassert( Root()->Parent() == 0 ) ;')]
+===========================================
+===========================================
+Total add: 5
+Total del: 15
+Header: Drive::ConstructDirTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_root.Parent() == 0 ) ;'), (4, 1, u'+\tassert( Root()->Parent() == 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( m_root.Parent() == 0 ) ;'), (4, 1, u'+\tassert( Root()->Parent() == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: Node::size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tGRUT_ASSERT_EQUAL( 1, subject.ParentHrefs().size() ) ;'), (4, 1, u'+\tGRUT_ASSERT_EQUAL( "https://docs.google.com/feeds/default/private/full/folder%3A0B5KhdsbryVeGNEZjdUxzZHl3Sjg",'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( "folder", subject.Kind() ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: EntryTest::TestXml
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tGRUT_ASSERT_EQUAL( 1, subject.ParentHrefs().size() ) ;'), (4, 1, u'+\tGRUT_ASSERT_EQUAL( "https://docs.google.com/feeds/default/private/full/folder%3A0B5KhdsbryVeGNEZjdUxzZHl3Sjg",'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( "folder", subject.Kind() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tGRUT_ASSERT_EQUAL( 1, subject.ParentHrefs().size() ) ;'), (4, 1, u'+\tGRUT_ASSERT_EQUAL( "https://docs.google.com/feeds/default/private/full/folder%3A0B5KhdsbryVeGNEZjdUxzZHl3Sjg",'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( "folder", subject.Kind() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tGRUT_ASSERT_EQUAL( "https://docs.google.com/feeds/default/private/full/folder%3A0B5KhdsbryVeGMl83OEV1ZVc3cUE",')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: EntryTest::TestXml
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tGRUT_ASSERT_EQUAL( "https://docs.google.com/feeds/default/private/full/folder%3A0B5KhdsbryVeGMl83OEV1ZVc3cUE",')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tGRUT_ASSERT_EQUAL( "https://docs.google.com/feeds/default/private/full/folder%3A0B5KhdsbryVeGMl83OEV1ZVc3cUE",')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 9
+Header: Node::Attr
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tCPPUNIT_ASSERT( !entries.empty() ) ;'), (4, 1, u'+\tCPPUNIT_ASSERT( !root["entry"].empty() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: EntryTest::TestXml
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tCPPUNIT_ASSERT( !entries.empty() ) ;'), (4, 1, u'+\tCPPUNIT_ASSERT( !root["entry"].empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tCPPUNIT_ASSERT( !entries.empty() ) ;'), (4, 1, u'+\tCPPUNIT_ASSERT( !root["entry"].empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 1UL, node.RefCount() ) ;'), (3, 2, u'-\tCPPUNIT_ASSERT_EQUAL( Node::element, node.GetType() ) ;'), (4, 1, u'+\tGRUT_ASSERT_EQUAL( 1UL, node.RefCount() ) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( Node::element, node.GetType() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: NodeTest::TestTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 1UL, node.RefCount() ) ;'), (3, 2, u'-\tCPPUNIT_ASSERT_EQUAL( Node::element, node.GetType() ) ;'), (4, 1, u'+\tGRUT_ASSERT_EQUAL( 1UL, node.RefCount() ) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( Node::element, node.GetType() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 1UL, node.RefCount() ) ;'), (3, 2, u'-\tCPPUNIT_ASSERT_EQUAL( Node::element, node.GetType() ) ;'), (4, 1, u'+\tGRUT_ASSERT_EQUAL( 1UL, node.RefCount() ) ;'), (5, 1, u'+\tGRUT_ASSERT_EQUAL( Node::element, node.GetType() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 2UL, c1.RefCount() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 2UL, c1.RefCount() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: NodeTest::TestTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 2UL, c1.RefCount() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 2UL, c1.RefCount() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 2UL, c1.RefCount() ) ;'), (3, 1, u'+\tGRUT_ASSERT_EQUAL( 2UL, c1.RefCount() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 3UL, c1_.RefCount() ) ;'), (8, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Name() ) ;'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( 3UL, \t\t\tc1_.RefCount() ) ;'), (10, 1, u'+\tGRUT_ASSERT_EQUAL( "child1",\t\tc1_.Name() ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: NodeTest::TestTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 3UL, c1_.RefCount() ) ;'), (8, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Name() ) ;'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( 3UL, \t\t\tc1_.RefCount() ) ;'), (10, 1, u'+\tGRUT_ASSERT_EQUAL( "child1",\t\tc1_.Name() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tCPPUNIT_ASSERT_EQUAL( 3UL, c1_.RefCount() ) ;'), (8, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Name() ) ;'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( 3UL, \t\t\tc1_.RefCount() ) ;'), (10, 1, u'+\tGRUT_ASSERT_EQUAL( "child1",\t\tc1_.Name() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("entry"), n["entry"].Name() ) ;'), (3, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("link"), n["entry"]["link"].Name() ) ;'), (4, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"]["@href"].Value() ) ;'), (5, 2, u'-\tCPPUNIT_ASSERT_EQUAL( Node::element, n["entry"]["link"]["href"].GetType() ) ;'), (6, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("abc"), n["entry"]["link"]["href"].Value() ) ;'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( "entry",\t\t\tn["entry"].front().Name() ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( "link",\t\t\tn["entry"]["link"].front().Name() ) ;'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( "q",\t\t\t\tn["entry"]["link"]["@href"].front().Value() ) ;'), (10, 1, u'+\tGRUT_ASSERT_EQUAL( Node::element,\tn["entry"]["link"]["href"].front().GetType() ) ;'), (12, 1, u'+\tGRUT_ASSERT_EQUAL( "abc", n["entry"]["link"]["href"].front().Value() ) ;')]
+===========================================
+===========================================
+Total add: 7
+Total del: 6
+Header: NodeTest::TestParseFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("entry"), n["entry"].Name() ) ;'), (3, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("link"), n["entry"]["link"].Name() ) ;'), (4, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"]["@href"].Value() ) ;'), (5, 2, u'-\tCPPUNIT_ASSERT_EQUAL( Node::element, n["entry"]["link"]["href"].GetType() ) ;'), (6, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("abc"), n["entry"]["link"]["href"].Value() ) ;'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( "entry",\t\t\tn["entry"].front().Name() ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( "link",\t\t\tn["entry"]["link"].front().Name() ) ;'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( "q",\t\t\t\tn["entry"]["link"]["@href"].front().Value() ) ;'), (10, 1, u'+\tGRUT_ASSERT_EQUAL( Node::element,\tn["entry"]["link"]["href"].front().GetType() ) ;'), (12, 1, u'+\tGRUT_ASSERT_EQUAL( "abc", n["entry"]["link"]["href"].front().Value() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("entry"), n["entry"].Name() ) ;'), (3, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("link"), n["entry"]["link"].Name() ) ;'), (4, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"]["@href"].Value() ) ;'), (5, 2, u'-\tCPPUNIT_ASSERT_EQUAL( Node::element, n["entry"]["link"]["href"].GetType() ) ;'), (6, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("abc"), n["entry"]["link"]["href"].Value() ) ;'), (7, 1, u'+\tGRUT_ASSERT_EQUAL( "entry",\t\t\tn["entry"].front().Name() ) ;'), (8, 1, u'+\tGRUT_ASSERT_EQUAL( "link",\t\t\tn["entry"]["link"].front().Name() ) ;'), (9, 1, u'+\tGRUT_ASSERT_EQUAL( "q",\t\t\t\tn["entry"]["link"]["@href"].front().Value() ) ;'), (10, 1, u'+\tGRUT_ASSERT_EQUAL( Node::element,\tn["entry"]["link"]["href"].front().GetType() ) ;'), (12, 1, u'+\tGRUT_ASSERT_EQUAL( "abc", n["entry"]["link"]["href"].front().Value() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert( m_type != element || m_value.empty() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: public :
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert( m_type != element || m_value.empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert( m_type != element || m_value.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Total add: 9
+Total del: 2
+Header: Node::Attr
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tCPPUNIT_ASSERT( entries.first != entries.second ) ;'), (5, 1, u'+\tCPPUNIT_ASSERT( !entries.empty() ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: EntryTest::TestXml
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tCPPUNIT_ASSERT( entries.first != entries.second ) ;'), (5, 1, u'+\tCPPUNIT_ASSERT( !entries.empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tCPPUNIT_ASSERT( entries.first != entries.second ) ;'), (5, 1, u'+\tCPPUNIT_ASSERT( !entries.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tGRUT_ASSERT_EQUAL( 2, count ) ;'), (6, 1, u'+\tGRUT_ASSERT_EQUAL( 2, r.size() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: NodeTest::TestParseFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tGRUT_ASSERT_EQUAL( 2, count ) ;'), (6, 1, u'+\tGRUT_ASSERT_EQUAL( 2, r.size() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tGRUT_ASSERT_EQUAL( 2, count ) ;'), (6, 1, u'+\tGRUT_ASSERT_EQUAL( 2, r.size() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( p != 0 ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: Node::iterator::dereference
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( p != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( p != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Node::begin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Node::end
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_ptr != 0 ) ;'), (10, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Total add: 7
+Total del: 0
+Header: Node::end
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_ptr != 0 ) ;'), (10, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_ptr != 0 ) ;'), (10, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Node::Children
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 1, u'+\tCPPUNIT_ASSERT( entries.first != entries.second ) ;'), (46, 1, u'+\tGRUT_ASSERT_EQUAL( "snes", subject.Title() ) ;'), (47, 1, u'+\tGRUT_ASSERT_EQUAL( "\\"WxYPGE8CDyt7ImBk\\"", subject.ETag() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tGRUT_ASSERT_EQUAL( 2, count ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: NodeTest::TestParseFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tGRUT_ASSERT_EQUAL( 2, count ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tGRUT_ASSERT_EQUAL( 2, count ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( curl != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 11
+Header: Agent::Put
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( curl != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( curl != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 1, u'+\tassert( m_next != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 1, u'+\tassert( ptr != 0 ) ;'), (45, 1, u'+\tassert( data != 0 ) ;'), (115, 1, u'+\tassert( recv != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 2, u'-\tassert( ptr != 0 ) ;'), (45, 2, u'-\tassert( data != 0 ) ;'), (115, 2, u'-\tassert( recv != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+Total add: 0
+Total del: 7
+Header: xml.Response
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: xml.Response
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+\t\tassert( m_coll.size() == parent_href.size() ) ;'), (42, 2, u'-\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+Total add: 23
+Total del: 11
+Header: Drive::FindFolder
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+\t\tassert( m_coll.size() == parent_href.size() ) ;'), (42, 2, u'-\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+\t\tassert( m_coll.size() == parent_href.size() ) ;'), (42, 2, u'-\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tCPPUNIT_ASSERT_EQUAL( Node::element, n["entry"]["link"]["href"].GetType() ) ;'), (4, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("abc"), n["entry"]["link"]["href"].Value() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: NodeTest::TestParseFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tCPPUNIT_ASSERT_EQUAL( Node::element, n["entry"]["link"]["href"].GetType() ) ;'), (4, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("abc"), n["entry"]["link"]["href"].Value() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tCPPUNIT_ASSERT_EQUAL( Node::element, n["entry"]["link"]["href"].GetType() ) ;'), (4, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("abc"), n["entry"]["link"]["href"].Value() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(85, 1, u'+\tassert( pthis != 0 ) ;'), (86, 1, u'+\tassert( data != 0 ) ;'), (98, 1, u'+\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 1, u'+\tassert( ptr != 0 ) ;'), (45, 1, u'+\tassert( data != 0 ) ;'), (111, 1, u'+\tassert( recv != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(85, 2, u'-\tassert( pthis != 0 ) ;'), (86, 2, u'-\tassert( data != 0 ) ;'), (98, 2, u'-\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 2, u'-\tassert( ptr != 0 ) ;'), (45, 2, u'-\tassert( data != 0 ) ;'), (111, 2, u'-\tassert( recv != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( recv != 0 ) ;')]
+===========================================
+===========================================
+Total add: 9
+Total del: 3
+Header: Agent::HeaderCallback
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( recv != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert( recv != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( tb.m_stack.size() == 1 ) ;')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: TreeBuilder::ParseFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( tb.m_stack.size() == 1 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( tb.m_stack.size() == 1 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\tassert( tb.m_stack.size() == 1 ) ;'), (17, 1, u'+\tassert( m_impl->stack.size() == 1 ) ;')]
+===========================================
+===========================================
+Total add: 7
+Total del: 8
+Header: TreeBuilder::Parse
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\tassert( tb.m_stack.size() == 1 ) ;'), (17, 1, u'+\tassert( m_impl->stack.size() == 1 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\tassert( tb.m_stack.size() == 1 ) ;'), (17, 1, u'+\tassert( m_impl->stack.size() == 1 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( pthis->m_stack.back().Name() == name ) ;'), (4, 1, u'+\tassert( pthis->m_impl->stack.back().Name() == name ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: TreeBuilder::EndElement
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( pthis->m_stack.back().Name() == name ) ;'), (4, 1, u'+\tassert( pthis->m_impl->stack.back().Name() == name ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( pthis->m_stack.back().Name() == name ) ;'), (4, 1, u'+\tassert( pthis->m_impl->stack.back().Name() == name ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert( child->m_type >= element && child->m_type <= text ) ;')]
+===========================================
+===========================================
+Total add: 10
+Total del: 5
+Header: public :
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert( child->m_type >= element && child->m_type <= text ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert( child->m_type >= element && child->m_type <= text ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( !name.empty() ) ;')]
+===========================================
+===========================================
+Total add: 13
+Total del: 3
+Header: public :
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( !name.empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert( !name.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !name.empty() ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: Node::operator[]
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !name.empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( !name.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: Node::Value
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"].Name() ) ;'), (6, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("link"), n["entry"]["link"].Name() ) ;'), (7, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"]["@href"].Value() ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: NodeTest::TestParseFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"].Name() ) ;'), (6, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("link"), n["entry"]["link"].Name() ) ;'), (7, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"]["@href"].Value() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"].Name() ) ;'), (6, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("link"), n["entry"]["link"].Name() ) ;'), (7, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("q"), n["entry"]["link"]["@href"].Value() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( IsCompatible( GetType(), element) ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Node::AddElement
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( IsCompatible( GetType(), element) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( IsCompatible( GetType(), element) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( IsCompatible( GetType(), text ) ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Node::AddText
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( IsCompatible( GetType(), text ) ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( IsCompatible( GetType(), text ) ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+\tassert( tb.m_stack.size() == 1 ) ;'), (64, 1, u'+\tassert( tb.m_stack.size() == 1 ) ;'), (70, 1, u'+\tassert( pvthis != 0 ) ;'), (71, 1, u'+\tassert( name != 0 ) ;'), (72, 1, u'+\tassert( attr != 0 ) ;'), (80, 1, u'+\t\tassert( attr[i+1] != 0 ) ;'), (91, 1, u'+\tassert( pthis->m_stack.back().Name() == name ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Str() ) ;'), (3, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Name() ) ;')]
+===========================================
+===========================================
+Total add: 8
+Total del: 1
+Header: NodeTest::TestTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Str() ) ;'), (3, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Name() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Str() ) ;'), (3, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Name() ) ;')]
+===========================================
+Class:class Node::Impl class Node::Impl
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(68, 1, u'+\t\tassert( m_ref > 0 ) ;'), (74, 1, u'+\t\tassert( child != 0 ) ;'), (155, 1, u'+\tassert( m_ptr != 0 ) ;'), (168, 1, u'+\tassert( m_ptr != 0 ) ;'), (177, 1, u'+\tassert( m_ptr != 0 ) ;'), (186, 1, u'+\tassert( m_ptr != 0 ) ;'), (196, 1, u'+\tassert( m_ptr != 0 ) ;'), (202, 1, u'+\tassert( m_ptr != 0 ) ;'), (208, 1, u'+\tassert( m_ptr != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+\tCPPUNIT_ASSERT_EQUAL( 1UL, node.RefCount() ) ;'), (38, 1, u'+\tCPPUNIT_ASSERT_EQUAL( Node::element, node.GetType() ) ;'), (43, 1, u'+\tCPPUNIT_ASSERT_EQUAL( 2UL, c1.RefCount() ) ;'), (51, 1, u'+\tCPPUNIT_ASSERT_EQUAL( 3UL, c1_.RefCount() ) ;'), (52, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string("child1"), c1_.Str() ) ;')]
+===========================================
+Class:	class ConfigError : public std::runtime_error 	class ConfigError : public std::runtime_error
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(78, 2, u'-\tassert( child != 0 ) ;'), (79, 2, u'-\tassert( child->m_parent == 0 ) ;'), (80, 2, u'-\tassert( child != this ) ;'), (115, 2, u'-\t\tassert( (*i)->m_parent == this ) ;'), (128, 2, u'-\tassert( m_parent != this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(103, 2, u'-\tassert( m_coll.empty() ) ;'), (118, 2, u'-\tassert( m_coll.size() == parent_href.size() ) ;'), (124, 2, u'-\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;'), (146, 2, u'-\tassert( m_root.Parent() == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(78, 1, u'+\tassert( child != 0 ) ;'), (79, 1, u'+\tassert( child->m_parent == 0 ) ;'), (80, 1, u'+\tassert( child != this ) ;'), (115, 1, u'+\t\tassert( (*i)->m_parent == this ) ;'), (128, 1, u'+\tassert( m_parent != this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(103, 1, u'+\tassert( m_coll.empty() ) ;'), (118, 1, u'+\tassert( m_coll.size() == parent_href.size() ) ;'), (124, 1, u'+\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;'), (146, 1, u'+\tassert( m_root.Parent() == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+\tassert( pthis != 0 ) ;'), (80, 1, u'+\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+\tassert( resp != 0 ) ;'), (42, 1, u'+\tassert( data != 0 ) ;'), (51, 1, u'+\tassert( ptr != 0 ) ;'), (52, 1, u'+\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+\tassert( ::json_object_get_string( m_json ) == str ) ;'), (62, 1, u'+\tassert( m_json != 0 ) ;'), (68, 1, u'+\tassert( json != 0 ) ;'), (75, 1, u'+\tassert( m_json != 0 ) ;'), (81, 1, u'+\tassert( m_json != 0 ) ;'), (95, 1, u'+\tassert( m_json != 0 ) ;'), (96, 1, u'+\tassert( other.m_json != 0 ) ;'), (102, 1, u'+\tassert( m_json != 0 ) ;'), (113, 1, u'+\tassert( m_json != 0 ) ;'), (128, 1, u'+\tassert( m_json != 0 ) ;'), (134, 1, u'+\tassert( m_json != 0 ) ;'), (135, 1, u'+\tassert( json.m_json != 0 ) ;'), (144, 1, u'+\tassert( m_json != 0 ) ;'), (151, 1, u'+\tassert( m_json != 0 ) ;'), (158, 1, u'+\tassert( m_json != 0 ) ;'), (165, 1, u'+\tassert( m_json != 0 ) ;'), (172, 1, u'+\tassert( m_json != 0 ) ;'), (179, 1, u'+\tassert( m_json != 0 ) ;'), (185, 1, u'+\tassert( json.m_json != 0 ) ;'), (191, 1, u'+\tassert( m_json != 0 ) ;'), (211, 1, u'+\tassert( m_json != 0 ) ;'), (230, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(76, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (91, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (101, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (112, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (113, 1, u'+\tassert( dt.m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(70, 1, u'+\tassert( !path.m_paths.empty() ) ;')]
+===========================================
+Class:	class ConfigError : public std::runtime_error 	class ConfigError : public std::runtime_error
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-\tassert( pthis != 0 ) ;'), (80, 2, u'-\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 2, u'-\tassert( resp != 0 ) ;'), (42, 2, u'-\tassert( data != 0 ) ;'), (51, 2, u'-\tassert( ptr != 0 ) ;'), (52, 2, u'-\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 2, u'-\tassert( ::json_object_get_string( m_json ) == str ) ;'), (62, 2, u'-\tassert( m_json != 0 ) ;'), (68, 2, u'-\tassert( json != 0 ) ;'), (75, 2, u'-\tassert( m_json != 0 ) ;'), (81, 2, u'-\tassert( m_json != 0 ) ;'), (95, 2, u'-\tassert( m_json != 0 ) ;'), (96, 2, u'-\tassert( other.m_json != 0 ) ;'), (102, 2, u'-\tassert( m_json != 0 ) ;'), (113, 2, u'-\tassert( m_json != 0 ) ;'), (128, 2, u'-\tassert( m_json != 0 ) ;'), (134, 2, u'-\tassert( m_json != 0 ) ;'), (135, 2, u'-\tassert( json.m_json != 0 ) ;'), (144, 2, u'-\tassert( m_json != 0 ) ;'), (151, 2, u'-\tassert( m_json != 0 ) ;'), (158, 2, u'-\tassert( m_json != 0 ) ;'), (165, 2, u'-\tassert( m_json != 0 ) ;'), (172, 2, u'-\tassert( m_json != 0 ) ;'), (179, 2, u'-\tassert( m_json != 0 ) ;'), (185, 2, u'-\tassert( json.m_json != 0 ) ;'), (191, 2, u'-\tassert( m_json != 0 ) ;'), (211, 2, u'-\tassert( m_json != 0 ) ;'), (230, 2, u'-\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(76, 2, u'-\tassert( m_nsec < 1000000000 ) ;'), (91, 2, u'-\tassert( m_nsec < 1000000000 ) ;'), (101, 2, u'-\tassert( m_nsec < 1000000000 ) ;'), (112, 2, u'-\tassert( m_nsec < 1000000000 ) ;'), (113, 2, u'-\tassert( dt.m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(70, 2, u'-\tassert( !path.m_paths.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(70, 1, u'+\tassert( !path.m_paths.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string( "./dir1/dir2" ), relative.Str() ) ;'), (38, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string( "/usr/X11R6/lib" ), absolute.Str() ) ;'), (46, 1, u'+\tCPPUNIT_ASSERT_EQUAL( relative2, relative ) ;'), (50, 1, u'+\tCPPUNIT_ASSERT_EQUAL( absolute2, absolute ) ;')]
+===========================================
+Class:	class ConfigError : public std::runtime_error 	{ 	
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert( m_json != 0 ) ;'), (14, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Total add: 11
+Total del: 2
+Header: Json::Add
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert( m_json != 0 ) ;'), (14, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert( m_json != 0 ) ;'), (14, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: DateTime::NanoSec
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: DateTime::Tv
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (15, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (16, 1, u'+\tassert( dt.m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+Total add: 33
+Total del: 0
+Header: DateTime::Tv
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (15, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (16, 1, u'+\tassert( dt.m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (15, 1, u'+\tassert( m_nsec < 1000000000 ) ;'), (16, 1, u'+\tassert( dt.m_nsec < 1000000000 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 1, u'+\tCPPUNIT_ASSERT_EQUAL( 3, f(3) ) ;'), (43, 1, u'+\tCPPUNIT_ASSERT_EQUAL( std::string(), f2() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(36, 1, u'+\tCPPUNIT_ASSERT( tp.tm_year == 109 ) ;'), (37, 1, u'+\tCPPUNIT_ASSERT( tp.tm_sec  == 39 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(80, 2, u'-\tassert( child != 0 ) ;'), (81, 2, u'-\tassert( child->m_parent == 0 ) ;'), (82, 2, u'-\tassert( child != this ) ;'), (111, 2, u'-\t\tassert( (*i)->m_parent == this ) ;'), (118, 2, u'-\tassert( m_parent != this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(123, 2, u'-\tassert( m_coll.empty() ) ;'), (138, 2, u'-\tassert( m_coll.size() == parent_href.size() ) ;'), (144, 2, u'-\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;'), (166, 2, u'-\tassert( m_root.Parent() == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(77, 1, u'+\tassert( child != 0 ) ;'), (78, 1, u'+\tassert( child->m_parent == 0 ) ;'), (79, 1, u'+\tassert( child != this ) ;'), (109, 1, u'+\t\tassert( (*i)->m_parent == this ) ;'), (116, 1, u'+\tassert( m_parent != this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(123, 1, u'+\tassert( m_coll.empty() ) ;'), (138, 1, u'+\tassert( m_coll.size() == parent_href.size() ) ;'), (144, 1, u'+\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;'), (166, 1, u'+\tassert( m_root.Parent() == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( child != 0 ) ;'), (3, 1, u'+\tassert( child->m_parent == 0 ) ;'), (4, 1, u'+\tassert( child != this ) ;')]
+===========================================
+===========================================
+Total add: 5
+Total del: 0
+Header: Collection::AddChild
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( child != 0 ) ;'), (3, 1, u'+\tassert( child->m_parent == 0 ) ;'), (4, 1, u'+\tassert( child != this ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( child != 0 ) ;'), (3, 1, u'+\tassert( child->m_parent == 0 ) ;'), (4, 1, u'+\tassert( child != this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( (*i)->m_parent == this ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: Collection::CreateSubDir
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( (*i)->m_parent == this ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( (*i)->m_parent == this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_parent != this ) ;')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: Collection::CreateSubDir
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_parent != this ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_parent != this ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_coll.empty() ) ;')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: Drive::ConstructDirTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_coll.empty() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert( m_coll.empty() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+Total add: 7
+Total del: 0
+Header: Drive::ConstructDirTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\tassert( m_coll.size() == parent_href.size() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: Drive::ConstructDirTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert( parent_href.find( i->Href() ) != parent_href.end() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root.Parent() == 0 ) ;')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: Drive::ConstructDirTree
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root.Parent() == 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert( m_root.Parent() == 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( json != 0 ) ;'), (3, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: Json::Json
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( json != 0 ) ;'), (3, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert( json != 0 ) ;'), (3, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-\tassert( pthis != 0 ) ;'), (80, 2, u'-\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(49, 2, u'-\tassert( resp != 0 ) ;'), (50, 2, u'-\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 2, u'-\tassert( ::json_object_get_string( m_json ) == str ) ;'), (62, 2, u'-\tassert( json != 0 ) ;'), (68, 2, u'-\tassert( json != 0 ) ;'), (75, 2, u'-\tassert( m_json != 0 ) ;'), (81, 2, u'-\tassert( m_json != 0 ) ;'), (94, 2, u'-\tassert( m_json != 0 ) ;'), (95, 2, u'-\tassert( other.m_json != 0 ) ;'), (101, 2, u'-\tassert( m_json != 0 ) ;'), (112, 2, u'-\tassert( m_json != 0 ) ;'), (127, 2, u'-\tassert( m_json != 0 ) ;'), (133, 2, u'-\tassert( m_json != 0 ) ;'), (134, 2, u'-\tassert( json.m_json != 0 ) ;'), (143, 2, u'-\tassert( m_json != 0 ) ;'), (150, 2, u'-\tassert( m_json != 0 ) ;'), (157, 2, u'-\tassert( m_json != 0 ) ;'), (164, 2, u'-\tassert( m_json != 0 ) ;'), (170, 2, u'-\tassert( json.m_json != 0 ) ;'), (176, 2, u'-\tassert( m_json != 0 ) ;'), (196, 2, u'-\tassert( m_json != 0 ) ;'), (215, 2, u'-\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+\tassert( pthis != 0 ) ;'), (80, 1, u'+\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(49, 1, u'+\tassert( resp != 0 ) ;'), (50, 1, u'+\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+\tassert( ::json_object_get_string( m_json ) == str ) ;'), (62, 1, u'+\tassert( json != 0 ) ;'), (68, 1, u'+\tassert( json != 0 ) ;'), (75, 1, u'+\tassert( m_json != 0 ) ;'), (81, 1, u'+\tassert( m_json != 0 ) ;'), (94, 1, u'+\tassert( m_json != 0 ) ;'), (95, 1, u'+\tassert( other.m_json != 0 ) ;'), (101, 1, u'+\tassert( m_json != 0 ) ;'), (112, 1, u'+\tassert( m_json != 0 ) ;'), (127, 1, u'+\tassert( m_json != 0 ) ;'), (133, 1, u'+\tassert( m_json != 0 ) ;'), (134, 1, u'+\tassert( json.m_json != 0 ) ;'), (143, 1, u'+\tassert( m_json != 0 ) ;'), (150, 1, u'+\tassert( m_json != 0 ) ;'), (157, 1, u'+\tassert( m_json != 0 ) ;'), (164, 1, u'+\tassert( m_json != 0 ) ;'), (170, 1, u'+\tassert( json.m_json != 0 ) ;'), (176, 1, u'+\tassert( m_json != 0 ) ;'), (196, 1, u'+\tassert( m_json != 0 ) ;'), (215, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+\tassert( pthis != 0 ) ;'), (80, 1, u'+\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Total add: 15
+Total del: 0
+Header: Json::operator[]
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\t\t\t\tassert( config["refresh_token"].As<std::string>() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+Total add: 17
+Total del: 10
+Header: main
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\t\t\t\tassert( config["refresh_token"].As<std::string>() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\t\t\t\tassert( config["refresh_token"].As<std::string>() == token.RefreshToken() ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(46, 1, u'+\tassert( resp != 0 ) ;'), (47, 1, u'+\tassert( data != 0 ) ;'), (57, 1, u'+\tassert( file != 0 ) ;'), (58, 1, u'+\tassert( data != 0 ) ;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+\tassert( json != 0 ) ;'), (48, 1, u'+\tassert( m_json != 0 ) ;'), (54, 1, u'+\tassert( m_json != 0 ) ;'), (67, 1, u'+\tassert( m_json != 0 ) ;'), (68, 1, u'+\tassert( other.m_json != 0 ) ;'), (74, 1, u'+\tassert( m_json != 0 ) ;'), (85, 1, u'+\tassert( m_json != 0 ) ;'), (92, 1, u'+\tassert( m_json != 0 ) ;'), (99, 1, u'+\tassert( m_json != 0 ) ;'), (106, 1, u'+\tassert( m_json != 0 ) ;'), (113, 1, u'+\tassert( m_json != 0 ) ;'), (119, 1, u'+\tassert( json.m_json != 0 ) ;'), (125, 1, u'+\tassert( m_json != 0 ) ;'), (145, 1, u'+\tassert( m_json != 0 ) ;'), (164, 1, u'+\tassert( m_json != 0 ) ;')]
+===========================================
+<type 'unicode'>
+224
+Mismatch count:27010
+Normal count:462881

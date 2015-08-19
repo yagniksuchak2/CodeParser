@@ -1,0 +1,1249 @@
+projects/top_C++/doom3.gpl
+Going to process projects/top_C++/doom3.gpl/all_log.txt 
+---------- doom3.gpl ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(430, 1, u'+\t\t\tassert( indent == 1 );'), (634, 1, u'+\t\t\tassert( indent == 1 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(408, 1, u'+\t\tassert( node != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(439, 1, u'+\tassert( models );'), (741, 1, u'+\tassert( models );'), (799, 1, u'+\tassert( models );'), (1939, 1, u'+\tassert(node != NULL);'), (1963, 1, u'+\tassert(node != NULL);'), (1994, 1, u'+\tassert(node != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1289, 1, u'+\tassert( tw.angle > -180.0f && tw.angle < 180.0f );'), (1295, 1, u'+\tassert( tw.axis[0] * tw.axis[0] + tw.axis[1] * tw.axis[1] + tw.axis[2] * tw.axis[2] > 0.99f );'), (1382, 1, u'+\t\tassert( results->fraction <= 1.0f );'), (1592, 1, u'+\tassert( results->fraction <= 1.0f );'), (1623, 1, u'+\tassert( ((byte *)&start) < ((byte *)results) || ((byte *)&start) > (((byte *)results) + sizeof( trace_t )) );'), (1624, 1, u'+\tassert( ((byte *)&trmAxis) < ((byte *)results) || ((byte *)&trmAxis) > (((byte *)results) + sizeof( trace_t )) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(780, 1, u'+\tassert( ((byte *)&start) < ((byte *)results) || ((byte *)&start) >= (((byte *)results) + sizeof( trace_t )) );'), (781, 1, u'+\tassert( ((byte *)&end) < ((byte *)results) || ((byte *)&end) >= (((byte *)results) + sizeof( trace_t )) );'), (782, 1, u'+\tassert( ((byte *)&trmAxis) < ((byte *)results) || ((byte *)&trmAxis) >= (((byte *)results) + sizeof( trace_t )) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(457, 1, u'+\tassert( handle < animator->NumJoints() );'), (541, 1, u'+\t\t\tassert( 0 );'), (803, 1, u'+\tassert( ent );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(824, 1, u'+\tassert( combatModel );'), (826, 1, u'+\t\tassert( !combatModel->GetContents() );'), (830, 1, u'+\t\tassert( !combatModelContents );'), (1168, 1, u'+\tassert( !gameLocal.isClient );'), (3205, 1, u'+\tassert(parent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u'+\tassert( owner );'), (121, 1, u'+\tassert( _animator );'), (154, 1, u'+\t\tassert( 0 );'), (784, 1, u'+\tassert( !head.GetEntity() );'), (925, 1, u'+\t\tassert( ent );'), (1942, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(145, 1, u'+\t\t\tassert(index != -1);'), (230, 1, u'+\t\t\tassert(index != -1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(195, 1, u'+\tassert( view );'), (554, 1, u'+\tassert( view );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1151, 1, u'+\tassert( modelname );'), (1632, 1, u'+\tassert( idStr::Icmpn( soundName, "snd_", 4 ) == 0 );'), (2046, 1, u'+\tassert( ent == this ); // If ent is not pointing to this, then something is very wrong.'), (2388, 1, u'+\tassert( teammember );'), (2467, 1, u'+\t\tassert( teamMaster );'), (2468, 1, u'+\t\tassert( teamMaster->teamChain );'), (2473, 1, u'+\t\t\tassert( ent->teamChain ); // this should never happen'), (2597, 1, u'+\tassert( phys != NULL );'), (3257, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (3272, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (3278, 1, u'+\tassert( thread );'), (3304, 1, u'+\tassert( thread );'), (3326, 1, u'+\tassert( thread );'), (3358, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (4996, 1, u'+\t\t\tassert( gameLocal.isNewFrame );'), (5012, 1, u'+\t\t\tassert( gameLocal.isNewFrame );'), (5269, 1, u'+\t\tassert( 0 );'), (5275, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(404, 1, u'+\t\tassert( useAction );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(875, 1, u'+\t\tassert( canModify );'), (1422, 1, u'+\t\tassert( ent );'), (1431, 1, u'+\t\tassert( ent );'), (1596, 1, u'+\t\tassert( !entities[ i ] );'), (2405, 1, u'+\t\tassert( !isClient );'), (2657, 1, u'+\tassert( fov_y > 0 );'), (2694, 1, u'+\tassert( ( fov_x > 0 ) && ( fov_y > 0 ) );'), (3116, 1, u'+\t\tassert( check == obstacle );'), (3214, 1, u'+\tassert( ent );'), (3241, 1, u'+\t\tassert( bIsClientReadSnapshot );'), (3663, 1, u'+\t\tassert( ent );'), (3884, 1, u'+\t\tassert( ent );'), (4437, 1, u'+\t\t\t\tassert( spot.team == 0 || spot.team == 1 );'), (4554, 1, u'+\t\tassert( player->team == 0 || player->team == 1 );'), (4567, 1, u'+\t\t\tassert( player->team == 0 || player->team == 1 );'), (4589, 1, u'+\t\t\t\tassert( player->team == 0 || player->team == 1 );'), (4602, 1, u'+\t\t\tassert( team == 0 || team == 1 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(757, 1, u'+\t\t\tassert( ent );'), (768, 1, u'+\t\tassert( freedEvent == event );'), (1305, 1, u'+\t\t\tassert( ent );'), (1316, 1, u'+\t\tassert( freedEvent == event );'), (1472, 1, u'+\t\t\tassert( numPortals == gameRenderWorld->NumPortals() );'), (1481, 1, u'+\t\t\tassert( portal > 0 && portal <= gameRenderWorld->NumPortals() );'), (1676, 1, u'+\tassert( !event->next && !event->prev );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(269, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1310, 1, u'+\tassert ( speed > 0.0f );'), (1534, 1, u'+\tassert( areaPortal );'), (2723, 1, u'+\t\tassert( partial >= 0 );'), (2769, 1, u'+\t\tassert( partial >= 0 );'), (3103, 1, u'+\tassert( areaPortal );'), (3890, 1, u'+\tassert( other && other->IsType( idPlayer::Type ) && static_cast< idPlayer * >( other )->spectating );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(233, 1, u'+\t\tassert( def );'), (949, 1, u'+\t\t\t\t\t\tassert( !gameLocal.isClient );'), (984, 1, u'+\tassert( weapon_index != -1 || weapon_classname );'), (1823, 1, u'+\t\t\tassert( spectating );'), (2574, 1, u'+\t\tassert( spectating );'), (2588, 1, u'+\tassert( !gameLocal.isClient );'), (2671, 1, u'+\tassert( !gameLocal.isClient );'), (2838, 1, u'+\tassert( skin );'), (2977, 1, u'+\tassert( weapon.GetEntity() );'), (2978, 1, u'+\tassert( _hud );'), (3048, 1, u'+\tassert( _hud );'), (3133, 1, u'+\t\t\tassert( p->hud );'), (3966, 1, u'+\t\tassert( !gameLocal.isClient );\t// healthPool never be set on client'), (3980, 1, u'+\t\tassert( !gameLocal.isClient );\t// healthPool never be set on client'), (4634, 1, u'+\tassert( !gameLocal.isClient );'), (4705, 1, u'+\tassert( !gameLocal.isClient );'), (4722, 1, u'+\tassert( weapon_classname );'), (4736, 1, u'+\t\tassert( decl );'), (4738, 1, u'+\t\tassert( keypair );'), (4800, 1, u'+\t\t\tassert( gameLocal.isClient );'), (4821, 1, u'+\t\t\t\tassert( idealWeapon >= 0 );'), (4822, 1, u'+\t\t\t\tassert( idealWeapon < MAX_WEAPONS );'), (4987, 1, u'+\tassert( !spectating );'), (5002, 1, u'+\t\t\tassert( weapon.GetEntity()->IsLinked() );'), (5089, 1, u'+\t\tassert( player ); // never call here when the current spectator is wrong'), (5105, 1, u'+\tassert( spectating );'), (5106, 1, u'+\tassert( !gameLocal.isClient );'), (5107, 1, u'+\tassert( IsHidden() );'), (6241, 1, u'+\tassert( hud );'), (6408, 1, u'+\tassert( hud );'), (6487, 1, u'+\tassert( ( teleportEntity.GetEntity() != NULL ) || ( IsHidden() == spectating ) );'), (6590, 1, u'+\t\tassert( entityNumber == gameLocal.localClientNum );'), (7201, 1, u'+\t\tassert( !MPAimHighlight );'), (7776, 1, u'+\tassert( !gameLocal.isClient );'), (7892, 1, u'+\tassert( !gameLocal.isClient );'), (8758, 1, u'+\tassert( hud );'), (8828, 1, u'+\t\t\tassert( aimed );'), (8841, 1, u'+\t\t\tassert( aimed );'), (9472, 1, u'+\t\t\t\t\tassert( entityNumber == gameLocal.localClientNum );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(141, 1, u'+\tassert( type != ICON_NONE );'), (152, 1, u'+\tassert( type != ICON_NONE );'), (192, 1, u'+\tassert( iconHandle >= 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1657, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(561, 1, u'+\t\tassert( 0 );'), (2123, 1, u'+\t\tassert( ent );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1035, 1, u'+\t\t\tassert( sourceAreas[i] >= 0 && sourceAreas[i] < numAreas );'), (1406, 1, u'+\tassert( areaVisBytes <= 256 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(195, 1, u'+\tassert( gameLocal.time == 0 || systemStartTime <= gameLocal.time );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(224, 1, u'+\tassert( !owner );'), (884, 1, u'+\tassert( ent );'), (885, 1, u'+\tassert( def );'), (941, 1, u'+\tassert( owner );'), (1449, 1, u'+\tassert( modelname );'), (1771, 1, u'+\tassert( !gameLocal.isClient );'), (1828, 1, u'+\t\tassert( 0 );'), (2449, 1, u'+\tassert( ammoname );'), (2792, 1, u'+\t\tassert( 0 );'), (2991, 1, u'+\tassert( owner );'), (3005, 1, u'+\tassert( owner );'), (3017, 1, u'+\tassert( owner );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(63, 1, u'+\tassert( gameLocal.world == NULL );'), (115, 1, u'+\tassert( gameLocal.world == this );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(146, 1, u'+\t\t\tassert( i < MAX_REACH_PER_AREA );'), (170, 1, u'+\tassert( ( (unsigned int) bytePtr - (unsigned int) areaTravelTimes ) <= numAreaTravelTimes * sizeof( unsigned short ) );'), (362, 1, u'+\tassert( areaNum > 0 && areaNum < file->GetNumAreas() );'), (379, 1, u'+\tassert( areaNum > 0 && areaNum < file->GetNumAreas() );'), (649, 1, u'+\tassert( cacheListStart );'), (784, 1, u'+\t\t\tassert( clusterAreaNum < areaCache->size );'), (908, 1, u'+\t\t\tassert( portalNum < portalCache->size );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2421, 1, u'+\tassert( source );'), (2422, 1, u'+\tassert( dest );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1448, 1, u'+\tassert( targetEntity );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u'+\tassert( ( num > 0 ) && ( num <= ANIM_MaxSyncedAnims ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(94, 1, u'+\t\tassert( idStr::Cmp( classname, (*insert)->classname ) );'), (290, 1, u'+\tassert( ( size & 3 ) == 0 );'), (459, 1, u'+\tassert( ( size & 3 ) == 0 );'), (481, 1, u'+\tassert( ( size & 3 ) == 0 );'), (633, 1, u'+\tassert( ev );'), (834, 1, u'+\tassert( ev );'), (835, 1, u'+\tassert( idEvent::initialized );'), (944, 1, u'+\tassert( ev );'), (945, 1, u'+\tassert( idEvent::initialized );'), (994, 1, u'+\tassert( D_EVENT_MAXARGS == 8 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(65, 1, u'+\tassert( command );'), (66, 1, u'+\tassert( !idEvent::initialized );'), (79, 1, u'+\tassert( numargs <= D_EVENT_MAXARGS );'), (197, 1, u'+\tassert( name );'), (388, 1, u'+\tassert( initialized );'), (509, 1, u'+\t\tassert( event );'), (564, 1, u'+\t\tassert( event->object );'), (609, 1, u'+\t\tassert( event );'), (664, 1, u'+\t\tassert( event->object );'), (802, 1, u'+\t\tassert( size == event->eventdef->GetArgSize() );'), (874, 1, u'+\t\t\tassert( format );'), (910, 1, u'+\t\t\tassert( size == event->eventdef->GetArgSize() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2189, 1, u'+\tassert( surfaces != NULL );'), (2190, 1, u'+\tassert( ent != NULL );'), (2318, 1, u'+\tassert( geom->facePlanes != NULL );')]
+===========================================
+Class:  class idTypeInfoTools { class idTypeInfoTools 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(458, 1, u'+\tassert( renderModelHandle == -1 );'), (547, 1, u'+\tassert( idClipModel::entity );'), (811, 1, u'+\t\tassert( false );'), (971, 1, u'+\t\tassert( 0 );'), (1208, 1, u'+\tassert( rotation.GetOrigin() == start );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 1, u'+\tassert( clipModel );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(156, 1, u'+\tassert( 0 );'), (194, 1, u'+\tassert( 0 );'), (203, 1, u'+\tassert( 0 );'), (254, 1, u'+\tassert( t == type );'), (270, 1, u'+\tassert( body1 );'), (463, 1, u'+\tassert( body1 );'), (920, 1, u'+\tassert( body1 );'), (999, 1, u'+\tassert( l != 0.0f );'), (1002, 1, u'+\tassert( l != 0.0f );'), (1511, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1520, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1529, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1538, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1547, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1556, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1572, 1, u'+\tassert( body1 );'), (2274, 1, u'+\tassert( body1 );'), (2461, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2470, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2479, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2488, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2497, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2506, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2522, 1, u'+\tassert( body1 );'), (2687, 1, u'+\tassert( body1 );'), (2721, 1, u'+\tassert( stretch >= 0.0f && compress >= 0.0f && restLength >= 0.0f );'), (2734, 1, u'+\tassert( minLength >= 0.0f && maxLength >= 0.0f && maxLength >= minLength );'), (3006, 1, u'+\tassert( b1 );'), (3113, 1, u'+\tassert( 0 );\t// contact should never be translated'), (3122, 1, u'+\tassert( 0 );\t// contact should never be rotated'), (4148, 1, u'+\tassert( clipModel );'), (4149, 1, u'+\tassert( clipModel->IsTraceModel() );'), (6795, 1, u'+\tassert( num == bodies.Num() );'), (6806, 1, u'+\tassert( num == constraints.Num() );'), (7979, 1, u'+\tassert( num == bodies.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 1, u'+\tassert( self );'), (160, 1, u'+\tassert( model );\t\t\t\t\t// a clip model is required'), (161, 1, u'+\tassert( model->IsTraceModel() );\t// and it should be a trace model'), (162, 1, u'+\tassert( density > 0.0f );\t\t\t// density should be valid'), (195, 1, u'+\tassert( _mass > 0.0f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(118, 1, u'+\tassert( e );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(315, 1, u'+\tassert( clipModel );'), (477, 1, u'+\tassert( self );'), (478, 1, u'+\tassert( model );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(603, 1, u'+\tassert( self );'), (604, 1, u'+\tassert( model );\t\t\t\t\t// we need a clip model'), (605, 1, u'+\tassert( model->IsTraceModel() );\t// and it should be a trace model'), (606, 1, u'+\tassert( density > 0.0f );\t\t\t// density should be valid'), (673, 1, u'+\tassert( mass > 0.0f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(110, 1, u'+\tassert( e );'), (120, 1, u'+\tassert( self );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(138, 1, u'+\tassert( e );'), (167, 1, u'+\tassert( self );'), (1030, 1, u'+\tassert( num == current.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1091, 1, u'+\t\tassert( clipModel->IsTraceModel() );'), (1267, 1, u'+\t\tassert( clipModel->IsTraceModel() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(214, 1, u'+\tassert( ( sizeof( opcodes ) / sizeof( opcodes[ 0 ] ) ) == ( NUM_OPCODES + 1 ) );'), (1056, 1, u'+\tassert( funcDef );'), (1066, 1, u'+\tassert( funcDef->value.functionPtr );'), (1708, 1, u'+\tassert( op->name );'), (2067, 1, u'+\t\t\tassert( !type->def );'), (2141, 1, u'+\t\tassert( func );'), (2196, 1, u'+\t\t\tassert( selfDef );'), (2234, 1, u'+\t\t\tassert( selfDef );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(595, 1, u'+\tassert( !func->eventdef );'), (601, 1, u'+\tassert( c >= 0 );'), (651, 1, u'+\tassert( localstackUsed == localstackBase );'), (697, 1, u'+\tassert( func->eventdef );'), (868, 1, u'+\tassert( func->eventdef );'), (989, 1, u'+\t\t\t\tassert( st->c->value.argSize == func->parmTotal );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(482, 1, u'+\tassert( parmNumber >= 0 );'), (483, 1, u'+\tassert( parmNumber < parmTypes.Num() );'), (493, 1, u'+\tassert( parmNumber >= 0 );'), (494, 1, u'+\tassert( parmNumber < parmTypes.Num() );'), (529, 1, u'+\tassert( funcNumber >= 0 );'), (530, 1, u'+\tassert( funcNumber < functions.Num() );'), (634, 1, u'+\tassert( typeDef );'), (636, 1, u'+\tassert( typeDef->Type() == ev_function );'), (646, 1, u'+\tassert( typeDef );'), (648, 1, u'+\tassert( typeDef->Inherits( &type_object ) );'), (658, 1, u'+\tassert( typeDef );'), (728, 1, u'+\tassert( typeDef && ( typeDef->Type() == ev_string ) );'), (830, 1, u'+\tassert( def->next == NULL );'), (1256, 1, u'+\t\t\tassert( scope->Type() == ev_function );'), (1458, 1, u'+\tassert( name );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+const idEventDef EV_Thread_Assert( "assert", "f" );'), (136, 1, u'+\tEVENT( EV_Thread_Assert,\t\t\t\tidThread::Event_Assert )'), (287, 1, u'+\tassert( self );'), (303, 1, u'+\tassert( func );'), (332, 1, u'+\tassert( self );'), (739, 1, u'+\tassert( self );'), (761, 1, u'+\tassert( obj );'), (771, 1, u'+\tassert( obj );'), (1048, 1, u'+void idThread::Event_Assert( float value ) {'), (1049, 1, u'+\tassert( value );'), (1132, 1, u'+\tassert( name );'), (1435, 1, u'+\tassert( func );')]
+===========================================
+Class:  class idInternalCVar : public idCVar { class idInternalCVar : public idCVar 
+Class:   class idCVarSystemLocal : public idCVarSystem { class idCVarSystemLocal : public idCVarSystem 
+Class:  class idCmdSystemLocal : public idCmdSystem { class idCmdSystemLocal : public idCmdSystem 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1051, 1, u'+\tassert( config_compressor );')]
+===========================================
+Class:   class idCompressor_BitStream : public idCompressor_None { class idCompressor_BitStream : public idCompressor_None 
+Class:   class idCompressor_RunLength : public idCompressor_BitStream { class idCompressor_RunLength : public idCompressor_BitStream 
+Class:   class idCompressor_RunLength_ZeroBased : public idCompressor_BitStream { class idCompressor_RunLength_ZeroBased : public idCompressor_BitStream 
+Class: class idCompressor_Huffman : public idCompressor_None { class idCompressor_Huffman : public idCompressor_None 
+Class: class idCompressor_Arithmetic : public idCompressor_BitStream { class idCompressor_Arithmetic : public idCompressor_BitStream 
+Class: class idCompressor_LZSS : public idCompressor_BitStream { class idCompressor_LZSS : public idCompressor_BitStream 
+Class:  class idCompressor_LZSS_WordAligned : public idCompressor_LZSS { class idCompressor_LZSS_WordAligned : public idCompressor_LZSS 
+Class:  class idCompressor_LZW : public idCompressor_BitStream { class idCompressor_LZW : public idCompressor_BitStream 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(363, 1, u'+\t\t\tassert( 0 );')]
+===========================================
+Class: class idDeclFolder { class idDeclFolder 
+Class: class idDeclLocal : public idDeclBase { class idDeclLocal : public idDeclBase 
+Class: class idDeclFile { class idDeclFile 
+Class: class idDeclManagerLocal : public idDeclManager { class idDeclManagerLocal : public idDeclManager 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(363, 1, u'+\t\tassert( code.numBits < sizeof( codes[0].bits ) * 8 );'), (372, 1, u'+\t\tassert( code.numBits <= sizeof( codes[0].bits ) * 8 );'), (445, 1, u'+\tassert( maxHuffmanBits == height );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(138, 1, u'+\tassert( w <= MAX_EDIT_LINE );'), (148, 1, u'+\tassert( c <= MAX_EDIT_LINE );')]
+===========================================
+Class:  class idInitExclusions { class idInitExclusions 
+Class: class idFileSystemLocal : public idFileSystem { class idFileSystemLocal : public idFileSystem 
+Class: class idKey { class idKey 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2431, 1, u'+\t\t\t\tassert( false );'), (3132, 1, u'+\tassert( strlen( key ) == ( CDKEY_BUF_LEN - 1 ) * 2 + 4 + 3 + 4 );'), (3271, 1, u'+\tassert( authEmitTimeout > 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1497, 1, u'+\tassert( guiActive == guiMsg );')]
+===========================================
+Class:  class buttonState_t {  class buttonState_t 
+Class: class idUsercmdGenLocal : public idUsercmdGen { class idUsercmdGenLocal : public idUsercmdGen 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(834, 1, u'+\t\t\t\tassert( !sessLocal.GetActiveMenu( ) );'), (2260, 1, u'+\t\t\t\tassert( pakDl == SERVER_PAK_END );'), (2320, 1, u'+\tassert( !checksums[ count ] ); // 0-terminated')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(252, 1, u'+\tassert( active );'), (1764, 1, u'+\t\t\tassert( challenges[ ichallenge ].authState == CDK_OK || challenges[ ichallenge ].authState == CDK_PUREOK );'), (1910, 1, u'+\tassert( serverChecksums[ 0 ] );'), (2297, 1, u'+\tassert( clientNum >= 0 && clientNum < MAX_ASYNC_CLIENTS );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(108, 1, u'+\tassert( sequence == first );'), (673, 1, u'+\tassert( remoteAddress.type != NA_BAD );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(457, 1, u'+\tassert( handle < animator->NumJoints() );'), (541, 1, u'+\t\t\tassert( 0 );'), (803, 1, u'+\tassert( ent );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(824, 1, u'+\tassert( combatModel );'), (826, 1, u'+\t\tassert( !combatModel->GetContents() );'), (830, 1, u'+\t\tassert( !combatModelContents );'), (1106, 1, u'+\tassert( !gameLocal.isClient );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u'+\tassert( owner );'), (121, 1, u'+\tassert( _animator );'), (154, 1, u'+\t\tassert( 0 );'), (750, 1, u'+\tassert( !head.GetEntity() );'), (887, 1, u'+\t\tassert( ent );'), (1894, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(141, 1, u'+\t\t\tassert(index != -1);'), (222, 1, u'+\t\t\tassert(index != -1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(195, 1, u'+\tassert( view );'), (554, 1, u'+\tassert( view );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1082, 1, u'+\tassert( modelname );'), (1540, 1, u'+\tassert( idStr::Icmpn( soundName, "snd_", 4 ) == 0 );'), (1954, 1, u'+\tassert( ent == this ); // If ent is not pointing to this, then something is very wrong.'), (2296, 1, u'+\tassert( teammember );'), (2375, 1, u'+\t\tassert( teamMaster );'), (2376, 1, u'+\t\tassert( teamMaster->teamChain );'), (2381, 1, u'+\t\t\tassert( ent->teamChain ); // this should never happen'), (2505, 1, u'+\tassert( phys != NULL );'), (3161, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (3176, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (3182, 1, u'+\tassert( thread );'), (3208, 1, u'+\tassert( thread );'), (3230, 1, u'+\tassert( thread );'), (3262, 1, u'+\tassert( ( signalnum >= 0 ) && ( signalnum < NUM_SIGNALS ) );'), (4822, 1, u'+\t\t\tassert( gameLocal.isNewFrame );'), (4838, 1, u'+\t\t\tassert( gameLocal.isNewFrame );'), (5061, 1, u'+\t\tassert( 0 );'), (5067, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(404, 1, u'+\t\tassert( useAction );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(785, 1, u'+\t\tassert( canModify );'), (1286, 1, u'+\t\tassert( ent );'), (1295, 1, u'+\t\tassert( ent );'), (1427, 1, u'+\t\tassert( !entities[ i ] );'), (2168, 1, u'+\t\tassert( !isClient );'), (2393, 1, u'+\tassert( fov_y > 0 );'), (2430, 1, u'+\tassert( ( fov_x > 0 ) && ( fov_y > 0 ) );'), (2852, 1, u'+\t\tassert( check == obstacle );'), (2950, 1, u'+\tassert( ent );'), (2977, 1, u'+\t\tassert( bIsClientReadSnapshot );'), (3373, 1, u'+\t\tassert( ent );'), (3586, 1, u'+\t\tassert( ent );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(743, 1, u'+\t\t\tassert( ent );'), (754, 1, u'+\t\tassert( freedEvent == event );'), (1273, 1, u'+\t\t\tassert( ent );'), (1284, 1, u'+\t\tassert( freedEvent == event );'), (1432, 1, u'+\t\t\tassert( numPortals == gameRenderWorld->NumPortals() );'), (1441, 1, u'+\t\t\tassert( portal > 0 && portal <= gameRenderWorld->NumPortals() );'), (1631, 1, u'+\tassert( !event->next && !event->prev );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(269, 1, u'+\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1308, 1, u'+\tassert ( speed > 0.0f );'), (1532, 1, u'+\tassert( areaPortal );'), (2692, 1, u'+\t\tassert( partial >= 0 );'), (2738, 1, u'+\t\tassert( partial >= 0 );'), (3072, 1, u'+\tassert( areaPortal );'), (3829, 1, u'+\tassert( other && other->IsType( idPlayer::Type ) && static_cast< idPlayer * >( other )->spectating );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(158, 1, u'+\tassert( !scoreBoard && !spectateGui && !guiChat && !mainGui && !mapList );'), (668, 1, u'+\t\tassert( !static_cast< idPlayer * >( leader )->lastManOver );'), (880, 1, u'+\tassert( !gameLocal.isClient );'), (977, 1, u'+\tassert( news != gameState );'), (978, 1, u'+\tassert( !gameLocal.isClient );'), (1096, 1, u'+\t\t\t\t\tassert( rankmaxindex >= 0 );'), (1121, 1, u'+\tassert( !gameLocal.isClient );'), (1316, 1, u'+\tassert( gameLocal.isMultiplayer );'), (1317, 1, u'+\tassert( !gameLocal.isClient );'), (1620, 1, u'+\tassert( currentMenu );'), (2200, 1, u'+\t\t\tassert( parm1 >= 0 );'), (2204, 1, u'+\t\t\tassert( parm1 >= 0 && parm2 >= 0 );'), (2208, 1, u'+\t\t\tassert( parm1 >= 0 && parm2 >= 0 );'), (2212, 1, u'+\t\t\tassert( parm1 >= 0 && parm2 >= 0 );'), (2216, 1, u'+\t\t\tassert( parm1 >= 0 );'), (2318, 1, u'+\t\t\t\t\t\t\tassert( p->entityNumber == currentTourneyPlayer[ 0 ] || p->entityNumber == currentTourneyPlayer[ 1 ] );'), (2351, 1, u'+\t\t\t\t\t\t\tassert( !p->lastManOver );'), (2354, 1, u'+\t\t\t\t\t\t\tassert( gameState == SUDDENDEATH );'), (2445, 1, u'+\tassert( !gameLocal.isClient );'), (2533, 1, u'+\tassert( vote == VOTE_NONE );'), (2710, 1, u'+\tassert( clientNum != -1 );'), (2711, 1, u'+\tassert( !gameLocal.isClient );'), (2763, 1, u'+\t\t\tassert( vote_gameTypeIndex >= 0 && vote_gameTypeIndex <= 3 );'), (2906, 1, u'+\tassert( !gameLocal.isClient );'), (2935, 1, u'+\tassert( gameLocal.gameType == GAME_TDM );'), (2936, 1, u'+\tassert( oldteam != newteam );'), (2937, 1, u'+\tassert( !gameLocal.isClient );'), (2984, 1, u'+\tassert( !gameLocal.isClient );'), (3110, 1, u'+\tassert( gameLocal.isClient || gameLocal.localClientNum == 0 );'), (3133, 1, u'+\tassert( gameLocal.isClient || gameLocal.localClientNum == 0 );'), (3150, 1, u'+\tassert( gameLocal.isClient || gameLocal.localClientNum == 0 );'), (3168, 1, u'+\tassert( gameLocal.localClientNum >= 0 );'), (3200, 1, u'+\tassert( !gameLocal.isClient );'), (3390, 1, u'+\t\tassert( gameLocal.entities[ client ] && gameLocal.entities[ client ]->IsType( idPlayer::Type ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(126, 1, u'+\tassert( type != ICON_NONE );'), (137, 1, u'+\tassert( type != ICON_NONE );'), (177, 1, u'+\tassert( iconHandle >= 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(516, 1, u'+\t\tassert( 0 );'), (1911, 1, u'+\t\tassert( ent );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1035, 1, u'+\t\t\tassert( sourceAreas[i] >= 0 && sourceAreas[i] < numAreas );'), (1406, 1, u'+\tassert( areaVisBytes <= 256 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(181, 1, u'+\tassert( gameLocal.time == 0 || systemStartTime <= gameLocal.time );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(189, 1, u'+\tassert( !owner );'), (716, 1, u'+\tassert( ent );'), (717, 1, u'+\tassert( def );'), (773, 1, u'+\tassert( owner );'), (1169, 1, u'+\tassert( modelname );'), (1484, 1, u'+\tassert( !gameLocal.isClient );'), (1541, 1, u'+\t\tassert( 0 );'), (2098, 1, u'+\tassert( ammoname );'), (2365, 1, u'+\t\tassert( 0 );'), (2543, 1, u'+\tassert( owner );'), (2557, 1, u'+\tassert( owner );'), (2569, 1, u'+\tassert( owner );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(63, 1, u'+\tassert( gameLocal.world == NULL );'), (115, 1, u'+\tassert( gameLocal.world == this );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(146, 1, u'+\t\t\tassert( i < MAX_REACH_PER_AREA );'), (170, 1, u'+\tassert( ( (unsigned int) bytePtr - (unsigned int) areaTravelTimes ) <= numAreaTravelTimes * sizeof( unsigned short ) );'), (362, 1, u'+\tassert( areaNum > 0 && areaNum < file->GetNumAreas() );'), (379, 1, u'+\tassert( areaNum > 0 && areaNum < file->GetNumAreas() );'), (649, 1, u'+\tassert( cacheListStart );'), (784, 1, u'+\t\t\tassert( clusterAreaNum < areaCache->size );'), (908, 1, u'+\t\t\tassert( portalNum < portalCache->size );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2267, 1, u'+\tassert( source );'), (2268, 1, u'+\tassert( dest );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1447, 1, u'+\tassert( targetEntity );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u'+\tassert( ( num > 0 ) && ( num <= ANIM_MaxSyncedAnims ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(94, 1, u'+\t\tassert( idStr::Cmp( classname, (*insert)->classname ) );'), (290, 1, u'+\tassert( ( size & 3 ) == 0 );'), (459, 1, u'+\tassert( ( size & 3 ) == 0 );'), (481, 1, u'+\tassert( ( size & 3 ) == 0 );'), (633, 1, u'+\tassert( ev );'), (834, 1, u'+\tassert( ev );'), (835, 1, u'+\tassert( idEvent::initialized );'), (944, 1, u'+\tassert( ev );'), (945, 1, u'+\tassert( idEvent::initialized );'), (985, 1, u'+\tassert( D_EVENT_MAXARGS == 8 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(65, 1, u'+\tassert( command );'), (66, 1, u'+\tassert( !idEvent::initialized );'), (79, 1, u'+\tassert( numargs <= D_EVENT_MAXARGS );'), (197, 1, u'+\tassert( name );'), (385, 1, u'+\tassert( initialized );'), (476, 1, u'+\t\tassert( event );'), (531, 1, u'+\t\tassert( event->object );'), (668, 1, u'+\t\tassert( size == event->eventdef->GetArgSize() );'), (723, 1, u'+\t\t\tassert( format );'), (759, 1, u'+\t\t\tassert( size == event->eventdef->GetArgSize() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2114, 1, u'+\tassert( surfaces != NULL );'), (2115, 1, u'+\tassert( ent != NULL );'), (2243, 1, u'+\tassert( geom->facePlanes != NULL );')]
+===========================================
+Class:  class idTypeInfoTools { class idTypeInfoTools 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(458, 1, u'+\tassert( renderModelHandle == -1 );'), (547, 1, u'+\tassert( idClipModel::entity );'), (811, 1, u'+\t\tassert( false );'), (966, 1, u'+\t\tassert( 0 );'), (1203, 1, u'+\tassert( rotation.GetOrigin() == start );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 1, u'+\tassert( clipModel );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(156, 1, u'+\tassert( 0 );'), (194, 1, u'+\tassert( 0 );'), (203, 1, u'+\tassert( 0 );'), (254, 1, u'+\tassert( t == type );'), (270, 1, u'+\tassert( body1 );'), (463, 1, u'+\tassert( body1 );'), (920, 1, u'+\tassert( body1 );'), (999, 1, u'+\tassert( l != 0.0f );'), (1002, 1, u'+\tassert( l != 0.0f );'), (1511, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1520, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1529, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1538, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1547, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1556, 1, u'+\tassert( 0 );\t// FIXME: implement'), (1572, 1, u'+\tassert( body1 );'), (2274, 1, u'+\tassert( body1 );'), (2461, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2470, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2479, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2488, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2497, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2506, 1, u'+\tassert( 0 );\t// FIXME: implement'), (2522, 1, u'+\tassert( body1 );'), (2687, 1, u'+\tassert( body1 );'), (2721, 1, u'+\tassert( stretch >= 0.0f && compress >= 0.0f && restLength >= 0.0f );'), (2734, 1, u'+\tassert( minLength >= 0.0f && maxLength >= 0.0f && maxLength >= minLength );'), (3006, 1, u'+\tassert( b1 );'), (3112, 1, u'+\tassert( 0 );\t// contact should never be translated'), (3121, 1, u'+\tassert( 0 );\t// contact should never be rotated'), (4147, 1, u'+\tassert( clipModel );'), (4148, 1, u'+\tassert( clipModel->IsTraceModel() );'), (6794, 1, u'+\tassert( num == bodies.Num() );'), (6805, 1, u'+\tassert( num == constraints.Num() );'), (7978, 1, u'+\tassert( num == bodies.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 1, u'+\tassert( self );'), (160, 1, u'+\tassert( model );\t\t\t\t\t// a clip model is required'), (161, 1, u'+\tassert( model->IsTraceModel() );\t// and it should be a trace model'), (162, 1, u'+\tassert( density > 0.0f );\t\t\t// density should be valid'), (195, 1, u'+\tassert( _mass > 0.0f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(118, 1, u'+\tassert( e );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(315, 1, u'+\tassert( clipModel );'), (477, 1, u'+\tassert( self );'), (478, 1, u'+\tassert( model );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(603, 1, u'+\tassert( self );'), (604, 1, u'+\tassert( model );\t\t\t\t\t// we need a clip model'), (605, 1, u'+\tassert( model->IsTraceModel() );\t// and it should be a trace model'), (606, 1, u'+\tassert( density > 0.0f );\t\t\t// density should be valid'), (673, 1, u'+\tassert( mass > 0.0f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(110, 1, u'+\tassert( e );'), (120, 1, u'+\tassert( self );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(138, 1, u'+\tassert( e );'), (167, 1, u'+\tassert( self );'), (1030, 1, u'+\tassert( num == current.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1091, 1, u'+\t\tassert( clipModel->IsTraceModel() );'), (1267, 1, u'+\t\tassert( clipModel->IsTraceModel() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(214, 1, u'+\tassert( ( sizeof( opcodes ) / sizeof( opcodes[ 0 ] ) ) == ( NUM_OPCODES + 1 ) );'), (1056, 1, u'+\tassert( funcDef );'), (1066, 1, u'+\tassert( funcDef->value.functionPtr );'), (1708, 1, u'+\tassert( op->name );'), (2067, 1, u'+\t\t\tassert( !type->def );'), (2141, 1, u'+\t\tassert( func );'), (2196, 1, u'+\t\t\tassert( selfDef );'), (2234, 1, u'+\t\t\tassert( selfDef );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(595, 1, u'+\tassert( !func->eventdef );'), (601, 1, u'+\tassert( c >= 0 );'), (651, 1, u'+\tassert( localstackUsed == localstackBase );'), (697, 1, u'+\tassert( func->eventdef );'), (868, 1, u'+\tassert( func->eventdef );'), (989, 1, u'+\t\t\t\tassert( st->c->value.argSize == func->parmTotal );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(482, 1, u'+\tassert( parmNumber >= 0 );'), (483, 1, u'+\tassert( parmNumber < parmTypes.Num() );'), (493, 1, u'+\tassert( parmNumber >= 0 );'), (494, 1, u'+\tassert( parmNumber < parmTypes.Num() );'), (529, 1, u'+\tassert( funcNumber >= 0 );'), (530, 1, u'+\tassert( funcNumber < functions.Num() );'), (634, 1, u'+\tassert( typeDef );'), (636, 1, u'+\tassert( typeDef->Type() == ev_function );'), (646, 1, u'+\tassert( typeDef );'), (648, 1, u'+\tassert( typeDef->Inherits( &type_object ) );'), (658, 1, u'+\tassert( typeDef );'), (728, 1, u'+\tassert( typeDef && ( typeDef->Type() == ev_string ) );'), (830, 1, u'+\tassert( def->next == NULL );'), (1256, 1, u'+\t\t\tassert( scope->Type() == ev_function );'), (1458, 1, u'+\tassert( name );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+const idEventDef EV_Thread_Assert( "assert", "f" );'), (125, 1, u'+\tEVENT( EV_Thread_Assert,\t\t\t\tidThread::Event_Assert )'), (265, 1, u'+\tassert( self );'), (281, 1, u'+\tassert( func );'), (310, 1, u'+\tassert( self );'), (717, 1, u'+\tassert( self );'), (739, 1, u'+\tassert( obj );'), (749, 1, u'+\tassert( obj );'), (1026, 1, u'+void idThread::Event_Assert( float value ) {'), (1027, 1, u'+\tassert( value );'), (1100, 1, u'+\tassert( name );'), (1355, 1, u'+\tassert( func );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(64, 1, u'+\tassert( numBits >= 0 );'), (592, 1, u'+\tassert( numBits >= 6 && numBits <= 32 );'), (593, 1, u'+\tassert( dir.LengthSqr() - 1.0f < 0.01f );'), (619, 1, u'+\tassert( numBits >= 6 && numBits <= 32 );'), (806, 1, u'+\t\tassert( length < sizeof( baseData ) );'), (949, 1, u'+\t\tassert( length < sizeof( baseData ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(513, 1, u'+\t\tassert( FindKey( args[i].GetKey() ) != NULL );'), (528, 1, u'+\tassert( prefix );'), (534, 1, u'+\t\tassert( start >= 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(163, 1, u'+\tassert( smallCurPage );'), (232, 1, u'+\tassert( pagesAllocated == 0 );'), (437, 1, u'+\tassert( p );'), (516, 1, u'+\tassert( p );'), (632, 1, u'+\tassert( best );'), (633, 1, u'+\tassert( best->size == p->largestFree );'), (634, 1, u'+\tassert( best->size >= sizeNeeded );'), (769, 1, u'+\t\tassert( mediumLastFreePage );'), (770, 1, u'+\t\tassert( mediumFirstFreePage );'), (771, 1, u'+\t\tassert( p->prev);'), (801, 1, u'+\tassert( e->size );'), (802, 1, u'+\tassert( e->freeBlock == 0 );'), (819, 1, u'+\t\t\tassert( !(e->nextFree->prevFree) );'), (843, 1, u'+\t\t\tassert( next == p->firstFree );'), (862, 1, u'+\t\tassert( e != p->firstFree );'), (925, 1, u'+\tassert( p );'), (1119, 1, u'+\tassert( ( ((int)mem) & 15) == 0 );'), (1140, 1, u'+\tassert( ( ((int)ptr) & 15) == 0 );'), (1692, 1, u'+\tassert( ( ((int)mem) & 15) == 0 );'), (1706, 1, u'+\tassert( ( ((int)ptr) & 15) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(101, 1, u'+\t\t\tassert( kv.key.Cmpn( STRTABLE_ID, STRTABLE_ID_LENGTH ) == 0 );'), (194, 1, u'+\tassert( kv.key.Cmpn( STRTABLE_ID, STRTABLE_ID_LENGTH ) == 0 );'), (226, 1, u'+\tassert( kv.key.Cmpn( STRTABLE_ID, STRTABLE_ID_LENGTH ) == 0 );'), (305, 1, u"+\t\tassert( str[0] >= '0' && str[0] <= '9' );")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(59, 1, u'+\tassert( sizeof( bool ) == 1 );'), (576, 1, u'+void AssertFailed( const char *file, int line, const char *expression ) {')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(86, 1, u'+\tassert( amount > 0 );'), (160, 1, u'+\t\tassert( strlen( text ) < (unsigned)len );'), (1095, 1, u'+\tassert( n >= 0 );'), (1155, 1, u'+\tassert( n >= 0 );'), (1307, 1, u'+\tassert( n >= 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(116, 1, u'+\tassert ( timers.Num() == names.Num() );'), (128, 1, u'+\tassert ( timers.Num() == names.Num() );'), (151, 1, u'+\tassert( timers.Num() == names.Num() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 1, u'+\tassert( type == TT_NUMBER );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1220, 1, u'+\tassert( dFar > 0.0f );'), (1380, 1, u'+\tassert( dFar > 0.0f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(40, 1, u'+\tassert( idMath::IsPowerOfTwo( initialHashSize ) );'), (57, 1, u'+\tassert( idMath::IsPowerOfTwo( newHashSize ) );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(892, 1, u'+\t\t\t\tassert( edges[edgeNum].tris[0] == -1 ); // edge may not be shared by more than two triangles'), (896, 1, u'+\t\t\t\tassert( edges[edgeNum].tris[1] == -1 ); // edge may not be shared by more than two triangles')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(61, 1, u'+\tassert( expanded == true );'), (107, 1, u'+\tassert( expanded == true );'), (160, 1, u'+\tassert( expanded == true );'), (262, 1, u'+\tassert( expanded == false );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(103, 1, u'+\tassert( this );'), (246, 1, u'+\tassert( this );'), (361, 1, u'+\tassert( this );'), (1470, 1, u'+\tassert( n <= MAX_POINTS_ON_WINDING );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(92, 1, u'+\t\tassert( numPlanes < MAX_POINTS_ON_WINDING_2D );')]
+===========================================
+Class:        class idLCP_Symmetric : public idLCP { class idLCP_Symmetric : public idLCP 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(179, 1, u'+\tassert( r >= numClamped );'), (219, 1, u'+\tassert( r < numClamped );'), (515, 1, u'+\tassert( padded || o_m.GetNumRows() == o_m.GetNumColumns() );'), (516, 1, u'+\tassert( o_x.GetSize() == o_m.GetNumRows() );'), (517, 1, u'+\tassert( o_b.GetSize() == o_m.GetNumRows() );'), (518, 1, u'+\tassert( o_lo.GetSize() == o_m.GetNumRows() );'), (519, 1, u'+\tassert( o_hi.GetSize() == o_m.GetNumRows() );'), (907, 1, u'+\tassert( r >= numClamped );'), (962, 1, u'+\tassert( r < numClamped );'), (1305, 1, u'+\tassert( padded || o_m.GetNumRows() == o_m.GetNumColumns() );'), (1306, 1, u'+\tassert( o_x.GetSize() == o_m.GetNumRows() );'), (1307, 1, u'+\tassert( o_b.GetSize() == o_m.GetNumRows() );'), (1308, 1, u'+\tassert( o_lo.GetSize() == o_m.GetNumRows() );'), (1309, 1, u'+\tassert( o_hi.GetSize() == o_m.GetNumRows() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+\tassert( exponentBits >= 2 && exponentBits <= 8 );'), (80, 1, u'+\tassert( mantissaBits >= 2 && mantissaBits <= 23 );'), (122, 1, u'+\tassert( exponentBits >= 2 && exponentBits <= 8 );'), (123, 1, u'+\tassert( mantissaBits >= 2 && mantissaBits <= 23 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3004, 1, u'+\tassert( r < numRows );'), (3023, 1, u'+\tassert( r < numColumns );'), (3043, 1, u'+\tassert( r < numRows && r < numColumns );'), (3454, 1, u'+\tassert( v.GetSize() >= numRows );'), (3455, 1, u'+\tassert( w.GetSize() >= numColumns );'), (3476, 1, u'+\tassert( numRows == numColumns );'), (3477, 1, u'+\tassert( v.GetSize() >= numRows );'), (3503, 1, u'+\tassert( w[r] == 0.0f );'), (3504, 1, u'+\tassert( v.GetSize() >= numColumns );'), (3505, 1, u'+\tassert( w.GetSize() >= numRows );'), (3531, 1, u'+\tassert( numRows == numColumns );'), (3532, 1, u'+\tassert( v.GetSize() >= numRows );'), (3560, 1, u'+\tassert( numRows == numColumns );'), (3561, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (3562, 1, u'+\tassert( w.GetSize() >= numColumns+1 );'), (3589, 1, u'+\tassert( numRows == numColumns );'), (3590, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (3624, 1, u'+\tassert( numRows == numColumns );'), (3714, 1, u'+\tassert( numRows == numColumns );'), (3715, 1, u'+\tassert( v.GetSize() >= numColumns );'), (3716, 1, u'+\tassert( w.GetSize() >= numRows );'), (3756, 1, u'+\tassert( numRows == numColumns );'), (3757, 1, u'+\tassert( v.GetSize() >= numColumns );'), (3758, 1, u'+\tassert( w.GetSize() >= numRows );'), (3759, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (3760, 1, u'+\tassert( w[r] == 0.0f );'), (3790, 1, u'+\tassert( numRows == numColumns );'), (3791, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (3792, 1, u'+\tassert( w.GetSize() >= numColumns+1 );'), (3815, 1, u'+\tassert( numRows == numColumns );'), (3816, 1, u'+\tassert( v.GetSize() >= numRows );'), (3817, 1, u'+\tassert( w.GetSize() >= numColumns );'), (3818, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (3952, 1, u'+\tassert( v.GetSize() >= numColumns );'), (3953, 1, u'+\tassert( w.GetSize() >= numRows );'), (4027, 1, u'+\tassert( v.GetSize() >= numColumns );'), (4028, 1, u'+\tassert( w.GetSize() >= numRows );'), (4029, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (4030, 1, u'+\tassert( w[r] == 0.0f );'), (4050, 1, u'+\tassert( v.GetSize() >= numColumns );'), (4051, 1, u'+\tassert( w.GetSize() >= numRows );'), (4052, 1, u'+\tassert( r >= 0 && r < numColumns && r < numRows );'), (4053, 1, u'+\tassert( w[r] == 0.0f );'), (4174, 1, u'+\tassert( numRows == numColumns );'), (4175, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (4176, 1, u'+\tassert( w.GetSize() >= numColumns+1 );'), (4223, 1, u'+\tassert( numRows == numColumns );'), (4224, 1, u'+\tassert( v.GetSize() >= numColumns );'), (4225, 1, u'+\tassert( w.GetSize() >= numRows );'), (4226, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (4312, 1, u'+\tassert( x.GetSize() == numColumns && b.GetSize() == numRows );'), (4348, 1, u'+\tassert( numRows == numColumns );'), (4440, 1, u'+\tassert( numRows == numColumns );'), (4441, 1, u'+\tassert( c.GetSize() >= numRows && d.GetSize() >= numRows );'), (4552, 1, u'+\tassert( v.GetSize() >= numColumns );'), (4553, 1, u'+\tassert( w.GetSize() >= numRows );'), (4601, 1, u'+\tassert( v.GetSize() >= numColumns );'), (4602, 1, u'+\tassert( w.GetSize() >= numRows );'), (4603, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (4604, 1, u'+\tassert( w[r] == 0.0f );'), (4634, 1, u'+\tassert( numRows == numColumns );'), (4635, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (4636, 1, u'+\tassert( w.GetSize() >= numColumns+1 );'), (4662, 1, u'+\tassert( numRows == numColumns );'), (4663, 1, u'+\tassert( v.GetSize() >= numRows );'), (4664, 1, u'+\tassert( w.GetSize() >= numColumns );'), (4665, 1, u'+\tassert( r >= 0 && r < numRows && r < numColumns );'), (4698, 1, u'+\tassert( numRows == numColumns );'), (4699, 1, u'+\tassert( x.GetSize() >= numRows && b.GetSize() >= numRows );'), (4700, 1, u'+\tassert( c.GetSize() >= numRows && d.GetSize() >= numRows );'), (4741, 1, u'+\tassert( numRows == numColumns );'), (4768, 1, u'+\tassert( numRows == numColumns );'), (5190, 1, u'+\tassert( x.GetSize() >= numColumns );'), (5191, 1, u'+\tassert( b.GetSize() >= numColumns );'), (5192, 1, u'+\tassert( w.GetSize() == numColumns );'), (5193, 1, u'+\tassert( V.GetNumRows() == numColumns && V.GetNumColumns() == numColumns );'), (5228, 1, u'+\tassert( numRows == numColumns );'), (5299, 1, u'+\tassert( numRows == numColumns );'), (5342, 1, u'+\tassert( numRows == numColumns );'), (5343, 1, u'+\tassert( v.GetSize() >= numRows );'), (5344, 1, u'+\tassert( offset >= 0 && offset < numRows );'), (5398, 1, u'+\tassert( numRows == numColumns );'), (5399, 1, u'+\tassert( v.GetSize() >= numRows );'), (5400, 1, u'+\tassert( r >= 0 && r < numRows );'), (5579, 1, u'+\tassert( numRows == numColumns );'), (5580, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (5623, 1, u'+\tassert( numRows == numColumns );'), (5624, 1, u'+\tassert( v.GetSize() >= numRows );'), (5625, 1, u'+\tassert( r >= 0 && r < numRows );'), (5661, 1, u'+\tassert( numRows == numColumns );'), (5662, 1, u'+\tassert( x.GetSize() >= numRows && b.GetSize() >= numRows );'), (5694, 1, u'+\tassert( numRows == numColumns );'), (5755, 1, u'+\tassert( numRows == numColumns );'), (5800, 1, u'+\tassert( numRows == numColumns );'), (5801, 1, u'+\tassert( v.GetSize() >= numRows );'), (5802, 1, u'+\tassert( offset >= 0 && offset < numRows );'), (5853, 1, u'+\tassert( numRows == numColumns );'), (5854, 1, u'+\tassert( v.GetSize() >= numRows );'), (5855, 1, u'+\tassert( r >= 0 && r < numRows );'), (6046, 1, u'+\tassert( numRows == numColumns );'), (6047, 1, u'+\tassert( v.GetSize() >= numRows+1 );'), (6090, 1, u'+\tassert( numRows == numColumns );'), (6091, 1, u'+\tassert( v.GetSize() >= numRows );'), (6092, 1, u'+\tassert( r >= 0 && r < numRows );'), (6128, 1, u'+\tassert( numRows == numColumns );'), (6129, 1, u'+\tassert( x.GetSize() >= numRows && b.GetSize() >= numRows );'), (6166, 1, u'+\tassert( numRows == numColumns );'), (6250, 1, u'+\tassert( numRows == numColumns );'), (6271, 1, u'+\tassert( numRows == numColumns );'), (6272, 1, u'+\tassert( x.GetSize() >= numRows && b.GetSize() >= numRows );'), (6308, 1, u'+\tassert( numRows == numColumns );'), (6341, 1, u'+\tassert( numRows == numColumns );'), (6447, 1, u'+\tassert( numRows == numColumns );'), (6524, 1, u'+\tassert( numRows == numColumns );'), (6553, 1, u'+\tassert( numRows == numColumns );'), (7069, 1, u'+\tassert( numRows == numColumns );'), (7264, 1, u'+\t\tassert( 0 );'), (7292, 1, u'+\t\t\tassert( 0 );'), (7320, 1, u'+\t\tassert( 0 );'), (7351, 1, u'+\t\t\tassert( 0 );'), (7392, 1, u'+\t\tassert( 0 );'), (7424, 1, u'+\t\t\tassert( 0 );'), (7456, 1, u'+\t\tassert( 0 );'), (7491, 1, u'+\t\t\tassert( 0 );'), (7562, 1, u'+\t\tassert( 0 );'), (7597, 1, u'+\t\t\tassert( 0 );'), (7632, 1, u'+\t\tassert( 0 );'), (7670, 1, u'+\t\t\tassert( 0 );'), (7758, 1, u'+\t\tassert( 0 );'), (7788, 1, u'+\t\t\tassert( 0 );'), (7821, 1, u'+\t\tassert( 0 );'), (7853, 1, u'+\t\t\tassert( 0 );'), (7914, 1, u'+\t\tassert( 0 );'), (7942, 1, u'+\t\t\tassert( 0 );'), (7975, 1, u'+\t\tassert( 0 );'), (8007, 1, u'+\t\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(198, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (205, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (212, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (219, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (226, 1, u'+\t\tassert( idMath::Fabs( value ) < 1e-4f );'), (233, 1, u'+\t\tassert( idMath::Fabs( complexValue.r ) < 1e-4f && idMath::Fabs( complexValue.i ) < 1e-4f );'), (240, 1, u'+\t\tassert( idMath::Fabs( complexValue.r ) < 1e-4f && idMath::Fabs( complexValue.i ) < 1e-4f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1422, 1, u'+\tassert( sizeof(idPlane)  == PLANE_OFFSET * sizeof(float) );'), (1545, 1, u'+\t\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof( float ) );'), (1632, 1, u'+\t\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof( float ) );'), (1815, 1, u'+\tassert( sizeof(idPlane) == PLANE_OFFSET * sizeof(float) );'), (1941, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof( float ) );'), (2050, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof( float ) );'), (3873, 1, u'+\tassert( IS_16BYTE_ALIGNED( dst[0] ) );'), (3921, 1, u'+\tassert( IS_16BYTE_ALIGNED( dst[0] ) );'), (3923, 1, u'+\tassert( IS_16BYTE_ALIGNED( src1[0] ) );'), (3925, 1, u'+\tassert( IS_16BYTE_ALIGNED( src2[0] ) );'), (3965, 1, u'+\tassert( IS_16BYTE_ALIGNED( dst[0] ) );'), (3967, 1, u'+\tassert( IS_16BYTE_ALIGNED( src1[0] ) );'), (3969, 1, u'+\tassert( IS_16BYTE_ALIGNED( src2[0] ) );'), (4010, 1, u'+\tassert( IS_16BYTE_ALIGNED( dst[0] ) );'), (4012, 1, u'+\tassert( IS_16BYTE_ALIGNED( src1[0] ) );'), (4054, 1, u'+\tassert( IS_16BYTE_ALIGNED( dst[0] ) );'), (4056, 1, u'+\tassert( IS_16BYTE_ALIGNED( src[0] ) );'), (4097, 1, u'+\tassert( IS_16BYTE_ALIGNED( dst[0] ) );'), (4099, 1, u'+\tassert( IS_16BYTE_ALIGNED( src[0] ) );'), (4134, 1, u'+\tassert( IS_16BYTE_ALIGNED( dst[0] ) );'), (5239, 1, u'+\t\tassert( parents[i] < i );'), (5247, 1, u'+\t\tassert( parents[i] < i );'), (5313, 1, u'+\t\tassert( parents[i] < i );'), (5320, 1, u'+\t\tassert( parents[i] < i );'), (5469, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (5708, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (5932, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (6186, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (6425, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (6624, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (6813, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (6815, 1, u'+\tassert( sizeof(idPlane) == PLANE_OFFSET * sizeof(float) );'), (7262, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (7264, 1, u'+\tassert( IS_16BYTE_ALIGNED( verts[0] ) );'), (7832, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (8585, 1, u'+\tassert( IS_16BYTE_ALIGNED( vertexCache[0] ) );'), (8876, 1, u'+\tassert( IS_16BYTE_ALIGNED( vertexCache[0] ) );'), (8878, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (8880, 1, u'+\tassert( sizeof(idVec4) == IDVEC4_OFFSET * sizeof(float) );'), (8968, 1, u'+\tassert( sizeof(idDrawVert) == DRAWVERT_OFFSET * sizeof(float) );'), (8970, 1, u'+\tassert( sizeof(idVec4) == IDVEC4_OFFSET * sizeof(float) );'), (9092, 1, u'+\tassert( IS_16BYTE_ALIGNED( dest[0] ) );'), (9106, 1, u'+\tassert( numSamples >= 12 );'), (9272, 1, u'+\t\tassert( 0 );'), (9539, 1, u'+\t\tassert( 0 );'), (9558, 1, u'+\tassert( IS_16BYTE_ALIGNED( dest[0] ) );'), (9825, 1, u'+\t\tassert( 0 );'), (10191, 1, u'+\t\tassert( 0 );'), (10208, 1, u'+\tassert( IS_16BYTE_ALIGNED( mixBuffer[0] ) );'), (10237, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (10342, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (10429, 1, u'+\tassert( IS_16BYTE_ALIGNED( mixBuffer[0] ) );'), (10444, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (10539, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (10633, 1, u'+\tassert( IS_16BYTE_ALIGNED( mixBuffer[0] ) );'), (10648, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (10649, 1, u'+\tassert( SPEAKER_RIGHT == 1 );'), (10650, 1, u'+\tassert( SPEAKER_BACKRIGHT == 5 );'), (10786, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (10787, 1, u'+\tassert( SPEAKER_RIGHT == 1 );'), (10788, 1, u'+\tassert( SPEAKER_BACKRIGHT == 5 );'), (10924, 1, u'+\tassert( IS_16BYTE_ALIGNED( mixBuffer[0] ) );'), (10938, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (10939, 1, u'+\tassert( SPEAKER_RIGHT == 1 );'), (10940, 1, u'+\tassert( SPEAKER_BACKRIGHT == 5 );'), (11060, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (11061, 1, u'+\tassert( SPEAKER_RIGHT == 1 );'), (11062, 1, u'+\tassert( SPEAKER_BACKRIGHT == 5 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 1, u'+#define NODEFAULT\tdefault: assert( 0 )'), (713, 1, u'+\tassert( vec.GetSize() >= mat.GetNumColumns() );'), (714, 1, u'+\tassert( dst.GetSize() >= mat.GetNumRows() );'), (784, 1, u'+\tassert( vec.GetSize() >= mat.GetNumColumns() );'), (785, 1, u'+\tassert( dst.GetSize() >= mat.GetNumRows() );'), (855, 1, u'+\tassert( vec.GetSize() >= mat.GetNumColumns() );'), (856, 1, u'+\tassert( dst.GetSize() >= mat.GetNumRows() );'), (926, 1, u'+\tassert( vec.GetSize() >= mat.GetNumRows() );'), (927, 1, u'+\tassert( dst.GetSize() >= mat.GetNumColumns() );'), (998, 1, u'+\tassert( vec.GetSize() >= mat.GetNumRows() );'), (999, 1, u'+\tassert( dst.GetSize() >= mat.GetNumColumns() );'), (1070, 1, u'+\tassert( vec.GetSize() >= mat.GetNumRows() );'), (1071, 1, u'+\tassert( dst.GetSize() >= mat.GetNumColumns() );'), (1152, 1, u'+\tassert( m1.GetNumColumns() == m2.GetNumRows() );'), (1497, 1, u'+\tassert( m1.GetNumRows() == m2.GetNumRows() );'), (2292, 1, u'+\t\tassert( parents[i] < i );'), (2306, 1, u'+\t\tassert( parents[i] < i );'), (2876, 1, u'+\t\tassert( 0 );'), (2922, 1, u'+\t\tassert( 0 );'), (2937, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (2958, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (2988, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (3026, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (96, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (258, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (259, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (1123, 1, u'+\tassert( a >= 0.0f && a <= idMath::HALF_PI );'), (1150, 1, u'+\tassert( a >= 0.0f && a <= idMath::HALF_PI );'), (1364, 1, u'+\tassert( a >= 0.0f && a <= idMath::HALF_PI );'), (1389, 1, u'+\tassert( a >= 0.0f && a <= idMath::HALF_PI );'), (1749, 1, u'+\tassert( y >= 0.0f && x >= 0.0f );'), (1798, 1, u'+\tassert( y >= 0.0f && x >= 0.0f );'), (2059, 1, u'+\t\t\tassert( 0 );'), (2066, 1, u'+\t\t\tassert( 0 );'), (2077, 1, u'+\t\t\tassert( 0 );'), (2084, 1, u'+\t\t\tassert( 0 );'), (2089, 1, u'+\t\t\tassert( 0 );'), (2687, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (2688, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (2984, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (2985, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (3778, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (3779, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (3862, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (3863, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (4411, 1, u'+\tassert( vec.GetSize() >= mat.GetNumColumns() );'), (4412, 1, u'+\tassert( dst.GetSize() >= mat.GetNumRows() );'), (5157, 1, u'+\tassert( vec.GetSize() >= mat.GetNumColumns() );'), (5158, 1, u'+\tassert( dst.GetSize() >= mat.GetNumRows() );'), (5903, 1, u'+\tassert( vec.GetSize() >= mat.GetNumColumns() );'), (5904, 1, u'+\tassert( dst.GetSize() >= mat.GetNumRows() );'), (6639, 1, u'+\tassert( vec.GetSize() >= mat.GetNumRows() );'), (6640, 1, u'+\tassert( dst.GetSize() >= mat.GetNumColumns() );'), (7203, 1, u'+\tassert( vec.GetSize() >= mat.GetNumRows() );'), (7204, 1, u'+\tassert( dst.GetSize() >= mat.GetNumColumns() );'), (7767, 1, u'+\tassert( vec.GetSize() >= mat.GetNumRows() );'), (7768, 1, u'+\tassert( dst.GetSize() >= mat.GetNumColumns() );'), (8318, 1, u'+\tassert( m1.GetNumColumns() == m2.GetNumRows() );'), (9613, 1, u'+\tassert( m1.GetNumRows() == m2.GetNumRows() );'), (10834, 1, u'+\tassert( ( nc & 3 ) == 0 );'), (11697, 1, u'+\tassert( sizeof( idJointQuat ) == JOINTQUAT_SIZE );'), (11698, 1, u'+\tassert( sizeof( idJointMat ) == JOINTMAT_SIZE );'), (11699, 1, u'+\tassert( (int)(&((idJointQuat *)0)->t) == (int)(&((idJointQuat *)0)->q) + (int)sizeof( ((idJointQuat *)0)->q ) );'), (11757, 1, u'+\tassert( sizeof( idJointQuat ) == JOINTQUAT_SIZE );'), (11758, 1, u'+\tassert( sizeof( idJointMat ) == JOINTMAT_SIZE );'), (11759, 1, u'+\tassert( (int)(&((idJointQuat *)0)->t) == (int)(&((idJointQuat *)0)->q) + (int)sizeof( ((idJointQuat *)0)->q ) );'), (12275, 1, u'+\tassert( sizeof( idJointMat ) == JOINTMAT_SIZE );'), (12368, 1, u'+\t\tassert( parents[i] < i );'), (12383, 1, u'+\tassert( sizeof( idJointMat ) == JOINTMAT_SIZE );'), (12470, 1, u'+\t\tassert( parents[i] < i );'), (12485, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (12486, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (12487, 1, u'+\tassert( sizeof( idVec4 ) == JOINTWEIGHT_SIZE );'), (12488, 1, u'+\tassert( sizeof( idJointMat ) == JOINTMAT_SIZE );'), (12595, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (12596, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (12725, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (12726, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (12962, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (12963, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (13130, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (13131, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (13646, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (13647, 1, u'+\tassert( (int)&((idDrawVert *)0)->normal == DRAWVERT_NORMAL_OFFSET );'), (13648, 1, u'+\tassert( (int)&((idDrawVert *)0)->tangents[0] == DRAWVERT_TANGENT0_OFFSET );'), (13649, 1, u'+\tassert( (int)&((idDrawVert *)0)->tangents[1] == DRAWVERT_TANGENT1_OFFSET );'), (13651, 1, u'+\tassert( planes != NULL );'), (13652, 1, u'+\tassert( verts != NULL );'), (13653, 1, u'+\tassert( numVerts >= 0 );'), (15097, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (15098, 1, u'+\tassert( (int)&((idDrawVert *)0)->normal == DRAWVERT_NORMAL_OFFSET );'), (15099, 1, u'+\tassert( (int)&((idDrawVert *)0)->tangents[0] == DRAWVERT_TANGENT0_OFFSET );'), (15100, 1, u'+\tassert( (int)&((idDrawVert *)0)->tangents[1] == DRAWVERT_TANGENT1_OFFSET );'), (15102, 1, u'+\tassert( verts != NULL );'), (15103, 1, u'+\tassert( numVerts >= 0 );'), (15550, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (15551, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (15552, 1, u'+\tassert( (int)&((idDrawVert *)0)->normal == DRAWVERT_NORMAL_OFFSET );'), (15553, 1, u'+\tassert( (int)&((idDrawVert *)0)->tangents[0] == DRAWVERT_TANGENT0_OFFSET );'), (15554, 1, u'+\tassert( (int)&((idDrawVert *)0)->tangents[1] == DRAWVERT_TANGENT1_OFFSET );'), (15978, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (15979, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (15980, 1, u'+\tassert( (int)&((idDrawVert *)0)->normal == DRAWVERT_NORMAL_OFFSET );'), (15981, 1, u'+\tassert( (int)&((idDrawVert *)0)->tangents[0] == DRAWVERT_TANGENT0_OFFSET );'), (15982, 1, u'+\tassert( (int)&((idDrawVert *)0)->tangents[1] == DRAWVERT_TANGENT1_OFFSET );'), (17166, 1, u'+\t\tassert( 0 );'), (17477, 1, u'+\t\tassert( 0 );'), (17491, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (17557, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (17594, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (17656, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (17693, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (17788, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (17863, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (17864, 1, u'+\tassert( SPEAKER_RIGHT == 1 );'), (17865, 1, u'+\tassert( SPEAKER_BACKRIGHT == 5 );'), (17941, 1, u'+\tassert( numSamples == MIXBUFFER_SAMPLES );'), (17942, 1, u'+\tassert( SPEAKER_RIGHT == 1 );'), (17943, 1, u'+\tassert( SPEAKER_BACKRIGHT == 5 );'), (18016, 1, u'+\tassert( ( numSamples % MIXBUFFER_SAMPLES ) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(836, 1, u'+\tassert( ( numSamples % MIXBUFFER_SAMPLES ) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(274, 1, u'+\tassert( sizeof( idDrawVert ) == DRAWVERT_SIZE );'), (275, 1, u'+\tassert( (int)&((idDrawVert *)0)->xyz == DRAWVERT_XYZ_OFFSET );'), (276, 1, u'+\tassert( sizeof( idVec4 ) == JOINTWEIGHT_SIZE );'), (277, 1, u'+\tassert( sizeof( idJointMat ) == JOINTMAT_SIZE );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2517, 1, u'+\tassert( GetStage(0) && GetStage(0)->texture.image );'), (2527, 1, u'+\tassert( GetStage(0) && GetStage(0)->texture.image );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+\tassert( material != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(257, 1, u'+\tassert( dynamic_cast<idRenderModelStatic *>(baseModel) != NULL );'), (363, 1, u'+\tassert( dynamic_cast<idRenderModelStatic *>(baseModel) != NULL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(84, 1, u'+\t\tassert( dynamic_cast<idRenderModelStatic *>( cachedModel ) != NULL );'), (85, 1, u'+\t\tassert( idStr::Icmp( cachedModel->Name(), beam_SnapshotName ) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(750, 1, u'+\t\tassert( dynamic_cast<idRenderModelStatic *>(cachedModel) != NULL );'), (751, 1, u'+\t\tassert( idStr::Icmp( cachedModel->Name(), MD5_SnapshotName ) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+\t\tassert( dynamic_cast<idRenderModelStatic *>(cachedModel) != NULL );'), (101, 1, u'+\t\tassert( idStr::Icmp( cachedModel->Name(), parametricParticle_SnapshotName ) == 0 );'), (219, 1, u'+\t\tassert( ( numVerts & 3 ) == 0 && numVerts <= 4 * count );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(84, 1, u'+\t\tassert( dynamic_cast<idRenderModelStatic *>( cachedModel ) != NULL );'), (85, 1, u'+\t\tassert( idStr::Icmp( cachedModel->Name(), sprite_SnapshotName ) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(950, 1, u'+\tassert( areas );'), (951, 1, u'+\tassert( bounds[0][0] <= bounds[1][0] && bounds[0][1] <= bounds[1][1] && bounds[0][2] <= bounds[1][2] );'), (952, 1, u'+\tassert( bounds[1][0] - bounds[0][0] < 1e4f && bounds[1][1] - bounds[0][1] < 1e4f && bounds[1][2] - bounds[0][2] < 1e4f );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(689, 1, u'+\tassert( areaNum >= 0 && areaNum < numPortalAreas );'), (692, 1, u'+\t\tassert( ref->area == &portalAreas[areaNum] );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(397, 1, u'+\t\t\tassert( 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(441, 1, u'+\t\t\tassert( error == NULL );'), (450, 1, u'+\t\t\t\tassert( error == NULL );'), (457, 1, u'+\t\tassert( error == NULL );'), (556, 1, u'+\tassert( tri->verts == NULL );'), (566, 1, u'+\tassert( tri->indexes == NULL );'), (576, 1, u'+\tassert( tri->shadowVertexes == NULL );'), (601, 1, u'+\tassert( false );'), (614, 1, u'+\tassert( false );'), (627, 1, u'+\tassert( false );')]
+===========================================
+Class:   class idSampleDecoderLocal : public idSampleDecoder { class idSampleDecoderLocal : public idSampleDecoder 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(60, 1, u'+\tassert( size == 0 || ptr != NULL );'), (66, 1, u'+\tassert( ( num * size ) == 0 || ptr != NULL );'), (73, 1, u'+\tassert( size == 0 || ptr != NULL );'), (483, 1, u"+\t\tassert( false );\t// this should never happen ( note: I've seen that happen with the main thread down in idGameLocal::MapClear clearing entities - TTimo )"), (524, 1, u'+\t\t\tassert( false );\t// this should never happen')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1354, 1, u'+\tassert( !idSoundSystemLocal::useOpenAL );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(154, 1, u'+\tassert( !isOgg );'), (171, 1, u'+\t\tassert( !isOgg );'), (187, 1, u'+\tassert( !isOgg );'), (252, 1, u'+\t\tassert( !isOgg );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1581, 1, u'+\tassert( chan->triggerState );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(93, 1, u'+\tassert( dpy );'), (94, 1, u'+\tassert( ctx );'), (99, 1, u'+\tassert( dpy );'), (115, 1, u'+\tassert( dpy );'), (213, 1, u'+\tassert( dpy );'), (224, 1, u'+\tassert( dpy );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(95, 1, u'+\tassert( dpy );'), (141, 1, u'+\tassert( dpy );'), (195, 1, u'+\tassert( dpy );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(236, 1, u'+\tassert( signum == SIGFPE );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(271, 1, u'+\tassert( (int)m_channels == idSoundSystemLocal::s_numberOfSpeakers.GetInteger() );'), (362, 1, u'+\tassert( m_audio_fd );'), (379, 1, u'+\tassert( len > 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(231, 1, u'+\tassert( curstate == SND_PCM_STATE_PREPARED );')]
+===========================================
+Class: class idAudioHardwareOSX : public idAudioHardware { class idAudioHardwareOSX : public idAudioHardware 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+\tassert( index >= 0 && index < MAX_LOCAL_CRITICAL_SECTIONS );'), (81, 1, u'+\tassert( index >= 0 && index < MAX_LOCAL_CRITICAL_SECTIONS );'), (114, 1, u'+\tassert( index >= 0 && index < MAX_TRIGGER_EVENTS );'), (116, 1, u"+\tassert( !waiting[ index ] );\t// WaitForEvent from multiple threads? that wouldn't be good"), (134, 1, u'+\tassert( index >= 0 && index < MAX_TRIGGER_EVENTS );'), (191, 1, u'+\tassert( info.threadHandle );')]
+===========================================
+Class: class idUDPLag { class idUDPLag 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(958, 1, u'+\t\t\tassert( size <= MAX_UDP_MSG_SIZE );'), (1037, 1, u'+\t\tassert( size <= MAX_UDP_MSG_SIZE );')]
+===========================================
+Class: class idAudioBufferWIN32 : public idAudioBuffer { class idAudioBufferWIN32 : public idAudioBuffer 
+Class: class idAudioHardwareWIN32 : public idAudioHardware { class idAudioHardwareWIN32 : public idAudioHardware 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(287, 1, u'+\tASSERT ( pMessage );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(131, 1, u'+\tassert( winding );'), (270, 1, u'+\tassert( windingsValid );'), (624, 1, u'+\tassert( windingsValid );'), (772, 1, u'+\t\t\t\tassert( side->winding );'), (782, 1, u'+\t\t\t\tassert( side->winding );'), (820, 1, u'+\tassert( windingsValid );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(88, 1, u'+\tassert( front && back );')]
+===========================================
+Class: class rvGEItemPropsImagePage : public rvGEPropertyPage { 
+Class: class rvGEItemPropsTextPage : public rvGEPropertyPage { 
+Class: class rvGEItemPropsKeysPage : public rvGEPropertyPage { 
+Class: class rvGEItemPropsGeneralPage : public rvGEPropertyPage { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 1, u'+\tassert(window);'), (108, 1, u'+\tassert(winrect);'), (147, 1, u'+\t\tassert(wrapper);'), (334, 1, u'+\t\tassert(child);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(119, 1, u'+\tassert(stage >= 0 && stage < GetStageCount());'), (131, 1, u'+\tassert(stage >= 0 && stage < GetStageCount());'), (152, 1, u'+\tassert(stage >= 0 && stage < GetStageCount());'), (167, 1, u'+\t\tassert(stage >= 0 && stage < GetStageCount());'), (183, 1, u'+\t\tassert(stage >= 0 && stage < GetStageCount());'), (199, 1, u'+\t\tassert(stage >= 0 && stage < GetStageCount());'), (215, 1, u'+\t\tassert(stage >= 0 && stage < GetStageCount());'), (238, 1, u'+\t\t\tassert(stage >= 0 && stage < GetStageCount());'), (271, 1, u'+\t\t\tassert(stage >= 0 && stage < GetStageCount());'), (298, 1, u'+\t\t\tassert(stage >= 0 && stage < GetStageCount());'), (325, 1, u'+\t\t\tassert(stage >= 0 && stage < GetStageCount());'), (376, 1, u'+\t\tassert(stage >= 0 && stage < GetStageCount());'), (505, 1, u'+\tassert(stage >= 0 && stage < GetStageCount());'), (540, 1, u'+\tassert(from >= 0 && from < GetStageCount());'), (541, 1, u'+\tassert(to >= 0 && to < GetStageCount());'), (591, 1, u'+\t\tassert(manager);'), (616, 1, u'+\t\tassert(manager);'), (640, 1, u'+\tassert(manager);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(59, 1, u'+\tASSERT(view);'), (72, 1, u'+\tASSERT(view);'), (254, 1, u'+\tassert(material);'), (272, 1, u'+\tassert(materialDoc);'), (304, 1, u'+\tassert(material);'), (499, 1, u'+\tassert(materialDoc);'), (528, 1, u'+\tassert(materialDoc);')]
+===========================================
+Class: class CAboutDlg : public CDialog { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(722, 1, u'+\tASSERT(pPopupMenu != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(102, 1, u'+\tassert(index >= 0 && index < list.GetItemCount());'), (117, 1, u'+\tassert(index >= 0 && index < list.GetItemCount());')]
+===========================================
+Class: class CDialogPDAAdd : public CDialog { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(781, 1, u'+\tassert(p);'), (3168, 1, u'+\t\tassert(true);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(520, 1, u'+\tASSERT(g_pParentWnd->ActiveXY());'), (544, 1, u'+\t\tASSERT(g_ptrSelectedFaces.GetSize() == g_ptrSelectedFaceBrushes.GetSize());'), (2005, 1, u'+\tassert(index >= 0 && index < Select_NumSelectedFaces());'), (2014, 1, u'+\tassert(index >= 0 && index < Select_NumSelectedFaces());'), (2058, 1, u'+\t\tASSERT(g_ptrSelectedFaces.GetSize() == g_ptrSelectedFaceBrushes.GetSize());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(235, 1, u'+\tassert(index >= 0 && index < numSelectedPoints());'), (547, 1, u'+\tassert(splineTime.Num() == splinePoints.Num());'), (609, 1, u'+\tassert(splineTime.Num() == splinePoints.Num());'), (853, 1, u'+\tassert(index >= 0 && index < targetPositions.Num());'), (1607, 1, u'+\tassert( index >= 0 && index < 2 );'), (1780, 1, u'+\t\tassert(startTime);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(218, 1, u'+\t\t\tassert(acv && dcv);'), (414, 1, u'+\t\tassert(gs);'), (441, 1, u'+\t\tassert(str);'), (511, 1, u'+\t\tassert(str);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(232, 1, u'+\t\tassert( type >= 0 && type < idRegister::NUMTYPES );'), (255, 1, u'+\t\tassert(type >= 0 && type < idRegister::NUMTYPES);')]
+===========================================
+24
+Mismatch count:25131
+Normal count:425607

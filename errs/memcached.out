@@ -1,0 +1,5520 @@
+projects/top_C/memcached
+Going to process projects/top_C/memcached/all_log.txt 
+---------- memcached ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(search->slabs_clsid == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: item_crawler_evaluate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(search->slabs_clsid == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(search->slabs_clsid == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->it_flags == ITEM_CRAWLER);'), (3, 1, u'+    assert(it->it_flags == 1);'), (4, 1, u'+    assert(it->nbytes == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: crawler_link_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->it_flags == ITEM_CRAWLER);'), (3, 1, u'+    assert(it->it_flags == 1);'), (4, 1, u'+    assert(it->nbytes == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->it_flags == ITEM_CRAWLER);'), (3, 1, u'+    assert(it->it_flags == 1);'), (4, 1, u'+    assert(it->nbytes == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->it_flags == ITEM_CRAWLER);'), (3, 1, u'+    assert(it->it_flags == 1);'), (4, 1, u'+    assert(it->nbytes == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: *crawler_crawl_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->it_flags == ITEM_CRAWLER);'), (3, 1, u'+    assert(it->it_flags == 1);'), (4, 1, u'+    assert(it->nbytes == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->it_flags == ITEM_CRAWLER);'), (3, 1, u'+    assert(it->it_flags == 1);'), (4, 1, u'+    assert(it->nbytes == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (6, 1, u'+    assert(it->it_flags == ITEM_CRAWLER);'), (10, 1, u'+    assert(*tail != 0);'), (11, 1, u'+    assert(it != *tail);'), (12, 1, u'+    assert((*head && *tail) || (*head == 0 && *tail == 0));'), (16, 1, u'+        assert(it->prev->next == 0);'), (26, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (31, 1, u'+        assert(it->prev == 0);'), (35, 1, u'+        assert(it->next == 0);'), (38, 1, u'+    assert(it->next != it);'), (39, 1, u'+    assert(it->prev != it);'), (48, 1, u'+    assert(it->it_flags == ITEM_CRAWLER);'), (49, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (55, 1, u'+        assert(*head == it);'), (58, 1, u'+            assert(it->next->prev == it);'), (66, 1, u'+    assert(it->prev != it);'), (77, 1, u'+        assert(it->next != it);'), (79, 1, u'+            assert(it->prev->next == it);'), (95, 1, u'+    assert(it->next != it);'), (96, 1, u'+    assert(it->prev != it);')]
+===========================================
+===========================================
+Total add: 239
+Total del: 0
+Header: do_item_flush_expired
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (6, 1, u'+    assert(it->it_flags == ITEM_CRAWLER);'), (10, 1, u'+    assert(*tail != 0);'), (11, 1, u'+    assert(it != *tail);'), (12, 1, u'+    assert((*head && *tail) || (*head == 0 && *tail == 0));'), (16, 1, u'+        assert(it->prev->next == 0);'), (26, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (31, 1, u'+        assert(it->prev == 0);'), (35, 1, u'+        assert(it->next == 0);'), (38, 1, u'+    assert(it->next != it);'), (39, 1, u'+    assert(it->prev != it);'), (48, 1, u'+    assert(it->it_flags == ITEM_CRAWLER);'), (49, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (55, 1, u'+        assert(*head == it);'), (58, 1, u'+            assert(it->next->prev == it);'), (66, 1, u'+    assert(it->prev != it);'), (77, 1, u'+        assert(it->next != it);'), (79, 1, u'+            assert(it->prev->next == it);'), (95, 1, u'+    assert(it->next != it);'), (96, 1, u'+    assert(it->prev != it);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (6, 1, u'+    assert(it->it_flags == ITEM_CRAWLER);'), (10, 1, u'+    assert(*tail != 0);'), (11, 1, u'+    assert(it != *tail);'), (12, 1, u'+    assert((*head && *tail) || (*head == 0 && *tail == 0));'), (16, 1, u'+        assert(it->prev->next == 0);'), (26, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (31, 1, u'+        assert(it->prev == 0);'), (35, 1, u'+        assert(it->next == 0);'), (38, 1, u'+    assert(it->next != it);'), (39, 1, u'+    assert(it->prev != it);'), (48, 1, u'+    assert(it->it_flags == ITEM_CRAWLER);'), (49, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);'), (55, 1, u'+        assert(*head == it);'), (58, 1, u'+            assert(it->next->prev == it);'), (66, 1, u'+    assert(it->prev != it);'), (77, 1, u'+        assert(it->next != it);'), (79, 1, u'+            assert(it->prev->next == it);'), (95, 1, u'+    assert(it->next != it);'), (96, 1, u'+    assert(it->prev != it);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-    assert(add_stats);'), (150, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+Total add: 93
+Total del: 73
+Header: process_stat_settings
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-    assert(add_stats);'), (150, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-    assert(add_stats);'), (150, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(sfd >= 0 && sfd < max_fds);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: *conn_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(sfd >= 0 && sfd < max_fds);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(sfd >= 0 && sfd < max_fds);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert(c != NULL);'), (3, 1, u'+        assert(c->sfd >= 0 && c->sfd < max_fds);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 0
+Header: conn_free
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert(c != NULL);'), (3, 1, u'+        assert(c->sfd >= 0 && c->sfd < max_fds);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert(c != NULL);'), (3, 1, u'+        assert(c->sfd >= 0 && c->sfd < max_fds);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+Total add: 87
+Total del: 0
+Header: process_stat_settings
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-        assert(false);'), (75, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Total add: 41
+Total del: 34
+Header: add_bin_header
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-        assert(false);'), (75, 1, u'+            assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-        assert(false);'), (75, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 4
+Header: conn_cleanup
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 0
+Header: conn_cleanup
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-                        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 13
+Header: drive_machine
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-                        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-                        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->refcount > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: do_item_remove
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->refcount > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->refcount > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(kill(server_pid, SIGTERM) == 0);'), (4, 1, u'+        assert(kill(server_pid, SIGTERM) == 0);'), (18, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 1
+Header: stop_memcached_server
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(kill(server_pid, SIGTERM) == 0);'), (4, 1, u'+        assert(kill(server_pid, SIGTERM) == 0);'), (18, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(kill(server_pid, SIGTERM) == 0);'), (4, 1, u'+        assert(kill(server_pid, SIGTERM) == 0);'), (18, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+            assert(1 == 0);')]
+===========================================
+===========================================
+Total add: 48
+Total del: 1
+Header: item_trylock
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+            assert(1 == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+            assert(1 == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert(p->end_page_ptr != NULL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 9
+Header: *do_slabs_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert(p->end_page_ptr != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert(p->end_page_ptr != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fgets(buffer, sizeof(buffer), fp) != NULL);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 1
+Header: start_server
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fgets(buffer, sizeof(buffer), fp) != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(fgets(buffer, sizeof(buffer), fp) != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(argc > 1);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: spawn_and_wait
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(argc > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(argc > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 0
+Header: process_verbosity_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(p->sl_curr == 0 || ((item *)p->slots[p->sl_curr - 1])->slabs_clsid == 0);'), (3, 1, u'+    assert(p->sl_curr == 0 || ((item *)p->slots)->slabs_clsid == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *do_slabs_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(p->sl_curr == 0 || ((item *)p->slots[p->sl_curr - 1])->slabs_clsid == 0);'), (3, 1, u'+    assert(p->sl_curr == 0 || ((item *)p->slots)->slabs_clsid == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(p->sl_curr == 0 || ((item *)p->slots[p->sl_curr - 1])->slabs_clsid == 0);'), (3, 1, u'+    assert(p->sl_curr == 0 || ((item *)p->slots)->slabs_clsid == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it != heads[id]);'), (10, 2, u'-    assert(it != heads[it->slabs_clsid]);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 2
+Header: *do_item_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it != heads[id]);'), (10, 2, u'-    assert(it != heads[it->slabs_clsid]);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it != heads[id]);'), (10, 2, u'-    assert(it != heads[it->slabs_clsid]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u"-    assert(assoc_find(ITEM_key(it), it->nkey) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+Total add: 2
+Total del: 4
+Header: assoc_expand
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u"-    assert(assoc_find(ITEM_key(it), it->nkey) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u"-    assert(assoc_find(ITEM_key(it), it->nkey) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 42
+Total del: 0
+Header: process_update_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(bufsz > sizeof(*request));')]
+===========================================
+===========================================
+Total add: 27
+Total del: 0
+Header: flush_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(bufsz > sizeof(*request));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(bufsz > sizeof(*request));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoul(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: test_safe_strtoul
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoul(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoul(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoull(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: test_safe_strtoull
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoull(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoull(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoll(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: test_safe_strtoll
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoll(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtoll(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtol(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: test_safe_strtol
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtol(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(!safe_strtol(" issue221", &val));  // non-numeric')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-                assert(klen < sizeof(key));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 3
+Header: do_item_stats_sizes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-                assert(klen < sizeof(key));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-                assert(klen < sizeof(key));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->nbytes < (1024 * 1024));  /* 1MB max size */')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: do_item_link
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->nbytes < (1024 * 1024));  /* 1MB max size */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->nbytes < (1024 * 1024));  /* 1MB max size */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(strncmp(rsp, "END", strlen("END")) == 0);'), (21, 1, u'+    assert(strncmp(rsp, "END", strlen("END")) == 0);'), (28, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+Total add: 31
+Total del: 0
+Header: test_issue_102
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(strncmp(rsp, "END", strlen("END")) == 0);'), (21, 1, u'+    assert(strncmp(rsp, "END", strlen("END")) == 0);'), (28, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(strncmp(rsp, "END", strlen("END")) == 0);'), (21, 1, u'+    assert(strncmp(rsp, "END", strlen("END")) == 0);'), (28, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+        assert(fds[ii] > 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 8
+Header: test_issue_101
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+        assert(fds[ii] > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+        assert(fds[ii] > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(54, 1, u'+        assert(c == child);'), (55, 1, u'+        assert(stat == 0);'), (69, 1, u'+    assert(kill(server_pid, SIGTERM) == 0);')]
+===========================================
+===========================================
+Total add: 72
+Total del: 0
+Header: test_binary_pipeline_hickup
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(54, 1, u'+        assert(c == child);'), (55, 1, u'+        assert(stat == 0);'), (69, 1, u'+    assert(kill(server_pid, SIGTERM) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(54, 1, u'+        assert(c == child);'), (55, 1, u'+        assert(stat == 0);'), (69, 1, u'+    assert(kill(server_pid, SIGTERM) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 0
+Header: test_issue_92
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+    assert(read(sock, buffer, sizeof(buffer)) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(settings.sasl);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: conn_cleanup
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(settings.sasl);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(settings.sasl);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c);'), (59, 1, u'+    assert(c->binary_header.request.extlen == 0);'), (65, 1, u'+    assert(key);'), (83, 1, u'+    assert(settings.sasl);'), (87, 1, u'+    assert(c->item);'), (116, 1, u'+        assert(false); /* CMD should be one of the above */'), (152, 1, u'+    assert(settings.sasl);')]
+===========================================
+===========================================
+Total add: 176
+Total del: 0
+Header: handle_binary_protocol_error
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c);'), (59, 1, u'+    assert(c->binary_header.request.extlen == 0);'), (65, 1, u'+    assert(key);'), (83, 1, u'+    assert(settings.sasl);'), (87, 1, u'+    assert(c->item);'), (116, 1, u'+        assert(false); /* CMD should be one of the above */'), (152, 1, u'+    assert(settings.sasl);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c);'), (59, 1, u'+    assert(c->binary_header.request.extlen == 0);'), (65, 1, u'+    assert(key);'), (83, 1, u'+    assert(settings.sasl);'), (87, 1, u'+    assert(c->item);'), (116, 1, u'+        assert(false); /* CMD should be one of the above */'), (152, 1, u'+    assert(settings.sasl);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(sock != -1);'), (18, 2, u'-    assert(write(sock, data, 2000) == 2000);'), (20, 2, u'-    assert(write(sock, data, sizeof(data) - 2000) == sizeof(data) - 2000);'), (23, 2, u'-    assert(read(sock, &response, sizeof(response)) == sizeof(response));'), (24, 2, u'-    assert(response.message.header.response.magic == PROTOCOL_BINARY_RES);'), (25, 2, u'-    assert(ntohs(response.message.header.response.status) == PROTOCOL_BINARY_RESPONSE_SUCCESS);'), (27, 2, u'-    assert(kill(pid, SIGTERM) == 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 29
+Header: test_vperror
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(sock != -1);'), (18, 2, u'-    assert(write(sock, data, 2000) == 2000);'), (20, 2, u'-    assert(write(sock, data, sizeof(data) - 2000) == sizeof(data) - 2000);'), (23, 2, u'-    assert(read(sock, &response, sizeof(response)) == sizeof(response));'), (24, 2, u'-    assert(response.message.header.response.magic == PROTOCOL_BINARY_RES);'), (25, 2, u'-    assert(ntohs(response.message.header.response.status) == PROTOCOL_BINARY_RESPONSE_SUCCESS);'), (27, 2, u'-    assert(kill(pid, SIGTERM) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(sock != -1);'), (18, 2, u'-    assert(write(sock, data, 2000) == 2000);'), (20, 2, u'-    assert(write(sock, data, sizeof(data) - 2000) == sizeof(data) - 2000);'), (23, 2, u'-    assert(read(sock, &response, sizeof(response)) == sizeof(response));'), (24, 2, u'-    assert(response.message.header.response.magic == PROTOCOL_BINARY_RES);'), (25, 2, u'-    assert(ntohs(response.message.header.response.status) == PROTOCOL_BINARY_RESPONSE_SUCCESS);'), (27, 2, u'-    assert(kill(pid, SIGTERM) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+            assert(nr == 1);'), (43, 1, u'+            assert(offset + 1 < size);'), (56, 1, u'+    assert(strncmp(buffer, "END", strlen("END")) == 0);'), (60, 1, u'+    assert(strncmp(buffer, "CLIENT_ERROR", strlen("CLIENT_ERROR")) == 0);')]
+===========================================
+===========================================
+Total add: 65
+Total del: 0
+Header: test_issue_72
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+            assert(nr == 1);'), (43, 1, u'+            assert(offset + 1 < size);'), (56, 1, u'+    assert(strncmp(buffer, "END", strlen("END")) == 0);'), (60, 1, u'+    assert(strncmp(buffer, "CLIENT_ERROR", strlen("CLIENT_ERROR")) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(37, 1, u'+            assert(nr == 1);'), (43, 1, u'+            assert(offset + 1 < size);'), (56, 1, u'+    assert(strncmp(buffer, "END", strlen("END")) == 0);'), (60, 1, u'+    assert(strncmp(buffer, "CLIENT_ERROR", strlen("CLIENT_ERROR")) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: item_link_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: item_unlink_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid < LARGEST_ID);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+        assert(receive.response.message.header.response.cas != send.request.message.header.request.cas);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 0
+Header: test_binary_set_impl
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+        assert(receive.response.message.header.response.cas != send.request.message.header.request.cas);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+        assert(receive.response.message.header.response.cas != send.request.message.header.request.cas);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(response.message.header.response.status == PROTOCOL_BINARY_RESPONSE_SUCCESS);'), (3, 1, u'+    assert(ntohs(response.message.header.response.status) == PROTOCOL_BINARY_RESPONSE_SUCCESS);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_issue_72
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(response.message.header.response.status == PROTOCOL_BINARY_RESPONSE_SUCCESS);'), (3, 1, u'+    assert(ntohs(response.message.header.response.status) == PROTOCOL_BINARY_RESPONSE_SUCCESS);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(response.message.header.response.status == PROTOCOL_BINARY_RESPONSE_SUCCESS);'), (3, 1, u'+    assert(ntohs(response.message.header.response.status) == PROTOCOL_BINARY_RESPONSE_SUCCESS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(newfile > 0);'), (11, 1, u'+    assert(rv == STDERR_FILENO);'), (13, 1, u'+    assert(rv == 0);'), (20, 1, u'+    assert(rv == STDERR_FILENO);'), (26, 1, u'+    assert(efile);'), (28, 1, u'+    assert(prv);')]
+===========================================
+===========================================
+Total add: 44
+Total del: 0
+Header: connect_server
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(newfile > 0);'), (11, 1, u'+    assert(rv == STDERR_FILENO);'), (13, 1, u'+    assert(rv == 0);'), (20, 1, u'+    assert(rv == STDERR_FILENO);'), (26, 1, u'+    assert(efile);'), (28, 1, u'+    assert(prv);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert(newfile > 0);'), (11, 1, u'+    assert(rv == STDERR_FILENO);'), (13, 1, u'+    assert(rv == 0);'), (20, 1, u'+    assert(rv == STDERR_FILENO);'), (26, 1, u'+    assert(efile);'), (28, 1, u'+    assert(prv);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(strcmp(addr.sun_path, path) == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: server_socket_unix
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(strcmp(addr.sun_path, path) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(strcmp(addr.sun_path, path) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(execv("./memcached-debug", argv) != -1);'), (3, 1, u'+        assert(execv(argv[0], argv) != -1);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: start_server
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(execv("./memcached-debug", argv) != -1);'), (3, 1, u'+        assert(execv(argv[0], argv) != -1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(execv("./memcached-debug", argv) != -1);'), (3, 1, u'+        assert(execv(argv[0], argv) != -1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rsize >= c->rlbytes);')]
+===========================================
+===========================================
+Total add: 39
+Total del: 1
+Header: bin_read_key
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rsize >= c->rlbytes);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rsize >= c->rlbytes);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(system(buffer) == 0);'), (10, 2, u'-    assert(fp);'), (11, 2, u'-    assert(fgets(buffer, sizeof(buffer), fp));'), (33, 1, u'+    assert(pid != -1);'), (51, 1, u'+        assert(execv("./memcached-debug", argv) != -1);'), (63, 1, u'+        assert(false);'), (71, 1, u'+            assert(safe_strtol(buffer + 10, &val));'), (77, 2, u'-    assert(kill(pid, 0) == 0);'), (78, 1, u'+    assert(remove(filename) == 0);'), (93, 1, u'+            assert(false);'), (95, 1, u'+        assert(fgets(buffer, sizeof(buffer), fp) != NULL);'), (99, 1, u'+        assert(safe_strtol(buffer, &val));'), (111, 2, u'-    assert(kill(pid, 0) == 0);'), (113, 2, u'-    assert(remove(pidfile) == 0);')]
+===========================================
+===========================================
+Total add: 94
+Total del: 14
+Header: test_safe_strtol
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(system(buffer) == 0);'), (10, 2, u'-    assert(fp);'), (11, 2, u'-    assert(fgets(buffer, sizeof(buffer), fp));'), (33, 1, u'+    assert(pid != -1);'), (51, 1, u'+        assert(execv("./memcached-debug", argv) != -1);'), (63, 1, u'+        assert(false);'), (71, 1, u'+            assert(safe_strtol(buffer + 10, &val));'), (77, 2, u'-    assert(kill(pid, 0) == 0);'), (78, 1, u'+    assert(remove(filename) == 0);'), (93, 1, u'+            assert(false);'), (95, 1, u'+        assert(fgets(buffer, sizeof(buffer), fp) != NULL);'), (99, 1, u'+        assert(safe_strtol(buffer, &val));'), (111, 2, u'-    assert(kill(pid, 0) == 0);'), (113, 2, u'-    assert(remove(pidfile) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(system(buffer) == 0);'), (10, 2, u'-    assert(fp);'), (11, 2, u'-    assert(fgets(buffer, sizeof(buffer), fp));'), (33, 1, u'+    assert(pid != -1);'), (51, 1, u'+        assert(execv("./memcached-debug", argv) != -1);'), (63, 1, u'+        assert(false);'), (71, 1, u'+            assert(safe_strtol(buffer + 10, &val));'), (77, 2, u'-    assert(kill(pid, 0) == 0);'), (78, 1, u'+    assert(remove(filename) == 0);'), (93, 1, u'+            assert(false);'), (95, 1, u'+        assert(fgets(buffer, sizeof(buffer), fp) != NULL);'), (99, 1, u'+        assert(safe_strtol(buffer, &val));'), (111, 2, u'-    assert(kill(pid, 0) == 0);'), (113, 2, u'-    assert(remove(pidfile) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *conn_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+            assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->protocol == ascii_udp_prot'), (4, 1, u'+    assert(c->protocol == ascii_prot')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: complete_nread
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->protocol == ascii_udp_prot'), (4, 1, u'+    assert(c->protocol == ascii_prot')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->protocol == ascii_udp_prot'), (4, 1, u'+    assert(c->protocol == ascii_prot')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-  assert(safe_strtoul("123", &val));'), (18, 2, u'-  assert(val == 123);'), (19, 2, u'-  assert(safe_strtoul("+123", &val));'), (20, 2, u'-  assert(val == 123);'), (21, 2, u'-  assert(!safe_strtoul("", &val));  // empty'), (22, 2, u'-  assert(!safe_strtoul("123BOGUS", &val));  // non-numeric'), (28, 2, u'-  assert(safe_strtoul("4294967295", &val)); // 2**32 - 1'), (29, 2, u'-  assert(val == 4294967295L);'), (33, 2, u'-  assert(!safe_strtoul("-1", &val));  // negative'), (39, 2, u'-  assert(safe_strtoull("123", &val));'), (40, 2, u'-  assert(val == 123);'), (41, 2, u'-  assert(safe_strtoull("+123", &val));'), (42, 2, u'-  assert(val == 123);'), (43, 2, u'-  assert(!safe_strtoull("", &val));  // empty'), (44, 2, u'-  assert(!safe_strtoull("123BOGUS", &val));  // non-numeric'), (45, 2, u'-  assert(!safe_strtoull("92837498237498237498029383", &val)); // out of range'), (48, 2, u'-  assert(safe_strtoull("18446744073709551615", &val)); // 2**64 - 1'), (49, 2, u'-  assert(val == 18446744073709551615ULL);'), (50, 2, u'-  assert(!safe_strtoull("18446744073709551616", &val)); // 2**64'), (51, 2, u'-  assert(!safe_strtoull("-1", &val));  // negative'), (56, 2, u'-  assert(safe_strtoll("123", &val));'), (57, 2, u'-  assert(val == 123);'), (58, 2, u'-  assert(safe_strtoll("+123", &val));'), (59, 2, u'-  assert(val == 123);'), (60, 2, u'-  assert(safe_strtoll("-123", &val));'), (61, 2, u'-  assert(val == -123);'), (62, 2, u'-  assert(!safe_strtoll("", &val));  // empty'), (63, 2, u'-  assert(!safe_strtoll("123BOGUS", &val));  // non-numeric'), (64, 2, u'-  assert(!safe_strtoll("92837498237498237498029383", &val)); // out of range'), (67, 2, u'-  assert(!safe_strtoll("18446744073709551615", &val)); // 2**64 - 1'), (68, 2, u'-  assert(safe_strtoll("9223372036854775807", &val)); // 2**63 - 1'), (69, 2, u'-  assert(val == 9223372036854775807LL);'), (74, 2, u'-  assert(!safe_strtoll("-9223372036854775809", &val)); // -2**63 - 1'), (77, 2, u'-  assert(safe_strtoll(" 123 foo", &val));'), (78, 2, u'-  assert(val == 123);'), (83, 2, u'-  assert(safe_strtol("123", &val));'), (84, 2, u'-  assert(val == 123);'), (85, 2, u'-  assert(safe_strtol("+123", &val));'), (86, 2, u'-  assert(val == 123);'), (87, 2, u'-  assert(safe_strtol("-123", &val));'), (88, 2, u'-  assert(val == -123);'), (89, 2, u'-  assert(!safe_strtol("", &val));  // empty'), (90, 2, u'-  assert(!safe_strtol("123BOGUS", &val));  // non-numeric'), (91, 2, u'-  assert(!safe_strtol("92837498237498237498029383", &val)); // out of range'), (97, 2, u'-  assert(safe_strtol("2147483647", &val)); // (- (expt 2.0 31) 1)'), (98, 2, u'-  assert(val == 2147483647L);'), (104, 2, u'-  assert(safe_strtol(" 123 foo", &val));'), (105, 2, u'-  assert(val == 123);'), (113, 2, u'-    assert(system(buffer) == 0);'), (116, 2, u'-    assert(fp);'), (117, 2, u'-    assert(fgets(buffer, sizeof(buffer), fp));'), (120, 2, u'-    assert(kill(pid, 0) == 0);'), (121, 2, u'-    assert(kill(pid, SIGHUP) == 0);'), (123, 2, u'-    assert(kill(pid, 0) == 0);'), (124, 2, u'-    assert(kill(pid, SIGTERM) == 0);'), (125, 2, u'-    assert(remove(pidfile) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(system(buffer) == 0);'), (10, 1, u'+    assert(fp);'), (11, 1, u'+    assert(fgets(buffer, sizeof(buffer), fp));'), (14, 1, u'+    assert(kill(pid, 0) == 0);'), (15, 1, u'+    assert(kill(pid, SIGHUP) == 0);'), (17, 1, u'+    assert(kill(pid, 0) == 0);'), (18, 1, u'+    assert(kill(pid, SIGTERM) == 0);'), (19, 1, u'+    assert(remove(pidfile) == 0);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 0
+Header: test_safe_strtol
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(system(buffer) == 0);'), (10, 1, u'+    assert(fp);'), (11, 1, u'+    assert(fgets(buffer, sizeof(buffer), fp));'), (14, 1, u'+    assert(kill(pid, 0) == 0);'), (15, 1, u'+    assert(kill(pid, SIGHUP) == 0);'), (17, 1, u'+    assert(kill(pid, 0) == 0);'), (18, 1, u'+    assert(kill(pid, SIGTERM) == 0);'), (19, 1, u'+    assert(remove(pidfile) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(system(buffer) == 0);'), (10, 1, u'+    assert(fp);'), (11, 1, u'+    assert(fgets(buffer, sizeof(buffer), fp));'), (14, 1, u'+    assert(kill(pid, 0) == 0);'), (15, 1, u'+    assert(kill(pid, SIGHUP) == 0);'), (17, 1, u'+    assert(kill(pid, 0) == 0);'), (18, 1, u'+    assert(kill(pid, SIGTERM) == 0);'), (19, 1, u'+    assert(remove(pidfile) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c->stats.offset <= c->stats.size);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: append_stats
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c->stats.offset <= c->stats.size);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c->stats.offset <= c->stats.size);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        assert(nsize > 0);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 4
+Header: append_ascii_stats
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        assert(nsize > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        assert(nsize > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(total_written < size);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: *stats_prefix_dump
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(total_written < size);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(total_written < size);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-            assert(klen < sizeof(key));'), (60, 1, u'+                assert(klen < sizeof(key));')]
+===========================================
+===========================================
+Total add: 26
+Total del: 40
+Header: *do_item_stats_sizes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-            assert(klen < sizeof(key));'), (60, 1, u'+                assert(klen < sizeof(key));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-            assert(klen < sizeof(key));'), (60, 1, u'+                assert(klen < sizeof(key));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(108, 2, u'-            assert(nbytes <= allocation);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 102
+Header: process_bin_stat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(108, 2, u'-            assert(nbytes <= allocation);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(108, 2, u'-            assert(nbytes <= allocation);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(pos);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: *append_stat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(pos);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(pos);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(buflen);'), (3, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: *append_stat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(buflen);'), (3, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(buflen);'), (3, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 7
+Header: *append_stat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            assert(vlen < sizeof(key));'), (6, 1, u'+            assert(klen < sizeof(key));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 2
+Header: *do_item_stats_sizes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            assert(vlen < sizeof(key));'), (6, 1, u'+            assert(klen < sizeof(key));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-            assert(vlen < sizeof(key));'), (6, 1, u'+            assert(klen < sizeof(key));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(name);'), (15, 1, u'+    assert(pos);'), (16, 1, u'+    assert(add_stats);'), (17, 1, u'+    assert(c);'), (18, 1, u'+    assert(fmt);'), (19, 1, u'+    assert(buflen);'), (20, 1, u'+    assert(*buflen < allocated);'), (30, 1, u'+    assert(*buflen < allocated);')]
+===========================================
+===========================================
+Total add: 33
+Total del: 0
+Header: set_noreply_maybe
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(name);'), (15, 1, u'+    assert(pos);'), (16, 1, u'+    assert(add_stats);'), (17, 1, u'+    assert(c);'), (18, 1, u'+    assert(fmt);'), (19, 1, u'+    assert(buflen);'), (20, 1, u'+    assert(*buflen < allocated);'), (30, 1, u'+    assert(*buflen < allocated);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(name);'), (15, 1, u'+    assert(pos);'), (16, 1, u'+    assert(add_stats);'), (17, 1, u'+    assert(c);'), (18, 1, u'+    assert(fmt);'), (19, 1, u'+    assert(buflen);'), (20, 1, u'+    assert(*buflen < allocated);'), (30, 1, u'+    assert(*buflen < allocated);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+            assert(vlen < sizeof(key));')]
+===========================================
+===========================================
+Total add: 4
+Total del: 5
+Header: *do_item_stats_sizes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+            assert(vlen < sizeof(key));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+            assert(vlen < sizeof(key));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(176, 2, u'-    assert(*buflen < sizeof(temp));')]
+===========================================
+===========================================
+Total add: 33
+Total del: 158
+Header: *server_stats
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(176, 2, u'-    assert(*buflen < sizeof(temp));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(176, 2, u'-    assert(*buflen < sizeof(temp));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 8
+Header: append_ascii_stats
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    assert(*buflen < allocated);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->protocol == ascii_prot || c->protocol == binary_prot);'), (3, 1, u'+    assert(c->protocol == ascii_udp_prot')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: complete_nread
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->protocol == ascii_prot || c->protocol == binary_prot);'), (3, 1, u'+    assert(c->protocol == ascii_udp_prot')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->protocol == ascii_prot || c->protocol == binary_prot);'), (3, 1, u'+    assert(c->protocol == ascii_udp_prot')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(*buflen < allocated);'), (22, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+Total add: 55
+Total del: 0
+Header: append_ascii_stats
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(*buflen < allocated);'), (22, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(*buflen < allocated);'), (22, 1, u'+    assert(add_stats);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  assert(safe_strtoul("123", &val));'), (9, 1, u'+  assert(val == 123);'), (10, 1, u'+  assert(safe_strtoul("+123", &val));'), (11, 1, u'+  assert(val == 123);'), (12, 1, u'+  assert(!safe_strtoul("", &val));  // empty'), (13, 1, u'+  assert(!safe_strtoul("123BOGUS", &val));  // non-numeric'), (19, 1, u'+  assert(safe_strtoul("4294967295", &val)); // 2**32 - 1'), (20, 1, u'+  assert(val == 4294967295L);'), (24, 1, u'+  assert(!safe_strtoul("-1", &val));  // negative')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(safe_strtol("123", &val));'), (7, 1, u'+  assert(val == 123);'), (8, 1, u'+  assert(safe_strtol("+123", &val));'), (9, 1, u'+  assert(val == 123);'), (10, 1, u'+  assert(safe_strtol("-123", &val));'), (11, 1, u'+  assert(val == -123);'), (12, 1, u'+  assert(!safe_strtol("", &val));  // empty'), (13, 1, u'+  assert(!safe_strtol("123BOGUS", &val));  // non-numeric'), (14, 1, u'+  assert(!safe_strtol("92837498237498237498029383", &val)); // out of range'), (20, 1, u'+  assert(safe_strtol("2147483647", &val)); // (- (expt 2.0 31) 1)'), (21, 1, u'+  assert(val == 2147483647L);'), (27, 1, u'+  assert(safe_strtol(" 123 foo", &val));'), (28, 1, u'+  assert(val == 123);')]
+===========================================
+===========================================
+Total add: 26
+Total del: 0
+Header: test_safe_strtoll
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(safe_strtol("123", &val));'), (7, 1, u'+  assert(val == 123);'), (8, 1, u'+  assert(safe_strtol("+123", &val));'), (9, 1, u'+  assert(val == 123);'), (10, 1, u'+  assert(safe_strtol("-123", &val));'), (11, 1, u'+  assert(val == -123);'), (12, 1, u'+  assert(!safe_strtol("", &val));  // empty'), (13, 1, u'+  assert(!safe_strtol("123BOGUS", &val));  // non-numeric'), (14, 1, u'+  assert(!safe_strtol("92837498237498237498029383", &val)); // out of range'), (20, 1, u'+  assert(safe_strtol("2147483647", &val)); // (- (expt 2.0 31) 1)'), (21, 1, u'+  assert(val == 2147483647L);'), (27, 1, u'+  assert(safe_strtol(" 123 foo", &val));'), (28, 1, u'+  assert(val == 123);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(safe_strtol("123", &val));'), (7, 1, u'+  assert(val == 123);'), (8, 1, u'+  assert(safe_strtol("+123", &val));'), (9, 1, u'+  assert(val == 123);'), (10, 1, u'+  assert(safe_strtol("-123", &val));'), (11, 1, u'+  assert(val == -123);'), (12, 1, u'+  assert(!safe_strtol("", &val));  // empty'), (13, 1, u'+  assert(!safe_strtol("123BOGUS", &val));  // non-numeric'), (14, 1, u'+  assert(!safe_strtol("92837498237498237498029383", &val)); // out of range'), (20, 1, u'+  assert(safe_strtol("2147483647", &val)); // (- (expt 2.0 31) 1)'), (21, 1, u'+  assert(val == 2147483647L);'), (27, 1, u'+  assert(safe_strtol(" 123 foo", &val));'), (28, 1, u'+  assert(val == 123);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(out);'), (7, 1, u'+    assert(str);'), (33, 1, u'+    assert(out != NULL);')]
+===========================================
+===========================================
+Total add: 44
+Total del: 0
+Header: safe_strtoll
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(out);'), (7, 1, u'+    assert(str);'), (33, 1, u'+    assert(out != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(out);'), (7, 1, u'+    assert(str);'), (33, 1, u'+    assert(out != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(out != NULL);'), (14, 1, u'+    assert(out != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(out != NULL);'), (8, 1, u'+    assert(out != NULL);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 11
+Header: safe_strtoull
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(out != NULL);'), (8, 1, u'+    assert(out != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(out != NULL);'), (8, 1, u'+    assert(out != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  assert(safe_strtoull("123", &ull));'), (5, 2, u'-  assert(ull == 123);'), (11, 1, u'+  assert(safe_strtoull("123", &val));'), (12, 1, u'+  assert(val == 123);'), (13, 1, u'+  assert(safe_strtoull("+123", &val));'), (14, 1, u'+  assert(val == 123);'), (15, 1, u'+  assert(!safe_strtoull("", &val));  // empty'), (16, 1, u'+  assert(!safe_strtoull("123BOGUS", &val));  // non-numeric'), (17, 1, u'+  assert(!safe_strtoull("92837498237498237498029383", &val)); // out of range'), (20, 1, u'+  assert(safe_strtoull("18446744073709551615", &val)); // 2**64 - 1'), (21, 1, u'+  assert(val == 18446744073709551615ULL);'), (22, 1, u'+  assert(!safe_strtoull("18446744073709551616", &val)); // 2**64'), (23, 1, u'+  assert(!safe_strtoull("-1", &val));  // negative'), (27, 2, u'-  assert(!safe_strtoull("", &ull));'), (30, 1, u'+  assert(safe_strtoll("123", &val));'), (31, 1, u'+  assert(val == 123);'), (32, 1, u'+  assert(safe_strtoll("+123", &val));'), (33, 1, u'+  assert(val == 123);'), (34, 1, u'+  assert(safe_strtoll("-123", &val));'), (35, 1, u'+  assert(val == -123);'), (36, 1, u'+  assert(!safe_strtoll("", &val));  // empty'), (37, 1, u'+  assert(!safe_strtoll("123BOGUS", &val));  // non-numeric'), (38, 1, u'+  assert(!safe_strtoll("92837498237498237498029383", &val)); // out of range'), (41, 2, u'-  assert(!safe_strtoull("123BOGUS", &ull));'), (43, 1, u'+  assert(!safe_strtoll("18446744073709551615", &val)); // 2**64 - 1'), (44, 1, u'+  assert(safe_strtoll("9223372036854775807", &val)); // 2**63 - 1'), (45, 1, u'+  assert(val == 9223372036854775807LL);'), (50, 1, u'+  assert(!safe_strtoll("-9223372036854775809", &val)); // -2**63 - 1'), (53, 1, u'+  assert(safe_strtoll(" 123 foo", &val));'), (54, 1, u'+  assert(val == 123);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(out != NULL);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 0
+Header: safe_strtoull
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(out != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(out != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+  assert(safe_strtoull("123", &ull));'), (12, 1, u'+  assert(ull == 123);'), (15, 1, u'+  assert(!safe_strtoull("", &ull));'), (18, 1, u'+  assert(!safe_strtoull("123BOGUS", &ull));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+  assert(out != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(*buflen < sizeof(temp));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: *server_stats
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(*buflen < sizeof(temp));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(*buflen < sizeof(temp));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+            assert(nbytes <= allocation);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: process_bin_stat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+            assert(nbytes <= allocation);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+            assert(nbytes <= allocation);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert(it->nkey <= KEY_MAX_LENGTH);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: *do_item_cachedump
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert(it->nkey <= KEY_MAX_LENGTH);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+        assert(it->nkey <= KEY_MAX_LENGTH);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(body_len >= 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: add_bin_header
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(body_len >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(body_len >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 2, u'-            assert(false);'), (60, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Total add: 43
+Total del: 47
+Header: add_bin_header
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 2, u'-            assert(false);'), (60, 1, u'+        assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 2, u'-            assert(false);'), (60, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(ret >= c->rbuf);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: binary_get_request
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(ret >= c->rbuf);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(ret >= c->rbuf);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((void *) hdr == (void *)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void *) hdr == (caddr_t)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: build_udp_headers
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((void *) hdr == (void *)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void *) hdr == (caddr_t)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((void *) hdr == (void *)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void *) hdr == (caddr_t)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: process_bin_delete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 0
+Header: drive_machine
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+            assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->refcount != 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: do_item_remove
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->refcount != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->refcount != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: complete_incr_bin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: process_bin_update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: process_bin_append_prepend
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: process_bin_delete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 1, u'+        assert(p->end_page_ptr != NULL);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 10
+Header: *do_slabs_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 1, u'+        assert(p->end_page_ptr != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 1, u'+        assert(p->end_page_ptr != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount != 0);'), (3, 1, u'+    assert(it->refcount != 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: do_item_remove
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount != 0);'), (3, 1, u'+    assert(it->refcount != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount != 0);'), (3, 1, u'+    assert(it->refcount != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 19
+Header: do_item_stats_sizes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 7
+Header: settings_init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: append_bin_stats
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 134
+Total del: 0
+Header: process_bin_get
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-    assert(c->wsize >= MIN_BIN_PKT_LENGTH);')]
+===========================================
+===========================================
+Total add: 32
+Total del: 25
+Header: add_bin_header
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-    assert(c->wsize >= MIN_BIN_PKT_LENGTH);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-    assert(c->wsize >= MIN_BIN_PKT_LENGTH);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 5
+Header: write_bin_error
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+            assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-    assert(c != NULL);'), (24, 1, u'+    assert(c != NULL);'), (25, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (26, 1, u'+    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+Total add: 20
+Total del: 17
+Header: complete_incr_bin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-    assert(c != NULL);'), (24, 1, u'+    assert(c != NULL);'), (25, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (26, 1, u'+    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-    assert(c != NULL);'), (24, 1, u'+    assert(c != NULL);'), (25, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (26, 1, u'+    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-            assert(c->wsize > BIN_INCR_HDR_LEN + BIN_DEL_HDR_LEN);')]
+===========================================
+===========================================
+Total add: 18
+Total del: 19
+Header: complete_incr_bin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-            assert(c->wsize > BIN_INCR_HDR_LEN + BIN_DEL_HDR_LEN);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-            assert(c->wsize > BIN_INCR_HDR_LEN + BIN_DEL_HDR_LEN);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-        assert(c->rsize >= MIN_BIN_PKT_LENGTH + 4);'), (35, 2, u'-        assert(MIN_BIN_PKT_LENGTH % 8 == 0);')]
+===========================================
+===========================================
+Total add: 32
+Total del: 21
+Header: process_bin_get
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-        assert(c->rsize >= MIN_BIN_PKT_LENGTH + 4);'), (35, 2, u'-        assert(MIN_BIN_PKT_LENGTH % 8 == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-        assert(c->rsize >= MIN_BIN_PKT_LENGTH + 4);'), (35, 2, u'-        assert(MIN_BIN_PKT_LENGTH % 8 == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Total add: 26
+Total del: 12
+Header: process_bin_update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c->rbytes >= sizeof(*req));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (50, 1, u'+            assert(0);'), (96, 1, u'+    assert(c != NULL);'), (97, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (98, 1, u'+    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+Total add: 89
+Total del: 7
+Header: process_bin_update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (50, 1, u'+            assert(0);'), (96, 1, u'+    assert(c != NULL);'), (97, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (98, 1, u'+    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (50, 1, u'+            assert(0);'), (96, 1, u'+    assert(c != NULL);'), (97, 1, u'+    assert(c->rbytes >= sizeof(*req));'), (98, 1, u'+    assert(c->wsize >= sizeof(*rsp));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-            assert(BIN_PKT_HDR_WORDS == 4);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 13
+Header: try_read_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-            assert(BIN_PKT_HDR_WORDS == 4);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-            assert(BIN_PKT_HDR_WORDS == 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(c != NULL);'), (22, 2, u'-    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 25
+Header: conn_close
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(c != NULL);'), (22, 2, u'-    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(c != NULL);'), (22, 2, u'-    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(state >= conn_listening && state < conn_max_state);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 3
+Header: conn_set_state
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(state >= conn_listening && state < conn_max_state);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(state >= conn_listening && state < conn_max_state);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(BIN_PKT_HDR_WORDS == 4);'), (60, 2, u'-                assert(0);'), (70, 1, u'+    assert(c->cmd >= 0);'), (90, 1, u'+        assert(0);')]
+===========================================
+===========================================
+Total add: 30
+Total del: 100
+Header: complete_nread_binary
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(BIN_PKT_HDR_WORDS == 4);'), (60, 2, u'-                assert(0);'), (70, 1, u'+    assert(c->cmd >= 0);'), (90, 1, u'+        assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(BIN_PKT_HDR_WORDS == 4);'), (60, 2, u'-                assert(0);'), (70, 1, u'+    assert(c->cmd >= 0);'), (90, 1, u'+        assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->protocol == ascii_prot || c->protocol == binary_prot);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: complete_nread
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->protocol == ascii_prot || c->protocol == binary_prot);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->protocol == ascii_prot || c->protocol == binary_prot);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-        assert(0); /* XXX:  Invalid case.  Should probably do more here. */')]
+===========================================
+===========================================
+Total add: 1
+Total del: 9
+Header: complete_nread
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-        assert(0); /* XXX:  Invalid case.  Should probably do more here. */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-        assert(0); /* XXX:  Invalid case.  Should probably do more here. */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(c->rbytes > 0);'), (30, 2, u'-    assert(cont <= (c->rcurr + c->rbytes));'), (39, 1, u'+            assert(BIN_PKT_HDR_WORDS == 4);'), (71, 2, u'-    assert(c->rcurr <= (c->rbuf + c->rsize));'), (100, 1, u'+        assert(cont <= (c->rcurr + c->rbytes));'), (107, 1, u'+        assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+Total add: 83
+Total del: 16
+Header: process_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(c->rbytes > 0);'), (30, 2, u'-    assert(cont <= (c->rcurr + c->rbytes));'), (39, 1, u'+            assert(BIN_PKT_HDR_WORDS == 4);'), (71, 2, u'-    assert(c->rcurr <= (c->rbuf + c->rsize));'), (100, 1, u'+        assert(cont <= (c->rcurr + c->rbytes));'), (107, 1, u'+        assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(c->rbytes > 0);'), (30, 2, u'-    assert(cont <= (c->rcurr + c->rbytes));'), (39, 1, u'+            assert(BIN_PKT_HDR_WORDS == 4);'), (71, 2, u'-    assert(c->rcurr <= (c->rbuf + c->rsize));'), (100, 1, u'+        assert(cont <= (c->rcurr + c->rbytes));'), (107, 1, u'+        assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(BIN_PKT_HDR_WORDS == 3);'), (3, 1, u'+        assert(BIN_PKT_HDR_WORDS == 4);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: complete_nread_binary
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(BIN_PKT_HDR_WORDS == 3);'), (3, 1, u'+        assert(BIN_PKT_HDR_WORDS == 4);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(BIN_PKT_HDR_WORDS == 3);'), (3, 1, u'+        assert(BIN_PKT_HDR_WORDS == 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+        assert(MIN_BIN_PKT_LENGTH % 8 == 0);')]
+===========================================
+===========================================
+Total add: 17
+Total del: 10
+Header: process_bin_get
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+        assert(MIN_BIN_PKT_LENGTH % 8 == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+        assert(MIN_BIN_PKT_LENGTH % 8 == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(res > 0);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 7
+Header: complete_incr_bin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(res > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(res > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assert(c->wsize > BIN_INCR_HDR_LEN + 32);'), (9, 1, u'+            assert(c->wsize > BIN_INCR_HDR_LEN + BIN_DEL_HDR_LEN);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 8
+Header: complete_incr_bin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assert(c->wsize > BIN_INCR_HDR_LEN + 32);'), (9, 1, u'+            assert(c->wsize > BIN_INCR_HDR_LEN + BIN_DEL_HDR_LEN);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assert(c->wsize > BIN_INCR_HDR_LEN + 32);'), (9, 1, u'+            assert(c->wsize > BIN_INCR_HDR_LEN + BIN_DEL_HDR_LEN);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(c != NULL);'), (19, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 21
+Total del: 0
+Header: conn_close
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(c != NULL);'), (19, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(c != NULL);'), (19, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(c);'), (7, 1, u'+    assert(body_len >= 0);'), (34, 1, u'+    assert(c->wsize >= MIN_BIN_PKT_LENGTH);'), (117, 1, u'+    assert(c != NULL);'), (158, 1, u'+        assert(res > 0);'), (164, 1, u'+            assert(c->wsize > BIN_INCR_HDR_LEN + 32);'), (185, 1, u'+    assert(c != NULL);'), (225, 1, u'+        assert(c->rsize >= MIN_BIN_PKT_LENGTH + 4);'), (249, 1, u'+    assert(c);'), (252, 1, u'+    assert(c->rsize >= c->rlbytes);'), (304, 1, u'+    assert(c != NULL);'), (357, 1, u'+            assert(0);'), (373, 1, u'+    assert(c != NULL);'), (424, 1, u'+    assert(c != NULL);'), (430, 1, u'+        assert(BIN_PKT_HDR_WORDS == 3);'), (482, 1, u'+                assert(0);'), (488, 1, u'+    assert(c != NULL);'), (495, 1, u'+        assert(0); /* XXX:  Invalid case.  Should probably do more here. */')]
+===========================================
+===========================================
+Total add: 497
+Total del: 0
+Header: complete_nread
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(c);'), (7, 1, u'+    assert(body_len >= 0);'), (34, 1, u'+    assert(c->wsize >= MIN_BIN_PKT_LENGTH);'), (117, 1, u'+    assert(c != NULL);'), (158, 1, u'+        assert(res > 0);'), (164, 1, u'+            assert(c->wsize > BIN_INCR_HDR_LEN + 32);'), (185, 1, u'+    assert(c != NULL);'), (225, 1, u'+        assert(c->rsize >= MIN_BIN_PKT_LENGTH + 4);'), (249, 1, u'+    assert(c);'), (252, 1, u'+    assert(c->rsize >= c->rlbytes);'), (304, 1, u'+    assert(c != NULL);'), (357, 1, u'+            assert(0);'), (373, 1, u'+    assert(c != NULL);'), (424, 1, u'+    assert(c != NULL);'), (430, 1, u'+        assert(BIN_PKT_HDR_WORDS == 3);'), (482, 1, u'+                assert(0);'), (488, 1, u'+    assert(c != NULL);'), (495, 1, u'+        assert(0); /* XXX:  Invalid case.  Should probably do more here. */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(c);'), (7, 1, u'+    assert(body_len >= 0);'), (34, 1, u'+    assert(c->wsize >= MIN_BIN_PKT_LENGTH);'), (117, 1, u'+    assert(c != NULL);'), (158, 1, u'+        assert(res > 0);'), (164, 1, u'+            assert(c->wsize > BIN_INCR_HDR_LEN + 32);'), (185, 1, u'+    assert(c != NULL);'), (225, 1, u'+        assert(c->rsize >= MIN_BIN_PKT_LENGTH + 4);'), (249, 1, u'+    assert(c);'), (252, 1, u'+    assert(c->rsize >= c->rlbytes);'), (304, 1, u'+    assert(c != NULL);'), (357, 1, u'+            assert(0);'), (373, 1, u'+    assert(c != NULL);'), (424, 1, u'+    assert(c != NULL);'), (430, 1, u'+        assert(BIN_PKT_HDR_WORDS == 3);'), (482, 1, u'+                assert(0);'), (488, 1, u'+    assert(c != NULL);'), (495, 1, u'+        assert(0); /* XXX:  Invalid case.  Should probably do more here. */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->nbytes < 1048576);'), (3, 1, u'+    assert(it->nbytes < (1024 * 1024));  /* 1MB max size */')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: do_item_link
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->nbytes < 1048576);'), (3, 1, u'+    assert(it->nbytes < (1024 * 1024));  /* 1MB max size */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->nbytes < 1048576);'), (3, 1, u'+    assert(it->nbytes < (1024 * 1024));  /* 1MB max size */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    assert(key != NULL);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 3
+Header: stats_prefix_clear
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    assert(key != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    assert(key != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+Total add: 52
+Total del: 1
+Header: item_stats_sizes
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 30
+Total del: 0
+Header: tokenize_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-                assert(it->refcount > 0);'), (27, 1, u'+            assert(it->refcount > 0);')]
+===========================================
+===========================================
+Total add: 19
+Total del: 13
+Header: delete_handler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-                assert(it->refcount > 0);'), (27, 1, u'+            assert(it->refcount > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-                assert(it->refcount > 0);'), (27, 1, u'+            assert(it->refcount > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 0
+Header: process_delete_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(command != NULL && tokens != NULL && max_tokens > 1);'), (3, 1, u'+    assert(command != NULL && tokens != NULL && max_tokens > 1);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: tokenize_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(command != NULL && tokens != NULL && max_tokens > 1);'), (3, 1, u'+    assert(command != NULL && tokens != NULL && max_tokens > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(command != NULL && tokens != NULL && max_tokens > 1);'), (3, 1, u'+    assert(command != NULL && tokens != NULL && max_tokens > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: add_msghdr
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: *conn_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: conn_free
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: conn_close
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: conn_shrink
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: conn_set_state
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: add_iov
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: build_udp_headers
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((void*) hdr == (void*) c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void *) hdr == (void *)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: build_udp_headers
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((void*) hdr == (void*) c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void *) hdr == (void *)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert((void*) hdr == (void*) c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void *) hdr == (void *)c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: out_string
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: out_string
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 3
+Header: tokenize_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: process_get_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: process_update_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: process_arithmetic_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: process_delete_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: process_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rcurr <= c->rbuf + c->rsize);'), (3, 1, u'+    assert(c != NULL);'), (4, 1, u'+    assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: try_read_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rcurr <= c->rbuf + c->rsize);'), (3, 1, u'+    assert(c != NULL);'), (4, 1, u'+    assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rcurr <= c->rbuf + c->rsize);'), (3, 1, u'+    assert(c != NULL);'), (4, 1, u'+    assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(cont <= c->rcurr + c->rbytes);'), (3, 1, u'+    assert(cont <= (c->rcurr + c->rbytes));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: try_read_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(cont <= c->rcurr + c->rbytes);'), (3, 1, u'+    assert(cont <= (c->rcurr + c->rbytes));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(cont <= c->rcurr + c->rbytes);'), (3, 1, u'+    assert(cont <= (c->rcurr + c->rbytes));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rcurr <= c->rbuf + c->rsize);'), (3, 1, u'+    assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: try_read_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rcurr <= c->rbuf + c->rsize);'), (3, 1, u'+    assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(c->rcurr <= c->rbuf + c->rsize);'), (3, 1, u'+    assert(c->rcurr <= (c->rbuf + c->rsize));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: try_read_udp
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: try_read_network
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: try_read_network
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: transmit
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: drive_machine
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: event_handler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(p->sl_curr == 0 || ((item*)p->slots[p->sl_curr-1])->slabs_clsid == 0);'), (3, 1, u'+    assert(p->sl_curr == 0 || ((item *)p->slots[p->sl_curr - 1])->slabs_clsid == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: *slabs_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(p->sl_curr == 0 || ((item*)p->slots[p->sl_curr-1])->slabs_clsid == 0);'), (3, 1, u'+    assert(p->sl_curr == 0 || ((item *)p->slots[p->sl_curr - 1])->slabs_clsid == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(p->sl_curr == 0 || ((item*)p->slots[p->sl_curr-1])->slabs_clsid == 0);'), (3, 1, u'+    assert(p->sl_curr == 0 || ((item *)p->slots[p->sl_curr - 1])->slabs_clsid == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(((item *)ptr)->slabs_clsid==0);'), (3, 1, u'+    assert(((item *)ptr)->slabs_clsid == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: slabs_free
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(((item *)ptr)->slabs_clsid==0);'), (3, 1, u'+    assert(((item *)ptr)->slabs_clsid == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(((item *)ptr)->slabs_clsid==0);'), (3, 1, u'+    assert(((item *)ptr)->slabs_clsid == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount);'), (5, 1, u'+    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount != 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: item_remove
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount);'), (5, 1, u'+    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount);'), (5, 1, u'+    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 2, u"-    assert(assoc_find(key) == 0);  /* shouldn't have duplicately named things defined */"), (55, 1, u"+    assert(assoc_find(ITEM_key(it), it->nkey) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+Total add: 64
+Total del: 6
+Header: _hashitem_before
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 2, u"-    assert(assoc_find(key) == 0);  /* shouldn't have duplicately named things defined */"), (55, 1, u"+    assert(assoc_find(ITEM_key(it), it->nkey) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(47, 2, u"-    assert(assoc_find(key) == 0);  /* shouldn't have duplicately named things defined */"), (55, 1, u"+    assert(assoc_find(ITEM_key(it), it->nkey) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_SLABBED) == 0);'), (4, 1, u'+        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 4
+Header: item_remove
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_SLABBED) == 0);'), (4, 1, u'+        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_SLABBED) == 0);'), (4, 1, u'+        assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 1, u'+    assert(command != NULL && tokens != NULL && max_tokens > 1);')]
+===========================================
+===========================================
+Total add: 86
+Total del: 2
+Header: err:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 1, u'+    assert(command != NULL && tokens != NULL && max_tokens > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 1, u'+    assert(command != NULL && tokens != NULL && max_tokens > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->rcurr <= c->rbuf + c->rsize);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: try_read_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->rcurr <= c->rbuf + c->rsize);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->rcurr <= c->rbuf + c->rsize);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(cont <= c->rcurr + c->rbytes);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: try_read_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(cont <= c->rcurr + c->rbytes);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(cont <= c->rcurr + c->rbytes);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->rcurr <= c->rbuf + c->rsize);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: try_read_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->rcurr <= c->rbuf + c->rsize);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(c->rcurr <= c->rbuf + c->rsize);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(hdr == c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void*) hdr == (void*) c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: build_udp_headers
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(hdr == c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void*) hdr == (void*) c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(hdr == c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert((void*) hdr == (void*) c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->slabs_clsid <= LARGEST_ID);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: item_link_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->slabs_clsid <= LARGEST_ID);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->slabs_clsid <= LARGEST_ID);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->slabs_clsid <= LARGEST_ID);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: item_unlink_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->slabs_clsid <= LARGEST_ID);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->slabs_clsid <= LARGEST_ID);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u"+    assert(assoc_find(key) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: _hashitem_before
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u"+    assert(assoc_find(key) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u"+    assert(assoc_find(key) == 0);  /* shouldn't have duplicately named things defined */")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+Total add: 17
+Total del: 2
+Header: settings_init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    assert(it->it_flags & ITEM_DELETED);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(hdr == c->msglist[i].iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert(hdr == c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: build_udp_headers
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(hdr == c->msglist[i].iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert(hdr == c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(hdr == c->msglist[i].iov[0].iov_base + UDP_HEADER_SIZE);'), (3, 1, u'+        assert(hdr == c->msglist[i].msg_iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->refcount == 0);'), (4, 1, u'+    assert(it->refcount == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: item_free
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->refcount == 0);'), (4, 1, u'+    assert(it->refcount == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->refcount == 0);'), (4, 1, u'+    assert(it->refcount == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(173, 1, u'+        assert(hdr == c->msglist[i].iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Total add: 178
+Total del: 0
+Header: conn_close
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(173, 1, u'+        assert(hdr == c->msglist[i].iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(173, 1, u'+        assert(hdr == c->msglist[i].iov[0].iov_base + UDP_HEADER_SIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(90, 2, u'-                    assert((it->it_flags & ITEM_SLABBED) == 0);'), (112, 1, u'+                        assert((it->it_flags & ITEM_SLABBED) == 0);'), (120, 2, u'-                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 41
+Total del: 124
+Header: drive_machine
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(90, 2, u'-                    assert((it->it_flags & ITEM_SLABBED) == 0);'), (112, 1, u'+                        assert((it->it_flags & ITEM_SLABBED) == 0);'), (120, 2, u'-                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(90, 2, u'-                    assert((it->it_flags & ITEM_SLABBED) == 0);'), (112, 1, u'+                        assert((it->it_flags & ITEM_SLABBED) == 0);'), (120, 2, u'-                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(id >= POWER_SMALLEST && id <= POWER_LARGEST);'), (4, 1, u'+    assert(id >= POWER_SMALLEST && id <= power_largest);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: slabs_free
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(id >= POWER_SMALLEST && id <= POWER_LARGEST);'), (4, 1, u'+    assert(id >= POWER_SMALLEST && id <= power_largest);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(id >= POWER_SMALLEST && id <= POWER_LARGEST);'), (4, 1, u'+    assert(id >= POWER_SMALLEST && id <= power_largest);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: item_remove
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert((it->it_flags & ITEM_DELETED) == 0 || it->refcount);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+                assert(it->refcount > 0);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 4
+Header: delete_handler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+                assert(it->refcount > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+                assert(it->refcount > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: item_link_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_LINKED) == 0);'), (3, 2, u'-    assert(it->it_flags < 4);'), (4, 1, u'+    assert((it->it_flags & (ITEM_LINKED|ITEM_SLABBED)) == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: item_unlink_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_LINKED) == 0);'), (3, 2, u'-    assert(it->it_flags < 4);'), (4, 1, u'+    assert((it->it_flags & (ITEM_LINKED|ITEM_SLABBED)) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((it->it_flags & ITEM_LINKED) == 0);'), (3, 2, u'-    assert(it->it_flags < 4);'), (4, 1, u'+    assert((it->it_flags & (ITEM_LINKED|ITEM_SLABBED)) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: item_unlink
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: item_remove
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: item_update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: drive_machine
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: drive_machine
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+                    assert((it->it_flags & ITEM_SLABBED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(*before != 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: assoc_delete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(*before != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(*before != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->slabs_clsid == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: *item_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->slabs_clsid == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->slabs_clsid == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->refcount == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: item_free
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->refcount == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it->refcount == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->flags < 4);'), (3, 1, u'+    assert(it->it_flags < 4);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: item_link
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->flags < 4);'), (3, 1, u'+    assert(it->it_flags < 4);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(it->flags < 4);'), (3, 1, u'+    assert(it->it_flags < 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(p->sl_curr == 0 || ((item*)p->slots[p->sl_curr-1])->slabs_clsid == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: *slabs_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(p->sl_curr == 0 || ((item*)p->slots[p->sl_curr-1])->slabs_clsid == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(p->sl_curr == 0 || ((item*)p->slots[p->sl_curr-1])->slabs_clsid == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(((item *)ptr)->slabs_clsid==0);'), (8, 1, u'+    assert(id >= POWER_SMALLEST && id <= POWER_LARGEST);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 2
+Header: *slabs_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(((item *)ptr)->slabs_clsid==0);'), (8, 1, u'+    assert(id >= POWER_SMALLEST && id <= POWER_LARGEST);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(((item *)ptr)->slabs_clsid==0);'), (8, 1, u'+    assert(id >= POWER_SMALLEST && id <= POWER_LARGEST);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it != heads[it->slabs_clsid]);'), (3, 1, u'+    assert(it != tails[it->slabs_clsid]);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: item_free
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it != heads[it->slabs_clsid]);'), (3, 1, u'+    assert(it != tails[it->slabs_clsid]);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(it != heads[it->slabs_clsid]);'), (3, 1, u'+    assert(it != tails[it->slabs_clsid]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it != heads[it->slabs_clsid]);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: *item_alloc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it != heads[it->slabs_clsid]);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    assert(it != heads[it->slabs_clsid]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid <= LARGEST_ID);'), (10, 1, u'+        assert(it->prev == 0);'), (14, 1, u'+        assert(it->next == 0);'), (17, 1, u'+    assert(it->next != it);'), (18, 1, u'+    assert(it->prev != it);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 3
+Header: item_unlink_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid <= LARGEST_ID);'), (10, 1, u'+        assert(it->prev == 0);'), (14, 1, u'+        assert(it->next == 0);'), (17, 1, u'+    assert(it->next != it);'), (18, 1, u'+    assert(it->prev != it);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid <= LARGEST_ID);'), (10, 1, u'+        assert(it->prev == 0);'), (14, 1, u'+        assert(it->next == 0);'), (17, 1, u'+    assert(it->next != it);'), (18, 1, u'+    assert(it->prev != it);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_LINKED) == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: item_free
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_LINKED) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_LINKED) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid <= LARGEST_ID);'), (6, 1, u'+    assert(it != *head);'), (7, 1, u'+    assert((*head && *tail) || (*head == 0 && *tail == 0));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: item_link_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid <= LARGEST_ID);'), (6, 1, u'+    assert(it != *head);'), (7, 1, u'+    assert((*head && *tail) || (*head == 0 && *tail == 0));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(it->slabs_clsid <= LARGEST_ID);'), (6, 1, u'+    assert(it != *head);'), (7, 1, u'+    assert((*head && *tail) || (*head == 0 && *tail == 0));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_LINKED) == 0);'), (3, 1, u'+    assert(it->flags < 4);'), (4, 1, u'+    assert(it->nbytes < 1048576);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: item_unlink_q
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_LINKED) == 0);'), (3, 1, u'+    assert(it->flags < 4);'), (4, 1, u'+    assert(it->nbytes < 1048576);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((it->it_flags & ITEM_LINKED) == 0);'), (3, 1, u'+    assert(it->flags < 4);'), (4, 1, u'+    assert(it->nbytes < 1048576);')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+618
+Mismatch count:118510
+Normal count:2158785

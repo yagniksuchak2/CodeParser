@@ -1,0 +1,307 @@
+projects/top_C/python-for-android
+Going to process projects/top_C/python-for-android/all_log.txt 
+---------- python-for-android ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 1, u'+        aassert(env);'), (22, 1, u'+        aassert(cls);'), (24, 1, u'+        aassert(mid);'), (39, 1, u'+        aassert(env);'), (41, 1, u'+        aassert(cls);'), (43, 1, u'+        aassert(mid);'), (58, 1, u'+        aassert(env);'), (60, 1, u'+        aassert(cls);'), (62, 1, u'+        aassert(mid);'), (83, 1, u'+        aassert(env);'), (85, 1, u'+        aassert(cls);'), (87, 1, u'+        aassert(mid);'), (106, 1, u'+        aassert(env);'), (108, 1, u'+        aassert(cls);'), (110, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 1, u'+        aassert(env);'), (22, 1, u'+        aassert(cls);'), (24, 1, u'+        aassert(mid);'), (39, 1, u'+        aassert(env);'), (41, 1, u'+        aassert(cls);'), (43, 1, u'+        aassert(mid);'), (58, 1, u'+        aassert(env);'), (60, 1, u'+        aassert(cls);'), (62, 1, u'+        aassert(mid);'), (77, 1, u'+        aassert(env);'), (79, 1, u'+        aassert(cls);'), (81, 1, u'+        aassert(mid);'), (100, 1, u'+        aassert(env);'), (102, 1, u'+        aassert(cls);'), (104, 1, u'+        aassert(mid);'), (122, 1, u'+        aassert(env);'), (124, 1, u'+        aassert(cls);'), (126, 1, u'+        aassert(mid);'), (139, 1, u'+        aassert(env);'), (141, 1, u'+        aassert(cls);'), (143, 1, u'+        aassert(mid);'), (156, 1, u'+        aassert(env);'), (158, 1, u'+        aassert(cls);'), (160, 1, u'+        aassert(mid);'), (180, 1, u'+        aassert(env);'), (211, 1, u'+        aassert(env);'), (213, 1, u'+        aassert(cls);'), (215, 1, u'+        aassert(mid);'), (228, 1, u'+        aassert(env);'), (230, 1, u'+        aassert(cls);'), (232, 1, u'+        aassert(mid);'), (245, 1, u'+        aassert(env);'), (247, 1, u'+        aassert(cls);'), (249, 1, u'+        aassert(mid);'), (262, 1, u'+        aassert(env);'), (264, 1, u'+        aassert(cls);'), (267, 1, u'+        aassert(mid);'), (297, 1, u'+        aassert(env);'), (299, 1, u'+        aassert(cls);'), (301, 1, u'+        aassert(mid);'), (321, 1, u'+        aassert(env);'), (323, 1, u'+        aassert(cls);'), (326, 1, u'+        aassert(mid);'), (350, 1, u'+        aassert(cls);'), (352, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_sound_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 1, u'+        aassert(env);'), (22, 1, u'+        aassert(cls);'), (24, 1, u'+        aassert(mid);'), (47, 1, u'+        aassert(env);'), (49, 1, u'+        aassert(cls);'), (51, 1, u'+        aassert(mid);'), (74, 1, u'+        aassert(env);'), (76, 1, u'+        aassert(cls);'), (78, 1, u'+        aassert(mid);'), (94, 1, u'+        aassert(env);'), (96, 1, u'+        aassert(cls);'), (98, 1, u'+        aassert(mid);'), (113, 1, u'+        aassert(env);'), (115, 1, u'+        aassert(cls);'), (117, 1, u'+        aassert(mid);'), (132, 1, u'+        aassert(env);'), (134, 1, u'+        aassert(cls);'), (136, 1, u'+        aassert(mid);'), (154, 1, u'+        aassert(env);'), (156, 1, u'+        aassert(cls);'), (158, 1, u'+        aassert(mid);'), (181, 1, u'+        aassert(env);'), (183, 1, u'+        aassert(cls);'), (185, 1, u'+        aassert(mid);'), (201, 1, u'+        aassert(env);'), (203, 1, u'+        aassert(cls);'), (205, 1, u'+        aassert(mid);'), (221, 1, u'+        aassert(env);'), (223, 1, u'+        aassert(cls);'), (225, 1, u'+        aassert(mid);'), (241, 1, u'+        aassert(env);'), (243, 1, u'+        aassert(cls);'), (245, 1, u'+        aassert(mid);'), (260, 1, u'+        aassert(env);'), (262, 1, u'+        aassert(cls);'), (264, 1, u'+        aassert(mid);'), (279, 1, u'+        aassert(env);'), (281, 1, u'+        aassert(cls);'), (283, 1, u'+        aassert(mid);'), (298, 1, u'+        aassert(env);'), (300, 1, u'+        aassert(cls);'), (302, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 2, u'-        aassert(env);'), (22, 2, u'-        aassert(cls);'), (24, 2, u'-        aassert(mid);'), (39, 2, u'-        aassert(env);'), (41, 2, u'-        aassert(cls);'), (43, 2, u'-        aassert(mid);'), (58, 2, u'-        aassert(env);'), (60, 2, u'-        aassert(cls);'), (62, 2, u'-        aassert(mid);'), (83, 2, u'-        aassert(env);'), (85, 2, u'-        aassert(cls);'), (87, 2, u'-        aassert(mid);'), (106, 2, u'-        aassert(env);'), (108, 2, u'-        aassert(cls);'), (110, 2, u'-        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 2, u'-        aassert(env);'), (22, 2, u'-        aassert(cls);'), (24, 2, u'-        aassert(mid);'), (39, 2, u'-        aassert(env);'), (41, 2, u'-        aassert(cls);'), (43, 2, u'-        aassert(mid);'), (58, 2, u'-        aassert(env);'), (60, 2, u'-        aassert(cls);'), (62, 2, u'-        aassert(mid);'), (77, 2, u'-        aassert(env);'), (79, 2, u'-        aassert(cls);'), (81, 2, u'-        aassert(mid);'), (100, 2, u'-        aassert(env);'), (102, 2, u'-        aassert(cls);'), (104, 2, u'-        aassert(mid);'), (122, 2, u'-        aassert(env);'), (124, 2, u'-        aassert(cls);'), (126, 2, u'-        aassert(mid);'), (139, 2, u'-        aassert(env);'), (141, 2, u'-        aassert(cls);'), (143, 2, u'-        aassert(mid);'), (156, 2, u'-        aassert(env);'), (158, 2, u'-        aassert(cls);'), (160, 2, u'-        aassert(mid);'), (180, 2, u'-        aassert(env);'), (211, 2, u'-        aassert(env);'), (213, 2, u'-        aassert(cls);'), (215, 2, u'-        aassert(mid);'), (228, 2, u'-        aassert(env);'), (230, 2, u'-        aassert(cls);'), (232, 2, u'-        aassert(mid);'), (245, 2, u'-        aassert(env);'), (247, 2, u'-        aassert(cls);'), (249, 2, u'-        aassert(mid);'), (262, 2, u'-        aassert(env);'), (264, 2, u'-        aassert(cls);'), (267, 2, u'-        aassert(mid);'), (297, 2, u'-        aassert(env);'), (299, 2, u'-        aassert(cls);'), (301, 2, u'-        aassert(mid);'), (321, 2, u'-        aassert(env);'), (323, 2, u'-        aassert(cls);'), (326, 2, u'-        aassert(mid);'), (350, 2, u'-        aassert(cls);'), (352, 2, u'-        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_sound_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 2, u'-        aassert(env);'), (22, 2, u'-        aassert(cls);'), (24, 2, u'-        aassert(mid);'), (47, 2, u'-        aassert(env);'), (49, 2, u'-        aassert(cls);'), (51, 2, u'-        aassert(mid);'), (74, 2, u'-        aassert(env);'), (76, 2, u'-        aassert(cls);'), (78, 2, u'-        aassert(mid);'), (94, 2, u'-        aassert(env);'), (96, 2, u'-        aassert(cls);'), (98, 2, u'-        aassert(mid);'), (113, 2, u'-        aassert(env);'), (115, 2, u'-        aassert(cls);'), (117, 2, u'-        aassert(mid);'), (132, 2, u'-        aassert(env);'), (134, 2, u'-        aassert(cls);'), (136, 2, u'-        aassert(mid);'), (154, 2, u'-        aassert(env);'), (156, 2, u'-        aassert(cls);'), (158, 2, u'-        aassert(mid);'), (181, 2, u'-        aassert(env);'), (183, 2, u'-        aassert(cls);'), (185, 2, u'-        aassert(mid);'), (201, 2, u'-        aassert(env);'), (203, 2, u'-        aassert(cls);'), (205, 2, u'-        aassert(mid);'), (221, 2, u'-        aassert(env);'), (223, 2, u'-        aassert(cls);'), (225, 2, u'-        aassert(mid);'), (241, 2, u'-        aassert(env);'), (243, 2, u'-        aassert(cls);'), (245, 2, u'-        aassert(mid);'), (260, 2, u'-        aassert(env);'), (262, 2, u'-        aassert(cls);'), (264, 2, u'-        aassert(mid);'), (279, 2, u'-        aassert(env);'), (281, 2, u'-        aassert(cls);'), (283, 2, u'-        aassert(mid);'), (298, 2, u'-        aassert(env);'), (300, 2, u'-        aassert(cls);'), (302, 2, u'-        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);'), (38, 1, u'+        aassert(cls);'), (40, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Total add: 43
+Total del: 0
+Header: android_open_url
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);'), (38, 1, u'+        aassert(cls);'), (40, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);'), (38, 1, u'+        aassert(cls);'), (40, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 0
+Header: android_sound_play
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);'), (29, 1, u'+        aassert(env);'), (31, 1, u'+        aassert(cls);'), (33, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Total add: 38
+Total del: 0
+Header: android_sound_unpause
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);'), (29, 1, u'+        aassert(env);'), (31, 1, u'+        aassert(cls);'), (33, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);'), (29, 1, u'+        aassert(env);'), (31, 1, u'+        aassert(cls);'), (33, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 1, u'+        aassert(env);'), (22, 1, u'+        aassert(cls);'), (24, 1, u'+        aassert(mid);'), (39, 1, u'+        aassert(env);'), (41, 1, u'+        aassert(cls);'), (43, 1, u'+        aassert(mid);'), (58, 1, u'+        aassert(env);'), (60, 1, u'+        aassert(cls);'), (62, 1, u'+        aassert(mid);'), (83, 1, u'+        aassert(env);'), (85, 1, u'+        aassert(cls);'), (87, 1, u'+        aassert(mid);'), (106, 1, u'+        aassert(env);'), (108, 1, u'+        aassert(cls);'), (110, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Total add: 25
+Total del: 0
+Header: android_action_send
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (14, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);'), (26, 1, u'+        aassert(env);'), (28, 1, u'+        aassert(cls);'), (30, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Total add: 34
+Total del: 0
+Header: android_activate_input
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);'), (26, 1, u'+        aassert(env);'), (28, 1, u'+        aassert(cls);'), (30, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);'), (26, 1, u'+        aassert(env);'), (28, 1, u'+        aassert(cls);'), (30, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (15, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Total add: 31
+Total del: 0
+Header: android_activate_input
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (15, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+        aassert(env);'), (12, 1, u'+        aassert(cls);'), (15, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);'), (28, 1, u'+        aassert(env);'), (30, 1, u'+        aassert(cls);'), (32, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Total add: 41
+Total del: 0
+Header: android_accelerometer_enable
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);'), (28, 1, u'+        aassert(env);'), (30, 1, u'+        aassert(cls);'), (32, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+        aassert(env);'), (11, 1, u'+        aassert(cls);'), (13, 1, u'+        aassert(mid);'), (28, 1, u'+        aassert(env);'), (30, 1, u'+        aassert(cls);'), (32, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 1, u'+        aassert(env);'), (22, 1, u'+        aassert(cls);'), (24, 1, u'+        aassert(mid);'), (39, 1, u'+        aassert(env);'), (41, 1, u'+        aassert(cls);'), (43, 1, u'+        aassert(mid);'), (59, 1, u'+        aassert(env);'), (61, 1, u'+        aassert(cls);'), (63, 1, u'+        aassert(mid);'), (81, 1, u'+        aassert(env);'), (83, 1, u'+        aassert(cls);'), (85, 1, u'+        aassert(mid);'), (98, 1, u'+        aassert(env);'), (100, 1, u'+        aassert(cls);'), (102, 1, u'+        aassert(mid);'), (115, 1, u'+        aassert(env);'), (117, 1, u'+        aassert(cls);'), (119, 1, u'+        aassert(mid);'), (139, 1, u'+        aassert(env);'), (170, 1, u'+        aassert(env);'), (172, 1, u'+        aassert(cls);'), (174, 1, u'+        aassert(mid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+#define aassert(x) { if (!x) { __android_log_print(ANDROID_LOG_ERROR, "android_sound_jni", "Assertion failed. %s:%d", __FILE__, __LINE__); abort(); }}'), (20, 1, u'+        aassert(env);'), (22, 1, u'+        aassert(cls);'), (24, 1, u'+        aassert(mid);'), (47, 1, u'+        aassert(env);'), (49, 1, u'+        aassert(cls);'), (51, 1, u'+        aassert(mid);'), (74, 1, u'+        aassert(env);'), (76, 1, u'+        aassert(cls);'), (78, 1, u'+        aassert(mid);'), (93, 1, u'+        aassert(env);'), (95, 1, u'+        aassert(cls);'), (97, 1, u'+        aassert(mid);'), (112, 1, u'+        aassert(env);'), (114, 1, u'+        aassert(cls);'), (116, 1, u'+        aassert(mid);'), (134, 1, u'+        aassert(env);'), (136, 1, u'+        aassert(cls);'), (138, 1, u'+        aassert(mid);'), (161, 1, u'+        aassert(env);'), (163, 1, u'+        aassert(cls);'), (165, 1, u'+        aassert(mid);'), (181, 1, u'+        aassert(env);'), (183, 1, u'+        aassert(cls);'), (185, 1, u'+        aassert(mid);'), (201, 1, u'+        aassert(env);'), (203, 1, u'+        aassert(cls);'), (205, 1, u'+        aassert(mid);'), (221, 1, u'+        aassert(env);'), (223, 1, u'+        aassert(cls);'), (225, 1, u'+        aassert(mid);'), (240, 1, u'+        aassert(env);'), (242, 1, u'+        aassert(cls);'), (244, 1, u'+        aassert(mid);')]
+===========================================
+Class:  class CEventQueue : public CBase, public MEventQueue     {     
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(533, 1, u'+#ifndef ABORT_ON_ASSERT_FAILURE'), (534, 1, u'+#define ABORT_ON_ASSERT_FAILURE 1'), (1205, 1, u'+#if ABORT_ON_ASSERT_FAILURE'), (1206, 1, u'+#define assert(x) if(!(x)) ABORT'), (1211, 1, u'+#define assert(x)'), (2565, 1, u'+  assert((is_aligned(chunk2mem(p))) || (p->head == FENCEPOST_HEAD));'), (2566, 1, u'+  assert(ok_address(m, p));'), (2573, 1, u'+  assert(sp != 0);'), (2574, 1, u'+  assert((is_aligned(chunk2mem(p))) || (p->head == FENCEPOST_HEAD));'), (2575, 1, u'+  assert(ok_address(m, p));'), (2576, 1, u'+  assert(sz == m->topsize);'), (2577, 1, u'+  assert(sz > 0);'), (2578, 1, u'+  assert(sz == ((sp->base + sp->size) - (char*)p) - TOP_FOOT_SIZE);'), (2579, 1, u'+  assert(pinuse(p));'), (2580, 1, u'+  assert(!next_pinuse(p));'), (2587, 1, u'+  assert(is_mmapped(p));'), (2588, 1, u'+  assert(use_mmap(m));'), (2589, 1, u'+  assert((is_aligned(chunk2mem(p))) || (p->head == FENCEPOST_HEAD));'), (2590, 1, u'+  assert(ok_address(m, p));'), (2591, 1, u'+  assert(!is_small(sz));'), (2592, 1, u'+  assert((len & (mparams.page_size-SIZE_T_ONE)) == 0);'), (2593, 1, u'+  assert(chunk_plus_offset(p, sz)->head == FENCEPOST_HEAD);'), (2594, 1, u'+  assert(chunk_plus_offset(p, sz+SIZE_T_SIZE)->head == 0);'), (2600, 1, u'+  assert(cinuse(p));'), (2601, 1, u'+  assert(next_pinuse(p));'), (2603, 1, u'+  assert(is_mmapped(p) || pinuse(p) || next_chunk(prev_chunk(p)) == p);'), (2613, 1, u'+  assert(!cinuse(p));'), (2614, 1, u'+  assert(!next_pinuse(p));'), (2615, 1, u'+  assert (!is_mmapped(p));'), (2618, 1, u'+      assert((sz & CHUNK_ALIGN_MASK) == 0);'), (2619, 1, u'+      assert(is_aligned(chunk2mem(p)));'), (2620, 1, u'+      assert(next->prev_foot == sz);'), (2621, 1, u'+      assert(pinuse(p));'), (2622, 1, u'+      assert (next == m->top || cinuse(next));'), (2623, 1, u'+      assert(p->fd->bk == p);'), (2624, 1, u'+      assert(p->bk->fd == p);'), (2627, 1, u'+      assert(sz == SIZE_T_SIZE);'), (2637, 1, u'+    assert((sz & CHUNK_ALIGN_MASK) == 0);'), (2638, 1, u'+    assert(sz >= MIN_CHUNK_SIZE);'), (2639, 1, u'+    assert(sz >= s);'), (2641, 1, u'+    assert(is_mmapped(p) || sz < (s + MIN_CHUNK_SIZE));'), (2653, 1, u'+  assert(tindex == idx);'), (2654, 1, u'+  assert(tsize >= MIN_LARGE_SIZE);'), (2655, 1, u'+  assert(tsize >= minsize_for_tree_index(idx));'), (2656, 1, u'+  assert((idx == NTREEBINS-1) || (tsize < minsize_for_tree_index((idx+1))));'), (2660, 1, u'+    assert(u->index == tindex);'), (2661, 1, u'+    assert(chunksize(u) == tsize);'), (2662, 1, u'+    assert(!cinuse(u));'), (2663, 1, u'+    assert(!next_pinuse(u));'), (2664, 1, u'+    assert(u->fd->bk == u);'), (2665, 1, u'+    assert(u->bk->fd == u);'), (2667, 1, u'+      assert(u->child[0] == 0);'), (2668, 1, u'+      assert(u->child[1] == 0);'), (2671, 1, u'+      assert(head == 0); /* only one node on chain has parent */'), (2673, 1, u'+      assert(u->parent != u);'), (2674, 1, u'+      assert (u->parent->child[0] == u ||'), (2678, 1, u'+        assert(u->child[0]->parent == u);'), (2679, 1, u'+        assert(u->child[0] != u);'), (2683, 1, u'+        assert(u->child[1]->parent == u);'), (2684, 1, u'+        assert(u->child[1] != u);'), (2688, 1, u'+        assert(chunksize(u->child[0]) < chunksize(u->child[1]));'), (2693, 1, u'+  assert(head != 0);'), (2702, 1, u'+    assert(empty);'), (2713, 1, u'+    assert(empty);'), (2721, 1, u'+      assert(small_index(size) == i);'), (2722, 1, u'+      assert(p->bk == b || chunksize(p->bk) == chunksize(p));'), (2776, 1, u'+      assert(pinuse(q));'), (2781, 1, u'+          assert(!bin_find(m, q));'), (2785, 1, u'+          assert(q == m->dv || bin_find(m, q));'), (2786, 1, u'+          assert(lastq == 0 || cinuse(lastq)); /* Not 2 consecutive free */'), (2810, 1, u'+    assert(m->dvsize == chunksize(m->dv));'), (2811, 1, u'+    assert(m->dvsize >= MIN_CHUNK_SIZE);'), (2812, 1, u'+    assert(bin_find(m, m->dv) == 0);'), (2817, 1, u'+    assert(m->topsize == chunksize(m->top));'), (2818, 1, u'+    assert(m->topsize > 0);'), (2819, 1, u'+    assert(bin_find(m, m->top) == 0);'), (2823, 1, u'+  assert(total <= m->footprint);'), (2824, 1, u'+  assert(m->footprint <= m->max_footprint);'), (2918, 1, u'+  assert(S >= MIN_CHUNK_SIZE);\\'), (2937, 1, u'+  assert(P != B);\\'), (2938, 1, u'+  assert(P != F);\\'), (2939, 1, u'+  assert(chunksize(P) == small_index2size(I));\\'), (2955, 1, u'+  assert(P != B);\\'), (2956, 1, u'+  assert(P != F);\\'), (2957, 1, u'+  assert(chunksize(P) == small_index2size(I));\\'), (2975, 1, u'+    assert(is_small(DVS));\\'), (3183, 1, u'+      assert(is_aligned(chunk2mem(p)));'), (3282, 1, u'+  assert((char*)oldfirst > (char*)q);'), (3283, 1, u'+  assert(pinuse(oldfirst));'), (3284, 1, u'+  assert(qsize >= MIN_CHUNK_SIZE);'), (3336, 1, u'+  assert(is_aligned(ss));'), (3354, 1, u'+  assert(nfences >= 2);'), (3577, 1, u'+        assert(segment_holds(sp, (char*)sp));'), (3723, 1, u'+      assert(chunksize(v) == rsize + nb);'), (3762, 1, u'+    assert(chunksize(v) == rsize + nb);'), (3922, 1, u'+      assert (chunksize(p) >= nb);'), (3923, 1, u'+      assert((((size_t)(chunk2mem(p))) % alignment) == 0);'), (4012, 1, u'+  assert(!is_mmapped(p));'), (4050, 1, u'+      assert(remainder_size == element_size);'), (4053, 1, u'+      assert(remainder_size == request2size(sizes[i]));'), (4110, 1, u'+        assert(chunksize(p) == small_index2size(idx));'), (4128, 1, u'+          assert(chunksize(p) == small_index2size(i));'), (4517, 1, u'+        assert(chunksize(p) == small_index2size(idx));'), (4535, 1, u'+          assert(chunksize(p) == small_index2size(i));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(53, 1, u'+#ifdef assert'), (54, 1, u'+#undef assert'), (56, 1, u'+#define assert(X)'), (328, 1, u'+  assert(pivot!=0);'), (359, 1, u'+  assert(pivot!=0);'), (389, 1, u'+  assert(pivot!=0);')]
+===========================================
+Class:    class CLockable : public CFbsBitmap     {     
+24
+Mismatch count:127376
+Normal count:2724092

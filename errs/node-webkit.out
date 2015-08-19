@@ -1,0 +1,146 @@
+projects/top_C++/node-webkit
+Going to process projects/top_C++/node-webkit/all_log.txt 
+---------- node-webkit ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  ASSERT(!global->IsUndefined());')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: DispatcherBindings::RequireNwGui
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  ASSERT(!global->IsUndefined());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  ASSERT(!global->IsUndefined());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  ASSERT(!(registry->IsNull() || registry->IsUndefined()));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Dispatcher::GetObjectRegistry
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  ASSERT(!(registry->IsNull() || registry->IsUndefined()));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  ASSERT(!(registry->IsNull() || registry->IsUndefined()));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    ASSERT(!in_nav_url_.empty());')]
+===========================================
+===========================================
+Total add: 11
+Total del: 0
+Header: ShellContentRendererClient::goodForNode
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    ASSERT(!in_nav_url_.empty());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    ASSERT(!in_nav_url_.empty());')]
+===========================================
+Class:class PrepareFrameAndViewForPrint : public WebKit::WebViewClient,                                     public WebKit::WebFrameClient {                                     public WebKit::WebFrameClient 
+Class:class PrepareFrameAndViewForPrint : public blink::WebViewClient,                                     public blink::WebFrameClient {                                     public blink::WebFrameClient 
+Class:class URLRequestNWAppJob : public net::URLRequestFileJob { class URLRequestNWAppJob : public net::URLRequestFileJob 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+#undef ASSERT')]
+===========================================
+Class:class StickyPrintSettingGtk { class StickyPrintSettingGtk 
+Class: class Target : public content::DevToolsTarget { class Target : public content::DevToolsTarget 
+Class:   class NWCookieMonsterDelegate : public net::CookieMonster::Delegate { class NWCookieMonsterDelegate : public net::CookieMonster::Delegate 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(533, 1, u'+                                 MDRawAssertionInfo*, bool) {'), (545, 1, u'+                      MDRawAssertionInfo*, bool) {'), (576, 1, u'+    void*, EXCEPTION_POINTERS*, MDRawAssertionInfo*) {'), (584, 1, u'+bool FilterCallback(void*, EXCEPTION_POINTERS*, MDRawAssertionInfo*) {'), (980, 1, u'+  _CrtSetReportMode(_CRT_ASSERT, 0);')]
+===========================================
+Class:class MimeWriter { class MimeWriter 
+Class:class GtkPrinterList { class GtkPrinterList 
+Class:class PrepareFrameAndViewForPrint : public WebKit::WebViewClient, class PrepareFrameAndViewForPrint : public WebKit::WebViewClient,
+Class:class ShellBrowserContext::ShellResourceContext : public ResourceContext { class ShellBrowserContext::ShellResourceContext : public ResourceContext 
+Class:  class DeviceIdEquals { class DeviceIdEquals 
+Class:class DeviceNameEquals { class DeviceNameEquals 
+Class:  class DeviceIdEquals { class DeviceIdEquals 
+Class:class DeviceNameEquals { class DeviceNameEquals 
+Class:                       class SQLitePersistentCookieStore::Backend     : public base::RefCountedThreadSafe<SQLitePersistentCookieStore::Backend> {     : public base::RefCountedThreadSafe<SQLitePersistentCookieStore::Backend> 
+Class:   class KillDatabaseErrorDelegate : public sql::ErrorDelegate {   class KillDatabaseErrorDelegate : public sql::ErrorDelegate 
+Class:   class PendingOperation {   class PendingOperation 
+Class:class IncrementTimeDelta { class IncrementTimeDelta 
+Class:class TrayObserver : public StatusIconObserver { class TrayObserver : public StatusIconObserver 
+Class:class NativeWindowClientView : public views::ClientView { class NativeWindowClientView : public views::ClientView 
+Class:class NativeWindowFrameView : public views::NonClientFrameView { class NativeWindowFrameView : public views::NonClientFrameView 
+Class:class ShellViewsDelegateAura : public ViewsDelegate { class ShellViewsDelegateAura : public ViewsDelegate 
+Class:  class ShellWindowDelegateView : public WidgetDelegateView,                                 public TextfieldController,                                 public ButtonListener {                                 public ButtonListener 
+Class:class ShellJavaScriptDialog;
+Class:class ShellJavaScriptDialog;
+Class:class DeviceIdEquals { class DeviceIdEquals 
+Class:   class DeviceNameEquals { class DeviceNameEquals 
+Class:class NET_EXPORT URLRequestAboutJob : public net::URLRequestJob { class NET_EXPORT URLRequestAboutJob : public net::URLRequestJob 
+Class:class NET_EXPORT URLRequestAboutJob : public net::URLRequestJob { class NET_EXPORT URLRequestAboutJob : public net::URLRequestJob 
+Class:class ShellViewsDelegateAura : public ViewsDelegate { class ShellViewsDelegateAura : public ViewsDelegate 
+Class:  class ShellWindowDelegateView : public WidgetDelegateView,                                 public TextfieldController,                                 public ButtonListener {                                 public ButtonListener 
+Class:class ShellJavaScriptDialog;
+<type 'unicode'>
+593
+Mismatch count:14978
+Normal count:458373

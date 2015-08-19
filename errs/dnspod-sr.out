@@ -1,0 +1,97 @@
+projects/top_C/dnspod-sr
+Going to process projects/top_C/dnspod-sr/all_log.txt 
+---------- dnspod-sr ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 1, u'+                        assert(i < QLIST_TABLE_SIZE && typeoff < SUPPORT_TYPE_NUM);')]
+===========================================
+===========================================
+Total add: 60
+Total del: 38
+Header: cb_read_auth
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 1, u'+                        assert(i < QLIST_TABLE_SIZE && typeoff < SUPPORT_TYPE_NUM);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 1, u'+                        assert(i < QLIST_TABLE_SIZE && typeoff < SUPPORT_TYPE_NUM);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(78, 1, u'+        assert(g_nameservers[1] == NULL);')]
+===========================================
+===========================================
+Total add: 54
+Total del: 29
+Header: main
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(78, 1, u'+        assert(g_nameservers[1] == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(78, 1, u'+        assert(g_nameservers[1] == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(ret >= 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: create_transfer_point
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(ret >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(ret >= 0);')]
+===========================================
+6
+Mismatch count:18596
+Normal count:630930

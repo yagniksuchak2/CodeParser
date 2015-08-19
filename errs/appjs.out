@@ -1,0 +1,49 @@
+projects/top_C++/appjs
+Going to process projects/top_C++/appjs/all_log.txt 
+---------- appjs ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT(!data_.empty());')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: AppjsSchemeHandler::GetResponseHeaders
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT(!data_.empty());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT(!data_.empty());')]
+===========================================
+Class: class ClientSchemeHandler : public CefSchemeHandler { class ClientSchemeHandler : public CefSchemeHandler 
+Class:  class ClientSchemeHandlerFactory : public CefSchemeHandlerFactory { class ClientSchemeHandlerFactory : public CefSchemeHandlerFactory 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(72, 1, u'+  ASSERT(!data_.empty());')]
+===========================================
+Class:class ClientSchemeHandler : public CefSchemeHandler { class ClientSchemeHandler : public CefSchemeHandler 
+Class:  class ClientSchemeHandlerFactory : public CefSchemeHandlerFactory { class ClientSchemeHandlerFactory : public CefSchemeHandlerFactory 
+166
+Mismatch count:23336
+Normal count:395111

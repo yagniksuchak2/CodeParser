@@ -1,0 +1,9 @@
+Utility to process github logs
+Going to process projects/top_C/ccv//all_log.txt 
+---------- ccv ------------
+
+<type 'unicode'>
+609
+Mismatch count:953
+Normal count:6484
+!! Done

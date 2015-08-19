@@ -1,0 +1,23 @@
+projects/top_C/phpredis
+Going to process projects/top_C/phpredis/all_log.txt 
+---------- phpredis ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-\tassert(h != NULL);'), (100, 2, u'-\tassert(h != NULL);'), (169, 2, u'-\tassert(h != NULL);'), (220, 2, u'-\tassert(h != NULL);'), (236, 2, u'-\tassert(h != NULL && traverse_function != NULL);'), (247, 2, u'-\tassert(h != NULL);'), (254, 2, u'-\tassert(h != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(73, 1, u'+\tassert(h != NULL);'), (94, 1, u'+\tassert(h != NULL);'), (163, 1, u'+\tassert(h != NULL);'), (214, 1, u'+\tassert(h != NULL);'), (230, 1, u'+\tassert(h != NULL && traverse_function != NULL);'), (241, 1, u'+\tassert(h != NULL);'), (248, 1, u'+\tassert(h != NULL);')]
+===========================================
+524
+Mismatch count:126721
+Normal count:2723971

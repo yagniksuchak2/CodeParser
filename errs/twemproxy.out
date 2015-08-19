@@ -1,0 +1,1036 @@
+projects/top_C/twemproxy
+Going to process projects/top_C/twemproxy/all_log.txt 
+---------- twemproxy ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+        ASSERT(nreturned <= 1);')]
+===========================================
+===========================================
+Total add: 59
+Total del: 5
+Header: event_wait
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+        ASSERT(nreturned <= 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+        ASSERT(nreturned <= 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(st->st_evb != NULL);'), (9, 2, u'-    ASSERT(st->sd >= 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 17
+Header: stats_start_aggregator
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(st->st_evb != NULL);'), (9, 2, u'-    ASSERT(st->sd >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(st->st_evb != NULL);'), (9, 2, u'-    ASSERT(st->sd >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->ep >= 0);'), (3, 1, u'+    ASSERT(evb->ep > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: event_base_destroy
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->ep >= 0);'), (3, 1, u'+    ASSERT(evb->ep > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->ep >= 0);'), (3, 1, u'+    ASSERT(evb->ep > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->kq >= 0);'), (3, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: event_base_destroy
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->kq >= 0);'), (3, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->kq >= 0);'), (3, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(!conn->connecting);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: rsp_recv_next
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(!conn->connecting);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(!conn->connecting);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: event_base_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: event_add_out
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (3, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: event_add_out
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (3, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (3, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: event_del_out
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (3, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: event_del_out
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (3, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (3, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);'), (8, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (12, 1, u'+    ASSERT(!c->recv_active);'), (13, 1, u'+    ASSERT(!c->send_active);'), (14, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 6
+Header: event_add_conn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);'), (8, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (12, 1, u'+    ASSERT(!c->recv_active);'), (13, 1, u'+    ASSERT(!c->send_active);'), (14, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);'), (8, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (12, 1, u'+    ASSERT(!c->recv_active);'), (13, 1, u'+    ASSERT(!c->send_active);'), (14, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);'), (8, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (9, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 5
+Header: event_del_conn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);'), (8, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (9, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    ASSERT(kq > 0);'), (5, 1, u'+    ASSERT(evb->kq > 0);'), (8, 2, u'-    ASSERT(evb->n_changes < evb->nevent);'), (9, 1, u'+    ASSERT(evb->nchange < evb->nevent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+        ASSERT(server->weight > 0);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 0
+Header: modula_update
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+        ASSERT(server->weight > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+        ASSERT(server->weight > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 4
+Header: event_wait
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    ASSERT(st->st_evb != NULL);'), (5, 1, u'+    ASSERT(st->sd >= 0);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 14
+Header: stats_start_aggregator
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    ASSERT(st->st_evb != NULL);'), (5, 1, u'+    ASSERT(st->sd >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    ASSERT(st->st_evb != NULL);'), (5, 1, u'+    ASSERT(st->sd >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(ctx->kq < 0);'), (8, 1, u'+    ASSERT(ctx->nevent != 0);'), (9, 1, u'+    ASSERT(ctx->changes == NULL);'), (10, 1, u'+    ASSERT(ctx->kevents == NULL);')]
+===========================================
+===========================================
+Total add: 44
+Total del: 0
+Header: event_init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(ctx->kq < 0);'), (8, 1, u'+    ASSERT(ctx->nevent != 0);'), (9, 1, u'+    ASSERT(ctx->changes == NULL);'), (10, 1, u'+    ASSERT(ctx->kevents == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(ctx->kq < 0);'), (8, 1, u'+    ASSERT(ctx->nevent != 0);'), (9, 1, u'+    ASSERT(ctx->changes == NULL);'), (10, 1, u'+    ASSERT(ctx->kevents == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    ASSERT(ctx->kq >= 0);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 0
+Header: event_deinit
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    ASSERT(ctx->kq >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+    ASSERT(ctx->kq >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(c->recv_active);'), (11, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+Total add: 27
+Total del: 0
+Header: event_add_out
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(c->recv_active);'), (11, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(c->recv_active);'), (11, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(c->recv_active);'), (11, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+Total add: 27
+Total del: 0
+Header: event_del_out
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(c->recv_active);'), (11, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(c->recv_active);'), (11, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+Total add: 25
+Total del: 0
+Header: event_add_conn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+Total add: 23
+Total del: 0
+Header: event_del_conn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    ASSERT(kq > 0);'), (8, 1, u'+    ASSERT(c != NULL);'), (9, 1, u'+    ASSERT(c->sd > 0);'), (10, 1, u'+    ASSERT(ctx->n_changes < ctx->nevent);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    ASSERT(kq > 0);'), (12, 1, u'+    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+Total add: 39
+Total del: 0
+Header: event_wait
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    ASSERT(kq > 0);'), (12, 1, u'+    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    ASSERT(kq > 0);'), (12, 1, u'+    ASSERT(nevent > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->type == MSG_REQ_MC_GET || msg->type == MSG_REQ_MC_GETS);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 5
+Header: msg_fragment
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->type == MSG_REQ_MC_GET || msg->type == MSG_REQ_MC_GETS);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->type == MSG_REQ_MC_GET || msg->type == MSG_REQ_MC_GETS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(msg->frag_owner->nfrag == nfragment);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 0
+Header: req_done
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(msg->frag_owner->nfrag == nfragment);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(msg->frag_owner->nfrag == nfragment);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-            ASSERT(msg->end != NULL);'), (20, 2, u'-                ASSERT(mbuf != NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 41
+Header: rsp_forward
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-            ASSERT(msg->end != NULL);'), (20, 2, u'-                ASSERT(mbuf != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-            ASSERT(msg->end != NULL);'), (20, 2, u'-                ASSERT(mbuf != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->type == MSG_REQ_GET || msg->type == MSG_REQ_GETS);'), (3, 1, u'+    ASSERT(msg->type == MSG_REQ_MC_GET || msg->type == MSG_REQ_MC_GETS);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: msg_fragment
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->type == MSG_REQ_GET || msg->type == MSG_REQ_GETS);'), (3, 1, u'+    ASSERT(msg->type == MSG_REQ_MC_GET || msg->type == MSG_REQ_MC_GETS);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->type == MSG_REQ_GET || msg->type == MSG_REQ_GETS);'), (3, 1, u'+    ASSERT(msg->type == MSG_REQ_MC_GET || msg->type == MSG_REQ_MC_GETS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(!r->redis);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: memcache_parse_req
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(!r->redis);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(!r->redis);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(!r->redis);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: memcache_parse_rsp
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(!r->redis);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    ASSERT(!r->redis);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            ASSERT(r->retrieval);'), (3, 1, u'+            ASSERT(memcache_retrieval(r));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: memcache_parse_req
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            ASSERT(r->retrieval);'), (3, 1, u'+            ASSERT(memcache_retrieval(r));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            ASSERT(r->retrieval);'), (3, 1, u'+            ASSERT(memcache_retrieval(r));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                    ASSERT(r->storage || r->arithmetic || r->delete);'), (3, 1, u'+                    ASSERT(memcache_storage(r) || memcache_arithmetic(r) || memcache_delete(r));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: memcache_parse_req
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                    ASSERT(r->storage || r->arithmetic || r->delete);'), (3, 1, u'+                    ASSERT(memcache_storage(r) || memcache_arithmetic(r) || memcache_delete(r));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-                    ASSERT(r->storage || r->arithmetic || r->delete);'), (3, 1, u'+                    ASSERT(memcache_storage(r) || memcache_arithmetic(r) || memcache_delete(r));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-    ASSERT(!s_conn->client && !s_conn->proxy);'), (10, 2, u'-    ASSERT(c_conn->client && !c_conn->proxy);'), (11, 2, u'-    ASSERT(!msg->request && msg->peer != NULL);'), (15, 1, u'+    ASSERT(!msg->request);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 11
+Header: rsp_filter
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-    ASSERT(!s_conn->client && !s_conn->proxy);'), (10, 2, u'-    ASSERT(c_conn->client && !c_conn->proxy);'), (11, 2, u'-    ASSERT(!msg->request && msg->peer != NULL);'), (15, 1, u'+    ASSERT(!msg->request);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-    ASSERT(!s_conn->client && !s_conn->proxy);'), (10, 2, u'-    ASSERT(c_conn->client && !c_conn->proxy);'), (11, 2, u'-    ASSERT(!msg->request && msg->peer != NULL);'), (15, 1, u'+    ASSERT(!msg->request);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->pos == mbuf->last);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: msg_recv_chain
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->pos == mbuf->last);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(msg->pos == mbuf->last);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(mbuf->end - mbuf->start == mbuf_offset);'), (3, 1, u'+    ASSERT(mbuf->end - mbuf->start == (int)mbuf_offset);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mbuf_get
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(mbuf->end - mbuf->start == mbuf_offset);'), (3, 1, u'+    ASSERT(mbuf->end - mbuf->start == (int)mbuf_offset);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT(mbuf->end - mbuf->start == mbuf_offset);'), (3, 1, u'+    ASSERT(mbuf->end - mbuf->start == (int)mbuf_offset);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(mbuf->end - mbuf->start == MBUF_LEN);'), (9, 1, u'+    ASSERT(mbuf->end - mbuf->start == mbuf_offset);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: mbuf_get
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(mbuf->end - mbuf->start == MBUF_LEN);'), (9, 1, u'+    ASSERT(mbuf->end - mbuf->start == mbuf_offset);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(mbuf->end - mbuf->start == MBUF_LEN);'), (9, 1, u'+    ASSERT(mbuf->end - mbuf->start == mbuf_offset);')]
+===========================================
+<type 'unicode'>
+120
+Mismatch count:129784
+Normal count:2835246

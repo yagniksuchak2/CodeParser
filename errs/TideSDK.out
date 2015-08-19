@@ -1,0 +1,679 @@
+projects/top_C++/TideSDK
+Going to process projects/top_C++/TideSDK/all_log.txt 
+---------- TideSDK ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(162, 1, u'+    static void AssertEnvironmentVariable(std::string variable)'), (174, 1, u'+        AssertEnvironmentVariable(HOME_ENV);'), (175, 1, u'+        AssertEnvironmentVariable(RUNTIME_ENV);'), (176, 1, u'+        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(162, 2, u'-    static void AssertEnvironmentVariable(std::string variable)'), (174, 2, u'-        AssertEnvironmentVariable(HOME_ENV);'), (175, 2, u'-        AssertEnvironmentVariable(RUNTIME_ENV);'), (176, 2, u'-        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:    class PathBits     class PathBits
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:    class ValueBinding     class ValueBinding
+Class:    class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler {     class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler 
+Class:    class ValueBinding     class ValueBinding
+Class:    class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler {     class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler 
+Class:    class DialogTemplate     class DialogTemplate
+Class:    class DialogTemplate     class DialogTemplate
+Class:	class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler { 	class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler 
+Class:    class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler {     class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler 
+Class: 	class DialogTemplate 	{ 	
+Class:     class DialogTemplate     {     
+Class:    class DialogTemplate     class DialogTemplate
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 1, u'+    static void AssertEnvironmentVariable(std::string variable)'), (171, 1, u'+        AssertEnvironmentVariable(HOME_ENV);'), (172, 1, u'+        AssertEnvironmentVariable(RUNTIME_ENV);'), (173, 1, u'+        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:    class DialogTemplate     class DialogTemplate
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 2, u'-    static void AssertEnvironmentVariable(std::string variable)'), (171, 2, u'-        AssertEnvironmentVariable(HOME_ENV);'), (172, 2, u'-        AssertEnvironmentVariable(RUNTIME_ENV);'), (173, 2, u'-        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:class WinHTTPSession class WinHTTPSession
+Class:    class DialogTemplate     class DialogTemplate
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 2, u'-    static void AssertEnvironmentVariable(std::string variable)'), (171, 2, u'-        AssertEnvironmentVariable(HOME_ENV);'), (172, 2, u'-        AssertEnvironmentVariable(RUNTIME_ENV);'), (173, 2, u'-        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:class WinHTTPSession class WinHTTPSession
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:    class DialogTemplate     class DialogTemplate
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 1, u'+    static void AssertEnvironmentVariable(std::string variable)'), (171, 1, u'+        AssertEnvironmentVariable(HOME_ENV);'), (172, 1, u'+        AssertEnvironmentVariable(RUNTIME_ENV);'), (173, 1, u'+        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:class WinHTTPSession class WinHTTPSession
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 2, u'-    static void AssertEnvironmentVariable(std::string variable)'), (171, 2, u'-        AssertEnvironmentVariable(HOME_ENV);'), (172, 2, u'-        AssertEnvironmentVariable(RUNTIME_ENV);'), (173, 2, u'-        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:class WinHTTPSession class WinHTTPSession
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 1, u'+    static void AssertEnvironmentVariable(std::string variable)'), (171, 1, u'+        AssertEnvironmentVariable(HOME_ENV);'), (172, 1, u'+        AssertEnvironmentVariable(RUNTIME_ENV);'), (173, 1, u'+        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:class WinHTTPSession class WinHTTPSession
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:    class DialogTemplate     class DialogTemplate
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 2, u'-    static void AssertEnvironmentVariable(std::string variable)'), (171, 2, u'-        AssertEnvironmentVariable(HOME_ENV);'), (172, 2, u'-        AssertEnvironmentVariable(RUNTIME_ENV);'), (173, 2, u'-        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:class WinHTTPSession class WinHTTPSession
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:    class DialogTemplate     class DialogTemplate
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(159, 1, u'+    static void AssertEnvironmentVariable(std::string variable)'), (171, 1, u'+        AssertEnvironmentVariable(HOME_ENV);'), (172, 1, u'+        AssertEnvironmentVariable(RUNTIME_ENV);'), (173, 1, u'+        AssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:        class MainThreadCaller         class MainThreadCaller
+Class:class WinHTTPSession class WinHTTPSession
+Class:    class PathBits     class PathBits
+Class:    template <class StringType, class CharType> static StringType JoinTemplate(     template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:    class ValueBinding     class ValueBinding
+Class:	class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler { 	class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler 
+Class:	class DialogTemplate 	class DialogTemplate
+Class:    class ValueBinding     class ValueBinding
+Class:	class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler { 	class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler 
+Class:	class DialogTemplate 	class DialogTemplate
+Class:	class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler { 	class HTTPRequestHandler : public Poco::Net::HTTPRequestHandler 
+Class:	class ValueBinding 	{ 	
+Class:    class ValueBinding     {     
+Class: 	class DialogTemplate 	{ 	
+Class:     class DialogTemplate     {     
+Class:		class MainThreadCaller 		class MainThreadCaller
+Class:        class MainThreadCaller         class MainThreadCaller
+Class: 	class PathBits 	{ 	
+Class:     class PathBits     {     
+Class:	template <class StringType, class CharType> static StringType JoinTemplate( 	template <class StringType, class CharType> static StringType JoinTemplate(
+Class:     template <class StringType, class CharType> static StringType JoinTemplate(         const CharType separator, const CharType* nextPart, va_list args)     {     
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\t\tMDRawAssertionInfo* assertion,')]
+===========================================
+===========================================
+Total add: 0
+Total del: 117
+Header: namespace KrollBoot
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\t\tMDRawAssertionInfo* assertion,')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\t\tMDRawAssertionInfo* assertion,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(67, 2, u'-  assert(s != NULL);'), (68, 2, u'-  assert(r != NULL);'), (86, 2, u'-  assert(info != NULL);'), (223, 2, u'-  assert(regs);'), (232, 2, u'-  assert(regs);'), (239, 2, u'-  assert(regs);'), (246, 2, u'-  assert(regs);'), (266, 2, u'-  assert(buf);'), (267, 2, u'-  assert(buf_size > 0);'), (317, 2, u'-      assert(module.size > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(170, 2, u'-  assert(sig_ctx != NULL);'), (277, 2, u'-  assert(writer_args->sig_ctx != NULL);'), (785, 2, u'-  assert(file_pathname != NULL);'), (786, 2, u'-  assert(stack_ != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(316, 2, u'-  assert(list.n_value);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(752, 2, u'-    assert(header->magic == MH_MAGIC_64);'), (757, 2, u'-    assert(header->magic == MH_MAGIC);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 2, u'-  assert(valid_);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(66, 2, u'-  CPTAssert(kr == KERN_SUCCESS);'), (68, 2, u'-  CPTAssert(buf != NULL);'), (70, 2, u'-  CPTAssert(0 == memcmp(buf, (const void*)addr, getpagesize()));'), (84, 2, u'-  CPTAssert(d->GetImageCount() > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(75, 2, u'-      CPTAssert(nmAddr == symbolList[0].n_value);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(55, 2, u'-  assert(file_ == -1);'), (136, 2, u'-  assert(str);'), (137, 2, u'-  assert(location);'), (179, 2, u'-  assert(src);'), (180, 2, u'-  assert(output);'), (195, 2, u'-  assert(size);'), (196, 2, u'-  assert(file_ != -1);'), (221, 2, u'-  assert(src);'), (222, 2, u'-  assert(size);'), (223, 2, u'-  assert(file_ != -1);'), (238, 2, u'-  assert(size_ == 0);'), (245, 2, u'-  assert(src);'), (246, 2, u'-  assert(size);'), (247, 2, u'-  assert(position + size <= position_ + size_);')]
+===========================================
+Class:class AutoLwpResumer { class AutoLwpResumer 
+Class:class AutoCloser { class AutoCloser 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 2, u'-                       MDRawAssertionInfo* assert_info,'), (50, 2, u'-      assert_info_(assert_info),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 2, u'-  memset(&assert_info_, 0, sizeof(assert_info_));'), (194, 2, u'-                      &assert_info_,'), (283, 2, u'-  assert_info_.line = 0;'), (284, 2, u'-  assert_info_.type = 0;'), (285, 2, u'-  assert_info_.expression[0] = 0;'), (286, 2, u'-  assert_info_.file[0] = 0;'), (287, 2, u'-  assert_info_.function[0] = 0;'), (292, 2, u'-bool CrashGenerationClient::RequestDump(MDRawAssertionInfo* assert_info) {'), (299, 2, u'-  if (assert_info) {'), (300, 2, u'-    memcpy(&assert_info_, assert_info, sizeof(assert_info_));'), (302, 2, u'-    memset(&assert_info_, 0, sizeof(assert_info_));'), (311, 2, u'-  assert(crash_event_);'), (312, 2, u'-  assert(crash_generated_);'), (313, 2, u'-  assert(server_alive_);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(90, 2, u'-         msg.assert_info != NULL;'), (252, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_ERROR);'), (282, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_INITIAL);'), (294, 2, u'-  assert(!success);'), (323, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_CONNECTING);'), (346, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_CONNECTED);'), (373, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_READING);'), (392, 2, u'-  assert(error_code != ERROR_IO_INCOMPLETE);'), (404, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_READ_DONE);'), (417, 2, u'-                     msg_.assert_info,'), (444, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_WRITING);'), (463, 2, u'-  assert(error_code != ERROR_IO_INCOMPLETE);'), (473, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_WRITE_DONE);'), (498, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_READING_ACK);'), (518, 2, u'-    assert(error_code != ERROR_IO_INCOMPLETE);'), (529, 2, u'-  assert(server_state_ == IPC_SERVER_STATE_DISCONNECTING);'), (696, 2, u'-      assert(false);'), (741, 2, u'-  assert (context);'), (750, 2, u'-  assert(context);'), (755, 2, u'-  assert(crash_server);'), (763, 2, u'-  assert(context);'), (767, 2, u'-  assert(crash_server);'), (778, 2, u'-  assert(context);'), (782, 2, u'-  assert(crash_server);'), (795, 2, u'-  assert(client_info);'), (827, 2, u'-  assert(client.pid() != 0);'), (828, 2, u'-  assert(client.process_handle());'), (847, 2, u'-                                        client.assert_info(),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(68, 2, u'-                                      MDRawAssertionInfo* assert_info,'), (159, 2, u'-  MDRawAssertionInfo* actual_assert_info = assert_info;'), (160, 2, u'-  MDRawAssertionInfo client_assert_info = {0};'), (162, 2, u'-  if (assert_info) {'), (168, 2, u'-                             assert_info,'), (169, 2, u'-                             &client_assert_info,'), (170, 2, u'-                             sizeof(client_assert_info),'), (178, 2, u'-      if (bytes_read != sizeof(client_assert_info)) {'), (185, 2, u'-      actual_assert_info  = &client_assert_info;'), (188, 2, u'-    user_stream_array[1].Type = MD_ASSERTION_INFO_STREAM;'), (189, 2, u'-    user_stream_array[1].BufferSize = sizeof(MDRawAssertionInfo);'), (190, 2, u'-    user_stream_array[1].Buffer = actual_assert_info;')]
+===========================================
+Class:class AutoExceptionHandler { class AutoExceptionHandler 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(174, 2, u'-                     MDRawAssertionInfo* assertion,'), (472, 2, u'-  _CrtSetReportMode(_CRT_ASSERT, 0);')]
+===========================================
+Class:class FDWrapper { class FDWrapper 
+Class:      class MmapWrapper { class MmapWrapper 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 2, u'-  assert(elf_mapped_base);'), (57, 2, u'-  assert(text_start);'), (58, 2, u'-  assert(text_size);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(72, 2, u'-  assert(buf_len > kGUIDStringLength);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 2, u'-  assert(size == 4 || size == 8);'), (54, 2, u'-  assert(size == 4 || size == 8);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(92, 2, u'-  assert(iter != sections_.end());'), (115, 2, u'-    assert(abbrevptr < abbrev_start + abbrev_length);'), (120, 2, u'-    assert(abbrevptr < abbrev_start + abbrev_length);'), (124, 2, u'-    assert(abbrevptr < abbrev_start + abbrev_length);'), (130, 2, u'-      assert(abbrevptr < abbrev_start + abbrev_length);'), (141, 2, u'-    assert(abbrev.number == abbrevs_->size());'), (206, 2, u'-      assert(header_.version == 2 || header_.version == 3);'), (247, 2, u'-  assert(headerptr + 4 < buffer_ + buffer_length_);'), (253, 2, u'-  assert(headerptr + 2 < buffer_ + buffer_length_);'), (257, 2, u'-  assert(headerptr + reader_->OffsetSize() < buffer_ + buffer_length_);'), (261, 2, u'-  assert(headerptr + 1 < buffer_ + buffer_length_);'), (271, 2, u'-  assert(buffer_ + initial_length_size + header_.length <='), (278, 2, u'-  assert(iter != sections_.end());'), (391, 2, u'-      assert(header_.version == 2 || header_.version == 3);'), (432, 2, u'-      assert(string_buffer_ != NULL);'), (435, 2, u'-      assert(string_buffer_ + offset < string_buffer_ + string_buffer_length_);'), (538, 2, u'-  assert(buffer_ + initial_length_size + header_.total_length <='), (542, 2, u'-  assert(reader_->AddressSize() != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(92, 2, u'-  assert(dirs->size() == 0);'), (93, 2, u'-  assert(files->size() == 0);'), (103, 2, u'-  assert(dir_num == dirs_->size());'), (110, 2, u'-  assert(dir_num >= 0);'), (111, 2, u'-  assert(dir_num < dirs_->size());'), (201, 2, u'-    assert(iter != sections_.end());')]
+===========================================
+Class:class FDWrapper { class FDWrapper 
+Class:      class MmapWrapper { class MmapWrapper 
+Class:class AutoElfEnder { class AutoElfEnder 
+Class:class AutoElfEnder { class AutoElfEnder 
+Class: class AutoCloser { class AutoCloser 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 2, u'-  assert(buf_len > kGUIDStringLength);')]
+===========================================
+Class:class HTTPUpload::AutoInternetHandle { class HTTPUpload::AutoInternetHandle 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-  assert(wcs);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-  assert(that);')]
+===========================================
+Class:class BasicSourceLineResolver::Module { class BasicSourceLineResolver::Module 
+Class: class AutoFileCloser { class AutoFileCloser 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(94, 2, u'-  assert(error_string);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1062, 2, u'-  assert(value);'), (1245, 2, u'-  assert(thread_id);'), (1669, 2, u'-      assert(cv_record_70->cv_signature == MD_CVINFOPDB70_SIGNATURE);'), (1677, 2, u'-      assert(cv_record_20->cv_header.signature == MD_CVINFOPDB20_SIGNATURE);'), (1749, 2, u'-      assert(cv_record_70->cv_signature == MD_CVINFOPDB70_SIGNATURE);'), (1773, 2, u'-      assert(cv_record_20->cv_header.signature == MD_CVINFOPDB20_SIGNATURE);'), (2106, 2, u'-      assert(cv_record_70->cv_signature == MD_CVINFOPDB70_SIGNATURE);'), (2129, 2, u'-      assert(cv_record_20->cv_header.signature == MD_CVINFOPDB20_SIGNATURE);'), (2689, 2, u'-  assert(thread_id);'), (3138, 2, u'-  assert(thread_id);'), (3160, 2, u'-  assert(thread_id);'), (3589, 2, u'-  assert(stream_length);'), (3634, 2, u'-  assert(stream);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(65, 2, u'-  assert(header);'), (250, 2, u'-  assert(dump);'), (251, 2, u'-  assert(info);'), (312, 2, u'-  assert(dump);'), (313, 2, u'-  assert(info);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 2, u'-  assert(symbol_file);'), (81, 2, u'-  assert(symbol_data);'), (100, 2, u'-  assert(symbol_file);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 2, u'-  assert(stack);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(163, 1, u'+\t\tMDRawAssertionInfo* assertion,')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(67, 1, u'+  assert(s != NULL);'), (68, 1, u'+  assert(r != NULL);'), (86, 1, u'+  assert(info != NULL);'), (223, 1, u'+  assert(regs);'), (232, 1, u'+  assert(regs);'), (239, 1, u'+  assert(regs);'), (246, 1, u'+  assert(regs);'), (266, 1, u'+  assert(buf);'), (267, 1, u'+  assert(buf_size > 0);'), (317, 1, u'+      assert(module.size > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(170, 1, u'+  assert(sig_ctx != NULL);'), (277, 1, u'+  assert(writer_args->sig_ctx != NULL);'), (785, 1, u'+  assert(file_pathname != NULL);'), (786, 1, u'+  assert(stack_ != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(316, 1, u'+  assert(list.n_value);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(752, 1, u'+    assert(header->magic == MH_MAGIC_64);'), (757, 1, u'+    assert(header->magic == MH_MAGIC);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+  assert(valid_);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(66, 1, u'+  CPTAssert(kr == KERN_SUCCESS);'), (68, 1, u'+  CPTAssert(buf != NULL);'), (70, 1, u'+  CPTAssert(0 == memcmp(buf, (const void*)addr, getpagesize()));'), (84, 1, u'+  CPTAssert(d->GetImageCount() > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(75, 1, u'+      CPTAssert(nmAddr == symbolList[0].n_value);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(55, 1, u'+  assert(file_ == -1);'), (136, 1, u'+  assert(str);'), (137, 1, u'+  assert(location);'), (179, 1, u'+  assert(src);'), (180, 1, u'+  assert(output);'), (195, 1, u'+  assert(size);'), (196, 1, u'+  assert(file_ != -1);'), (221, 1, u'+  assert(src);'), (222, 1, u'+  assert(size);'), (223, 1, u'+  assert(file_ != -1);'), (238, 1, u'+  assert(size_ == 0);'), (245, 1, u'+  assert(src);'), (246, 1, u'+  assert(size);'), (247, 1, u'+  assert(position + size <= position_ + size_);')]
+===========================================
+Class:class AutoLwpResumer { class AutoLwpResumer 
+Class:class AutoCloser { class AutoCloser 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 1, u'+                       MDRawAssertionInfo* assert_info,'), (50, 1, u'+      assert_info_(assert_info),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 1, u'+  memset(&assert_info_, 0, sizeof(assert_info_));'), (194, 1, u'+                      &assert_info_,'), (283, 1, u'+  assert_info_.line = 0;'), (284, 1, u'+  assert_info_.type = 0;'), (285, 1, u'+  assert_info_.expression[0] = 0;'), (286, 1, u'+  assert_info_.file[0] = 0;'), (287, 1, u'+  assert_info_.function[0] = 0;'), (292, 1, u'+bool CrashGenerationClient::RequestDump(MDRawAssertionInfo* assert_info) {'), (299, 1, u'+  if (assert_info) {'), (300, 1, u'+    memcpy(&assert_info_, assert_info, sizeof(assert_info_));'), (302, 1, u'+    memset(&assert_info_, 0, sizeof(assert_info_));'), (311, 1, u'+  assert(crash_event_);'), (312, 1, u'+  assert(crash_generated_);'), (313, 1, u'+  assert(server_alive_);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(90, 1, u'+         msg.assert_info != NULL;'), (252, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_ERROR);'), (282, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_INITIAL);'), (294, 1, u'+  assert(!success);'), (323, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_CONNECTING);'), (346, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_CONNECTED);'), (373, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_READING);'), (392, 1, u'+  assert(error_code != ERROR_IO_INCOMPLETE);'), (404, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_READ_DONE);'), (417, 1, u'+                     msg_.assert_info,'), (444, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_WRITING);'), (463, 1, u'+  assert(error_code != ERROR_IO_INCOMPLETE);'), (473, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_WRITE_DONE);'), (498, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_READING_ACK);'), (518, 1, u'+    assert(error_code != ERROR_IO_INCOMPLETE);'), (529, 1, u'+  assert(server_state_ == IPC_SERVER_STATE_DISCONNECTING);'), (696, 1, u'+      assert(false);'), (741, 1, u'+  assert (context);'), (750, 1, u'+  assert(context);'), (755, 1, u'+  assert(crash_server);'), (763, 1, u'+  assert(context);'), (767, 1, u'+  assert(crash_server);'), (778, 1, u'+  assert(context);'), (782, 1, u'+  assert(crash_server);'), (795, 1, u'+  assert(client_info);'), (827, 1, u'+  assert(client.pid() != 0);'), (828, 1, u'+  assert(client.process_handle());'), (847, 1, u'+                                        client.assert_info(),')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(68, 1, u'+                                      MDRawAssertionInfo* assert_info,'), (159, 1, u'+  MDRawAssertionInfo* actual_assert_info = assert_info;'), (160, 1, u'+  MDRawAssertionInfo client_assert_info = {0};'), (162, 1, u'+  if (assert_info) {'), (168, 1, u'+                             assert_info,'), (169, 1, u'+                             &client_assert_info,'), (170, 1, u'+                             sizeof(client_assert_info),'), (178, 1, u'+      if (bytes_read != sizeof(client_assert_info)) {'), (185, 1, u'+      actual_assert_info  = &client_assert_info;'), (188, 1, u'+    user_stream_array[1].Type = MD_ASSERTION_INFO_STREAM;'), (189, 1, u'+    user_stream_array[1].BufferSize = sizeof(MDRawAssertionInfo);'), (190, 1, u'+    user_stream_array[1].Buffer = actual_assert_info;')]
+===========================================
+Class:class AutoExceptionHandler { class AutoExceptionHandler 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(174, 1, u'+                     MDRawAssertionInfo* assertion,'), (472, 1, u'+  _CrtSetReportMode(_CRT_ASSERT, 0);')]
+===========================================
+Class:class FDWrapper { class FDWrapper 
+Class:      class MmapWrapper { class MmapWrapper 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 1, u'+  assert(elf_mapped_base);'), (53, 1, u'+  assert(text_start);'), (54, 1, u'+  assert(text_size);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(72, 1, u'+  assert(buf_len > kGUIDStringLength);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(44, 1, u'+  assert(size == 4 || size == 8);'), (54, 1, u'+  assert(size == 4 || size == 8);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(92, 1, u'+  assert(iter != sections_.end());'), (115, 1, u'+    assert(abbrevptr < abbrev_start + abbrev_length);'), (120, 1, u'+    assert(abbrevptr < abbrev_start + abbrev_length);'), (124, 1, u'+    assert(abbrevptr < abbrev_start + abbrev_length);'), (130, 1, u'+      assert(abbrevptr < abbrev_start + abbrev_length);'), (141, 1, u'+    assert(abbrev.number == abbrevs_->size());'), (206, 1, u'+      assert(header_.version == 2 || header_.version == 3);'), (247, 1, u'+  assert(headerptr + 4 < buffer_ + buffer_length_);'), (253, 1, u'+  assert(headerptr + 2 < buffer_ + buffer_length_);'), (257, 1, u'+  assert(headerptr + reader_->OffsetSize() < buffer_ + buffer_length_);'), (261, 1, u'+  assert(headerptr + 1 < buffer_ + buffer_length_);'), (271, 1, u'+  assert(buffer_ + initial_length_size + header_.length <='), (278, 1, u'+  assert(iter != sections_.end());'), (391, 1, u'+      assert(header_.version == 2 || header_.version == 3);'), (432, 1, u'+      assert(string_buffer_ != NULL);'), (435, 1, u'+      assert(string_buffer_ + offset < string_buffer_ + string_buffer_length_);'), (538, 1, u'+  assert(buffer_ + initial_length_size + header_.total_length <='), (542, 1, u'+  assert(reader_->AddressSize() != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(92, 1, u'+  assert(dirs->size() == 0);'), (93, 1, u'+  assert(files->size() == 0);'), (103, 1, u'+  assert(dir_num == dirs_->size());'), (110, 1, u'+  assert(dir_num >= 0);'), (111, 1, u'+  assert(dir_num < dirs_->size());'), (201, 1, u'+    assert(iter != sections_.end());')]
+===========================================
+Class:class FDWrapper { class FDWrapper 
+Class:      class MmapWrapper { class MmapWrapper 
+Class:class AutoElfEnder { class AutoElfEnder 
+Class:class AutoElfEnder { class AutoElfEnder 
+Class: class AutoCloser { class AutoCloser 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 1, u'+  assert(buf_len > kGUIDStringLength);')]
+===========================================
+Class:class HTTPUpload::AutoInternetHandle { class HTTPUpload::AutoInternetHandle 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 1, u'+  assert(wcs);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 1, u'+  assert(that);')]
+===========================================
+Class:class BasicSourceLineResolver::Module { class BasicSourceLineResolver::Module 
+Class: class AutoFileCloser { class AutoFileCloser 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(94, 1, u'+  assert(error_string);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(1062, 1, u'+  assert(value);'), (1245, 1, u'+  assert(thread_id);'), (1669, 1, u'+      assert(cv_record_70->cv_signature == MD_CVINFOPDB70_SIGNATURE);'), (1677, 1, u'+      assert(cv_record_20->cv_header.signature == MD_CVINFOPDB20_SIGNATURE);'), (1749, 1, u'+      assert(cv_record_70->cv_signature == MD_CVINFOPDB70_SIGNATURE);'), (1773, 1, u'+      assert(cv_record_20->cv_header.signature == MD_CVINFOPDB20_SIGNATURE);'), (2106, 1, u'+      assert(cv_record_70->cv_signature == MD_CVINFOPDB70_SIGNATURE);'), (2129, 1, u'+      assert(cv_record_20->cv_header.signature == MD_CVINFOPDB20_SIGNATURE);'), (2689, 1, u'+  assert(thread_id);'), (3138, 1, u'+  assert(thread_id);'), (3160, 1, u'+  assert(thread_id);'), (3589, 1, u'+  assert(stream_length);'), (3634, 1, u'+  assert(stream);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(65, 1, u'+  assert(header);'), (250, 1, u'+  assert(dump);'), (251, 1, u'+  assert(info);'), (312, 1, u'+  assert(dump);'), (313, 1, u'+  assert(info);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+  assert(symbol_file);'), (81, 1, u'+  assert(symbol_data);'), (100, 1, u'+  assert(symbol_file);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(74, 1, u'+  assert(stack);')]
+===========================================
+Class:	class DialogTemplate 	class DialogTemplate
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(131, 1, u'+\tstatic void AssertEnvironmentVariable(std::string variable)'), (143, 1, u'+\t\tAssertEnvironmentVariable(HOME_ENV);'), (144, 1, u'+\t\tAssertEnvironmentVariable(RUNTIME_ENV);'), (145, 1, u'+\t\tAssertEnvironmentVariable(MODULES_ENV);')]
+===========================================
+Class:		class MainThreadCaller 		class MainThreadCaller
+Class:class WinHTTPSession class WinHTTPSession
+Class:	class PathBits 	class PathBits
+Class:	template <class StringType, class CharType> static StringType JoinTemplate( 	template <class StringType, class CharType> static StringType JoinTemplate(
+Class:   class TUnzip { public: 
+Class:   class TUnzip { public: 
+Class:    class TTreeState { public: 
+Class:   class TBitState { public: 
+Class:       class TDeflateState { public: 
+Class:        class TZip { public: 
+Class: class Job { 
+Class:	class DialogTemplate { 	class DialogTemplate 
+Class:	class DialogTemplate 	{ 	
+Class: class Job { 
+Class: class Job { 
+Class: class Job { 
+Class:   class TUnzip { public: 
+Class:    class TTreeState { public: 
+Class:   class TBitState { public: 
+Class:       class TDeflateState { public: 
+Class:        class TZip { public: 
+Class:	class ValueBinding 	class ValueBinding
+Class:	class DialogTemplate { 	class DialogTemplate 
+769
+Mismatch count:735
+Normal count:25099

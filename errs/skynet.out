@@ -1,0 +1,6142 @@
+projects/top_C/skynet
+Going to process projects/top_C/skynet/all_log.txt 
+---------- skynet ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert((*sz & HANDLE_MASK) == *sz);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: _filter_args
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert((*sz & HANDLE_MASK) == *sz);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert((*sz & HANDLE_MASK) == *sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-\t\tassert(m->n == m->cap);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 81
+Header: struct hashmap {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-\t\tassert(m->n == m->cap);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-\t\tassert(m->n == m->cap);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert(harbor_id != 0);')]
+===========================================
+===========================================
+Total add: 31
+Total del: 4
+Header: _send_remote
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert(harbor_id != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\tassert(harbor_id != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(fd != 0);'), (17, 2, u'-\tassert(harbor_id > 0  && harbor_id< REMOTE_MAX);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 11
+Header: response_close
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(fd != 0);'), (17, 2, u'-\tassert(harbor_id > 0  && harbor_id< REMOTE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(fd != 0);'), (17, 2, u'-\tassert(harbor_id > 0  && harbor_id< REMOTE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(harbor_id != 0);'), (13, 1, u'+\tassert(message->type == SKYNET_SOCKET_TYPE_DATA);')]
+===========================================
+===========================================
+Total add: 84
+Total del: 19
+Header: _update_remote_address
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(harbor_id != 0);'), (13, 1, u'+\tassert(message->type == SKYNET_SOCKET_TYPE_DATA);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(harbor_id != 0);'), (13, 1, u'+\tassert(message->type == SKYNET_SOCKET_TYPE_DATA);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 2, u'-\tassert(harbor_id != 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 21
+Header: _update_remote_name
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 2, u'-\tassert(harbor_id != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 2, u'-\tassert(harbor_id != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 2, u'-\tassert(h->connected[id] == false);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 36
+Header: _remote_send_name
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 2, u'-\tassert(h->connected[id] == false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 2, u'-\tassert(h->connected[id] == false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 2, u"-\t\t\tassert(msg[0] == 'C');")]
+===========================================
+===========================================
+Total add: 21
+Total del: 21
+Header: harbor_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 2, u"-\t\t\tassert(msg[0] == 'C');")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(43, 2, u"-\t\t\tassert(msg[0] == 'C');")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(53, 2, u'-\t\t\tassert(ctx);'), (109, 2, u'-\tassert(m->connected[id] == false);'), (239, 2, u'-\t\tassert(id);'), (272, 2, u'-\tassert(sz >= 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: socket_server_send
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: socket_server_send_lowpriority
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert (sz == sizeof(rmsg->destination));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: _mainloop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert (sz == sizeof(rmsg->destination));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert (sz == sizeof(rmsg->destination));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+\t\tassert(m->n == m->cap);')]
+===========================================
+===========================================
+Total add: 53
+Total del: 0
+Header: struct harbor {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+\t\tassert(m->n == m->cap);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+\t\tassert(m->n == m->cap);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(40, 1, u"+\t\t\tassert(msg[0] == 'C');")]
+===========================================
+===========================================
+Total add: 53
+Total del: 0
+Header: open_harbor
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(40, 1, u"+\t\t\tassert(msg[0] == 'C');")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(40, 1, u"+\t\t\tassert(msg[0] == 'C');")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert (sz == sizeof(rmsg->destination));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: _mainloop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert (sz == sizeof(rmsg->destination));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert (sz == sizeof(rmsg->destination));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-\tassert(number == 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 17
+Header: skynet_harbor_send
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-\tassert(number == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-\tassert(number == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 5
+Header: cmd_reg
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(queue->in_global);'), (10, 2, u'-\tassert(queue->in_global);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 15
+Header: skynet_mq_init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(queue->in_global);'), (10, 2, u'-\tassert(queue->in_global);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(queue->in_global);'), (10, 2, u'-\tassert(queue->in_global);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(267, 1, u'+\t\tassert (sz == sizeof(rmsg->destination));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR);'), (3, 1, u'+\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR && REMOTE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: skynet_harbor_send
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR);'), (3, 1, u'+\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR && REMOTE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR);'), (3, 1, u'+\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR && REMOTE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(HARBOR != 0);'), (3, 1, u'+\tassert(HARBOR != ~0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: int
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(HARBOR != 0);'), (3, 1, u'+\tassert(HARBOR != ~0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(HARBOR != 0);'), (3, 1, u'+\tassert(HARBOR != ~0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert(s->name_cap <= MAX_SLOT_SIZE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: _insert_name_before
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert(s->name_cap <= MAX_SLOT_SIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert(s->name_cap <= MAX_SLOT_SIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\t\t\tassert(context->handle!=0);'), (80, 1, u'+\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+Total add: 144
+Total del: 109
+Header: handle_exit
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\t\t\tassert(context->handle!=0);'), (80, 1, u'+\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\t\t\tassert(context->handle!=0);'), (80, 1, u'+\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(HARBOR != 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: int
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(HARBOR != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(HARBOR != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(queue->next == NULL);')]
+===========================================
+===========================================
+Total add: 12
+Total del: 0
+Header: skynet_globalmq_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(queue->next == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(queue->next == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q->next == NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: static void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q->next == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q->next == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(source);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 0
+Header: _id_to_hex
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(source);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(source);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 31
+Header: expand_queue
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(q->lock_session == 0);'), (6, 2, u'-\tassert(q->in_global == MQ_IN_GLOBAL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 17
+Header: skynet_mq_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(q->lock_session == 0);'), (6, 2, u'-\tassert(q->in_global == MQ_IN_GLOBAL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(q->lock_session == 0);'), (6, 2, u'-\tassert(q->in_global == MQ_IN_GLOBAL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-\tassert(lua->L == L);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 6
+Header: luaopen_skynet_c
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-\tassert(lua->L == L);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-\tassert(lua->L == L);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 36
+Header: codecache
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(traceback_index == 1);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 4
+Header: _init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(traceback_index == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(traceback_index == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert(lua_gettop(L) == 1);')]
+===========================================
+===========================================
+Total add: 32
+Total del: 0
+Header: _init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert(lua_gettop(L) == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert(lua_gettop(L) == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: get_time
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(lua->L == L);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: luaopen_socketdriver
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(lua->L == L);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(lua->L == L);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\t\t\tassert(lua->L == L);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 37
+Header: _cb
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\t\t\tassert(lua->L == L);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\t\t\tassert(lua->L == L);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(103, 2, u'-\tassert(session !=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (34, 2, u'-\tassert(diffsec>=0);'), (110, 2, u'-\tassert(t->session == 0 && session > 0);'), (138, 2, u'-\tassert(p->current == NULL && session > 0);'), (163, 2, u'-\tassert(p->current == t);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 2, u'-\tassert(inst);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\t\tassert((msg.sz & HANDLE_MASK) == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 7
+Header: _drop_queue
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\t\tassert((msg.sz & HANDLE_MASK) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\t\tassert((msg.sz & HANDLE_MASK) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(context->forward == 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 10
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(context->forward == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\tassert(context->forward == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(list_uncomplete(&s->low));'), (3, 2, u'-\tassert(!list_uncomplete(&s->high));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: raise_uncomplete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(list_uncomplete(&s->low));'), (3, 2, u'-\tassert(!list_uncomplete(&s->high));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(list_uncomplete(&s->low));'), (3, 2, u'-\tassert(!list_uncomplete(&s->high));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert(high->head == NULL);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 9
+Header: raise_uncomplete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert(high->head == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert(high->head == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(s->head == NULL);'), (5, 1, u'+\tassert(s->tail == NULL);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: socket_server_release
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(s->head == NULL);'), (5, 1, u'+\tassert(s->tail == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(s->head == NULL);'), (5, 1, u'+\tassert(s->tail == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->head == NULL);'), (3, 2, u'-\tassert(s->tail == NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: new_fd
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->head == NULL);'), (3, 2, u'-\tassert(s->tail == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(s->head == NULL);'), (3, 2, u'-\tassert(s->tail == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(list_uncomplete(&s->low));'), (17, 1, u'+\tassert(!list_uncomplete(&s->high));'), (45, 1, u'+\tassert(!list_uncomplete(&s->low));')]
+===========================================
+===========================================
+Total add: 61
+Total del: 1
+Header: send_buffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(list_uncomplete(&s->low));'), (17, 1, u'+\tassert(!list_uncomplete(&s->high));'), (45, 1, u'+\tassert(!list_uncomplete(&s->low));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(list_uncomplete(&s->low));'), (17, 1, u'+\tassert(!list_uncomplete(&s->high));'), (45, 1, u'+\tassert(!list_uncomplete(&s->low));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 0
+Header: socket_server_send
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 2, u'-\tassert(sz <= 65535);'), (25, 2, u'-\t\tassert(type == PTYPE_TEXT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(218, 1, u'+\t\t\tassert(uc->read == -1);'), (333, 1, u'+\t\tassert(size == -1);\t// never padding string')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    lua_assert(GET_OPCODE(fs->f->code[list]) == OP_JMP &&'), (6, 1, u'+    lua_assert(GET_OPCODE(fs->f->sp->code[list]) == OP_JMP &&')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: luaK_patchclose
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    lua_assert(GET_OPCODE(fs->f->code[list]) == OP_JMP &&'), (6, 1, u'+    lua_assert(GET_OPCODE(fs->f->sp->code[list]) == OP_JMP &&')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    lua_assert(GET_OPCODE(fs->f->code[list]) == OP_JMP &&'), (6, 1, u'+    lua_assert(GET_OPCODE(fs->f->sp->code[list]) == OP_JMP &&')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(346, 1, u'+static int luaB_assert (lua_State *L) {'), (418, 1, u'+  {"assert", luaB_assert},')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(83, 1, u'+  lua_assert(dest != NO_JUMP);'), (173, 1, u'+    lua_assert(target < fs->pc);'), (183, 1, u'+    lua_assert(GET_OPCODE(fs->f->code[list]) == OP_JMP &&'), (228, 1, u'+  lua_assert(getOpMode(o) == iABC);'), (229, 1, u'+  lua_assert(getBMode(o) != OpArgN || b == 0);'), (230, 1, u'+  lua_assert(getCMode(o) != OpArgN || c == 0);'), (231, 1, u'+  lua_assert(a <= MAXARG_A && b <= MAXARG_B && c <= MAXARG_C);'), (237, 1, u'+  lua_assert(getOpMode(o) == iABx || getOpMode(o) == iAsBx);'), (238, 1, u'+  lua_assert(getCMode(o) == OpArgN);'), (239, 1, u'+  lua_assert(a <= MAXARG_A && bc <= MAXARG_Bx);'), (245, 1, u'+  lua_assert(a <= MAXARG_Ax);'), (280, 1, u'+    lua_assert(reg == fs->freereg);'), (451, 1, u'+      lua_assert(e->k == VVOID || e->k == VJMP);'), (577, 1, u'+      lua_assert(0);  /* invalid var kind to store */'), (600, 1, u'+  lua_assert(testTMode(GET_OPCODE(*pc)) && GET_OPCODE(*pc) != OP_TESTSET &&'), (692, 1, u'+      lua_assert(0);  /* cannot happen */'), (704, 1, u'+  lua_assert(!hasjumps(t));'), (781, 1, u'+    default: lua_assert(0);'), (817, 1, u'+      lua_assert(e1->t == NO_JUMP);  /* list must be closed */'), (824, 1, u'+      lua_assert(e1->f == NO_JUMP);  /* list must be closed */'), (833, 1, u'+        lua_assert(e1->u.info == GETARG_B(getcode(fs, e2))-1);'), (857, 1, u'+    default: lua_assert(0);'), (870, 1, u'+  lua_assert(tostore != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(270, 1, u'+    lua_assert(lua_getinfo(L, "lS", ar));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(40, 1, u'+  lua_assert(isLua(ci));'), (282, 1, u'+    lua_assert(ttisfunction(ci->func));'), (534, 1, u'+  lua_assert(!ttisstring(p1) && !ttisnumber(p1));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(164, 1, u'+  lua_assert(newsize <= LUAI_MAXSTACK || newsize == ERRORSTACKSIZE);'), (165, 1, u'+  lua_assert(L->stack_last - L->stack == L->stacksize - EXTRA_STACK);'), (198, 1, u'+    lua_assert(ci->top <= L->stack_last);'), (229, 1, u'+    lua_assert(ci->top <= L->stack_last);'), (235, 1, u'+    lua_assert(!L->allowhook);'), (261, 1, u'+  lua_assert(actual >= nfixargs);'), (313, 1, u'+      lua_assert(ci->top <= L->stack_last);'), (345, 1, u'+      lua_assert(ci->top <= L->stack_last);'), (411, 1, u'+  lua_assert(ci->u.c.k != NULL);  /* must have a continuation */'), (412, 1, u'+  lua_assert(L->nny == 0);'), (422, 1, u'+  lua_assert(ci->u.c.status != LUA_OK);'), (531, 1, u'+  lua_assert(nCcalls == L->nCcalls);'), (557, 1, u'+    lua_assert(status == L->status);'), (561, 1, u'+  lua_assert(L->nCcalls == ((from) ? from->nCcalls : 0));'), (589, 1, u'+  lua_assert(ci->callstatus & CIST_HOOKED);  /* must be inside a hook */'), (653, 1, u'+  lua_assert(cl->l.nupvalues == cl->l.p->sizeupvalues);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(54, 1, u'+    lua_assert(p->v != &p->u.value);'), (55, 1, u'+    lua_assert(!isold(o) || isold(obj2gco(L)));'), (70, 1, u'+  lua_assert(uv->u.l.next->u.l.prev == uv && uv->u.l.prev->u.l.next == uv);'), (76, 1, u'+  lua_assert(uv->u.l.next->u.l.prev == uv && uv->u.l.prev->u.l.next == uv);'), (94, 1, u'+    lua_assert(!isblack(o) && uv->v != &uv->u.value);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(68, 1, u'+#define checkdeadkey(n)\tlua_assert(!ttisdeadkey(gkey(n)) || ttisnil(gval(n)))'), (72, 1, u'+  lua_longassert(!iscollectable(obj) || righttt(obj))'), (108, 1, u'+  lua_assert(ttisnil(gval(n)));'), (137, 1, u'+  lua_assert(isblack(o) && iswhite(v) && !isdead(g, v) && !isdead(g, o));'), (138, 1, u'+  lua_assert(g->gcstate != GCSpause);'), (139, 1, u'+  lua_assert(gch(o)->tt != LUA_TTABLE);'), (143, 1, u'+    lua_assert(issweepphase(g));'), (157, 1, u'+  lua_assert(isblack(o) && !isdead(g, o) && gch(o)->tt == LUA_TTABLE);'), (174, 1, u'+  lua_assert(isblack(obj2gco(p)));'), (192, 1, u'+  lua_assert(!isblack(o));  /* open upvalues are never black */'), (200, 1, u'+      lua_assert(issweepphase(g));'), (291, 1, u'+    default: lua_assert(0); return;'), (365, 1, u'+      lua_assert(!ttisnil(gkey(n)));'), (426, 1, u'+      lua_assert(!ttisnil(gkey(n)));'), (524, 1, u'+  lua_assert(isgray(o));'), (560, 1, u'+    default: lua_assert(0); return;'), (572, 1, u'+  lua_assert(g->gray == NULL);  /* no grays left */'), (685, 1, u'+    default: lua_assert(0);'), (791, 1, u'+  lua_assert(isfinalized(o));'), (796, 1, u'+  lua_assert(!isold(o));  /* see MOVE OLD rule */'), (854, 1, u'+    lua_assert(!isfinalized(curr));'), (855, 1, u'+    lua_assert(testbit(gch(curr)->marked, SEPARATED));'), (883, 1, u'+      lua_assert(issweepphase(g));'), (940, 1, u'+  lua_assert(g->sweepgc == NULL && g->sweepfin == NULL);'), (987, 1, u'+  lua_assert(g->finobj == NULL);'), (995, 1, u'+  lua_assert(g->strt.nuse == 0);'), (1003, 1, u'+  lua_assert(!iswhite(obj2gco(g->mainthread)));'), (1046, 1, u'+      lua_assert(!isgenerational(g));'), (1101, 1, u'+    default: lua_assert(0); return 0;'), (1119, 1, u'+  lua_assert(g->gcstate == GCSpropagate);'), (1135, 1, u'+  lua_assert(g->gcstate == GCSpropagate);'), (1192, 1, u'+  lua_assert(origkind != KGC_EMERGENCY);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(158, 1, u'+  lua_assert(p->f);'), (494, 1, u'+  lua_assert(n > 0);  /* should return at least a nil */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(77, 1, u'+    lua_assert(token == cast(unsigned char, token));'), (150, 1, u'+  lua_assert(currIsNewline(ls));'), (235, 1, u'+  lua_assert(lisdigit(ls->current));'), (260, 1, u"+  lua_assert(s == '[' || s == ']');"), (526, 1, u'+  lua_assert(ls->lookahead.token == TK_EOS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+  lua_assert((realosize == 0) == (block == NULL));'), (95, 1, u'+  lua_assert((nsize == 0) == (newblock == NULL));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(82, 1, u'+    default: lua_assert(0); return 0;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+  lua_assert(ls->fs != NULL || ls->t.token == TK_EOS);'), (200, 1, u'+  lua_assert(idx < fs->nlocvars);'), (303, 1, u'+    lua_assert(var->k == VLOCAL || var->k == VUPVAL);'), (345, 1, u'+  lua_assert(luaS_eqstr(gt->name, label->name));'), (446, 1, u'+  lua_assert(fs->freereg == fs->nactvar);'), (485, 1, u'+  lua_assert(bl->nactvar == fs->nactvar);'), (573, 1, u'+  lua_assert(fs->bl == NULL);'), (744, 1, u'+    lua_assert(cc.v.k == VVOID || cc.tostore > 0);'), (852, 1, u'+  lua_assert(f->k == VNONRELOC);'), (1277, 1, u'+  lua_assert(e.k == VNONRELOC);'), (1509, 1, u'+        lua_assert(GETARG_A(getcode(fs,&e)) == fs->nactvar);'), (1520, 1, u'+        lua_assert(nret == fs->freereg - first);'), (1591, 1, u'+  lua_assert(ls->fs->f->maxstacksize >= ls->fs->freereg &&'), (1633, 1, u'+  lua_assert(!funcstate.prev && funcstate.nups == 1 && !lexstate.fs);'), (1635, 1, u'+  lua_assert(dyd->actvar.n == 0 && dyd->gt.n == 0 && dyd->label.n == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 1, u'+  lua_assert(p == sizeof(buff));'), (114, 1, u'+  lua_assert(L->ci->next == NULL);'), (232, 1, u'+  lua_assert(gettotalbytes(g) == sizeof(LG));'), (259, 1, u'+  lua_assert(L1->openupval == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 1, u'+  lua_assert(a->tsv.tt == LUA_TLNGSTR && b->tsv.tt == LUA_TLNGSTR);'), (88, 1, u'+    lua_assert(tb->hash[newsize] == NULL && tb->hash[tb->size - 1] == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(612, 1, u'+      lua_assert(ms.matchdepth == MAXCCALLS);'), (655, 1, u'+    lua_assert(ms.matchdepth == MAXCCALLS);'), (760, 1, u'+    lua_assert(ms.matchdepth == MAXCCALLS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(213, 1, u'+  lua_assert(*narray/2 <= na && na <= *narray);'), (419, 1, u'+    lua_assert(!isdummy(n));'), (438, 1, u'+  lua_assert(ttisnil(gval(mp)));'), (468, 1, u'+  lua_assert(key->tsv.tt == LUA_TSHRSTR);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(54, 1, u'+  lua_assert(event <= TM_EQ);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(398, 1, u"+    lua_assert(argv[i][0] == '-');"), (403, 1, u'+        lua_assert(chunk != NULL);'), (411, 1, u'+        lua_assert(filename != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(262, 1, u'+  lua_assert(ttisequal(t1, t2));'), (284, 1, u'+      lua_assert(iscollectable(t1));'), (294, 1, u'+  lua_assert(total >= 2);'), (439, 1, u'+      lua_assert(!ISK(GETARG_B(inst)));'), (443, 1, u'+      lua_assert(GET_OPCODE(*ci->u.l.savedpc) == OP_JMP);'), (463, 1, u'+      lua_assert(GET_OPCODE(*ci->u.l.savedpc) == OP_TFORLOOP);'), (474, 1, u'+    default: lua_assert(0);'), (540, 1, u'+  lua_assert(ci == L->ci);'), (554, 1, u'+    lua_assert(base == ci->u.l.base);'), (555, 1, u'+    lua_assert(base <= L->top && L->top < L->stack + L->stacksize);'), (566, 1, u'+        lua_assert(GET_OPCODE(*ci->u.l.savedpc) == OP_EXTRAARG);'), (726, 1, u'+        lua_assert(GETARG_C(i) - 1 == LUA_MULTRET);'), (748, 1, u'+          lua_assert(L->top == oci->u.l.base + getproto(ofunc)->maxstacksize);'), (762, 1, u'+          lua_assert(isLua(ci));'), (763, 1, u'+          lua_assert(GET_OPCODE(*((ci)->u.l.savedpc - 1)) == OP_CALL);'), (801, 1, u'+        lua_assert(GET_OPCODE(i) == OP_TFORLOOP);'), (818, 1, u'+          lua_assert(GET_OPCODE(*ci->u.l.savedpc) == OP_EXTRAARG);'), (862, 1, u'+        lua_assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 2, u'-\tassert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(140, 2, u'-\tassert(prealloc > sizeof(struct skynet_lalloc));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(67, 2, u'-\t\t\t\tassert(code_sz == *sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (208, 2, u'-\tassert(traceback_index == 1);'), (243, 2, u'-\tassert(type == 0 && session == 0);'), (290, 2, u'-\tassert(lalloc == skynet_lua_alloc);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(57, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (202, 1, u'+\tassert(traceback_index == 1);'), (237, 1, u'+\tassert(type == 0 && session == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(ss->recvctrl_fd < FD_SETSIZE);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: socket_server_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(ss->recvctrl_fd < FD_SETSIZE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(ss->recvctrl_fd < FD_SETSIZE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(103, 1, u'+\tassert(session !=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\t\tassert(s->tail != NULL);'), (14, 1, u'+\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+Total add: 18
+Total del: 0
+Header: send_buffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\t\tassert(s->tail != NULL);'), (14, 1, u'+\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\t\tassert(s->tail != NULL);'), (14, 1, u'+\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-\t\tassert(s->tail != NULL);'), (18, 2, u'-\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 17
+Header: send_socket
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-\t\tassert(s->tail != NULL);'), (18, 2, u'-\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-\t\tassert(s->tail != NULL);'), (18, 2, u'-\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(140, 1, u'+\tassert(prealloc > sizeof(struct skynet_lalloc));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(lalloc == skynet_lua_alloc);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 0
+Header: void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(lalloc == skynet_lua_alloc);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(lalloc == skynet_lua_alloc);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(57, 1, u'+\t\t\t\tassert(code_sz == *sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(type == PTYPE_TEXT);')]
+===========================================
+===========================================
+Total add: 12
+Total del: 0
+Header: _cb
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(type == PTYPE_TEXT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(type == PTYPE_TEXT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 0
+Header: expand_queue
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 9
+Header: _pushhead
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 9
+Header: _stat_begin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 9
+Header: trace_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\t\t\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 9
+Header: trace_switch
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\t\t\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\t\t\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(p->current == NULL);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: struct trace_info *
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(p->current == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(p->current == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(30, 2, u'-\tassert(message->type == SKYNET_SOCKET_TYPE_CONNECT);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 31
+Header: _mainloop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(30, 2, u'-\tassert(message->type == SKYNET_SOCKET_TYPE_CONNECT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(30, 2, u'-\tassert(message->type == SKYNET_SOCKET_TYPE_CONNECT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(type == PTYPE_SOCKET);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 1
+Header: _connect_master
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(type == PTYPE_SOCKET);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(type == PTYPE_SOCKET);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\t\tassert(c->tail == m);'), (78, 2, u'-\tassert(c);'), (80, 2, u'-\tassert(c->next == NULL);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 77
+Header: void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\t\tassert(c->tail == m);'), (78, 2, u'-\tassert(c);'), (80, 2, u'-\tassert(c->next == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\t\tassert(c->tail == m);'), (78, 2, u'-\tassert(c);'), (80, 2, u'-\tassert(c->next == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(c->size >= sz);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 31
+Header: _report
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(c->size >= sz);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(c->size >= sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-\t\tassert(c->tail == NULL);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 54
+Header: _forward
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-\t\tassert(c->tail == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-\t\tassert(c->tail == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(65, 1, u'+\t\tassert(c->tail == m);'), (130, 1, u'+\tassert(c);'), (132, 1, u'+\tassert(c->next == NULL);'), (239, 1, u'+\tassert(c->size >= sz);'), (307, 1, u'+\t\tassert(c->tail == NULL);'), (380, 1, u'+\t\tassert(g->listen_id == message->id);'), (424, 1, u'+\t\tassert(source == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(178, 2, u'-\tassert(0);'), (186, 2, u'-\t\tassert(conn->uid == uid);'), (219, 2, u'-\tassert(type == PTYPE_RESPONSE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 2, u'-\tassert(align_length + head < rb->size);'), (143, 2, u'-\tassert(align_length <= old_length);'), (158, 2, u'-\tassert(blk->length >= sizeof(struct ringbuffer_block));'), (160, 2, u'-\tassert(id>=0);'), (172, 2, u'-\t\tassert(_block_id(blk) == id);'), (198, 2, u'-\t\t\tassert(length == skip);'), (203, 2, u'-\t\tassert(blk->offset == 0);'), (221, 2, u'-\t\t\t\tassert(from->next >= 0);'), (223, 2, u'-\t\t\t\tassert(from->offset == 0);'), (233, 2, u'-\t\tassert(from->next >= 0);'), (235, 2, u'-\t\tassert(from->offset == 0);'), (254, 2, u'-\t\tassert(blk->offset == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(s->type != SOCKET_TYPE_PLISTEN && s->type != SOCKET_TYPE_LISTEN);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: send_socket
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(s->type != SOCKET_TYPE_PLISTEN && s->type != SOCKET_TYPE_LISTEN);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(s->type != SOCKET_TYPE_PLISTEN && s->type != SOCKET_TYPE_LISTEN);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(112, 1, u'+\t\tassert(sb->tail == NULL);')]
+===========================================
+===========================================
+Total add: 98
+Total del: 21
+Header: struct socket_buffer {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(112, 1, u'+\t\tassert(sb->tail == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(112, 1, u'+\t\tassert(sb->tail == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+\t\tassert(current);')]
+===========================================
+===========================================
+Total add: 98
+Total del: 54
+Header: copy_buffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+\t\tassert(current);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 1, u'+\t\tassert(current);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(lua->L == L);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 0
+Header: luaopen_socketbuffer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(lua->L == L);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(lua->L == L);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+\tassert(h->connected[id] == false);')]
+===========================================
+===========================================
+Total add: 17
+Total del: 3
+Header: _remote_send_name
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+\tassert(h->connected[id] == false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+\tassert(h->connected[id] == false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(type == PTYPE_SOCKET);'), (33, 1, u'+\tassert(message->type == SKYNET_SOCKET_TYPE_CONNECT);')]
+===========================================
+===========================================
+Total add: 19
+Total del: 18
+Header: _mainloop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(type == PTYPE_SOCKET);'), (33, 1, u'+\tassert(message->type == SKYNET_SOCKET_TYPE_CONNECT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+\tassert(type == PTYPE_SOCKET);'), (33, 1, u'+\tassert(message->type == SKYNET_SOCKET_TYPE_CONNECT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tassert(ctx);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: master_release
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tassert(ctx);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tassert(ctx);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(m->connected[id] == false);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 8
+Header: _copy_name
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(m->connected[id] == false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(m->connected[id] == false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+\t\tassert(id);')]
+===========================================
+===========================================
+Total add: 36
+Total del: 9
+Header: _update_address
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+\t\tassert(id);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(45, 1, u'+\t\tassert(id);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(sz >= 4);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: static int
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(sz >= 4);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(sz >= 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(sz >= 4);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: _mainloop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(sz >= 4);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(sz >= 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(70, 1, u'+\tassert(ss);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(184, 1, u'+\tassert(s->type != SOCKET_TYPE_RESERVE);'), (219, 1, u'+\tassert(s->type == SOCKET_TYPE_RESERVE);'), (230, 1, u'+\tassert(s->head == NULL);'), (231, 1, u'+\tassert(s->tail == NULL);'), (380, 1, u'+\t\tassert(s->tail != NULL);'), (381, 1, u'+\t\tassert(s->tail->next == NULL);'), (491, 1, u'+\t\tassert(n == sz);'), (701, 1, u'+\t\tassert(n == len+2);'), (730, 1, u'+\tassert(s->type != SOCKET_TYPE_RESERVE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(s->status != STATUS_INVALID);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: force_close
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(s->status != STATUS_INVALID);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(s->status != STATUS_INVALID);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(type == 0 && session == 0);')]
+===========================================
+===========================================
+Total add: 23
+Total del: 0
+Header: snlua_init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(type == 0 && session == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\tassert(type == 0 && session == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert(s->tail != NULL);'), (3, 1, u'+\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: try_send
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert(s->tail != NULL);'), (3, 1, u'+\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\t\tassert(s->tail != NULL);'), (3, 1, u'+\t\tassert(s->tail->next == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 2, u'-\t\tassert(err == 0);'), (75, 2, u'-\t\t\tassert(err == 0);'), (79, 2, u'-\tassert(0);'), (145, 2, u'-\tassert(type == PTYPE_TEXT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(70, 1, u'+\t\t\t\tassert(sz < tmp->size);')]
+===========================================
+===========================================
+Total add: 131
+Total del: 0
+Header: struct mread_pool {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(70, 1, u'+\t\t\t\tassert(sz < tmp->size);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(70, 1, u'+\t\t\t\tassert(sz < tmp->size);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(63, 2, u'-\t\t\t\tassert(sz < tmp->size);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(sz >= 4);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: static int
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(sz >= 4);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(sz >= 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(58, 1, u'+\t\t\t\tassert(sz < tmp->size);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 4
+Header: _cb
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(len < 0x10000);')]
+===========================================
+===========================================
+Total add: 12
+Total del: 5
+Header: wb_string
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(len < 0x10000);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(len < 0x10000);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: _pushhead
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(q->in_global == MQ_DISPATCHING);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert(q->in_global == MQ_LOCKED);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 4
+Header: _pushhead
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert(q->in_global == MQ_LOCKED);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\tassert(q->in_global == MQ_LOCKED);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(q->in_global);'), (10, 1, u'+\t\tassert(q->in_global == MQ_LOCKED);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 3
+Header: _pushhead
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(q->in_global);'), (10, 1, u'+\t\tassert(q->in_global == MQ_LOCKED);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(q->in_global);'), (10, 1, u'+\t\tassert(q->in_global == MQ_LOCKED);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q->in_global == MQ_IN_GLOBAL);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: skynet_mq_lock
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q->in_global == MQ_IN_GLOBAL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q->in_global == MQ_IN_GLOBAL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(session);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 3
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(session);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(session);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: _stat_begin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: diff_time
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: trace_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (9, 1, u'+\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-            assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (12, 1, u'+\t\t\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 6
+Total del: 6
+Header: trace_switch
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-            assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (12, 1, u'+\t\t\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-            assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));'), (12, 1, u'+\t\t\tassert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 8
+Total del: 0
+Header: _stat_begin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 8
+Total del: 0
+Header: diff_time
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 8
+Total del: 0
+Header: trace_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Total add: 9
+Total del: 1
+Header: trace_switch
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(KERN_SUCCESS == task_info(mach_task_self(), TASK_THREAD_TIMES_INFO, (task_info_t )&aTaskInfo, &aTaskInfoCount));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!q->flag[tail]);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: skynet_globalmq_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!q->flag[tail]);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!q->flag[tail]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\t\tassert(lua->L == L);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 1
+Header: _cb
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\t\tassert(lua->L == L);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\t\tassert(lua->L == L);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+\tassert(lua->L == L);')]
+===========================================
+===========================================
+Total add: 23
+Total del: 0
+Header: luaopen_skynet_c
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+\tassert(lua->L == L);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+\tassert(lua->L == L);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(context->cb == NULL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(context->cb == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(context->cb == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 2, u'-\t\tassert(err == sz);')]
+===========================================
+===========================================
+Total add: 19
+Total del: 22
+Header: _write
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 2, u'-\t\tassert(err == sz);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(38, 2, u'-\t\tassert(err == sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 2, u'-\t\tassert(err == sz + header);')]
+===========================================
+===========================================
+Total add: 14
+Total del: 13
+Header: _writeblock
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 2, u'-\t\tassert(err == sz + header);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 2, u'-\t\tassert(err == sz + header);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(GP(tail+1) != GP(head));'), (8, 1, u'+    assert(!q->flag[tail]);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 5
+Header: skynet_globalmq_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(GP(tail+1) != GP(head));'), (8, 1, u'+    assert(!q->flag[tail]);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(GP(tail+1) != GP(head));'), (8, 1, u'+    assert(!q->flag[tail]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert(head < q->tail);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 17
+Header: skynet_globalmq_pop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert(head < q->tail);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-        assert(head < q->tail);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(GP(tail+1) != GP(q->head));'), (11, 1, u'+\tassert(GP(tail+1) != GP(head));')]
+===========================================
+===========================================
+Total add: 6
+Total del: 4
+Header: static void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(GP(tail+1) != GP(q->head));'), (11, 1, u'+\tassert(GP(tail+1) != GP(head));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(GP(tail+1) != GP(q->head));'), (11, 1, u'+\tassert(GP(tail+1) != GP(head));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+        assert(head < q->tail);')]
+===========================================
+===========================================
+Total add: 12
+Total del: 4
+Header: skynet_globalmq_pop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+        assert(head < q->tail);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+        assert(head < q->tail);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(31, 1, u'+\tassert(GP(tail+1) != GP(q->head));')]
+===========================================
+===========================================
+Total add: 9
+Total del: 22
+Header: static struct global_queue *Q = NULL;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(31, 1, u'+\tassert(GP(tail+1) != GP(q->head));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(31, 1, u'+\tassert(GP(tail+1) != GP(q->head));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(msg.sz == 0);'), (3, 1, u'+\t\t\tassert((msg.sz & HANDLE_MASK) == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: _drop_queue
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(msg.sz == 0);'), (3, 1, u'+\t\t\tassert((msg.sz & HANDLE_MASK) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(msg.sz == 0);'), (3, 1, u'+\t\t\tassert((msg.sz & HANDLE_MASK) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(t->session == 0 && session !=0);'), (3, 1, u'+\tassert(t->session == 0 && session > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: trace_register
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(t->session == 0 && session !=0);'), (3, 1, u'+\tassert(t->session == 0 && session > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(t->session == 0 && session !=0);'), (3, 1, u'+\tassert(t->session == 0 && session > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(p->current == NULL);'), (3, 1, u'+\tassert(p->current == NULL && session > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(p->current == NULL);'), (3, 1, u'+\tassert(p->current == NULL && session > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(p->current == NULL);'), (3, 1, u'+\tassert(p->current == NULL && session > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(t->session == 0);'), (3, 1, u'+\tassert(t->session == 0 && session !=0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: trace_register
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(t->session == 0);'), (3, 1, u'+\tassert(t->session == 0 && session !=0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(t->session == 0);'), (3, 1, u'+\tassert(t->session == 0 && session !=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\tassert(diffsec>=0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 16
+Header: _stat_begin
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\tassert(diffsec>=0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\tassert(diffsec>=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+\tassert(diffsec>=0);'), (70, 1, u'+\tassert(p->current == NULL);'), (86, 1, u'+\tassert(t->session == 0);'), (113, 1, u'+\tassert(p->current == NULL);'), (137, 1, u'+\tassert(p->current == t);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(traceback_index == 1);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: snlua_init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(traceback_index == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(traceback_index == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\tassert(diffsec>=0);')]
+===========================================
+===========================================
+Total add: 27
+Total del: 0
+Header: struct stat {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\tassert(diffsec>=0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\tassert(diffsec>=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(36, 1, u'+\tassert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(conn->uid == uid);'), (7, 1, u'+\t\tassert(conn->uid == uid);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 4
+Header: _remove_id
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(conn->uid == uid);'), (7, 1, u'+\t\tassert(conn->uid == uid);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(conn->uid == uid);'), (7, 1, u'+\t\tassert(conn->uid == uid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 2
+Header: skynet_start
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(align_length < old_length);'), (3, 1, u'+\tassert(align_length <= old_length);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: ringbuffer_resize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(align_length < old_length);'), (3, 1, u'+\tassert(align_length <= old_length);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(align_length < old_length);'), (3, 1, u'+\tassert(align_length <= old_length);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+\tassert(q->in_global);'), (39, 1, u'+\tassert(message);')]
+===========================================
+===========================================
+Total add: 41
+Total del: 2
+Header: skynet_mq_pop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+\tassert(q->in_global);'), (39, 1, u'+\tassert(message);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(33, 1, u'+\tassert(q->in_global);'), (39, 1, u'+\tassert(message);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(q->lock_session == 0);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 0
+Header: skynet_mq_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(q->lock_session == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(q->lock_session == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(queue->in_global);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 0
+Header: skynet_mq_force_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(queue->in_global);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(queue->in_global);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert(session);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 0
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert(session);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\t\tassert(session);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(err == sz +2);'), (3, 1, u'+\t\tassert(err == sz + header);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: _writeblock
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(err == sz +2);'), (3, 1, u'+\t\tassert(err == sz + header);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(err == sz +2);'), (3, 1, u'+\t\tassert(err == sz + header);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(424, 2, u'-  assert(base[0].kind == Cruntime && base[0].siz == 0);'), (459, 2, u'-        assert(stack == getstackbase(L, ptop) + 1);'), (465, 2, u'-        assert(stack == getstackbase(L, ptop));'), (469, 2, u'-        assert(stack > getstackbase(L, ptop) && (stack - 1)->s == NULL);'), (535, 2, u'-        assert(stack > getstackbase(L, ptop) && (stack - 1)->s != NULL);'), (541, 2, u'-        assert(stack > getstackbase(L, ptop) && (stack - 1)->s != NULL);'), (548, 2, u'-        assert(stack > getstackbase(L, ptop) && (stack - 1)->s != NULL);'), (555, 2, u'-        assert(stack > getstackbase(L, ptop));'), (561, 2, u'-          assert(stack > getstackbase(L, ptop));'), (598, 2, u'-        assert(captop > 0);'), (633, 2, u'-      default: assert(0); return NULL;'), (676, 2, u'-        assert((p + 1)->i.code != IRet);  /* no tail call */'), (700, 2, u'-        assert(backtop > 0 && p->i.offset > 0);'), (705, 2, u'-        assert(backtop > 0);'), (708, 2, u'-          assert(postable != 0);'), (720, 2, u'-          assert((Opcode)(p - 1)->i.code == IChoice);  /* look behind */'), (723, 2, u'-          assert((Opcode)(p - 1)->i.code == IFail);  /* look behind */'), (777, 2, u'-      default: assert(0); return 0;'), (780, 2, u'-  assert(backtop == 0);'), (792, 2, u'-      assert(op[start - 1].i.code == IChoice &&'), (802, 2, u'-  assert(op[i - 1].i.code == IRet);'), (830, 2, u'-  assert(ischeck(p) && n != 0);'), (893, 2, u'-      assert(n <= MAXOFF && start <= i && i < end);'), (898, 2, u'-      assert(isfixcheck(p + start) && iscapture(p + i));'), (920, 2, u'-  assert(p->i.code == IChoice);'), (924, 2, u'-    assert(isfixcheck(p) && (p + lc)->i.code == IChoice);'), (1019, 2, u'-  assert(aux <= MAXAUX);'), (1498, 2, u'-  assert(p1->i.offset != 0);'), (1502, 2, u'-    default: assert(p1->i.code == IAny); return 1;'), (2034, 2, u'-  assert(captype(open) == Cruntime);'), (2227, 2, u'-    default: assert(0); return 0;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(59, 2, u'-\tassert(type != 0);'), (122, 2, u'-\t\tassert(0);'), (134, 2, u'-\tassert(type != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert((*sz & 0xffffff) == *sz);'), (4, 1, u'+\tassert((*sz & HANDLE_MASK) == *sz);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: _filter_args
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert((*sz & 0xffffff) == *sz);'), (4, 1, u'+\tassert((*sz & HANDLE_MASK) == *sz);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert((*sz & 0xffffff) == *sz);'), (4, 1, u'+\tassert((*sz & HANDLE_MASK) == *sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(ctx);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: skynet_start
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(ctx);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(ctx);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(err == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: _expand
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(err == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(err == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(type == PTYPE_TEXT);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: _main
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(type == PTYPE_TEXT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(type == PTYPE_TEXT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(type == PTYPE_RESPONSE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: _cb
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(type == PTYPE_RESPONSE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(type == PTYPE_RESPONSE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+\t\tassert (sz == sizeof(rmsg->destination));'), (26, 2, u'-\t\tassert(sz == sizeof(*rmsg));')]
+===========================================
+===========================================
+Total add: 16
+Total del: 8
+Header: _mainloop
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+\t\tassert (sz == sizeof(rmsg->destination));'), (26, 2, u'-\t\tassert(sz == sizeof(*rmsg));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+\t\tassert (sz == sizeof(rmsg->destination));'), (26, 2, u'-\t\tassert(sz == sizeof(*rmsg));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(session == SESSION_CLIENT);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 2
+Header: _update_address
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(session == SESSION_CLIENT);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\tassert(session == SESSION_CLIENT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(type != PTYPE_SYSTEM && type != PTYPE_HARBOR);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\tassert(msg->sz == 0);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 5
+Header: _dispatch_message
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\tassert(msg->sz == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\tassert(msg->sz == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+\t\tassert(*session == 0);'), (38, 1, u'+\tassert((*sz & 0xffffff) == *sz);')]
+===========================================
+===========================================
+Total add: 29
+Total del: 15
+Header: skynet_forward
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+\t\tassert(*session == 0);'), (38, 1, u'+\tassert((*sz & 0xffffff) == *sz);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+\t\tassert(*session == 0);'), (38, 1, u'+\tassert((*sz & 0xffffff) == *sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(des > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 22
+Header: skynet_sendname
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(des > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(des > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 2, u'-\tassert(session > 0 && session <= DEFAULT_NUMBER);'), (41, 2, u'-\tassert(b->w[id].init == 0);'), (63, 2, u'-\t\tassert(address != 0);'), (103, 2, u'-\t\tassert(id > 0 && id <= DEFAULT_NUMBER);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(sz == 9);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 4
+Header: _cb
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(sz == 9);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(sz == 9);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(msg);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 5
+Header: broker_release
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(msg);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tassert(msg);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\t\tassert(sz == 9);'), (14, 1, u'+\t\tassert(address != 0);')]
+===========================================
+===========================================
+Total add: 11
+Total del: 3
+Header: _forward
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\t\tassert(sz == 9);'), (14, 1, u'+\t\tassert(address != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+\t\tassert(sz == 9);'), (14, 1, u'+\t\tassert(address != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u"-\tassert(context->forward == 0 && context->forward_address[0] == '\\0');"), (7, 2, u'-\t\tassert(des != 0);'), (20, 1, u'+\tassert(context->forward == 0);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 17
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u"-\tassert(context->forward == 0 && context->forward_address[0] == '\\0');"), (7, 2, u'-\t\tassert(des != 0);'), (20, 1, u'+\tassert(context->forward == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u"-\tassert(context->forward == 0 && context->forward_address[0] == '\\0');"), (7, 2, u'-\t\tassert(des != 0);'), (20, 1, u'+\tassert(context->forward == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 2, u"-\t\tassert (source[0] == ':');")]
+===========================================
+===========================================
+Total add: 41
+Total del: 2
+Header: skynet_send
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 2, u"-\t\tassert (source[0] == ':');")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 2, u"-\t\tassert (source[0] == ':');")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 1, u'+\tassert(inst);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\t\tassert(msg.sz == 0);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: _drop_queue
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\t\tassert(msg.sz == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\t\tassert(msg.sz == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert(msg->sz == 0);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 0
+Header: _dispatch_message
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert(msg->sz == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\tassert(msg->sz == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(266, 2, u'-\t\tassert(len < 0x10000);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(257, 1, u'+\t\tassert(len < 0x10000);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+#define CHECKCALLING_BEGIN(ctx) assert(__sync_lock_test_and_set(&ctx->calling,1) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(q->release == 0);')]
+===========================================
+===========================================
+Total add: 35
+Total del: 0
+Header: skynet_mq_force_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(q->release == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(q->release == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(36, 1, u'+\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+Total add: 39
+Total del: 0
+Header: _write
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(36, 1, u'+\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(36, 1, u'+\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+\t\tassert(top == 2);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(139, 2, u'-\t\tassert(r==0);'), (152, 2, u'-\t\tassert(destination!=0);'), (154, 2, u'-\t\tassert(remote_id > 0 && remote_id <= REMOTE_MAX);'), (219, 2, u'-\t\t\tassert(node->queue == NULL);'), (526, 2, u'-\t\t\tassert(harbor_id > 0);'), (555, 1, u'+\tassert(number == 0);'), (670, 2, u'-\tassert(r==0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-\tassert(message->destination != 0);'), (67, 1, u'+\tassert(queue->in_global);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 63
+Header: skynet_mq_init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-\tassert(message->destination != 0);'), (67, 1, u'+\tassert(queue->in_global);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-\tassert(message->destination != 0);'), (67, 1, u'+\tassert(queue->in_global);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(ctx->in_global_queue);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: skynet_context_message_dispatch
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(ctx->in_global_queue);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(ctx->in_global_queue);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\t\tassert(param[i]);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 8
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\t\tassert(param[i]);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-\t\t\tassert(param[i]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(context->forward == 0 && context->forward_address == NULL);'), (3, 1, u"+\tassert(context->forward == 0 && context->forward_address[0] == '\\0');")]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: skynet_forward
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(context->forward == 0 && context->forward_address == NULL);'), (3, 1, u"+\tassert(context->forward == 0 && context->forward_address[0] == '\\0');")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(context->forward == 0 && context->forward_address == NULL);'), (3, 1, u"+\tassert(context->forward == 0 && context->forward_address[0] == '\\0');")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(context);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 7
+Header: void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+Total add: 14
+Total del: 1
+Header: skynet_start
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 2, u'-\t\tassert (rc >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(324, 1, u'+\tassert(harbor_id > 0  && harbor_id< REMOTE_MAX);'), (340, 1, u'+\tassert(harbor_id != 0);'), (422, 1, u'+\tassert(harbor_id != 0);'), (533, 1, u'+\t\tassert(sz == sizeof(*rmsg));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(236, 1, u'+\tassert(session == SESSION_CLIENT);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\t\t\tassert(param[i]);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 0
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\t\t\tassert(param[i]);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\t\t\tassert(param[i]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(69, 2, u'-\tassert(handle != 0);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 63
+Header: connection_deletepool
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(69, 2, u'-\tassert(handle != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(69, 2, u'-\tassert(handle != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 2, u'-\tassert(len > 0);'), (98, 2, u'-\tassert(i < SEPLEN);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 111
+Header: _get_connection
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 2, u'-\tassert(len > 0);'), (98, 2, u'-\tassert(i < SEPLEN);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 2, u'-\tassert(len > 0);'), (98, 2, u'-\tassert(i < SEPLEN);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 2, u'-\tassert(c->read_complete == 0);'), (54, 2, u'-\tassert(c->read_complete == 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 85
+Header: _read_queue
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 2, u'-\tassert(c->read_complete == 0);'), (54, 2, u'-\tassert(c->read_complete == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 2, u'-\tassert(c->read_complete == 0);'), (54, 2, u'-\tassert(c->read_complete == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\t\tassert(c->in_epoll);'), (49, 2, u'-\t\t\tassert(err == sz);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 59
+Header: connection_poll
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\t\tassert(c->in_epoll);'), (49, 2, u'-\t\t\tassert(err == sz);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 2, u'-\t\t\tassert(c->in_epoll);'), (49, 2, u'-\t\t\tassert(err == sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(60, 1, u'+\t\tassert(err == sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\t\tassert(id < server->max_connection);'), (28, 2, u"-\t\tassert(reply[0] == ':');"), (41, 1, u'+\t\t\tassert(err == 0);'), (47, 1, u'+\tassert(0);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 29
+Header: _write
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\t\tassert(id < server->max_connection);'), (28, 2, u"-\t\tassert(reply[0] == ':');"), (41, 1, u'+\t\t\tassert(err == 0);'), (47, 1, u'+\tassert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-\t\tassert(id < server->max_connection);'), (28, 2, u"-\t\tassert(reply[0] == ':');"), (41, 1, u'+\t\t\tassert(err == 0);'), (47, 1, u'+\tassert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-\t\tassert(id < server->max_connection);'), (29, 2, u"-\t\tassert(reply[0] == ':');")]
+===========================================
+===========================================
+Total add: 10
+Total del: 44
+Header: _read
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-\t\tassert(id < server->max_connection);'), (29, 2, u"-\t\tassert(reply[0] == ':');")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-\t\tassert(id < server->max_connection);'), (29, 2, u"-\t\tassert(reply[0] == ':');")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 2, u'-\t\t\t\tassert(server->poll >= 0);'), (45, 2, u'-\t\t\tassert(id > 0);')]
+===========================================
+===========================================
+Total add: 18
+Total del: 28
+Header: _id_to_hex
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 2, u'-\t\t\t\tassert(server->poll >= 0);'), (45, 2, u'-\t\t\tassert(id > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(25, 2, u'-\t\t\t\tassert(server->poll >= 0);'), (45, 2, u'-\t\t\tassert(id > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(session >= 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: _main
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(session >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(session >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(31, 2, u'-\t\tassert(id == i);'), (42, 2, u'-\t\tassert(id == i);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q == ctx->queue);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 4
+Header: skynet_context_message_dispatch
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q == ctx->queue);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(q == ctx->queue);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\t\t\tassert(conn->uid == 0);'), (31, 1, u'+\tassert(0);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 18
+Header: _gen_id
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\t\t\tassert(conn->uid == 0);'), (31, 1, u'+\tassert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-\t\t\tassert(conn->uid == 0);'), (31, 1, u'+\tassert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(session == 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: static void
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(session == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(session == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u"+\t\tassert (source[0] == ':');")]
+===========================================
+===========================================
+Total add: 9
+Total del: 1
+Header: skynet_forward
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u"+\t\tassert (source[0] == ':');")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u"+\t\tassert (source[0] == ':');")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(424, 1, u'+  assert(base[0].kind == Cruntime && base[0].siz == 0);'), (459, 1, u'+        assert(stack == getstackbase(L, ptop) + 1);'), (465, 1, u'+        assert(stack == getstackbase(L, ptop));'), (469, 1, u'+        assert(stack > getstackbase(L, ptop) && (stack - 1)->s == NULL);'), (535, 1, u'+        assert(stack > getstackbase(L, ptop) && (stack - 1)->s != NULL);'), (541, 1, u'+        assert(stack > getstackbase(L, ptop) && (stack - 1)->s != NULL);'), (548, 1, u'+        assert(stack > getstackbase(L, ptop) && (stack - 1)->s != NULL);'), (555, 1, u'+        assert(stack > getstackbase(L, ptop));'), (561, 1, u'+          assert(stack > getstackbase(L, ptop));'), (598, 1, u'+        assert(captop > 0);'), (633, 1, u'+      default: assert(0); return NULL;'), (676, 1, u'+        assert((p + 1)->i.code != IRet);  /* no tail call */'), (700, 1, u'+        assert(backtop > 0 && p->i.offset > 0);'), (705, 1, u'+        assert(backtop > 0);'), (708, 1, u'+          assert(postable != 0);'), (720, 1, u'+          assert((Opcode)(p - 1)->i.code == IChoice);  /* look behind */'), (723, 1, u'+          assert((Opcode)(p - 1)->i.code == IFail);  /* look behind */'), (777, 1, u'+      default: assert(0); return 0;'), (780, 1, u'+  assert(backtop == 0);'), (792, 1, u'+      assert(op[start - 1].i.code == IChoice &&'), (802, 1, u'+  assert(op[i - 1].i.code == IRet);'), (830, 1, u'+  assert(ischeck(p) && n != 0);'), (893, 1, u'+      assert(n <= MAXOFF && start <= i && i < end);'), (898, 1, u'+      assert(isfixcheck(p + start) && iscapture(p + i));'), (920, 1, u'+  assert(p->i.code == IChoice);'), (924, 1, u'+    assert(isfixcheck(p) && (p + lc)->i.code == IChoice);'), (1019, 1, u'+  assert(aux <= MAXAUX);'), (1498, 1, u'+  assert(p1->i.offset != 0);'), (1502, 1, u'+    default: assert(p1->i.code == IAny); return 1;'), (2034, 1, u'+  assert(captype(open) == Cruntime);'), (2227, 1, u'+    default: assert(0); return 0;')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(59, 1, u'+\tassert(type != 0);'), (122, 1, u'+\t\tassert(0);'), (134, 1, u'+\tassert(type != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 1, u'+\tassert(session > 0 && session <= DEFAULT_NUMBER);'), (43, 1, u'+\tassert(msg);'), (45, 1, u'+\tassert(b->w[id].init == 0);'), (94, 1, u'+\t\tassert(id > 0 && id <= DEFAULT_NUMBER);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+\tassert(session == 0);'), (14, 1, u'+\tassert(sz <= 65535);'), (34, 1, u'+\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-\tassert(session > 0 && session <= DEFAULT_NUMBER);'), (43, 2, u'-\tassert(msg);'), (45, 2, u'-\tassert(b->w[id].init == 0);'), (94, 2, u'-\t\tassert(id > 0 && id <= DEFAULT_NUMBER);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-\tassert(session == 0);'), (14, 2, u'-\tassert(sz <= 65535);'), (34, 2, u'-\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(40, 1, u'+\tassert(lua_isnil(L, -1));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(53, 1, u'+\t\tassert((s->slot_size*2 - 1) <= HANDLE_MASK);'), (58, 1, u'+\t\t\tassert(new_slot[hash] == NULL);'), (207, 1, u'+\tassert(H==NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(149, 1, u'+\t\tassert(r==0);'), (162, 1, u'+\t\tassert(destination!=0);'), (164, 1, u'+\t\tassert(remote_id > 0 && remote_id <= REMOTE_MAX);'), (227, 1, u'+\t\t\tassert(node->queue == NULL);'), (530, 1, u'+\t\t\tassert(harbor_id > 0);'), (650, 1, u'+\tassert(r==0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(111, 1, u'+\tassert(m == NULL && M->count < MAX_MODULE_TYPE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(213, 1, u'+\tassert(message->destination != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(156, 1, u'+\tassert(ctx->init);'), (214, 1, u'+\tassert(ctx->in_global_queue);'), (274, 1, u'+\t\t\tassert(context->handle!=0);'), (343, 1, u'+\tassert(context->forward == 0 && context->forward_address == NULL);'), (346, 1, u'+\t\tassert(des != 0);'), (395, 1, u'+\tassert(des > 0);'), (425, 1, u'+\tassert(context->cb == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(75, 1, u'+\tassert(context);'), (87, 1, u'+\tassert(ctx);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(53, 2, u'-\t\tassert((s->slot_size*2 - 1) <= HANDLE_MASK);'), (58, 2, u'-\t\t\tassert(new_slot[hash] == NULL);'), (207, 2, u'-\tassert(H==NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(149, 2, u'-\t\tassert(r==0);'), (162, 2, u'-\t\tassert(destination!=0);'), (164, 2, u'-\t\tassert(remote_id > 0 && remote_id <= REMOTE_MAX);'), (227, 2, u'-\t\t\tassert(node->queue == NULL);'), (530, 2, u'-\t\t\tassert(harbor_id > 0);'), (650, 2, u'-\tassert(r==0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(102, 2, u'-\tassert(m == NULL && M->count < MAX_MODULE_TYPE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(213, 2, u'-\tassert(message->destination != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(155, 2, u'-\tassert(ctx->init);'), (213, 2, u'-\tassert(ctx->in_global_queue);'), (273, 2, u'-\t\t\tassert(context->handle!=0);'), (323, 2, u'-\tassert(context->forward == 0 && context->forward_address == NULL);'), (326, 2, u'-\t\tassert(des != 0);'), (375, 2, u'-\tassert(des > 0);'), (405, 2, u'-\tassert(context->cb == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(75, 2, u'-\tassert(context);'), (87, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(266, 1, u'+\t\tassert(len < 0x10000);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 1, u'+\tassert(session > 0 && session <= DEFAULT_NUMBER);'), (43, 1, u'+\tassert(msg);'), (45, 1, u'+\tassert(b->w[id].init == 0);'), (94, 1, u'+\t\tassert(id > 0 && id <= DEFAULT_NUMBER);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+\tassert(ctx->init);')]
+===========================================
+===========================================
+Total add: 26
+Total del: 0
+Header: skynet_context_release
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+\tassert(ctx->init);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 1, u'+\tassert(ctx->init);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(context->forward == 0 && context->forward_address == NULL);'), (8, 1, u'+\t\tassert(des != 0);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 0
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(context->forward == 0 && context->forward_address == NULL);'), (8, 1, u'+\t\tassert(des != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(context->forward == 0 && context->forward_address == NULL);'), (8, 1, u'+\t\tassert(des != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+\tassert(context);')]
+===========================================
+===========================================
+Total add: 27
+Total del: 1
+Header: _start
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+\tassert(context);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+\tassert(context);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(139, 1, u'+\tassert(handle != 0);'), (177, 1, u'+\tassert(len > 0);'), (243, 1, u'+\tassert(i < SEPLEN);'), (296, 1, u'+\tassert(c->read_complete == 0);'), (322, 1, u'+\tassert(c->read_complete == 0);'), (369, 1, u'+\t\t\tassert(c->in_epoll);'), (407, 1, u'+\t\t\tassert(err == sz);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(121, 1, u'+\t\tassert(id < server->max_connection);'), (122, 1, u"+\t\tassert(reply[0] == ':');"), (162, 1, u'+\t\tassert(id < server->max_connection);'), (163, 1, u"+\t\tassert(reply[0] == ':');"), (204, 1, u'+\t\t\t\tassert(server->poll >= 0);'), (213, 1, u'+\t\t\tassert(id > 0);'), (226, 1, u'+\t\tassert(session >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(31, 1, u'+\t\tassert(id == i);'), (42, 1, u'+\t\tassert(id == i);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: _cb
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+\t\tassert(err == sz +2);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(93, 2, u'-\tassert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\t\tassert(index >=0 && index < self->max_connection);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 7
+Header: mread_poll
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\t\tassert(index >=0 && index < self->max_connection);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\t\tassert(index >=0 && index < self->max_connection);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(message->session >= 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: skynet_context_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(message->session >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(message->session >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+\tassert(session == 0);'), (13, 1, u'+\tassert(sz <= 65535);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(message->session >= 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 3
+Header: skynet_context_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(message->session >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(message->session >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert((s->slot_size*2 - 1) <= HANDLE_MASK);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 3
+Header: skynet_handle_register
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert((s->slot_size*2 - 1) <= HANDLE_MASK);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert((s->slot_size*2 - 1) <= HANDLE_MASK);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u"-\t\tassert(sep == ':');")]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u"-\t\tassert(sep == ':');")]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u"-\t\tassert(sep == ':');")]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\t\tassert(destination!=0);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 2
+Header: send_notice
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\t\tassert(destination!=0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\t\tassert(destination!=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(message->destination != 0);')]
+===========================================
+===========================================
+Total add: 25
+Total del: 2
+Header: skynet_mq_push
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(message->destination != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\tassert(message->destination != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+\tassert(ctx->in_global_queue);')]
+===========================================
+===========================================
+Total add: 38
+Total del: 22
+Header: _dispatch_message
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+\tassert(ctx->in_global_queue);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+\tassert(ctx->in_global_queue);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(100, 1, u'+\t\tassert (rc >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-\tassert(sz == sizeof(*message));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(141, 1, u'+\t\tassert(r==0);'), (154, 1, u'+\t\tassert(remote_id > 0 && remote_id <= REMOTE_MAX);'), (213, 1, u'+\t\t\tassert(node->queue == NULL);'), (474, 1, u'+\t\t\tassert(harbor_id > 0);'), (606, 1, u'+\tassert(r==0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\t\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 1
+Header: skynet_command
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\t\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+\t\t\tassert(context->handle!=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-\tassert(des >= 0);'), (20, 1, u'+\tassert(des > 0);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 3
+Header: skynet_send
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-\tassert(des >= 0);'), (20, 1, u'+\tassert(des > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-\tassert(des >= 0);'), (20, 1, u'+\tassert(des > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: skynet_start
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\tassert(ctx);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(146, 1, u'+\t\t\tassert(conn->uid == 0);'), (157, 1, u'+\tassert(conn->uid == uid);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(93, 1, u'+\tassert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(34, 1, u'+\tassert(align_length + head < rb->size);'), (139, 1, u'+\tassert(align_length < old_length);'), (154, 1, u'+\tassert(blk->length >= sizeof(struct ringbuffer_block));'), (156, 1, u'+\tassert(id>=0);'), (168, 1, u'+\t\tassert(_block_id(blk) == id);'), (194, 1, u'+\t\t\tassert(length == skip);'), (199, 1, u'+\t\tassert(blk->offset == 0);'), (217, 1, u'+\t\t\t\tassert(from->next >= 0);'), (219, 1, u'+\t\t\t\tassert(from->offset == 0);'), (229, 1, u'+\t\tassert(from->next >= 0);'), (231, 1, u'+\t\tassert(from->offset == 0);'), (250, 1, u'+\t\tassert(blk->offset == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+\tassert(sz == sizeof(*message));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(56, 1, u'+\t\t\tassert(new_slot[hash] == NULL);'), (206, 1, u'+\tassert(H==NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(102, 1, u'+\tassert(m == NULL && M->count < MAX_MODULE_TYPE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(176, 1, u"+\t\tassert(sep == ':');"), (234, 1, u'+\tassert(des >= 0);'), (255, 1, u'+\tassert(context->cb == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(54, 1, u'+\tassert(ctx);'), (56, 1, u'+\tassert(ctx);')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+386
+Mismatch count:128596
+Normal count:2816760

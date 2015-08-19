@@ -1,0 +1,31 @@
+projects/top_C++/ngx_pagespeed
+Going to process projects/top_C++/ngx_pagespeed/all_log.txt 
+---------- ngx_pagespeed ------------
+
+Class:class NgxPagespeedConsoleAsyncFetch : public AsyncFetchUsingWriter { class NgxPagespeedConsoleAsyncFetch : public AsyncFetchUsingWriter 
+Class:class NgxPagespeedConsoleAsyncFetch : public AsyncFetchUsingWriter { class NgxPagespeedConsoleAsyncFetch : public AsyncFetchUsingWriter 
+Class:class Timer;
+Class:class Timer;
+Class:class PthreadSharedMemMutex : public AbstractMutex { class PthreadSharedMemMutex : public AbstractMutex 
+Class:class PthreadSharedMemSegment : public AbstractSharedMemSegment { class PthreadSharedMemSegment : public AbstractSharedMemSegment 
+Class:class MessageHandler;
+Class:class MessageHandler;
+Class:class MessageHandler;
+Class:class SerfFetch : public PoolElement<SerfFetch> { class SerfFetch : public PoolElement<SerfFetch> 
+Class: class SerfThreadedFetcher : public SerfUrlAsyncFetcher { class SerfThreadedFetcher : public SerfUrlAsyncFetcher 
+Class:class MessageHandler;
+Class:class MessageHandler;
+Class:class MessageHandler;
+Class:class SerfFetch : public PoolElement<SerfFetch> { class SerfFetch : public PoolElement<SerfFetch> 
+Class: class SerfThreadedFetcher : public SerfUrlAsyncFetcher { class SerfThreadedFetcher : public SerfUrlAsyncFetcher 
+Class:class PthreadSharedMemMutex : public AbstractMutex { class PthreadSharedMemMutex : public AbstractMutex 
+Class:class PthreadSharedMemSegment : public AbstractSharedMemSegment { class PthreadSharedMemSegment : public AbstractSharedMemSegment 
+Class:class Timer;
+Class:class SerfFetch : public PoolElement<SerfFetch> { class SerfFetch : public PoolElement<SerfFetch> 
+Class: class SerfThreadedFetcher : public SerfUrlAsyncFetcher { class SerfThreadedFetcher : public SerfUrlAsyncFetcher 
+Class:class SerfFetch : public PoolElement<SerfFetch> { class SerfFetch : public PoolElement<SerfFetch> 
+Class: class SerfThreadedFetcher : public SerfUrlAsyncFetcher { class SerfThreadedFetcher : public SerfUrlAsyncFetcher 
+Class:class CacheInterface;
+250
+Mismatch count:14948
+Normal count:453616

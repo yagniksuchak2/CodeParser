@@ -1,0 +1,24 @@
+Baishakhi Log Parser notes:
+
+config.ini file specifies the database connection informaiton (currently set to Baishakhi)
+
+Use ghLogDb.py
+
+From main test we create a ghLogDb object which starts with a log file name and sets
+a current project, method to none and records list of has.
+
+ghLogDb object:
+Methods:
+__str__
+isSha -> determine if line is SHA? (uses regular expression + commit key)
+isAuthor -> determine if this is the author line and extract the “Author:” field.
+isDate -> determine if line is the date line.
+createPatchWithNoPrevVersion -> identifies and creates a Patch object for a new file.
+createPatch -> identifies and creates a Patch object for an existing file.
+processPatch -> Given a patch object and a line, determines if we have a new patch to create, or 
+processLog ->
+
+Patch object:
+-has fileName, and language, test marker and list of methods.
+
+I think the issue might be in the git diff command itself.

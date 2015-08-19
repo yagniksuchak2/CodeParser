@@ -1,0 +1,943 @@
+projects/top_C/beanstalkd
+Going to process projects/top_C/beanstalkd/all_log.txt 
+---------- beanstalkd ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(exist(fmtalloc("%s/binlog.1", dir)));'), (3, 1, u'+    assert(exist(fmtalloc("%s/binlog.1", ctdir())));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: cttestbinlogdiskfulldelete
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(exist(fmtalloc("%s/binlog.1", dir)));'), (3, 1, u'+    assert(exist(fmtalloc("%s/binlog.1", ctdir())));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(exist(fmtalloc("%s/binlog.1", dir)));'), (3, 1, u'+    assert(exist(fmtalloc("%s/binlog.1", ctdir())));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(srv.wal.filesz == Filesizedef);'), (3, 1, u'+    assert(srv.wal.filesize == Filesizedef);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: cttestoptnone
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(srv.wal.filesz == Filesizedef);'), (3, 1, u'+    assert(srv.wal.filesize == Filesizedef);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(srv.wal.filesz == Filesizedef);'), (3, 1, u'+    assert(srv.wal.filesize == Filesizedef);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(srv.wal.filesz == 1234);'), (3, 1, u'+    assert(srv.wal.filesize == 1234);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: cttestopts
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(srv.wal.filesz == 1234);'), (3, 1, u'+    assert(srv.wal.filesize == 1234);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(srv.wal.filesz == 1234);'), (3, 1, u'+    assert(srv.wal.filesize == 1234);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-        assert(c == *exp);'), (211, 1, u'+    assert(exist(fmtalloc("%s/binlog.1", dir)));')]
+===========================================
+===========================================
+Total add: 395
+Total del: 11
+Header: readfull
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-        assert(c == *exp);'), (211, 1, u'+    assert(exist(fmtalloc("%s/binlog.1", dir)));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-        assert(c == *exp);'), (211, 1, u'+    assert(exist(fmtalloc("%s/binlog.1", dir)));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.port, Portdef) == 0);'), (4, 2, u'-    assert(s.addr == NULL);'), (6, 1, u'+    assert(strcmp(srv.port, Portdef) == 0);'), (7, 1, u'+    assert(srv.addr == NULL);'), (9, 2, u'-    assert(s.wal.filesz == Filesizedef);'), (10, 2, u'-    assert(s.wal.nocomp == 0);'), (11, 2, u'-    assert(s.wal.wantsync == 0);'), (12, 2, u'-    assert(s.user == NULL);'), (13, 2, u'-    assert(s.wal.dir == NULL);'), (14, 2, u'-    assert(s.wal.use == 0);'), (15, 1, u'+    assert(srv.wal.filesz == Filesizedef);'), (16, 1, u'+    assert(srv.wal.nocomp == 0);'), (17, 1, u'+    assert(srv.wal.wantsync == 0);'), (18, 1, u'+    assert(srv.user == NULL);'), (19, 1, u'+    assert(srv.wal.dir == NULL);'), (20, 1, u'+    assert(srv.wal.use == 0);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 9
+Header: cttestoptnone
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.port, Portdef) == 0);'), (4, 2, u'-    assert(s.addr == NULL);'), (6, 1, u'+    assert(strcmp(srv.port, Portdef) == 0);'), (7, 1, u'+    assert(srv.addr == NULL);'), (9, 2, u'-    assert(s.wal.filesz == Filesizedef);'), (10, 2, u'-    assert(s.wal.nocomp == 0);'), (11, 2, u'-    assert(s.wal.wantsync == 0);'), (12, 2, u'-    assert(s.user == NULL);'), (13, 2, u'-    assert(s.wal.dir == NULL);'), (14, 2, u'-    assert(s.wal.use == 0);'), (15, 1, u'+    assert(srv.wal.filesz == Filesizedef);'), (16, 1, u'+    assert(srv.wal.nocomp == 0);'), (17, 1, u'+    assert(srv.wal.wantsync == 0);'), (18, 1, u'+    assert(srv.user == NULL);'), (19, 1, u'+    assert(srv.wal.dir == NULL);'), (20, 1, u'+    assert(srv.wal.use == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.port, Portdef) == 0);'), (4, 2, u'-    assert(s.addr == NULL);'), (6, 1, u'+    assert(strcmp(srv.port, Portdef) == 0);'), (7, 1, u'+    assert(srv.addr == NULL);'), (9, 2, u'-    assert(s.wal.filesz == Filesizedef);'), (10, 2, u'-    assert(s.wal.nocomp == 0);'), (11, 2, u'-    assert(s.wal.wantsync == 0);'), (12, 2, u'-    assert(s.user == NULL);'), (13, 2, u'-    assert(s.wal.dir == NULL);'), (14, 2, u'-    assert(s.wal.use == 0);'), (15, 1, u'+    assert(srv.wal.filesz == Filesizedef);'), (16, 1, u'+    assert(srv.wal.nocomp == 0);'), (17, 1, u'+    assert(srv.wal.wantsync == 0);'), (18, 1, u'+    assert(srv.user == NULL);'), (19, 1, u'+    assert(srv.wal.dir == NULL);'), (20, 1, u'+    assert(srv.wal.use == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.port, "1234") == 0);'), (5, 1, u'+    assert(strcmp(srv.port, "1234") == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestoptp
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.port, "1234") == 0);'), (5, 1, u'+    assert(strcmp(srv.port, "1234") == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.port, "1234") == 0);'), (5, 1, u'+    assert(strcmp(srv.port, "1234") == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.addr, "localhost") == 0);'), (5, 1, u'+    assert(strcmp(srv.addr, "localhost") == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestoptl
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.addr, "localhost") == 0);'), (5, 1, u'+    assert(strcmp(srv.addr, "localhost") == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.addr, "localhost") == 0);'), (5, 1, u'+    assert(strcmp(srv.addr, "localhost") == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.addr, "localhost") == 0);'), (5, 1, u'+    assert(strcmp(srv.addr, "localhost") == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestoptlseparate
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.addr, "localhost") == 0);'), (5, 1, u'+    assert(strcmp(srv.addr, "localhost") == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.addr, "localhost") == 0);'), (5, 1, u'+    assert(strcmp(srv.addr, "localhost") == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.filesz == 1234);'), (5, 1, u'+    assert(srv.wal.filesz == 1234);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestopts
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.filesz == 1234);'), (5, 1, u'+    assert(srv.wal.filesz == 1234);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.filesz == 1234);'), (5, 1, u'+    assert(srv.wal.filesz == 1234);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.nocomp == 0);'), (5, 1, u'+    assert(srv.wal.nocomp == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestoptc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.nocomp == 0);'), (5, 1, u'+    assert(srv.wal.nocomp == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.nocomp == 0);'), (5, 1, u'+    assert(srv.wal.nocomp == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.nocomp == 1);'), (5, 1, u'+    assert(srv.wal.nocomp == 1);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestoptn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.nocomp == 1);'), (5, 1, u'+    assert(srv.wal.nocomp == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.nocomp == 1);'), (5, 1, u'+    assert(srv.wal.nocomp == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.syncrate == 1234000000);'), (4, 2, u'-    assert(s.wal.wantsync == 1);'), (6, 1, u'+    assert(srv.wal.syncrate == 1234000000);'), (7, 1, u'+    assert(srv.wal.wantsync == 1);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: cttestoptf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.syncrate == 1234000000);'), (4, 2, u'-    assert(s.wal.wantsync == 1);'), (6, 1, u'+    assert(srv.wal.syncrate == 1234000000);'), (7, 1, u'+    assert(srv.wal.wantsync == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.syncrate == 1234000000);'), (4, 2, u'-    assert(s.wal.wantsync == 1);'), (6, 1, u'+    assert(srv.wal.syncrate == 1234000000);'), (7, 1, u'+    assert(srv.wal.wantsync == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.wantsync == 0);'), (5, 1, u'+    assert(srv.wal.wantsync == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestoptF
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.wantsync == 0);'), (5, 1, u'+    assert(srv.wal.wantsync == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(s.wal.wantsync == 0);'), (5, 1, u'+    assert(srv.wal.wantsync == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.user, "kr") == 0);'), (5, 1, u'+    assert(strcmp(srv.user, "kr") == 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestoptu
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.user, "kr") == 0);'), (5, 1, u'+    assert(strcmp(srv.user, "kr") == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.user, "kr") == 0);'), (5, 1, u'+    assert(strcmp(srv.user, "kr") == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.wal.dir, "foo") == 0);'), (4, 2, u'-    assert(s.wal.use == 1);'), (6, 1, u'+    assert(strcmp(srv.wal.dir, "foo") == 0);'), (7, 1, u'+    assert(srv.wal.use == 1);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: cttestoptb
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.wal.dir, "foo") == 0);'), (4, 2, u'-    assert(s.wal.use == 1);'), (6, 1, u'+    assert(strcmp(srv.wal.dir, "foo") == 0);'), (7, 1, u'+    assert(srv.wal.use == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assert(strcmp(s.wal.dir, "foo") == 0);'), (4, 2, u'-    assert(s.wal.use == 1);'), (6, 1, u'+    assert(strcmp(srv.wal.dir, "foo") == 0);'), (7, 1, u'+    assert(srv.wal.use == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(strcmp(s.addr, "localhost") == 0);')]
+===========================================
+===========================================
+Total add: 17
+Total del: 0
+Header: cttestoptl
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(strcmp(s.addr, "localhost") == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    assert(strcmp(s.addr, "localhost") == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assertf(j->pri >= last_pri, "should come out in order");'), (4, 1, u'+        assertf(j->r.pri >= last_pri, "should come out in order");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestheap_many_jobs
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assertf(j->pri >= last_pri, "should come out in order");'), (4, 1, u'+        assertf(j->r.pri >= last_pri, "should come out in order");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assertf(j->pri >= last_pri, "should come out in order");'), (4, 1, u'+        assertf(j->r.pri >= last_pri, "should come out in order");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assertf(j->pri >= last_pri, "should come out in order");'), (4, 1, u'+            assertf(j->r.pri >= last_pri, "should come out in order");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestheap_remove_k
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assertf(j->pri >= last_pri, "should come out in order");'), (4, 1, u'+            assertf(j->r.pri >= last_pri, "should come out in order");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assertf(j->pri >= last_pri, "should come out in order");'), (4, 1, u'+            assertf(j->r.pri >= last_pri, "should come out in order");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assertf(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9, "srv status");'), (4, 1, u'+    assertf(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9,'), (10, 2, u'-    assertf(diffst == 0, "diff status");'), (11, 1, u'+    assertf(diffst == 0, "was %d", diffst);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 4
+Header: testsrv
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assertf(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9, "srv status");'), (4, 1, u'+    assertf(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9,'), (10, 2, u'-    assertf(diffst == 0, "diff status");'), (11, 1, u'+    assertf(diffst == 0, "was %d", diffst);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assertf(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9, "srv status");'), (4, 1, u'+    assertf(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9,'), (10, 2, u'-    assertf(diffst == 0, "diff status");'), (11, 1, u'+    assertf(diffst == 0, "was %d", diffst);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(j->pri == 1, "priority should match");'), (3, 1, u'+    assertf(j->r.pri == 1, "priority should match");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: cttestjob_creation
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(j->pri == 1, "priority should match");'), (3, 1, u'+    assertf(j->r.pri == 1, "priority should match");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(j->pri == 1, "priority should match");'), (3, 1, u'+    assertf(j->r.pri == 1, "priority should match");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (3, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: cttestjob_cmp_pris
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (3, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (3, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (5, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: cttestjob_cmp_ids
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (5, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (5, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (3, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: cttestjob_large_pris
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (3, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) < 0, "should be a < b");'), (3, 1, u'+    assertf(job_pri_less(a, b), "should be less");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) > 0, "should be a > b");'), (3, 1, u'+    assertf(!job_pri_less(a, b), "should not be less");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: cttestjob_large_pris
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) > 0, "should be a > b");'), (3, 1, u'+    assertf(!job_pri_less(a, b), "should not be less");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assertf(job_pri_cmp(a, b) > 0, "should be a > b");'), (3, 1, u'+    assertf(!job_pri_less(a, b), "should not be less");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    ASSERT(j->heap_index == -1, "j\'s heap index should be invalid");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: __CUT__heap_test_insert_and_remove_one
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    ASSERT(j->heap_index == -1, "j\'s heap index should be invalid");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    ASSERT(j->heap_index == -1, "j\'s heap index should be invalid");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    ASSERT(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9, "srv status");'), (7, 2, u'-    ASSERT(status == 0, "diff status");'), (9, 1, u'+    ASSERT(diffst == 0, "diff status");')]
+===========================================
+===========================================
+Total add: 5
+Total del: 2
+Header: testsrv
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    ASSERT(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9, "srv status");'), (7, 2, u'-    ASSERT(status == 0, "diff status");'), (9, 1, u'+    ASSERT(diffst == 0, "diff status");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    ASSERT(WIFSIGNALED(srvst) && WTERMSIG(srvst) == 9, "srv status");'), (7, 2, u'-    ASSERT(status == 0, "diff status");'), (9, 1, u'+    ASSERT(diffst == 0, "diff status");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    ASSERT(get_all_jobs_used() == 100000, "should match");'), (15, 1, u'+    ASSERT(get_all_jobs_used() == 0, "should match");')]
+===========================================
+===========================================
+Total add: 17
+Total del: 0
+Header: __CUT__job_test_all_jobs_used
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    ASSERT(get_all_jobs_used() == 100000, "should match");'), (15, 1, u'+    ASSERT(get_all_jobs_used() == 0, "should match");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    ASSERT(get_all_jobs_used() == 100000, "should match");'), (15, 1, u'+    ASSERT(get_all_jobs_used() == 0, "should match");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (6, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (9, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (10, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (13, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (14, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (17, 2, u'-    ASSERT(*all_jobs_used_ptr == 0, "should match");'), (18, 1, u'+    ASSERT(get_all_jobs_used() == 0, "should match");')]
+===========================================
+===========================================
+Total add: 4
+Total del: 5
+Header: __CUT__job_test_all_jobs_used
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (6, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (9, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (10, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (13, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (14, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (17, 2, u'-    ASSERT(*all_jobs_used_ptr == 0, "should match");'), (18, 1, u'+    ASSERT(get_all_jobs_used() == 0, "should match");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (6, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (9, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (10, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (13, 2, u'-    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (14, 1, u'+    ASSERT(get_all_jobs_used() == 1, "should match");'), (17, 2, u'-    ASSERT(*all_jobs_used_ptr == 0, "should match");'), (18, 1, u'+    ASSERT(get_all_jobs_used() == 0, "should match");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (11, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (14, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (17, 1, u'+    ASSERT(*all_jobs_used_ptr == 0, "should match");')]
+===========================================
+===========================================
+Total add: 19
+Total del: 0
+Header: __CUT__job_test_hash_free_next
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (11, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (14, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (17, 1, u'+    ASSERT(*all_jobs_used_ptr == 0, "should match");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (11, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (14, 1, u'+    ASSERT(*all_jobs_used_ptr == 1, "should match");'), (17, 1, u'+    ASSERT(*all_jobs_used_ptr == 0, "should match");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    ASSERT(job_cmp(a, b) < 0, "should be a < b");'), (8, 1, u'+    ASSERT(job_pri_cmp(a, b) < 0, "should be a < b");')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: __CUT__job_test_cmp_pris
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    ASSERT(job_cmp(a, b) < 0, "should be a < b");'), (8, 1, u'+    ASSERT(job_pri_cmp(a, b) < 0, "should be a < b");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    ASSERT(job_cmp(a, b) < 0, "should be a < b");'), (8, 1, u'+    ASSERT(job_pri_cmp(a, b) < 0, "should be a < b");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(job_cmp(a, b) < 0, "should be a < b");'), (9, 1, u'+    ASSERT(job_pri_cmp(a, b) < 0, "should be a < b");')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: __CUT__job_test_cmp_ids
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(job_cmp(a, b) < 0, "should be a < b");'), (9, 1, u'+    ASSERT(job_pri_cmp(a, b) < 0, "should be a < b");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT(job_cmp(a, b) < 0, "should be a < b");'), (9, 1, u'+    ASSERT(job_pri_cmp(a, b) < 0, "should be a < b");')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+491
+Mismatch count:1695
+Normal count:18419

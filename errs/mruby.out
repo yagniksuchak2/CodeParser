@@ -1,0 +1,4715 @@
+projects/top_C/mruby
+Going to process projects/top_C/mruby/all_log.txt 
+---------- mruby ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+  mrb_load_irep(core_test, mrbtest_assert_irep);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 1
+Header: mrb_init_mrbtest
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+  mrb_load_irep(core_test, mrbtest_assert_irep);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+  mrb_load_irep(core_test, mrbtest_assert_irep);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(base >= 2 && base <= 36);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: readint_mrb_int
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(base >= 2 && base <= 36);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(base >= 2 && base <= 36);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(s->irep);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: new_msym
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(s->irep);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(s->irep);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_static_assert(RSTRING_EMBED_LEN_MAX < (1 << 5), "pointer size too big for embedded string");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: mrb_init_string
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_static_assert(RSTRING_EMBED_LEN_MAX < (1 << 5), "pointer size too big for embedded string");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_static_assert(RSTRING_EMBED_LEN_MAX < (1 << 5), "pointer size too big for embedded string");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(sizeof(void*) == 4);'), (3, 1, u'+  mrb_static_assert(sizeof(void*) == 4, "when using NaN boxing sizeof pointer must be 4 byte");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_open_allocf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(sizeof(void*) == 4);'), (3, 1, u'+  mrb_static_assert(sizeof(void*) == 4, "when using NaN boxing sizeof pointer must be 4 byte");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(sizeof(void*) == 4);'), (3, 1, u'+  mrb_static_assert(sizeof(void*) == 4, "when using NaN boxing sizeof pointer must be 4 byte");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(lp);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 3
+Header: get_filename_table_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(lp);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(lp);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    mrb_assert(sym);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 5
+Header: write_section_debug
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    mrb_assert(sym);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    mrb_assert(sym);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(sym_idx != -1); /* local variable name must be in syms */'), (10, 1, u'+      mrb_assert(sym_idx != -1); /* local variable name must be in syms */')]
+===========================================
+===========================================
+Total add: 10
+Total del: 4
+Header: write_lv_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(sym_idx != -1); /* local variable name must be in syms */'), (10, 1, u'+      mrb_assert(sym_idx != -1); /* local variable name must be in syms */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(sym_idx != -1); /* local variable name must be in syms */'), (10, 1, u'+      mrb_assert(sym_idx != -1); /* local variable name must be in syms */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(i == (p->nlocals - 1));'), (3, 1, u'+    mrb_assert(i + 1 == p->nlocals);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: scope_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(i == (p->nlocals - 1));'), (3, 1, u'+    mrb_assert(i + 1 == p->nlocals);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(i == (p->nlocals - 1));'), (3, 1, u'+    mrb_assert(i + 1 == p->nlocals);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    mrb_assert(i == (p->nlocals - 1));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: scope_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    mrb_assert(i == (p->nlocals - 1));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    mrb_assert(i == (p->nlocals - 1));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len > 0);'), (3, 1, u'+  mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: attrsym
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len > 0);'), (3, 1, u'+  mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len > 0);'), (3, 1, u'+  mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        mrb_assert(tlen >= 0);'), (5, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (6, 1, u'+        mrb_assert_int_fit(mrb_int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: write_pool_block
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        mrb_assert(tlen >= 0);'), (5, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (6, 1, u'+        mrb_assert_int_fit(mrb_int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        mrb_assert(tlen >= 0);'), (5, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (6, 1, u'+        mrb_assert_int_fit(mrb_int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(tlen >= 0);'), (3, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (4, 1, u'+        mrb_assert_int_fit(int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: write_pool_block
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(tlen >= 0);'), (3, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (4, 1, u'+        mrb_assert_int_fit(int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(tlen >= 0);'), (3, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (4, 1, u'+        mrb_assert_int_fit(int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        mrb_assert(tlen >= 0);'), (5, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (6, 1, u'+        mrb_assert_int_fit(mrb_int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: write_pool_block
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        mrb_assert(tlen >= 0);'), (5, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (6, 1, u'+        mrb_assert_int_fit(mrb_int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        mrb_assert(tlen >= 0);'), (5, 2, u'-        mrb_assert(tlen <= INT16_MAX);'), (6, 1, u'+        mrb_assert_int_fit(mrb_int, tlen, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      mrb_assert(len <= UINT16_MAX);'), (3, 1, u'+      mrb_assert_int_fit(mrb_int, len, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_syms_block
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      mrb_assert(len <= UINT16_MAX);'), (3, 1, u'+      mrb_assert_int_fit(mrb_int, len, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      mrb_assert(len <= UINT16_MAX);'), (3, 1, u'+      mrb_assert_int_fit(mrb_int, len, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(section_size <= UINT32_MAX);'), (4, 1, u'+  mrb_assert_int_fit(size_t, section_size, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: write_section_irep_header
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(section_size <= UINT32_MAX);'), (4, 1, u'+  mrb_assert_int_fit(size_t, section_size, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(section_size <= UINT32_MAX);'), (4, 1, u'+  mrb_assert_int_fit(size_t, section_size, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(filename_len <= UINT16_MAX);'), (3, 1, u'+  mrb_assert_int_fit(size_t, filename_len, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(filename_len <= UINT16_MAX);'), (3, 1, u'+  mrb_assert_int_fit(size_t, filename_len, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(filename_len <= UINT16_MAX);'), (3, 1, u'+  mrb_assert_int_fit(size_t, filename_len, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(irep->ilen <= UINT32_MAX);'), (3, 1, u'+    mrb_assert_int_fit(size_t, irep->ilen, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(irep->ilen <= UINT32_MAX);'), (3, 1, u'+    mrb_assert_int_fit(size_t, irep->ilen, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(irep->ilen <= UINT32_MAX);'), (3, 1, u'+    mrb_assert_int_fit(size_t, irep->ilen, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert((uint32_t)diff <= UINT32_MAX);'), (4, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert((uint32_t)diff <= UINT32_MAX);'), (4, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert((uint32_t)diff <= UINT32_MAX);'), (4, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, uint32_t, UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(filename_idx >= 0);'), (3, 2, u'-    mrb_assert(filename_idx <= UINT16_MAX);'), (4, 1, u'+    mrb_assert_int_fit(int, filename_idx, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: write_debug_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(filename_idx >= 0);'), (3, 2, u'-    mrb_assert(filename_idx <= UINT16_MAX);'), (4, 1, u'+    mrb_assert_int_fit(int, filename_idx, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(filename_idx >= 0);'), (3, 2, u'-    mrb_assert(filename_idx <= UINT16_MAX);'), (4, 1, u'+    mrb_assert_int_fit(int, filename_idx, uint16_t, UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret >= 0 && (uint32_t)ret <= UINT32_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, ret, uint32_t, UINT32_MAX);'), (6, 2, u'-  mrb_assert(ret >= 0 && (size_t)ret <= SIZE_MAX);'), (7, 1, u'+  mrb_assert_int_fit(ptrdiff_t, ret, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: write_debug_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret >= 0 && (uint32_t)ret <= UINT32_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, ret, uint32_t, UINT32_MAX);'), (6, 2, u'-  mrb_assert(ret >= 0 && (size_t)ret <= SIZE_MAX);'), (7, 1, u'+  mrb_assert_int_fit(ptrdiff_t, ret, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret >= 0 && (uint32_t)ret <= UINT32_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, ret, uint32_t, UINT32_MAX);'), (6, 2, u'-  mrb_assert(ret >= 0 && (size_t)ret <= SIZE_MAX);'), (7, 1, u'+  mrb_assert_int_fit(ptrdiff_t, ret, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: read_irep_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: read_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >=0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: read_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >=0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >=0 && (size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= UINT32_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: read_section_debug
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= UINT32_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0 && (size_t)diff <= UINT32_MAX);'), (3, 1, u'+  mrb_assert_int_fit(ptrdiff_t, diff, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(total <= MRB_INT_MAX);'), (3, 1, u'+  mrb_assert_int_fit(size_t, total, mrb_int, MRB_INT_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: str_buf_cat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(total <= MRB_INT_MAX);'), (3, 1, u'+  mrb_assert_int_fit(size_t, total, mrb_int, MRB_INT_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(total <= MRB_INT_MAX);'), (3, 1, u'+  mrb_assert_int_fit(size_t, total, mrb_int, MRB_INT_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len > 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: sym_inspect
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len > 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len > 0 && (size_t)len <= SIZE_MAX);'), (3, 1, u'+  mrb_assert_int_fit(mrb_int, len, size_t, SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  mrb_assert(len <= MRB_INT_MAX); /* A rare case. So choosed assert() not raise(). */')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: mrb_ary_s_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  mrb_assert(len <= MRB_INT_MAX); /* A rare case. So choosed assert() not raise(). */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  mrb_assert(len <= MRB_INT_MAX); /* A rare case. So choosed assert() not raise(). */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(irep->ilen <= INT_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: codedump
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(irep->ilen <= INT_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(irep->ilen <= INT_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(len > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: attrsym
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(len > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(len <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(len > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert(len >= 0);'), (3, 2, u'-        mrb_assert(len <= SIZE_MAX);'), (4, 1, u'+        mrb_assert(len >= 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff <= UINT32_MAX);'), (3, 1, u'+  mrb_assert((uint32_t)diff <= UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff <= UINT32_MAX);'), (3, 1, u'+  mrb_assert((uint32_t)diff <= UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff <= UINT32_MAX);'), (3, 1, u'+  mrb_assert((uint32_t)diff <= UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret >= 0);'), (3, 2, u'-  mrb_assert(ret <= UINT32_MAX);'), (4, 1, u'+  mrb_assert(ret >= 0 && (uint32_t)ret <= UINT32_MAX);'), (7, 2, u'-  mrb_assert(ret <= SIZE_MAX);'), (8, 1, u'+  mrb_assert(ret >= 0 && (size_t)ret <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: write_debug_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret >= 0);'), (3, 2, u'-  mrb_assert(ret <= UINT32_MAX);'), (4, 1, u'+  mrb_assert(ret >= 0 && (uint32_t)ret <= UINT32_MAX);'), (7, 2, u'-  mrb_assert(ret <= SIZE_MAX);'), (8, 1, u'+  mrb_assert(ret >= 0 && (size_t)ret <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret >= 0);'), (3, 2, u'-  mrb_assert(ret <= UINT32_MAX);'), (4, 1, u'+  mrb_assert(ret >= 0 && (uint32_t)ret <= UINT32_MAX);'), (7, 2, u'-  mrb_assert(ret <= SIZE_MAX);'), (8, 1, u'+  mrb_assert(ret >= 0 && (size_t)ret <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: read_irep_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: read_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >=0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: read_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >=0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= SIZE_MAX);'), (4, 1, u'+  mrb_assert(diff >=0 && (size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= UINT32_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: read_section_debug
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= UINT32_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(diff >= 0);'), (3, 2, u'-  mrb_assert(diff <= UINT32_MAX);'), (4, 1, u'+  mrb_assert(diff >= 0 && (size_t)diff <= UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(len > 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: sym_inspect
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(len > 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(len > 0 && (size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: attrsym
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+          mrb_assert(!n->cdr); /* must be the end */')]
+===========================================
+===========================================
+Total add: 34
+Total del: 1
+Header: codegen
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+          mrb_assert(!n->cdr); /* must be the end */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+          mrb_assert(!n->cdr); /* must be the end */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert((n) <= MRB_INT_MAX);\\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(total <= MRB_INT_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: str_buf_cat
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(total <= MRB_INT_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(total <= MRB_INT_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-  mrb_assert(mrb->c->prev);'), (10, 2, u'-  mrb_assert(mrb->c->prev->prev);')]
+===========================================
+===========================================
+Total add: 17
+Total del: 6
+Header: fiber_transfer
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-  mrb_assert(mrb->c->prev);'), (10, 2, u'-  mrb_assert(mrb->c->prev->prev);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-  mrb_assert(mrb->c->prev);'), (10, 2, u'-  mrb_assert(mrb->c->prev->prev);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        mrb_assert((size_t)len <= SIZE_MAX);'), (3, 1, u'+        mrb_assert(len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)ret <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(ret <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_debug_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)ret <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(ret <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)ret <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(ret <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: read_irep_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: read_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: read_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((size_t)diff <= SIZE_MAX);'), (3, 1, u'+  mrb_assert(diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    mrb_assert((n) <= MRB_INT_MAX);\\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(len <= MRB_INT_MAX); /* A rare case. So choosed assert() not raise(). */')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: mrb_ary_s_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(len <= MRB_INT_MAX); /* A rare case. So choosed assert() not raise(). */')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(len <= MRB_INT_MAX); /* A rare case. So choosed assert() not raise(). */')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(width >= 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: fix_xor
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(width >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(width >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(width >= 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: lshift
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(width >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(width >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(f->tt == MRB_TT_FIBER);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: fiber_check
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(f->tt == MRB_TT_FIBER);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(f->tt == MRB_TT_FIBER);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert(f->line_flat_map <= ret && ret < (f->line_flat_map + f->line_entry_count));'), (3, 1, u'+          mrb_assert(f->lines.flat_map <= ret && ret < (f->lines.flat_map + f->line_entry_count));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: mrb_debug_get_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert(f->line_flat_map <= ret && ret < (f->line_flat_map + f->line_entry_count));'), (3, 1, u'+          mrb_assert(f->lines.flat_map <= ret && ret < (f->lines.flat_map + f->line_entry_count));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert(f->line_flat_map <= ret && ret < (f->line_flat_map + f->line_entry_count));'), (3, 1, u'+          mrb_assert(f->lines.flat_map <= ret && ret < (f->lines.flat_map + f->line_entry_count));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-          mrb_assert(size_t_len <= MRB_INT_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 12
+Header: mrb_get_args
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-          mrb_assert(size_t_len <= MRB_INT_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-          mrb_assert(size_t_len <= MRB_INT_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  mrb_assert(len >= 0);'), (9, 2, u'-  mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 8
+Header: mrb_string_value_cstr
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  mrb_assert(len >= 0);'), (9, 2, u'-  mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  mrb_assert(len >= 0);'), (9, 2, u'-  mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+          mrb_assert(size_t_len <= MRB_INT_MAX);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: mrb_get_args
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+          mrb_assert(size_t_len <= MRB_INT_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+          mrb_assert(size_t_len <= MRB_INT_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(irep->ilen <= INT_MAX);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: codedump
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(irep->ilen <= INT_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(irep->ilen <= INT_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        mrb_assert(len >= 0);'), (6, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 1
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        mrb_assert(len >= 0);'), (6, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        mrb_assert(len >= 0);'), (6, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+        mrb_assert(len >= 0);'), (8, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+        mrb_assert(len >= 0);'), (8, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+        mrb_assert(len >= 0);'), (8, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        mrb_assert(len >= 0);'), (6, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 1
+Header: get_pool_block_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        mrb_assert(len >= 0);'), (6, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        mrb_assert(len >= 0);'), (6, 1, u'+        mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: write_pool_block
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: write_pool_block
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: write_pool_block
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        mrb_assert(tlen >= 0);'), (7, 1, u'+        mrb_assert(tlen <= INT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+      mrb_assert(len <= UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 3
+Header: write_syms_block
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+      mrb_assert(len <= UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+      mrb_assert(len <= UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(section_size <= UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: write_section_irep_header
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(section_size <= UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(section_size <= UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  mrb_assert(filename_len <= UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  mrb_assert(filename_len <= UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  mrb_assert(filename_len <= UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    mrb_assert(irep->ilen <= UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    mrb_assert(irep->ilen <= UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    mrb_assert(irep->ilen <= UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert(diff <= UINT32_MAX);'), (10, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 5
+Header: write_lineno_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert(diff <= UINT32_MAX);'), (10, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert(diff <= UINT32_MAX);'), (10, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(filename_idx != -1);'), (4, 1, u'+    mrb_assert(filename_idx >= 0);'), (5, 1, u'+    mrb_assert(filename_idx <= UINT16_MAX);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 2
+Header: write_debug_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(filename_idx != -1);'), (4, 1, u'+    mrb_assert(filename_idx >= 0);'), (5, 1, u'+    mrb_assert(filename_idx <= UINT16_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    mrb_assert(filename_idx != -1);'), (4, 1, u'+    mrb_assert(filename_idx >= 0);'), (5, 1, u'+    mrb_assert(filename_idx <= UINT16_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(ret >= 0);'), (3, 1, u'+  mrb_assert(ret <= UINT32_MAX);'), (7, 1, u'+  mrb_assert((size_t)ret <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 5
+Header: write_debug_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(ret >= 0);'), (3, 1, u'+  mrb_assert(ret <= UINT32_MAX);'), (7, 1, u'+  mrb_assert((size_t)ret <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(ret >= 0);'), (3, 1, u'+  mrb_assert(ret <= UINT32_MAX);'), (7, 1, u'+  mrb_assert((size_t)ret <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(section_size <= INT32_MAX);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: write_section_debug
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(section_size <= INT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(section_size <= INT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(binary_size <= UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: write_rite_binary_header
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(binary_size <= UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(binary_size <= UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(diff >= 0);'), (6, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 1
+Header: read_irep_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(diff >= 0);'), (6, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  mrb_assert(diff >= 0);'), (6, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 1
+Header: read_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: read_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert((size_t)diff <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert(diff <= UINT32_MAX);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 1
+Header: read_section_debug
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert(diff <= UINT32_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  mrb_assert(diff >= 0);'), (5, 1, u'+  mrb_assert(diff <= UINT32_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  mrb_assert(len >= 0);'), (7, 1, u'+  mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 1
+Header: mrb_string_value_cstr
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  mrb_assert(len >= 0);'), (7, 1, u'+  mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  mrb_assert(len >= 0);'), (7, 1, u'+  mrb_assert((size_t)len <= SIZE_MAX);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(size == (int)get_debug_record_size(mrb, irep));'), (3, 1, u'+  mrb_assert(size == get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: write_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(size == (int)get_debug_record_size(mrb, irep));'), (3, 1, u'+  mrb_assert(size == get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(size == (int)get_debug_record_size(mrb, irep));'), (3, 1, u'+  mrb_assert(size == get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+extern const uint8_t mrbtest_assert_irep[];')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_load_irep(mrb, mrbtest_assert_irep);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: mrb_init_mrbtest
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_load_irep(mrb, mrbtest_assert_irep);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_load_irep(mrb, mrbtest_assert_irep);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    mrb_assert(mrb_fixnum_p(seed));')]
+===========================================
+===========================================
+Total add: 8
+Total del: 1
+Header: mrb_random_init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    mrb_assert(mrb_fixnum_p(seed));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+    mrb_assert(mrb_fixnum_p(seed));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    mrb_assert(mrb_fixnum_p(seed));')]
+===========================================
+===========================================
+Total add: 9
+Total del: 2
+Header: mrb_random_srand
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    mrb_assert(mrb_fixnum_p(seed));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    mrb_assert(mrb_fixnum_p(seed));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((cur - bin) == (int)get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: write_debug_record_1
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((cur - bin) == (int)get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert((cur - bin) == (int)get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(size == (int)get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: write_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(size == (int)get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  mrb_assert(size == (int)get_debug_record_size(mrb, irep));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(finished_file);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: codegen
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(finished_file);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(finished_file);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(finished_file);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: scope_finish
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(finished_file);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    mrb_assert(finished_file);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    mrb_assert(finished_file);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: codegen
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    mrb_assert(finished_file);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    mrb_assert(finished_file);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    mrb_assert(finished_file);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: scope_finish
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    mrb_assert(finished_file);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    mrb_assert(finished_file);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert(pc < (f->start_pos + f->line_entry_count));'), (4, 1, u'+          mrb_assert(f->start_pos <= pc && pc < (f->start_pos + f->line_entry_count));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: mrb_debug_get_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert(pc < (f->start_pos + f->line_entry_count));'), (4, 1, u'+          mrb_assert(f->start_pos <= pc && pc < (f->start_pos + f->line_entry_count));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert(pc < (f->start_pos + f->line_entry_count));'), (4, 1, u'+          mrb_assert(f->start_pos <= pc && pc < (f->start_pos + f->line_entry_count));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert((ret - f->line_flat_map) < f->line_entry_count);'), (3, 1, u'+          mrb_assert(f->line_flat_map <= ret && ret < (f->line_flat_map + f->line_entry_count));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_debug_get_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert((ret - f->line_flat_map) < f->line_entry_count);'), (3, 1, u'+          mrb_assert(f->line_flat_map <= ret && ret < (f->line_flat_map + f->line_entry_count));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert((ret - f->line_flat_map) < f->line_entry_count);'), (3, 1, u'+          mrb_assert(f->line_flat_map <= ret && ret < (f->line_flat_map + f->line_entry_count));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret <= info->files && ret < (info->files + info->flen));'), (3, 1, u'+  mrb_assert(info->files <= ret && ret < (info->files + info->flen));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: get_file
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret <= info->files && ret < (info->files + info->flen));'), (3, 1, u'+  mrb_assert(info->files <= ret && ret < (info->files + info->flen));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret <= info->files && ret < (info->files + info->flen));'), (3, 1, u'+  mrb_assert(info->files <= ret && ret < (info->files + info->flen));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert((ret - f->line_flat_map) < f->line_entry_count);'), (3, 1, u'+          mrb_assert((ret - f->line_flat_map) < (ptrdiff_t)f->line_entry_count);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_debug_get_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert((ret - f->line_flat_map) < f->line_entry_count);'), (3, 1, u'+          mrb_assert((ret - f->line_flat_map) < (ptrdiff_t)f->line_entry_count);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-          mrb_assert((ret - f->line_flat_map) < f->line_entry_count);'), (3, 1, u'+          mrb_assert((ret - f->line_flat_map) < (ptrdiff_t)f->line_entry_count);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  mrb_assert(!irep->debug_info);'), (13, 1, u'+  mrb_assert(!irep->debug_info);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 5
+Header: mrb_debug_get_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  mrb_assert(!irep->debug_info);'), (13, 1, u'+  mrb_assert(!irep->debug_info);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  mrb_assert(!irep->debug_info);'), (13, 1, u'+  mrb_assert(!irep->debug_info);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret < (info->files + info->flen));'), (3, 1, u'+  mrb_assert(ret <= info->files && ret < (info->files + info->flen));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: get_file
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret < (info->files + info->flen));'), (3, 1, u'+  mrb_assert(ret <= info->files && ret < (info->files + info->flen));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  mrb_assert(ret < (info->files + info->flen));'), (3, 1, u'+  mrb_assert(ret <= info->files && ret < (info->files + info->flen));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-    mrb_assert(mrb_symbol_p(RARRAY_PTR(ary)[i]));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 4
+Header: get_debug_record_size
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-    mrb_assert(mrb_symbol_p(RARRAY_PTR(ary)[i]));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-    mrb_assert(mrb_symbol_p(RARRAY_PTR(ary)[i]));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    mrb_assert(filename_idx < filenames_len);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: read_rite_debug_record
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    mrb_assert(filename_idx < filenames_len);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+    mrb_assert(filename_idx < filenames_len);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(mrb_symbol_p(iv_name) || mrb_string_p(iv_name));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: get_valid_iv_sym
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(mrb_symbol_p(iv_name) || mrb_string_p(iv_name));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+  mrb_assert(mrb_symbol_p(iv_name) || mrb_string_p(iv_name));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(mrb_symbol_p(iv_name));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: get_valid_iv_sym
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(mrb_symbol_p(iv_name));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(mrb_symbol_p(iv_name));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(sizeof(void*) == 4);'), (3, 1, u'+  mrb_assert(sizeof(void*) == 4);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_open_allocf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(sizeof(void*) == 4);'), (3, 1, u'+  mrb_assert(sizeof(void*) == 4);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(sizeof(void*) == 4);'), (3, 1, u'+  mrb_assert(sizeof(void*) == 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-#define gc_assert(expect) assert(expect)'), (6, 2, u'-#define gc_assert(expect) ((void)0)')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: gettimeofday_time
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-#define gc_assert(expect) assert(expect)'), (6, 2, u'-#define gc_assert(expect) ((void)0)')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-#define gc_assert(expect) assert(expect)'), (6, 2, u'-#define gc_assert(expect) ((void)0)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 1, u'+  mrb_assert(is_gray(obj));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: gc_mark_children
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 1, u'+  mrb_assert(is_gray(obj));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 1, u'+  mrb_assert(is_gray(obj));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert((obj)->tt != MRB_TT_FREE);'), (3, 1, u'+  mrb_assert((obj)->tt != MRB_TT_FREE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_gc_mark
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert((obj)->tt != MRB_TT_FREE);'), (3, 1, u'+  mrb_assert((obj)->tt != MRB_TT_FREE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert((obj)->tt != MRB_TT_FREE);'), (3, 1, u'+  mrb_assert((obj)->tt != MRB_TT_FREE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: final_marking_phase
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: final_marking_phase
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(0);'), (3, 1, u'+    mrb_assert(0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(0);'), (3, 1, u'+    mrb_assert(0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(0);'), (3, 1, u'+    mrb_assert(0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_generational(mrb));'), (3, 1, u'+  mrb_assert(is_generational(mrb));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: clear_all_old
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_generational(mrb));'), (3, 1, u'+  mrb_assert(is_generational(mrb));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_generational(mrb));'), (3, 1, u'+  mrb_assert(is_generational(mrb));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->live >= mrb->gc_live_after_mark);'), (3, 1, u'+    mrb_assert(mrb->live >= mrb->gc_live_after_mark);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->live >= mrb->gc_live_after_mark);'), (3, 1, u'+    mrb_assert(mrb->live >= mrb->gc_live_after_mark);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->live >= mrb->gc_live_after_mark);'), (3, 1, u'+    mrb_assert(mrb->live >= mrb->gc_live_after_mark);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, value) && !is_dead(mrb, obj));'), (3, 2, u'-  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(!is_dead(mrb, value) && !is_dead(mrb, obj));'), (5, 1, u'+  mrb_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, value) && !is_dead(mrb, obj));'), (3, 2, u'-  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(!is_dead(mrb, value) && !is_dead(mrb, obj));'), (5, 1, u'+  mrb_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, value) && !is_dead(mrb, obj));'), (3, 2, u'-  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(!is_dead(mrb, value) && !is_dead(mrb, obj));'), (5, 1, u'+  mrb_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (3, 1, u'+    mrb_assert(mrb->gc_state == GC_STATE_SWEEP);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (3, 1, u'+    mrb_assert(mrb->gc_state == GC_STATE_SWEEP);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (3, 1, u'+    mrb_assert(mrb->gc_state == GC_STATE_SWEEP);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, obj));'), (3, 2, u'-  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(!is_dead(mrb, obj));'), (5, 1, u'+  mrb_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: mrb_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, obj));'), (3, 2, u'-  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(!is_dead(mrb, obj));'), (5, 1, u'+  mrb_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, obj));'), (3, 2, u'-  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(!is_dead(mrb, obj));'), (5, 1, u'+  mrb_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->gc_state == GC_STATE_NONE);'), (3, 1, u'+    mrb_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: change_gen_gc_mode
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->gc_state == GC_STATE_NONE);'), (3, 1, u'+    mrb_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(mrb->gc_state == GC_STATE_NONE);'), (3, 1, u'+    mrb_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(value));'), (3, 1, u'+  mrb_assert(is_gray(value));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(value));'), (3, 1, u'+  mrb_assert(is_gray(value));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(value));'), (3, 1, u'+  mrb_assert(is_gray(value));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 2, u'-  gc_assert(value->color & mrb->current_white_part);'), (4, 1, u'+  mrb_assert(obj->color & mrb->current_white_part);'), (5, 1, u'+  mrb_assert(value->color & mrb->current_white_part);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: test_mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 2, u'-  gc_assert(value->color & mrb->current_white_part);'), (4, 1, u'+  mrb_assert(obj->color & mrb->current_white_part);'), (5, 1, u'+  mrb_assert(value->color & mrb->current_white_part);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 2, u'-  gc_assert(value->color & mrb->current_white_part);'), (4, 1, u'+  mrb_assert(obj->color & mrb->current_white_part);'), (5, 1, u'+  mrb_assert(value->color & mrb->current_white_part);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 1, u'+  mrb_assert(obj->color & mrb->current_white_part);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 1, u'+  mrb_assert(obj->color & mrb->current_white_part);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 1, u'+  mrb_assert(obj->color & mrb->current_white_part);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(value));'), (3, 1, u'+  mrb_assert(is_gray(value));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(value));'), (3, 1, u'+  mrb_assert(is_gray(value));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(value));'), (3, 1, u'+  mrb_assert(is_gray(value));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(mrb_basic_ptr(value)));'), (3, 1, u'+    mrb_assert(is_gray(mrb_basic_ptr(value)));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(mrb_basic_ptr(value)));'), (3, 1, u'+    mrb_assert(is_gray(mrb_basic_ptr(value)));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(mrb_basic_ptr(value)));'), (3, 1, u'+    mrb_assert(is_gray(mrb_basic_ptr(value)));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 2, u'-  gc_assert(mrb->atomic_gray_list == obj);'), (4, 1, u'+  mrb_assert(is_gray(obj));'), (5, 1, u'+  mrb_assert(mrb->atomic_gray_list == obj);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: test_mrb_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 2, u'-  gc_assert(mrb->atomic_gray_list == obj);'), (4, 1, u'+  mrb_assert(is_gray(obj));'), (5, 1, u'+  mrb_assert(mrb->atomic_gray_list == obj);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 2, u'-  gc_assert(mrb->atomic_gray_list == obj);'), (4, 1, u'+  mrb_assert(is_gray(obj));'), (5, 1, u'+  mrb_assert(mrb->atomic_gray_list == obj);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 1, u'+  mrb_assert(is_gray(obj));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 1, u'+  mrb_assert(is_gray(obj));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_gray(obj));'), (3, 1, u'+  mrb_assert(is_gray(obj));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);'), (6, 2, u'-  gc_assert(mrb->gray_list == obj1);'), (7, 2, u'-  gc_assert(is_gray(obj1));'), (8, 1, u'+  mrb_assert(mrb->gray_list == obj1);'), (9, 1, u'+  mrb_assert(is_gray(obj1));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: test_add_gray_list
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);'), (6, 2, u'-  gc_assert(mrb->gray_list == obj1);'), (7, 2, u'-  gc_assert(is_gray(obj1));'), (8, 1, u'+  mrb_assert(mrb->gray_list == obj1);'), (9, 1, u'+  mrb_assert(is_gray(obj1));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);'), (6, 2, u'-  gc_assert(mrb->gray_list == obj1);'), (7, 2, u'-  gc_assert(is_gray(obj1));'), (8, 1, u'+  mrb_assert(mrb->gray_list == obj1);'), (9, 1, u'+  mrb_assert(is_gray(obj1));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == obj2);'), (3, 2, u'-  gc_assert(mrb->gray_list->gcnext == obj1);'), (4, 2, u'-  gc_assert(is_gray(obj2));'), (5, 1, u'+  mrb_assert(mrb->gray_list == obj2);'), (6, 1, u'+  mrb_assert(mrb->gray_list->gcnext == obj1);'), (7, 1, u'+  mrb_assert(is_gray(obj2));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: test_add_gray_list
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == obj2);'), (3, 2, u'-  gc_assert(mrb->gray_list->gcnext == obj1);'), (4, 2, u'-  gc_assert(is_gray(obj2));'), (5, 1, u'+  mrb_assert(mrb->gray_list == obj2);'), (6, 1, u'+  mrb_assert(mrb->gray_list->gcnext == obj1);'), (7, 1, u'+  mrb_assert(is_gray(obj2));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == obj2);'), (3, 2, u'-  gc_assert(mrb->gray_list->gcnext == obj1);'), (4, 2, u'-  gc_assert(is_gray(obj2));'), (5, 1, u'+  mrb_assert(mrb->gray_list == obj2);'), (6, 1, u'+  mrb_assert(mrb->gray_list->gcnext == obj1);'), (7, 1, u'+  mrb_assert(is_gray(obj2));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_black(obj));'), (3, 2, u'-  gc_assert(gray_num > 1);'), (4, 1, u'+  mrb_assert(is_black(obj));'), (5, 1, u'+  mrb_assert(gray_num > 1);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: test_gc_gray_mark
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_black(obj));'), (3, 2, u'-  gc_assert(gray_num > 1);'), (4, 1, u'+  mrb_assert(is_black(obj));'), (5, 1, u'+  mrb_assert(gray_num > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_black(obj));'), (3, 2, u'-  gc_assert(gray_num > 1);'), (4, 1, u'+  mrb_assert(is_black(obj));'), (5, 1, u'+  mrb_assert(gray_num > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_black(mrb_basic_ptr(obj_v)));'), (3, 2, u'-  gc_assert(is_gray(mrb_basic_ptr(value_v)));'), (4, 2, u'-  gc_assert(gray_num == 1);'), (5, 1, u'+  mrb_assert(is_black(mrb_basic_ptr(obj_v)));'), (6, 1, u'+  mrb_assert(is_gray(mrb_basic_ptr(value_v)));'), (7, 1, u'+  mrb_assert(gray_num == 1);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: test_gc_gray_mark
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_black(mrb_basic_ptr(obj_v)));'), (3, 2, u'-  gc_assert(is_gray(mrb_basic_ptr(value_v)));'), (4, 2, u'-  gc_assert(gray_num == 1);'), (5, 1, u'+  mrb_assert(is_black(mrb_basic_ptr(obj_v)));'), (6, 1, u'+  mrb_assert(is_gray(mrb_basic_ptr(value_v)));'), (7, 1, u'+  mrb_assert(gray_num == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(is_black(mrb_basic_ptr(obj_v)));'), (3, 2, u'-  gc_assert(is_gray(mrb_basic_ptr(value_v)));'), (4, 2, u'-  gc_assert(gray_num == 1);'), (5, 1, u'+  mrb_assert(is_black(mrb_basic_ptr(obj_v)));'), (6, 1, u'+  mrb_assert(is_gray(mrb_basic_ptr(value_v)));'), (7, 1, u'+  mrb_assert(gray_num == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (3, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (6, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_MARK);'), (7, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_MARK);'), (10, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (11, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_SWEEP);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: test_incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (3, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (6, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_MARK);'), (7, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_MARK);'), (10, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (11, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_SWEEP);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (3, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (6, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_MARK);'), (7, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_MARK);'), (10, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (11, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_SWEEP);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);'), (6, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (7, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_SWEEP);'), (10, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (11, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: test_incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);'), (6, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (7, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_SWEEP);'), (10, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (11, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gray_list == NULL);'), (3, 1, u'+  mrb_assert(mrb->gray_list == NULL);'), (6, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_SWEEP);'), (7, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_SWEEP);'), (10, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (11, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->live == live);'), (3, 2, u'-  gc_assert(mrb->live == total-freed);'), (4, 1, u'+  mrb_assert(mrb->live == live);'), (5, 1, u'+  mrb_assert(mrb->live == total-freed);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: test_incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->live == live);'), (3, 2, u'-  gc_assert(mrb->live == total-freed);'), (4, 1, u'+  mrb_assert(mrb->live == live);'), (5, 1, u'+  mrb_assert(mrb->live == total-freed);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->live == live);'), (3, 2, u'-  gc_assert(mrb->live == total-freed);'), (4, 1, u'+  mrb_assert(mrb->live == live);'), (5, 1, u'+  mrb_assert(mrb->live == total-freed);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_full == FALSE);'), (3, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(mrb->gc_full == FALSE);'), (5, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (8, 2, u'-  gc_assert(is_minor_gc(mrb));'), (9, 2, u'-  gc_assert(mrb->majorgc_old_threshold > 0);'), (10, 1, u'+  mrb_assert(is_minor_gc(mrb));'), (11, 1, u'+  mrb_assert(mrb->majorgc_old_threshold > 0);'), (14, 2, u'-  gc_assert(mrb->gc_full == TRUE);'), (15, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (16, 1, u'+  mrb_assert(mrb->gc_full == TRUE);'), (17, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (20, 2, u'-  gc_assert(is_major_gc(mrb));'), (21, 1, u'+  mrb_assert(is_major_gc(mrb));')]
+===========================================
+===========================================
+Total add: 7
+Total del: 7
+Header: test_incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_full == FALSE);'), (3, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(mrb->gc_full == FALSE);'), (5, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (8, 2, u'-  gc_assert(is_minor_gc(mrb));'), (9, 2, u'-  gc_assert(mrb->majorgc_old_threshold > 0);'), (10, 1, u'+  mrb_assert(is_minor_gc(mrb));'), (11, 1, u'+  mrb_assert(mrb->majorgc_old_threshold > 0);'), (14, 2, u'-  gc_assert(mrb->gc_full == TRUE);'), (15, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (16, 1, u'+  mrb_assert(mrb->gc_full == TRUE);'), (17, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (20, 2, u'-  gc_assert(is_major_gc(mrb));'), (21, 1, u'+  mrb_assert(is_major_gc(mrb));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_full == FALSE);'), (3, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (4, 1, u'+  mrb_assert(mrb->gc_full == FALSE);'), (5, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (8, 2, u'-  gc_assert(is_minor_gc(mrb));'), (9, 2, u'-  gc_assert(mrb->majorgc_old_threshold > 0);'), (10, 1, u'+  mrb_assert(is_minor_gc(mrb));'), (11, 1, u'+  mrb_assert(mrb->majorgc_old_threshold > 0);'), (14, 2, u'-  gc_assert(mrb->gc_full == TRUE);'), (15, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (16, 1, u'+  mrb_assert(mrb->gc_full == TRUE);'), (17, 1, u'+  mrb_assert(mrb->gc_state == GC_STATE_NONE);'), (20, 2, u'-  gc_assert(is_major_gc(mrb));'), (21, 1, u'+  mrb_assert(is_major_gc(mrb));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_full == FALSE);'), (3, 1, u'+  mrb_assert(mrb->gc_full == FALSE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_full == FALSE);'), (3, 1, u'+  mrb_assert(mrb->gc_full == FALSE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_full == FALSE);'), (3, 1, u'+  mrb_assert(mrb->gc_full == FALSE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->heaps->next->next == NULL);'), (3, 2, u'-  gc_assert(mrb->free_heaps->next->next == NULL);'), (4, 1, u'+  mrb_assert(mrb->heaps->next->next == NULL);'), (5, 1, u'+  mrb_assert(mrb->free_heaps->next->next == NULL);'), (8, 2, u'-  gc_assert(mrb->heaps->next == NULL);'), (9, 2, u'-  gc_assert(mrb->heaps == mrb->free_heaps);'), (10, 1, u'+  mrb_assert(mrb->heaps->next == NULL);'), (11, 1, u'+  mrb_assert(mrb->heaps == mrb->free_heaps);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: test_incremental_sweep_phase
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->heaps->next->next == NULL);'), (3, 2, u'-  gc_assert(mrb->free_heaps->next->next == NULL);'), (4, 1, u'+  mrb_assert(mrb->heaps->next->next == NULL);'), (5, 1, u'+  mrb_assert(mrb->free_heaps->next->next == NULL);'), (8, 2, u'-  gc_assert(mrb->heaps->next == NULL);'), (9, 2, u'-  gc_assert(mrb->heaps == mrb->free_heaps);'), (10, 1, u'+  mrb_assert(mrb->heaps->next == NULL);'), (11, 1, u'+  mrb_assert(mrb->heaps == mrb->free_heaps);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->heaps->next->next == NULL);'), (3, 2, u'-  gc_assert(mrb->free_heaps->next->next == NULL);'), (4, 1, u'+  mrb_assert(mrb->heaps->next->next == NULL);'), (5, 1, u'+  mrb_assert(mrb->free_heaps->next->next == NULL);'), (8, 2, u'-  gc_assert(mrb->heaps->next == NULL);'), (9, 2, u'-  gc_assert(mrb->heaps == mrb->free_heaps);'), (10, 1, u'+  mrb_assert(mrb->heaps->next == NULL);'), (11, 1, u'+  mrb_assert(mrb->heaps == mrb->free_heaps);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(mrb_symbol_p(iv_name));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: get_valid_iv_sym
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(mrb_symbol_p(iv_name));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+    assert(mrb_symbol_p(iv_name));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->variable_gray_list == obj);'), (3, 1, u'+  gc_assert(mrb->atomic_gray_list == obj);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->variable_gray_list == obj);'), (3, 1, u'+  gc_assert(mrb->atomic_gray_list == obj);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->variable_gray_list == obj);'), (3, 1, u'+  gc_assert(mrb->atomic_gray_list == obj);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(sizeof(void*) == 4);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: mrb_open_allocf
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(sizeof(void*) == 4);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(sizeof(void*) == 4);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-  assert(n >= 0);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 17
+Header: flo_to_s
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-  assert(n >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-  assert(n >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(mrb_basic(value)));'), (3, 1, u'+    gc_assert(is_gray(mrb_basic_ptr(value)));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(mrb_basic(value)));'), (3, 1, u'+    gc_assert(is_gray(mrb_basic_ptr(value)));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(mrb_basic(value)));'), (3, 1, u'+    gc_assert(is_gray(mrb_basic_ptr(value)));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  gc_assert(is_black(mrb_basic(obj_v)));'), (9, 2, u'-  gc_assert(is_gray(mrb_basic(value_v)));'), (11, 1, u'+  gc_assert(is_black(mrb_basic_ptr(obj_v)));'), (12, 1, u'+  gc_assert(is_gray(mrb_basic_ptr(value_v)));')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: test_gc_gray_mark
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  gc_assert(is_black(mrb_basic(obj_v)));'), (9, 2, u'-  gc_assert(is_gray(mrb_basic(value_v)));'), (11, 1, u'+  gc_assert(is_black(mrb_basic_ptr(obj_v)));'), (12, 1, u'+  gc_assert(is_gray(mrb_basic_ptr(value_v)));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  gc_assert(is_black(mrb_basic(obj_v)));'), (9, 2, u'-  gc_assert(is_gray(mrb_basic(value_v)));'), (11, 1, u'+  gc_assert(is_black(mrb_basic_ptr(obj_v)));'), (12, 1, u'+  gc_assert(is_gray(mrb_basic_ptr(value_v)));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-      gc_assert(mrb->gc_state == GC_STATE_NONE);'), (10, 1, u'+    gc_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 7
+Header: change_gen_gc_mode
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-      gc_assert(mrb->gc_state == GC_STATE_NONE);'), (10, 1, u'+    gc_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-      gc_assert(mrb->gc_state == GC_STATE_NONE);'), (10, 1, u'+    gc_assert(mrb->gc_state == GC_STATE_NONE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, obj));'), (3, 1, u'+  gc_assert((obj)->tt != MRB_TT_FREE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_gc_mark
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, obj));'), (3, 1, u'+  gc_assert((obj)->tt != MRB_TT_FREE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(!is_dead(mrb, obj));'), (3, 1, u'+  gc_assert((obj)->tt != MRB_TT_FREE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state != GC_STATE_NONE);'), (3, 1, u'+  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state != GC_STATE_NONE);'), (3, 1, u'+  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state != GC_STATE_NONE);'), (3, 1, u'+  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state != GC_STATE_NONE);'), (3, 1, u'+  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state != GC_STATE_NONE);'), (3, 1, u'+  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(mrb->gc_state != GC_STATE_NONE);'), (3, 1, u'+  gc_assert(is_generational(mrb) || mrb->gc_state != GC_STATE_NONE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 1, u'+  gc_assert(value->color & mrb->current_white_part);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 1, u'+  gc_assert(value->color & mrb->current_white_part);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  gc_assert(obj->color & mrb->current_white_part);'), (3, 1, u'+  gc_assert(value->color & mrb->current_white_part);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_MARK);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 5
+Header: test_incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_MARK);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  gc_assert(mrb->gc_state == GC_STATE_MARK);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  gc_assert(mrb->gc_full == FALSE);'), (7, 1, u'+  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (10, 1, u'+  gc_assert(is_minor_gc(mrb));'), (11, 1, u'+  gc_assert(mrb->majorgc_old_threshold > 0);'), (14, 1, u'+  gc_assert(mrb->gc_full == TRUE);'), (15, 1, u'+  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (18, 1, u'+  gc_assert(is_major_gc(mrb));'), (22, 1, u'+  gc_assert(mrb->gc_full == FALSE);')]
+===========================================
+===========================================
+Total add: 22
+Total del: 0
+Header: test_incremental_gc
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  gc_assert(mrb->gc_full == FALSE);'), (7, 1, u'+  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (10, 1, u'+  gc_assert(is_minor_gc(mrb));'), (11, 1, u'+  gc_assert(mrb->majorgc_old_threshold > 0);'), (14, 1, u'+  gc_assert(mrb->gc_full == TRUE);'), (15, 1, u'+  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (18, 1, u'+  gc_assert(is_major_gc(mrb));'), (22, 1, u'+  gc_assert(mrb->gc_full == FALSE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  gc_assert(mrb->gc_full == FALSE);'), (7, 1, u'+  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (10, 1, u'+  gc_assert(is_minor_gc(mrb));'), (11, 1, u'+  gc_assert(mrb->majorgc_old_threshold > 0);'), (14, 1, u'+  gc_assert(mrb->gc_full == TRUE);'), (15, 1, u'+  gc_assert(mrb->gc_state == GC_STATE_NONE);'), (18, 1, u'+  gc_assert(is_major_gc(mrb));'), (22, 1, u'+  gc_assert(mrb->gc_full == FALSE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(RBASIC(value)));'), (3, 1, u'+    gc_assert(is_gray(mrb_basic(value)));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: test_mrb_field_write_barrier
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(RBASIC(value)));'), (3, 1, u'+    gc_assert(is_gray(mrb_basic(value)));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    gc_assert(is_gray(RBASIC(value)));'), (3, 1, u'+    gc_assert(is_gray(mrb_basic(value)));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  gc_assert(is_black(RBASIC(obj_v)));'), (9, 2, u'-  gc_assert(is_gray(RBASIC(value_v)));'), (11, 1, u'+  gc_assert(is_black(mrb_basic(obj_v)));'), (12, 1, u'+  gc_assert(is_gray(mrb_basic(value_v)));')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: test_gc_gray_mark
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  gc_assert(is_black(RBASIC(obj_v)));'), (9, 2, u'-  gc_assert(is_gray(RBASIC(value_v)));'), (11, 1, u'+  gc_assert(is_black(mrb_basic(obj_v)));'), (12, 1, u'+  gc_assert(is_gray(mrb_basic(value_v)));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-  gc_assert(is_black(RBASIC(obj_v)));'), (9, 2, u'-  gc_assert(is_gray(RBASIC(value_v)));'), (11, 1, u'+  gc_assert(is_black(mrb_basic(obj_v)));'), (12, 1, u'+  gc_assert(is_gray(mrb_basic(value_v)));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(args != 0);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 1
+Header: mrb_funcall
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(args != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    assert(args != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(args != 0);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 8
+Header: mrb_funcall
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(args != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+    assert(args != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(!(!p && len));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: mrb_str_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(!(!p && len));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(!(!p && len));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 1, u'+  assert(n >= 0);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 7
+Header: flo_to_s
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 1, u'+  assert(n >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(22, 1, u'+  assert(n >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(!(!p && len));')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: mrb_str_new
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(!(!p && len));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+  assert(!(!p && len));')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+2414
+Mismatch count:119108
+Normal count:2169349

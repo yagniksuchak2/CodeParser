@@ -1,0 +1,216 @@
+projects/top_C/macvim
+Going to process projects/top_C/macvim/all_log.txt 
+---------- macvim ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(nc <= 5);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: register_vim_exn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(nc <= 5);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(nc <= 5);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    g_assert(len <= sizeof(string));')]
+===========================================
+===========================================
+Total add: 0
+Total del: 19
+Header: key_press_event
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    g_assert(len <= sizeof(string));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-    g_assert(len <= sizeof(string));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\tassert(nc <= 5);')]
+===========================================
+===========================================
+Total add: 26
+Total del: 30
+Header: register_vim_exn
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\tassert(nc <= 5);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 1, u'+\tassert(nc <= 5);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tASSERT (m_pApplication != NULL);'), (6, 1, u'+\tASSERT(m_pApplication != NULL);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: CCommands::CCommands
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tASSERT (m_pApplication != NULL);'), (6, 1, u'+\tASSERT(m_pApplication != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tASSERT (m_pApplication != NULL);'), (6, 1, u'+\tASSERT(m_pApplication != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tASSERT (m_pApplicationEventsObj != NULL);'), (6, 1, u'+\tASSERT(m_pApplicationEventsObj != NULL);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: CCommands::SetApplicationObject
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tASSERT (m_pApplicationEventsObj != NULL);'), (6, 1, u'+\tASSERT(m_pApplicationEventsObj != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\tASSERT (m_pApplicationEventsObj != NULL);'), (6, 1, u'+\tASSERT(m_pApplicationEventsObj != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tASSERT (pDebugger != NULL);'), (7, 1, u'+\t\tASSERT(pDebugger != NULL);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: CCommands::UnadviseFromEvents
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tASSERT (pDebugger != NULL);'), (7, 1, u'+\t\tASSERT(pDebugger != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tASSERT (pDebugger != NULL);'), (7, 1, u'+\t\tASSERT(pDebugger != NULL);')]
+===========================================
+Class: class VimWindow: public BWindow { 
+Class: class VimFormView: public BView { 
+Class: class VimTextAreaView: public BView { 
+Class: class VimScrollBar: public BScrollBar { 
+Class:  class VimFont: public BFont { 
+Class:     class CMainDialog : public CDialog { 
+Class: class VimWindow: public BWindow { 
+Class: class VimFormView: public BView { 
+Class: class VimTextAreaView: public BView { 
+Class: class VimScrollBar: public BScrollBar { 
+Class:  class VimFont: public BFont { 
+Class:   class CVimCF : public IClassFactory { 
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+3790
+Mismatch count:118496
+Normal count:2154496

@@ -1,0 +1,118 @@
+projects/top_C++/brackets-app
+Going to process projects/top_C++/brackets-app/all_log.txt 
+---------- brackets-app ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        ASSERT(s_instance == NULL);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 2
+Header: class BracketsExtensionHandler : public CefV8Handler
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        ASSERT(s_instance == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+        ASSERT(s_instance == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 1, u'+                ASSERT(FALSE); //Getting called from not the main browser window.')]
+===========================================
+===========================================
+Total add: 30
+Total del: 10
+Header: public:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 1, u'+                ASSERT(FALSE); //Getting called from not the main browser window.')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 1, u'+                ASSERT(FALSE); //Getting called from not the main browser window.')]
+===========================================
+Class: class StContextScope { class StContextScope 
+Class:  class BracketsExtensionHandler : public CefV8Handler { 
+Class:class ClientApp : public CefApp, class ClientApp : public CefApp,
+Class:  class RequestClient : public CefWebURLRequestClient   class RequestClient : public CefWebURLRequestClient
+Class:  class Listener : public CefDOMEventListener   class Listener : public CefDOMEventListener
+Class:   class Visitor : public CefDOMVisitor   {   
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+  ASSERT(m_ParentBrowser.get());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(30, 1, u'+    ASSERT(pending_data_.empty());'), (31, 1, u'+    ASSERT(file_ == NULL);'), (144, 1, u'+      ASSERT(file_ != NULL);'), (148, 1, u'+    ASSERT(false); // Not implemented')]
+===========================================
+Class:class ClientPlugin class ClientPlugin
+Class:  class ClientOSRHandler : public CefClient,                          public CefLifeSpanHandler,                          public CefLoadHandler,                          public CefRequestHandler,                          public CefDisplayHandler,                          public CefRenderHandler { 
+Class:  class Listener : public CefDOMEventListener   class Listener : public CefDOMEventListener
+Class:   class Visitor : public CefDOMVisitor   {   
+Class:  class ClientSchemeHandlerFactory : public CefSchemeHandlerFactory { 
+Class:class ClientPlugin class ClientPlugin
+Class:class CefXmlObjectLoader class CefXmlObjectLoader
+Class:class CefZipFile : public CefZipArchive::File class CefZipFile : public CefZipArchive::File
+Class:  class RequestClient : public CefWebURLRequestClient   class RequestClient : public CefWebURLRequestClient
+Class:  class Listener : public CefDOMEventListener   class Listener : public CefDOMEventListener
+Class:   class Visitor : public CefDOMVisitor   {   
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 1, u'+  ASSERT(m_ParentBrowser.get());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(30, 1, u'+    ASSERT(pending_data_.empty());'), (31, 1, u'+    ASSERT(file_ == NULL);'), (144, 1, u'+      ASSERT(file_ != NULL);'), (148, 1, u'+    ASSERT(false); // Not implemented')]
+===========================================
+Class:class CefXmlObjectLoader class CefXmlObjectLoader
+Class:class CefZipFile : public CefZipArchive::File class CefZipFile : public CefZipArchive::File
+78
+Mismatch count:24717
+Normal count:413214

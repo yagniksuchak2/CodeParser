@@ -1,0 +1,1680 @@
+projects/top_C/node-fibers
+Going to process projects/top_C/node-fibers/all_log.txt 
+---------- node-fibers ------------
+
+Class: 	class HandleScope { 	class HandleScope 
+Class: 	class HandleScope { 	class HandleScope 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\t\tassert(that.handle == value);'), (6, 2, u'-\t\t\tassert(value.IsNearDeath());'), (7, 1, u'+\t\t\tassert(that.handle.IsNearDeath());')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: class Fiber {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\t\tassert(that.handle == value);'), (6, 2, u'-\t\t\tassert(value.IsNearDeath());'), (7, 1, u'+\t\t\tassert(that.handle.IsNearDeath());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-\t\t\tassert(that.handle == value);'), (6, 2, u'-\t\t\tassert(value.IsNearDeath());'), (7, 1, u'+\t\t\tassert(that.handle.IsNearDeath());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(floor_thread_key != 0);'), (3, 1, u'+\tassert(floor_thread_key != 0x7777);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: find_thread_id_key
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(floor_thread_key != 0);'), (3, 1, u'+\tassert(floor_thread_key != 0x7777);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(floor_thread_key != 0);'), (3, 1, u'+\tassert(floor_thread_key != 0x7777);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(!handle.IsEmpty()); \\'), (3, 2, u'-\t\t\tassert(handle->InternalFieldCount() == 1); \\'), (4, 1, u'+\t\t\tassert(!handle.IsEmpty());'), (5, 1, u'+\t\t\tassert(handle->InternalFieldCount() == 1);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: class Fiber {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(!handle.IsEmpty()); \\'), (3, 2, u'-\t\t\tassert(handle->InternalFieldCount() == 1); \\'), (4, 1, u'+\t\t\tassert(!handle.IsEmpty());'), (5, 1, u'+\t\t\tassert(handle->InternalFieldCount() == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(!handle.IsEmpty()); \\'), (3, 2, u'-\t\t\tassert(handle->InternalFieldCount() == 1); \\'), (4, 1, u'+\t\t\tassert(!handle.IsEmpty());'), (5, 1, u'+\t\t\tassert(handle->InternalFieldCount() == 1);')]
+===========================================
+Class:	template <void (*F)(Isolate*, Persistent<Value>, void*), class T, typename P> 	template <void (*F)(Isolate*, Persistent<Value>, void*), class T, typename P>
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tassert(!handle.IsEmpty()); \\'), (4, 1, u'+\t\t\tassert(handle->InternalFieldCount() == 1); \\')]
+===========================================
+===========================================
+Total add: 9
+Total del: 3
+Header: class Fiber {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tassert(!handle.IsEmpty()); \\'), (4, 1, u'+\t\t\tassert(handle->InternalFieldCount() == 1); \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\t\t\tassert(!handle.IsEmpty()); \\'), (4, 1, u'+\t\t\tassert(handle->InternalFieldCount() == 1); \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(isolate != NULL);'), (19, 2, u'-\tassert(ceil_thread_key - floor_thread_key + 1 == v8_tls_keys);'), (20, 1, u'+\tassert(floor_thread_key != 0);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 9
+Header: find_thread_id_key
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(isolate != NULL);'), (19, 2, u'-\tassert(ceil_thread_key - floor_thread_key + 1 == v8_tls_keys);'), (20, 1, u'+\tassert(floor_thread_key != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(isolate != NULL);'), (19, 2, u'-\tassert(ceil_thread_key - floor_thread_key + 1 == v8_tls_keys);'), (20, 1, u'+\tassert(floor_thread_key != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+\tassert(ceil_thread_key - floor_thread_key + 1 == v8_tls_keys);')]
+===========================================
+===========================================
+Total add: 22
+Total del: 0
+Header: size_t Coroutine::pool_size = 120;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+\tassert(ceil_thread_key - floor_thread_key + 1 == v8_tls_keys);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(20, 1, u'+\tassert(ceil_thread_key - floor_thread_key + 1 == v8_tls_keys);')]
+===========================================
+Class:	class Loader { 	class Loader 
+Class: class Thread { class Thread 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert(!stack_size);'), (19, 2, u'-\tassert(!Coroutine::stack_size);')]
+===========================================
+===========================================
+Total add: 17
+Total del: 9
+Header: Coroutine::trampoline
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert(!stack_size);'), (19, 2, u'-\tassert(!Coroutine::stack_size);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+\tassert(!stack_size);'), (19, 2, u'-\tassert(!Coroutine::stack_size);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(entry != NULL);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Coroutine::create_fiber
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(entry != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+\tassert(entry != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert(this != &next);'), (20, 2, u'-\tassert(!thread.delete_me);'), (21, 2, u'-\tassert(&current != this);'), (41, 1, u'+\tassert(!delete_me);'), (42, 1, u'+\tassert(&current != this);')]
+===========================================
+===========================================
+Total add: 32
+Total del: 10
+Header: Coroutine::reset
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert(this != &next);'), (20, 2, u'-\tassert(!thread.delete_me);'), (21, 2, u'-\tassert(&current != this);'), (41, 1, u'+\tassert(!delete_me);'), (42, 1, u'+\tassert(&current != this);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+\tassert(this != &next);'), (20, 2, u'-\tassert(!thread.delete_me);'), (21, 2, u'-\tassert(&current != this);'), (41, 1, u'+\tassert(!delete_me);'), (42, 1, u'+\tassert(&current != this);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(thread.delete_me == this);'), (3, 1, u'+\t\tassert(delete_me == this);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: Coroutine::run
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(thread.delete_me == this);'), (3, 1, u'+\t\tassert(delete_me == this);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(thread.delete_me == this);'), (3, 1, u'+\t\tassert(delete_me == this);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(&next != this);'), (3, 2, u'-\tassert(thread.current_fiber == this);'), (8, 1, u'+\t\tassert(&next != this);'), (9, 1, u'+\t\tassert(&current() == this);'), (17, 1, u'+\t\t\tassert(delete_me == NULL);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 5
+Header: Coroutine::run
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(&next != this);'), (3, 2, u'-\tassert(thread.current_fiber == this);'), (8, 1, u'+\t\tassert(&next != this);'), (9, 1, u'+\t\tassert(&current() == this);'), (17, 1, u'+\t\t\tassert(delete_me == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(&next != this);'), (3, 2, u'-\tassert(thread.current_fiber == this);'), (8, 1, u'+\t\tassert(&next != this);'), (9, 1, u'+\t\tassert(&current() == this);'), (17, 1, u'+\t\t\tassert(delete_me == NULL);')]
+===========================================
+Class: class Loader { class Loader 
+Class:	class Loader { 	class Loader 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(Coroutine::is_local_storage_enabled());')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(Coroutine::is_local_storage_enabled());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(Coroutine::is_local_storage_enabled());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\t\tassert(tmp == ii);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: class Loader {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\t\tassert(tmp == ii);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-\t\t\tassert(tmp == ii);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 3
+Header: pthread_getspecific
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 5
+Header: pthread_setspecific
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(Loader::initialized);'), (5, 1, u'+\t\tassert(*key - thread_key == Thread::current()->key_create(dtor) + 1);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: pthread_key_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(Loader::initialized);'), (5, 1, u'+\t\tassert(*key - thread_key == Thread::current()->key_create(dtor) + 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\tassert(Loader::initialized);'), (5, 1, u'+\t\tassert(*key - thread_key == Thread::current()->key_create(dtor) + 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\t\t\tassert(tmp == ii - thread_key - 1);'), (14, 1, u'+\t\t\tassert(tmp == ii);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 6
+Header: class Loader {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\t\t\tassert(tmp == ii - thread_key - 1);'), (14, 1, u'+\t\t\tassert(tmp == ii);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-\t\t\tassert(tmp == ii - thread_key - 1);'), (14, 1, u'+\t\t\tassert(tmp == ii);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 6
+Header: bool Loader::initialized = false;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 7
+Header: pthread_getspecific
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(prev_fake_key < MAX_EARLY_KEYS);'), (14, 2, u'-\t\tassert(prev_synthetic_key < MAX_EARLY_KEYS);'), (16, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 8
+Header: pthread_setspecific
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(prev_fake_key < MAX_EARLY_KEYS);'), (14, 2, u'-\t\tassert(prev_synthetic_key < MAX_EARLY_KEYS);'), (16, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+\t\tassert(prev_fake_key < MAX_EARLY_KEYS);'), (14, 2, u'-\t\tassert(prev_synthetic_key < MAX_EARLY_KEYS);'), (16, 1, u'+\t\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(!thread.delete_me);'), (14, 2, u'-\t\tassert(this != thread.delete_me);'), (15, 2, u'-\t\tassert(&current != thread.delete_me);'), (20, 1, u'+\t\tassert(thread.delete_me == this);'), (21, 1, u'+\t\tassert(&current != this);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 5
+Header: Coroutine::reset
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(!thread.delete_me);'), (14, 2, u'-\t\tassert(this != thread.delete_me);'), (15, 2, u'-\t\tassert(&current != thread.delete_me);'), (20, 1, u'+\t\tassert(thread.delete_me == this);'), (21, 1, u'+\t\tassert(&current != this);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 1, u'+\tassert(!thread.delete_me);'), (14, 2, u'-\t\tassert(this != thread.delete_me);'), (15, 2, u'-\t\tassert(&current != thread.delete_me);'), (20, 1, u'+\t\tassert(thread.delete_me == this);'), (21, 1, u'+\t\tassert(&current != this);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(&next != this);'), (4, 1, u'+\tassert(thread.current_fiber == this);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: Coroutine::run
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(&next != this);'), (4, 1, u'+\tassert(thread.current_fiber == this);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(&next != this);'), (4, 1, u'+\tassert(thread.current_fiber == this);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 2
+Header: pthread_join
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(Loader::initialized);')]
+===========================================
+Class:class Loader { class Loader 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: thread_trampoline
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: pthread_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: pthread_equal
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: pthread_join
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tassert(initialized);'), (3, 1, u'+\tassert(Loader::initialized);')]
+===========================================
+Class: class Loader { class Loader 
+Class:	class Snapshot { 	class Snapshot 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(!Coroutine::stack_size);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 0
+Header: Coroutine::is_local_storage_enabled
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(!Coroutine::stack_size);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+\tassert(!Coroutine::stack_size);')]
+===========================================
+Class:	class Snapshot { 	class Snapshot 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(freed_fiber_ids.size() == fiber_ids);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 1
+Header: class Thread {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(freed_fiber_ids.size() == fiber_ids);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\t\t\tassert(freed_fiber_ids.size() == fiber_ids);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert(&current != thread.delete_me);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: Coroutine::run
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert(&current != thread.delete_me);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+\t\tassert(&current != thread.delete_me);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-      assert(freed_fiber_ids.size() == fiber_ids);'), (56, 2, u'-        assert(delete_me == NULL);'), (135, 1, u'+\t\t\tassert(freed_fiber_ids.size() == fiber_ids);'), (168, 1, u'+\t\t\t\tassert(delete_me == NULL);')]
+===========================================
+===========================================
+Total add: 112
+Total del: 112
+Header: thread_trampoline
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-      assert(freed_fiber_ids.size() == fiber_ids);'), (56, 2, u'-        assert(delete_me == NULL);'), (135, 1, u'+\t\t\tassert(freed_fiber_ids.size() == fiber_ids);'), (168, 1, u'+\t\t\t\tassert(delete_me == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-      assert(freed_fiber_ids.size() == fiber_ids);'), (56, 2, u'-        assert(delete_me == NULL);'), (135, 1, u'+\t\t\tassert(freed_fiber_ids.size() == fiber_ids);'), (168, 1, u'+\t\t\t\tassert(delete_me == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(&current != this);'), (6, 2, u'-    assert(this != thread.delete_me);'), (13, 1, u'+\tassert(&current != this);'), (16, 1, u'+\t\tassert(this != thread.delete_me);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 10
+Header: Coroutine::reset
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(&current != this);'), (6, 2, u'-    assert(this != thread.delete_me);'), (13, 1, u'+\tassert(&current != this);'), (16, 1, u'+\t\tassert(this != thread.delete_me);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert(&current != this);'), (6, 2, u'-    assert(this != thread.delete_me);'), (13, 1, u'+\tassert(&current != this);'), (16, 1, u'+\t\tassert(this != thread.delete_me);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-    assert(prev_synthetic_key < MAX_EARLY_KEYS);'), (31, 1, u'+\t\tassert(prev_synthetic_key < MAX_EARLY_KEYS);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 16
+Header: dyn_pthread_key_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-    assert(prev_synthetic_key < MAX_EARLY_KEYS);'), (31, 1, u'+\t\tassert(prev_synthetic_key < MAX_EARLY_KEYS);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-    assert(prev_synthetic_key < MAX_EARLY_KEYS);'), (31, 1, u'+\t\tassert(prev_synthetic_key < MAX_EARLY_KEYS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (11, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 9
+Header: thread_trampoline
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (11, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (11, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (9, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 7
+Header: pthread_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (9, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (9, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (5, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: pthread_equal
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (5, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (5, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (5, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: pthread_join
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (5, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(initialized);'), (5, 1, u'+\tassert(initialized);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-      assert(tmp == ii - thread_key - 1);'), (63, 1, u'+\t\t\tassert(tmp == ii - thread_key - 1);')]
+===========================================
+===========================================
+Total add: 35
+Total del: 35
+Header: pthread_self
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-      assert(tmp == ii - thread_key - 1);'), (63, 1, u'+\t\t\tassert(tmp == ii - thread_key - 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(28, 2, u'-      assert(tmp == ii - thread_key - 1);'), (63, 1, u'+\t\t\tassert(tmp == ii - thread_key - 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(!handle.IsEmpty()); \\'), (6, 2, u'-  assert(handle->InternalFieldCount() == 1); \\'), (43, 2, u'-      assert(!this->started);'), (72, 2, u'-      assert(that.handle == value);'), (73, 2, u'-      assert(value.IsNearDeath());'), (74, 2, u'-      assert(current != &that);'), (78, 2, u'-        assert(that.yielding);'), (249, 2, u'-      assert(!zombie);'), (250, 2, u'-      assert(started);'), (251, 2, u'-      assert(yielding);'), (264, 2, u'-      assert(!started);'), (461, 1, u'+\tassert(!handle.IsEmpty()); \\'), (465, 1, u'+\tassert(handle->InternalFieldCount() == 1); \\'), (502, 1, u'+\t\t\tassert(!this->started);'), (531, 1, u'+\t\t\tassert(that.handle == value);'), (532, 1, u'+\t\t\tassert(value.IsNearDeath());'), (533, 1, u'+\t\t\tassert(current != &that);'), (537, 1, u'+\t\t\t\tassert(that.yielding);'), (708, 1, u'+\t\t\tassert(!zombie);'), (709, 1, u'+\t\t\tassert(started);'), (710, 1, u'+\t\t\tassert(yielding);'), (723, 1, u'+\t\t\tassert(!started);')]
+===========================================
+===========================================
+Total add: 459
+Total del: 459
+Header: class Fiber {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(!handle.IsEmpty()); \\'), (6, 2, u'-  assert(handle->InternalFieldCount() == 1); \\'), (43, 2, u'-      assert(!this->started);'), (72, 2, u'-      assert(that.handle == value);'), (73, 2, u'-      assert(value.IsNearDeath());'), (74, 2, u'-      assert(current != &that);'), (78, 2, u'-        assert(that.yielding);'), (249, 2, u'-      assert(!zombie);'), (250, 2, u'-      assert(started);'), (251, 2, u'-      assert(yielding);'), (264, 2, u'-      assert(!started);'), (461, 1, u'+\tassert(!handle.IsEmpty()); \\'), (465, 1, u'+\tassert(handle->InternalFieldCount() == 1); \\'), (502, 1, u'+\t\t\tassert(!this->started);'), (531, 1, u'+\t\t\tassert(that.handle == value);'), (532, 1, u'+\t\t\tassert(value.IsNearDeath());'), (533, 1, u'+\t\t\tassert(current != &that);'), (537, 1, u'+\t\t\t\tassert(that.yielding);'), (708, 1, u'+\t\t\tassert(!zombie);'), (709, 1, u'+\t\t\tassert(started);'), (710, 1, u'+\t\t\tassert(yielding);'), (723, 1, u'+\t\t\tassert(!started);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert(!handle.IsEmpty()); \\'), (6, 2, u'-  assert(handle->InternalFieldCount() == 1); \\'), (43, 2, u'-      assert(!this->started);'), (72, 2, u'-      assert(that.handle == value);'), (73, 2, u'-      assert(value.IsNearDeath());'), (74, 2, u'-      assert(current != &that);'), (78, 2, u'-        assert(that.yielding);'), (249, 2, u'-      assert(!zombie);'), (250, 2, u'-      assert(started);'), (251, 2, u'-      assert(yielding);'), (264, 2, u'-      assert(!started);'), (461, 1, u'+\tassert(!handle.IsEmpty()); \\'), (465, 1, u'+\tassert(handle->InternalFieldCount() == 1); \\'), (502, 1, u'+\t\t\tassert(!this->started);'), (531, 1, u'+\t\t\tassert(that.handle == value);'), (532, 1, u'+\t\t\tassert(value.IsNearDeath());'), (533, 1, u'+\t\t\tassert(current != &that);'), (537, 1, u'+\t\t\t\tassert(that.yielding);'), (708, 1, u'+\t\t\tassert(!zombie);'), (709, 1, u'+\t\t\tassert(started);'), (710, 1, u'+\t\t\tassert(yielding);'), (723, 1, u'+\t\t\tassert(!started);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  assert(Coroutine::is_local_storage_enabled());'), (8, 1, u'+\tassert(Coroutine::is_local_storage_enabled());')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: Persistent<String> Fiber::fiber_token;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  assert(Coroutine::is_local_storage_enabled());'), (8, 1, u'+\tassert(Coroutine::is_local_storage_enabled());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-  assert(Coroutine::is_local_storage_enabled());'), (8, 1, u'+\tassert(Coroutine::is_local_storage_enabled());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(this != thread.delete_me);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 0
+Header: Coroutine::run
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(this != thread.delete_me);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(this != thread.delete_me);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(*key < MAX_EARLY_KEYS);'), (18, 1, u'+    assert(prev_synthetic_key < MAX_EARLY_KEYS);')]
+===========================================
+===========================================
+Total add: 9
+Total del: 6
+Header: pthread_key_create
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(*key < MAX_EARLY_KEYS);'), (18, 1, u'+    assert(prev_synthetic_key < MAX_EARLY_KEYS);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    assert(*key < MAX_EARLY_KEYS);'), (18, 1, u'+    assert(prev_synthetic_key < MAX_EARLY_KEYS);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+      assert(tmp == ii - thread_key - 1);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 3
+Header: class Loader {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+      assert(tmp == ii - thread_key - 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(10, 1, u'+      assert(tmp == ii - thread_key - 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  assert(Coroutine::is_local_storage_enabled());')]
+===========================================
+===========================================
+Total add: 2
+Total del: 6
+Header: init
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  assert(Coroutine::is_local_storage_enabled());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+  assert(Coroutine::is_local_storage_enabled());')]
+===========================================
+Class: class Thread { class Thread 
+Class: class Loader { class Loader 
+Class: class Fiber { class Fiber 
+Class: class Thread { class Thread 
+Class: class Loader { class Loader 
+Class: class Fiber { class Fiber 
+Class:class Loader { class Loader 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-        assert(!started);'), (19, 1, u'+      assert(!started);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 8
+Header: class Fiber {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-        assert(!started);'), (19, 1, u'+      assert(!started);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 2, u'-        assert(!started);'), (19, 1, u'+      assert(!started);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  assert(!handle.IsEmpty()); \\'), (7, 1, u'+  assert(handle->InternalFieldCount() == 1); \\')]
+===========================================
+===========================================
+Total add: 8
+Total del: 0
+Header: using namespace v8;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  assert(!handle.IsEmpty()); \\'), (7, 1, u'+  assert(handle->InternalFieldCount() == 1); \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+  assert(!handle.IsEmpty()); \\'), (7, 1, u'+  assert(handle->InternalFieldCount() == 1); \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-      assert(!handle.IsEmpty());'), (7, 2, u'-      assert(handle->InternalFieldCount() == 1);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 10
+Header: class Fiber {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-      assert(!handle.IsEmpty());'), (7, 2, u'-      assert(handle->InternalFieldCount() == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-      assert(!handle.IsEmpty());'), (7, 2, u'-      assert(handle->InternalFieldCount() == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(thread.delete_me == this);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 4
+Header: Coroutine::run
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(thread.delete_me == this);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(thread.delete_me == this);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 2, u'-          assert(!that.started);'), (20, 1, u'+        assert(that.yielding);')]
+===========================================
+===========================================
+Total add: 43
+Total del: 27
+Header: class Fiber {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 2, u'-          assert(!that.started);'), (20, 1, u'+        assert(that.yielding);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 2, u'-          assert(!that.started);'), (20, 1, u'+        assert(that.yielding);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+      assert(!zombie);'), (63, 1, u'+      assert(started);'), (64, 1, u'+      assert(yielding);'), (77, 1, u'+        assert(!started);')]
+===========================================
+===========================================
+Total add: 96
+Total del: 0
+Header: class Fiber {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+      assert(!zombie);'), (63, 1, u'+      assert(started);'), (64, 1, u'+      assert(yielding);'), (77, 1, u'+        assert(!started);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+      assert(!zombie);'), (63, 1, u'+      assert(started);'), (64, 1, u'+      assert(yielding);'), (77, 1, u'+        assert(!started);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert(delete_me == NULL);'), (12, 1, u'+        assert(delete_me == NULL);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 5
+Header: class Thread {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert(delete_me == NULL);'), (12, 1, u'+        assert(delete_me == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert(delete_me == NULL);'), (12, 1, u'+        assert(delete_me == NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(&current != this);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: Coroutine::run
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(&current != this);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  assert(&current != this);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(thread.delete_me == this);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 3
+Header: Coroutine::run
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(thread.delete_me == this);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 1, u'+    assert(thread.delete_me == this);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+      assert(delete_me == NULL);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 1
+Header: class Thread {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+      assert(delete_me == NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+      assert(delete_me == NULL);')]
+===========================================
+Class:class Fiber: ObjectWrap { class Fiber: ObjectWrap 
+Class:class Fiber { class Fiber 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+      assert(!this->started);'), (46, 1, u'+      assert(that.handle == value);'), (47, 1, u'+      assert(value.IsNearDeath());'), (48, 1, u'+      assert(current != &that);'), (62, 1, u'+          assert(!that.started);'), (88, 1, u'+      assert(!handle.IsEmpty());'), (89, 1, u'+      assert(handle->InternalFieldCount() == 1);')]
+===========================================
+===========================================
+Total add: 77
+Total del: 9
+Header: class Fiber: ObjectWrap {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+      assert(!this->started);'), (46, 1, u'+      assert(that.handle == value);'), (47, 1, u'+      assert(value.IsNearDeath());'), (48, 1, u'+      assert(current != &that);'), (62, 1, u'+          assert(!that.started);'), (88, 1, u'+      assert(!handle.IsEmpty());'), (89, 1, u'+      assert(handle->InternalFieldCount() == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+      assert(!this->started);'), (46, 1, u'+      assert(that.handle == value);'), (47, 1, u'+      assert(value.IsNearDeath());'), (48, 1, u'+      assert(current != &that);'), (62, 1, u'+          assert(!that.started);'), (88, 1, u'+      assert(!handle.IsEmpty());'), (89, 1, u'+      assert(handle->InternalFieldCount() == 1);')]
+===========================================
+Class: class Thread { class Thread 
+Class: class Loader { class Loader 
+Class: class Fiber: ObjectWrap { class Fiber: ObjectWrap 
+66
+Mismatch count:119124
+Normal count:2169842

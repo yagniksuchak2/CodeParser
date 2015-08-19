@@ -1,0 +1,860 @@
+projects/top_C++/pdf2htmlEX
+Going to process projects/top_C++/pdf2htmlEX/all_log.txt 
+---------- pdf2htmlEX ------------
+
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(font->getFontType() == fontType3);'), (6, 1, u'+    assert(info.is_type3);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 2
+Header: HTMLRenderer::dump_embedded_font
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(font->getFontType() == fontType3);'), (6, 1, u'+    assert(info.is_type3);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    assert(font->getFontType() == fontType3);'), (6, 1, u'+    assert(info.is_type3);')]
+===========================================
+Class:class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-    assert (width + start_column <= scaled_width);'), (90, 1, u'+  assert (width + start_column <= scaled_width);')]
+===========================================
+===========================================
+Total add: 93
+Total del: 83
+Header: compute_coverage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-    assert (width + start_column <= scaled_width);'), (90, 1, u'+  assert (width + start_column <= scaled_width);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(79, 2, u'-    assert (width + start_column <= scaled_width);'), (90, 1, u'+  assert (width + start_column <= scaled_width);')]
+===========================================
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+Class: class RescaleDrawImage : public CairoRescaleBox { class RescaleDrawImage : public CairoRescaleBox 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+                assert(idx2 >= idx1);')]
+===========================================
+===========================================
+Total add: 17
+Total del: 3
+Header: HTMLRenderer::post_process
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+                assert(idx2 >= idx1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+                assert(idx2 >= idx1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((!line_opened) && "Open line in startPage detected!");')]
+===========================================
+===========================================
+Total add: 0
+Total del: 2
+Header: HTMLRenderer::startPage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((!line_opened) && "Open line in startPage detected!");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert((!line_opened) && "Open line in startPage detected!");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(274, 1, u'+    assert(!states.empty());'), (310, 1, u'+        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(274, 2, u'-    assert(!states.empty());'), (310, 2, u'-        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(112, 1, u"+            assert(r != ':');"), (119, 1, u'+            assert(iter != opt_map.end());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+    assert((buf_cnt == 0) && "StringFormatter: buffer is reused!");'), (24, 1, u'+    assert(l >= 0); // we should fail when vsnprintf fail'), (25, 1, u'+    assert(l < (int)buf.capacity());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(274, 1, u'+    assert(!states.empty());'), (310, 1, u'+        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(112, 2, u"-            assert(r != ':');"), (119, 2, u'-            assert(iter != opt_map.end());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-    assert((buf_cnt == 0) && "StringFormatter: buffer is reused!");'), (24, 2, u'-    assert(l >= 0); // we should fail when vsnprintf fail'), (25, 2, u'-    assert(l < (int)buf.capacity());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(274, 2, u'-    assert(!states.empty());'), (310, 2, u'-        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(274, 2, u'-    assert(!states.empty());'), (310, 2, u'-        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(274, 1, u'+    assert(!states.empty());'), (310, 1, u'+        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+Total add: 41
+Total del: 22
+Header: HTMLRenderer::TextLineBuffer::optimize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+        assert(text_count >= offset_count);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(32, 1, u'+    assert(sizeof(long long) == 2*sizeof(int));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(29, 2, u'-    assert(sizeof(long long) == 2*sizeof(int));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+        assert((idx >= 0) && (idx < 8));')]
+===========================================
+===========================================
+Total add: 14
+Total del: 3
+Header: HTMLRenderer::check_state_change
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+        assert((idx >= 0) && (idx < 8));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 1, u'+        assert((idx >= 0) && (idx < 8));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 1, u'+        assert((idx >= 0) && (idx < 8));')]
+===========================================
+===========================================
+Total add: 37
+Total del: 40
+Header: HTMLRenderer::check_state_change
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 1, u'+        assert((idx >= 0) && (idx < 8));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 1, u'+        assert((idx >= 0) && (idx < 8));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 1, u'+    assert((buf_cnt == 0) && "StringFormatter: buffer is reused!");'), (22, 1, u'+    assert(l >= 0); // we should fail when vsnprintf fail'), (23, 1, u'+    assert(l < (int)buf.capacity());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 2, u"-            assert(r != ':');"), (127, 2, u'-            assert(iter != opt_map.end());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(120, 1, u"+            assert(r != ':');"), (127, 1, u'+            assert(iter != opt_map.end());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((cur_fv == NULL) && "Previous font is not destroyed");')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: ffw_load_font
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((cur_fv == NULL) && "Previous font is not destroyed");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert((cur_fv == NULL) && "Previous font is not destroyed");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+            assert(false);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 0
+Header: HTMLRenderer::css_draw
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+            assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 1, u'+            assert(false);')]
+===========================================
+Class: class LinearGradient { 
+Class:          class ColorStop     {     
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(font->fv);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 0
+Header: ffw_load_font
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(font->fv);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 1, u'+    assert(font->fv);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-                assert(optopt < 256);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 3
+Header: ArgParser::parse
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-                assert(optopt < 256);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-                assert(optopt < 256);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u"+            assert(r != ':');"), (16, 1, u'+                assert(optopt < 256);'), (22, 1, u'+            assert(iter != opt_map.end());')]
+===========================================
+===========================================
+Total add: 18
+Total del: 10
+Header: ArgParser::parse
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u"+            assert(r != ':');"), (16, 1, u'+                assert(optopt < 256);'), (22, 1, u'+            assert(iter != opt_map.end());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u"+            assert(r != ':');"), (16, 1, u'+                assert(optopt < 256);'), (22, 1, u'+            assert(iter != opt_map.end());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-            assert(cnt >= 0);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 10
+Header: HTMLRenderer::LineBuffer::flush
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-            assert(cnt >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-            assert(cnt >= 0);')]
+===========================================
+Class:class DPBufferEntry { 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(encoding);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 11
+Header: ff_load_font
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(encoding);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    assert(encoding);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assert(last_child > idx);'), (4, 1, u'+            assert((last_child > idx) && (last_child <= idx + depth));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: HTMLRenderer::LineBuffer::optimize_states
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assert(last_child > idx);'), (4, 1, u'+            assert((last_child > idx) && (last_child <= idx + depth));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-            assert(last_child > idx);'), (4, 1, u'+            assert((last_child > idx) && (last_child <= idx + depth));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(cnt >= 0);')]
+===========================================
+===========================================
+Total add: 12
+Total del: 4
+Header: HTMLRenderer::LineBuffer::flush
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(cnt >= 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+            assert(cnt >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(line_status == LineStatus::NONE);'), (3, 1, u'+    assert((!line_opened) && "Open line in startPage detected!");')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: HTMLRenderer::startPage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(line_status == LineStatus::NONE);'), (3, 1, u'+    assert((!line_opened) && "Open line in startPage detected!");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(line_status == LineStatus::NONE);'), (3, 1, u'+    assert((!line_opened) && "Open line in startPage detected!");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-        assert(new_line_status == LineStatus::SPAN);'), (21, 2, u'-            assert(line_status == LineStatus::DIV);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 19
+Header: HTMLRenderer::prepare_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-        assert(new_line_status == LineStatus::SPAN);'), (21, 2, u'-            assert(line_status == LineStatus::DIV);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(17, 2, u'-        assert(new_line_status == LineStatus::SPAN);'), (21, 2, u'-            assert(line_status == LineStatus::DIV);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-            assert(false && "Bad value of new_line_status");'), (56, 2, u'-        assert(line_status == LineStatus::DIV);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 49
+Header: HTMLRenderer::prepare_line
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-            assert(false && "Bad value of new_line_status");'), (56, 2, u'-        assert(line_status == LineStatus::DIV);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-            assert(false && "Bad value of new_line_status");'), (56, 2, u'-        assert(line_status == LineStatus::DIV);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(line_status == LineStatus::CLOSED);'), (3, 1, u'+    assert(line_status == LineStatus::NONE);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: HTMLRenderer::startPage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(line_status == LineStatus::CLOSED);'), (3, 1, u'+    assert(line_status == LineStatus::NONE);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(line_status == LineStatus::CLOSED);'), (3, 1, u'+    assert(line_status == LineStatus::NONE);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+        assert(new_line_status != LineStatus::DIV);'), (70, 1, u'+            assert(false && "Bad value of new_line_status");')]
+===========================================
+===========================================
+Total add: 88
+Total del: 2
+Header: HTMLRenderer::check_state_change
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+        assert(new_line_status != LineStatus::DIV);'), (70, 1, u'+            assert(false && "Bad value of new_line_status");')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+        assert(new_line_status != LineStatus::DIV);'), (70, 1, u'+            assert(false && "Bad value of new_line_status");')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!line_opened);'), (3, 1, u'+    assert(line_status == LineStatus::CLOSED);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: HTMLRenderer::startPage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!line_opened);'), (3, 1, u'+    assert(line_status == LineStatus::CLOSED);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!line_opened);'), (3, 1, u'+    assert(line_status == LineStatus::CLOSED);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(cur_line == nullptr);'), (3, 2, u'-    assert(cur_string == nullptr);'), (4, 1, u'+    assert(!line_opened);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 2
+Header: HTMLRenderer::startPage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(cur_line == nullptr);'), (3, 2, u'-    assert(cur_string == nullptr);'), (4, 1, u'+    assert(!line_opened);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(cur_line == nullptr);'), (3, 2, u'-    assert(cur_string == nullptr);'), (4, 1, u'+    assert(!line_opened);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(cur_string == nullptr);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 2
+Header: HTMLRenderer::startPage
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(cur_string == nullptr);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    assert(cur_string == nullptr);')]
+===========================================
+659
+Mismatch count:19490
+Normal count:573779

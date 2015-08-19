@@ -1,0 +1,27 @@
+Function:  handleLogin
+Total Adds:  3
+Totals Dels:  1
+Total Exception adds:  3
+Total Exception dels:  1
+throws Dels 1
+throws Adds 3
+=========================================
+Function:  get
+Total Adds:  3
+Totals Dels:  0
+Total Exception adds:  3
+Total Exception dels:  0
+throws Adds 3
+=========================================
+Function:  getAuthorization
+Total Adds:  38279
+Totals Dels:  22986
+Total Exception adds:  38279
+Total Exception dels:  22985
+catch Dels 4007
+try Adds 2429
+try Dels 1477
+catch Adds 6726
+throws Adds 29124
+throws Dels 17501
+=========================================

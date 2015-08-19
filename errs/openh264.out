@@ -1,0 +1,3039 @@
+projects/top_C++/openh264
+Going to process projects/top_C++/openh264/all_log.txt 
+---------- openh264 ------------
+
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(*(reinterpret_cast<uint32_t *>(tmp)) == 0x01000000);'), (3, 1, u'+        assert (* (reinterpret_cast<uint32_t*> (tmp)) == 0x01000000);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: class OpenH264VideoEncoder : public GMPVideoEncoder {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(*(reinterpret_cast<uint32_t *>(tmp)) == 0x01000000);'), (3, 1, u'+        assert (* (reinterpret_cast<uint32_t*> (tmp)) == 0x01000000);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-        assert(*(reinterpret_cast<uint32_t *>(tmp)) == 0x01000000);'), (3, 1, u'+        assert (* (reinterpret_cast<uint32_t*> (tmp)) == 0x01000000);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(false);'), (23, 2, u'-        assert(false);'), (30, 1, u'+      assert (false);'), (45, 1, u'+      assert (false);')]
+===========================================
+===========================================
+Total add: 22
+Total del: 23
+Header: class OpenH264VideoDecoder : public GMPVideoDecoder {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(false);'), (23, 2, u'-        assert(false);'), (30, 1, u'+      assert (false);'), (45, 1, u'+      assert (false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-        assert(false);'), (23, 2, u'-        assert(false);'), (30, 1, u'+      assert (false);'), (45, 1, u'+      assert (false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (!frameTypes.empty());'), (8, 1, u'+    assert (aFrameTypesLength != 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 6
+Header: class OpenH264VideoEncoder : public GMPVideoEncoder {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (!frameTypes.empty());'), (8, 1, u'+    assert (aFrameTypesLength != 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (!frameTypes.empty());'), (8, 1, u'+    assert (aFrameTypesLength != 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(*(reinterpret_cast<uint32_t *>(tmp)) == 0x01000000);')]
+===========================================
+===========================================
+Total add: 6
+Total del: 0
+Header: class OpenH264VideoEncoder : public GMPVideoEncoder {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(*(reinterpret_cast<uint32_t *>(tmp)) == 0x01000000);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+        assert(*(reinterpret_cast<uint32_t *>(tmp)) == 0x01000000);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+        assert(false);'), (27, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Total add: 28
+Total del: 0
+Header: class OpenH264VideoDecoder : public GMPVideoDecoder {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+        assert(false);'), (27, 1, u'+        assert(false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+        assert(false);'), (27, 1, u'+        assert(false);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    ASSERT_EQ (0, rv);'), (17, 1, u'+    ASSERT_TRUE (pPtrEnc != NULL);'), (20, 1, u'+    ASSERT_TRUE (pParamExt != NULL);'), (23, 1, u'+    ASSERT_TRUE (pSrcPic != NULL);'), (27, 1, u'+    ASSERT_TRUE (pOption != NULL);'), (37, 1, u'+    ASSERT_TRUE (pYUV != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-        ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);'), (22, 1, u'+      ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);')]
+===========================================
+===========================================
+Total add: 10
+Total del: 10
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-        ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);'), (22, 1, u'+      ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-        ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);'), (22, 1, u'+      ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 1, u'+      ASSERT_EQ (pDstAlign[0][i], pDstAlign[1][i]);'), (63, 1, u'+      ASSERT_EQ (pDstAlign[0][i], pDstAlign[1][i]);'), (87, 1, u'+      ASSERT_EQ (pDstAlign[0][i], pDstAlign[1][i]);'), (111, 1, u'+      ASSERT_EQ (pDstAlign[0][i], pDstAlign[1][i]);'), (135, 1, u'+      ASSERT_EQ (pDstAlign[0][i], pDstAlign[1][i]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(60, 1, u'+        ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);'), (71, 1, u'+      ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);'), (81, 1, u'+    ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);'), (90, 1, u'+    ASSERT_EQ (pInputAlign[0][i], pInputAlign[1][i]);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(41, 1, u'+        ASSERT_EQ (pRec[0][i + j * 16], pRec[1][i + j * 16]);'), (60, 1, u'+    ASSERT_EQ (iZeroCount[0], iZeroCount[1]);'), (83, 1, u'+      ASSERT_EQ (pLumaDc[0][i], pLumaDc[1][i]);'), (106, 1, u'+      ASSERT_EQ (pOut[0][i], pOut[1][i]);'), (116, 1, u'+    ASSERT_EQ (pOut[0][i], pOut[1][i]);'), (124, 1, u'+    ASSERT_EQ (pOut[0][i], pOut[1][i]);'), (143, 1, u'+      ASSERT_EQ (pOut[0][i], pOut[1][i]);'), (172, 1, u'+        ASSERT_EQ (pRec[0][i + j * 16], pRec[1][i + j * 16]);'), (188, 1, u'+      ASSERT_EQ (pRec[0][i + j * 16], pRec[1][i + j * 16]);'), (202, 1, u'+      ASSERT_EQ (pRec[0][i + j * 16], pRec[1][i + j * 16]);'), (231, 1, u'+        ASSERT_EQ (pRec[0][i + j * 16], pRec[1][i + j * 16]);'), (263, 1, u'+      ASSERT_EQ (pInput[0][i], pInput[1][i]);'), (293, 1, u'+      ASSERT_EQ (pInput[0][i], pInput[1][i]);'), (319, 1, u'+      ASSERT_EQ (pInput[0][i], pInput[1][i]);'), (346, 1, u'+      ASSERT_EQ (pInput[0][i], pInput[1][i]);'), (372, 1, u'+      ASSERT_EQ (pInput[0][i], pInput[1][i]);'), (399, 1, u'+      ASSERT_EQ (pInput[0][i], pInput[1][i]);'), (400, 1, u'+      ASSERT_EQ (pMax[0][i >> 4], pMax[1][i >> 4]);'), (429, 1, u'+      ASSERT_EQ (pInput[0][i], pInput[1][i]);'), (454, 1, u'+    ASSERT_EQ ((iSkip_test != 0), (iSkip_c != 0));'), (481, 1, u'+    ASSERT_EQ ((iSkip_test != 0), (iSkip_c != 0));'), (483, 1, u'+      ASSERT_EQ (pInput[0][i], pInput[1][i]);'), (486, 1, u'+      ASSERT_EQ (pDct[0][i], pDct[1][i]);'), (487, 1, u'+      ASSERT_EQ (pBlock[0][i], pBlock[1][i]);')]
+===========================================
+Class: class EncoderInterfaceTest : public ::testing::Test { class EncoderInterfaceTest : public ::testing::Test 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_EQ(0, rv);'), (8, 2, u'-  ASSERT_TRUE(decoder_ != NULL);'), (10, 1, u'+  ASSERT_EQ (0, rv);'), (11, 1, u'+  ASSERT_TRUE (decoder_ != NULL);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: ReadFrame
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_EQ(0, rv);'), (8, 2, u'-  ASSERT_TRUE(decoder_ != NULL);'), (10, 1, u'+  ASSERT_EQ (0, rv);'), (11, 1, u'+  ASSERT_TRUE (decoder_ != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_EQ(0, rv);'), (8, 2, u'-  ASSERT_TRUE(decoder_ != NULL);'), (10, 1, u'+  ASSERT_EQ (0, rv);'), (11, 1, u'+  ASSERT_TRUE (decoder_ != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  ASSERT_EQ(0, rv);'), (5, 1, u'+  ASSERT_EQ (0, rv);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: BaseDecoderTest::SetUp
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  ASSERT_EQ(0, rv);'), (5, 1, u'+  ASSERT_EQ (0, rv);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  ASSERT_EQ(0, rv);'), (5, 1, u'+  ASSERT_EQ (0, rv);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-  ASSERT_TRUE(rv == dsErrorFree);'), (14, 1, u'+  ASSERT_TRUE (rv == dsErrorFree);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: BaseDecoderTest::TearDown
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-  ASSERT_TRUE(rv == dsErrorFree);'), (14, 1, u'+  ASSERT_TRUE (rv == dsErrorFree);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-  ASSERT_TRUE(rv == dsErrorFree);'), (14, 1, u'+  ASSERT_TRUE (rv == dsErrorFree);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-  ASSERT_TRUE(file.is_open());'), (51, 1, u'+  ASSERT_TRUE (file.is_open());')]
+===========================================
+===========================================
+Total add: 25
+Total del: 22
+Header: BaseDecoderTest::DecodeFrame
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-  ASSERT_TRUE(file.is_open());'), (51, 1, u'+  ASSERT_TRUE (file.is_open());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(48, 2, u'-  ASSERT_TRUE(file.is_open());'), (51, 1, u'+  ASSERT_TRUE (file.is_open());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_EQ(0, rv);'), (8, 2, u'-  ASSERT_TRUE(encoder_ != NULL);'), (10, 1, u'+  ASSERT_EQ (0, rv);'), (11, 1, u'+  ASSERT_TRUE (encoder_ != NULL);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: InitWithParam
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_EQ(0, rv);'), (8, 2, u'-  ASSERT_TRUE(encoder_ != NULL);'), (10, 1, u'+  ASSERT_EQ (0, rv);'), (11, 1, u'+  ASSERT_TRUE (encoder_ != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_EQ(0, rv);'), (8, 2, u'-  ASSERT_TRUE(encoder_ != NULL);'), (10, 1, u'+  ASSERT_EQ (0, rv);'), (11, 1, u'+  ASSERT_TRUE (encoder_ != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  ASSERT_TRUE(rv == cmResultSuccess);'), (9, 1, u'+  ASSERT_TRUE (rv == cmResultSuccess);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: BaseEncoderTest::TearDown
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  ASSERT_TRUE(rv == cmResultSuccess);'), (9, 1, u'+  ASSERT_TRUE (rv == cmResultSuccess);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-  ASSERT_TRUE(rv == cmResultSuccess);'), (9, 1, u'+  ASSERT_TRUE (rv == cmResultSuccess);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  ASSERT_TRUE(buf.Length() == (size_t)frameSize);'), (5, 1, u'+  ASSERT_TRUE (buf.Length() == (size_t)frameSize);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: BaseEncoderTest::EncodeStream
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  ASSERT_TRUE(buf.Length() == (size_t)frameSize);'), (5, 1, u'+  ASSERT_TRUE (buf.Length() == (size_t)frameSize);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  ASSERT_TRUE(buf.Length() == (size_t)frameSize);'), (5, 1, u'+  ASSERT_TRUE (buf.Length() == (size_t)frameSize);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-    ASSERT_TRUE(rv == cmResultSuccess);'), (14, 1, u'+    ASSERT_TRUE (rv == cmResultSuccess);')]
+===========================================
+===========================================
+Total add: 7
+Total del: 7
+Header: BaseEncoderTest::EncodeStream
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-    ASSERT_TRUE(rv == cmResultSuccess);'), (14, 1, u'+    ASSERT_TRUE (rv == cmResultSuccess);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(9, 2, u'-    ASSERT_TRUE(rv == cmResultSuccess);'), (14, 1, u'+    ASSERT_TRUE (rv == cmResultSuccess);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_TRUE(fileStream.Open(fileName));'), (9, 1, u'+  ASSERT_TRUE (fileStream.Open (fileName));')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: BaseEncoderTest::EncodeStream
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_TRUE(fileStream.Open(fileName));'), (9, 1, u'+  ASSERT_TRUE (fileStream.Open (fileName));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-  ASSERT_TRUE(fileStream.Open(fileName));'), (9, 1, u'+  ASSERT_TRUE (fileStream.Open (fileName));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(Open(p.fileName));'), (8, 1, u'+  ASSERT_TRUE (Open (p.fileName));')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: class DecodeEncodeTest : public ::testing::TestWithParam<DecodeEncodeFileParam>,
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(Open(p.fileName));'), (8, 1, u'+  ASSERT_TRUE (Open (p.fileName));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(Open(p.fileName));'), (8, 1, u'+  ASSERT_TRUE (Open (p.fileName));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT_EQ(  (uiTargetAlign & 0x0F)?16:uiTargetAlign, cTestMa.WelsGetCacheLineSize() );'), (14, 1, u'+    ASSERT_EQ ((uiTargetAlign & 0x0F) ? 16 : uiTargetAlign, cTestMa.WelsGetCacheLineSize());'), (24, 2, u'-  ASSERT_EQ(  kuiSixteen, cTestMa.WelsGetCacheLineSize() );'), (25, 1, u'+  ASSERT_EQ (kuiSixteen, cTestMa.WelsGetCacheLineSize());'), (30, 2, u'-\tASSERT_EQ( kuiSixteen, cTestMa.WelsGetCacheLineSize() );'), (34, 1, u'+  ASSERT_EQ (kuiSixteen, cTestMa.WelsGetCacheLineSize());')]
+===========================================
+===========================================
+Total add: 14
+Total del: 14
+Header: using namespace WelsSVCEnc;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT_EQ(  (uiTargetAlign & 0x0F)?16:uiTargetAlign, cTestMa.WelsGetCacheLineSize() );'), (14, 1, u'+    ASSERT_EQ ((uiTargetAlign & 0x0F) ? 16 : uiTargetAlign, cTestMa.WelsGetCacheLineSize());'), (24, 2, u'-  ASSERT_EQ(  kuiSixteen, cTestMa.WelsGetCacheLineSize() );'), (25, 1, u'+  ASSERT_EQ (kuiSixteen, cTestMa.WelsGetCacheLineSize());'), (30, 2, u'-\tASSERT_EQ( kuiSixteen, cTestMa.WelsGetCacheLineSize() );'), (34, 1, u'+  ASSERT_EQ (kuiSixteen, cTestMa.WelsGetCacheLineSize());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 2, u'-    ASSERT_EQ(  (uiTargetAlign & 0x0F)?16:uiTargetAlign, cTestMa.WelsGetCacheLineSize() );'), (14, 1, u'+    ASSERT_EQ ((uiTargetAlign & 0x0F) ? 16 : uiTargetAlign, cTestMa.WelsGetCacheLineSize());'), (24, 2, u'-  ASSERT_EQ(  kuiSixteen, cTestMa.WelsGetCacheLineSize() );'), (25, 1, u'+  ASSERT_EQ (kuiSixteen, cTestMa.WelsGetCacheLineSize());'), (30, 2, u'-\tASSERT_EQ( kuiSixteen, cTestMa.WelsGetCacheLineSize() );'), (34, 1, u'+  ASSERT_EQ (kuiSixteen, cTestMa.WelsGetCacheLineSize());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-      ASSERT_TRUE( (((uintptr_t)(pUnitTestData)) & kuiExtraAlignSize) == 0 );'), (39, 1, u'+      ASSERT_TRUE ((((uintptr_t) (pUnitTestData)) & kuiExtraAlignSize) == 0);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 20
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-      ASSERT_TRUE( (((uintptr_t)(pUnitTestData)) & kuiExtraAlignSize) == 0 );'), (39, 1, u'+      ASSERT_TRUE ((((uintptr_t) (pUnitTestData)) & kuiExtraAlignSize) == 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(23, 2, u'-      ASSERT_TRUE( (((uintptr_t)(pUnitTestData)) & kuiExtraAlignSize) == 0 );'), (39, 1, u'+      ASSERT_TRUE ((((uintptr_t) (pUnitTestData)) & kuiExtraAlignSize) == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    ASSERT_TRUE( NULL != m_pRefData );'), (10, 2, u'-    ASSERT_TRUE( NULL != m_pSrcBlock );'), (12, 2, u'-    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (18, 1, u'+    ASSERT_TRUE (NULL != m_pRefData);'), (21, 1, u'+    ASSERT_TRUE (NULL != m_pSrcBlock);'), (23, 1, u'+    ASSERT_TRUE (NULL != m_pMvdCostTable);')]
+===========================================
+===========================================
+Total add: 18
+Total del: 18
+Header: public:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    ASSERT_TRUE( NULL != m_pRefData );'), (10, 2, u'-    ASSERT_TRUE( NULL != m_pSrcBlock );'), (12, 2, u'-    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (18, 1, u'+    ASSERT_TRUE (NULL != m_pRefData);'), (21, 1, u'+    ASSERT_TRUE (NULL != m_pSrcBlock);'), (23, 1, u'+    ASSERT_TRUE (NULL != m_pMvdCostTable);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(7, 2, u'-    ASSERT_TRUE( NULL != m_pRefData );'), (10, 2, u'-    ASSERT_TRUE( NULL != m_pSrcBlock );'), (12, 2, u'-    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (18, 1, u'+    ASSERT_TRUE (NULL != m_pRefData);'), (21, 1, u'+    ASSERT_TRUE (NULL != m_pSrcBlock);'), (23, 1, u'+    ASSERT_TRUE (NULL != m_pMvdCostTable);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      ASSERT_TRUE(iTryTimes > 0);'), (3, 1, u'+      ASSERT_TRUE (iTryTimes > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: TEST_F
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      ASSERT_TRUE(iTryTimes > 0);'), (3, 1, u'+      ASSERT_TRUE (iTryTimes > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      ASSERT_TRUE(iTryTimes > 0);'), (3, 1, u'+      ASSERT_TRUE (iTryTimes > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(iTryTimes > 0);'), (3, 1, u'+    ASSERT_TRUE (iTryTimes > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: MotionEstimateTest::DoLineTest
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(iTryTimes > 0);'), (3, 1, u'+    ASSERT_TRUE (iTryTimes > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(iTryTimes > 0);'), (3, 1, u'+    ASSERT_TRUE (iTryTimes > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE( NULL != m_pMa );'), (7, 2, u'-    ASSERT_TRUE( NULL != m_pRefData );'), (9, 2, u'-    ASSERT_TRUE( NULL != m_pSrcBlock );'), (11, 2, u'-    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (13, 2, u'-    ASSERT_TRUE( NULL != m_pFeatureSearchPreparation );'), (15, 2, u'-    ASSERT_TRUE( NULL != m_pScreenBlockFeatureStorage );'), (19, 1, u'+    ASSERT_TRUE (NULL != m_pMa);'), (21, 1, u'+    ASSERT_TRUE (NULL != m_pRefData);'), (23, 1, u'+    ASSERT_TRUE (NULL != m_pSrcBlock);'), (25, 1, u'+    ASSERT_TRUE (NULL != m_pMvdCostTable);'), (28, 1, u'+    ASSERT_TRUE (NULL != m_pFeatureSearchPreparation);'), (31, 1, u'+    ASSERT_TRUE (NULL != m_pScreenBlockFeatureStorage);')]
+===========================================
+===========================================
+Total add: 16
+Total del: 14
+Header: public:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE( NULL != m_pMa );'), (7, 2, u'-    ASSERT_TRUE( NULL != m_pRefData );'), (9, 2, u'-    ASSERT_TRUE( NULL != m_pSrcBlock );'), (11, 2, u'-    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (13, 2, u'-    ASSERT_TRUE( NULL != m_pFeatureSearchPreparation );'), (15, 2, u'-    ASSERT_TRUE( NULL != m_pScreenBlockFeatureStorage );'), (19, 1, u'+    ASSERT_TRUE (NULL != m_pMa);'), (21, 1, u'+    ASSERT_TRUE (NULL != m_pRefData);'), (23, 1, u'+    ASSERT_TRUE (NULL != m_pSrcBlock);'), (25, 1, u'+    ASSERT_TRUE (NULL != m_pMvdCostTable);'), (28, 1, u'+    ASSERT_TRUE (NULL != m_pFeatureSearchPreparation);'), (31, 1, u'+    ASSERT_TRUE (NULL != m_pScreenBlockFeatureStorage);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE( NULL != m_pMa );'), (7, 2, u'-    ASSERT_TRUE( NULL != m_pRefData );'), (9, 2, u'-    ASSERT_TRUE( NULL != m_pSrcBlock );'), (11, 2, u'-    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (13, 2, u'-    ASSERT_TRUE( NULL != m_pFeatureSearchPreparation );'), (15, 2, u'-    ASSERT_TRUE( NULL != m_pScreenBlockFeatureStorage );'), (19, 1, u'+    ASSERT_TRUE (NULL != m_pMa);'), (21, 1, u'+    ASSERT_TRUE (NULL != m_pRefData);'), (23, 1, u'+    ASSERT_TRUE (NULL != m_pSrcBlock);'), (25, 1, u'+    ASSERT_TRUE (NULL != m_pMvdCostTable);'), (28, 1, u'+    ASSERT_TRUE (NULL != m_pFeatureSearchPreparation);'), (31, 1, u'+    ASSERT_TRUE (NULL != m_pScreenBlockFeatureStorage);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (45, 2, u'-  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (48, 1, u'+  ASSERT_TRUE (ENC_RETURN_SUCCESS == iReturn);'), (51, 1, u'+  ASSERT_TRUE (ENC_RETURN_SUCCESS == iReturn);')]
+===========================================
+===========================================
+Total add: 23
+Total del: 23
+Header: public:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (45, 2, u'-  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (48, 1, u'+  ASSERT_TRUE (ENC_RETURN_SUCCESS == iReturn);'), (51, 1, u'+  ASSERT_TRUE (ENC_RETURN_SUCCESS == iReturn);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 2, u'-  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (45, 2, u'-  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (48, 1, u'+  ASSERT_TRUE (ENC_RETURN_SUCCESS == iReturn);'), (51, 1, u'+  ASSERT_TRUE (ENC_RETURN_SUCCESS == iReturn);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (36, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (37, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (38, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Total add: 20
+Total del: 20
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (36, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (37, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (38, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(35, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (36, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (37, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (38, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (22, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (41, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (42, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Total add: 22
+Total del: 22
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (22, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (41, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (42, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (22, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (41, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (42, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (25, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (47, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (48, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Total add: 26
+Total del: 24
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (25, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (47, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (48, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (25, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (47, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (48, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (40, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (52, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (53, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Total add: 27
+Total del: 25
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (40, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (52, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (53, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(39, 2, u'-  ASSERT_EQ(tmpa, tmpb);'), (40, 2, u'-  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (52, 1, u'+  ASSERT_EQ (tmpa, tmpb);'), (53, 1, u'+  ASSERT_EQ (iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-    ASSERT_TRUE(NULL != m_pPixSrcA);'), (13, 2, u'-    ASSERT_MEMORY_FAIL2X(m_pPixSrcA, m_pPixSrcB)'), (15, 2, u'-    ASSERT_MEMORY_FAIL3X(m_pPixSrcA, m_pPixSrcB, m_pSad)'), (22, 1, u'+    ASSERT_TRUE (NULL != m_pPixSrcA);'), (24, 1, u'+    ASSERT_MEMORY_FAIL2X (m_pPixSrcA, m_pPixSrcB)'), (26, 1, u'+    ASSERT_MEMORY_FAIL3X (m_pPixSrcA, m_pPixSrcB, m_pSad)')]
+===========================================
+===========================================
+Total add: 16
+Total del: 16
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-    ASSERT_TRUE(NULL != m_pPixSrcA);'), (13, 2, u'-    ASSERT_MEMORY_FAIL2X(m_pPixSrcA, m_pPixSrcB)'), (15, 2, u'-    ASSERT_MEMORY_FAIL3X(m_pPixSrcA, m_pPixSrcB, m_pSad)'), (22, 1, u'+    ASSERT_TRUE (NULL != m_pPixSrcA);'), (24, 1, u'+    ASSERT_MEMORY_FAIL2X (m_pPixSrcA, m_pPixSrcB)'), (26, 1, u'+    ASSERT_MEMORY_FAIL3X (m_pPixSrcA, m_pPixSrcB, m_pSad)')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-    ASSERT_TRUE(NULL != m_pPixSrcA);'), (13, 2, u'-    ASSERT_MEMORY_FAIL2X(m_pPixSrcA, m_pPixSrcB)'), (15, 2, u'-    ASSERT_MEMORY_FAIL3X(m_pPixSrcA, m_pPixSrcB, m_pSad)'), (22, 1, u'+    ASSERT_TRUE (NULL != m_pPixSrcA);'), (24, 1, u'+    ASSERT_MEMORY_FAIL2X (m_pPixSrcA, m_pPixSrcB)'), (26, 1, u'+    ASSERT_MEMORY_FAIL3X (m_pPixSrcA, m_pPixSrcB, m_pSad)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-    ASSERT_TRUE(NULL != m_pPixSrcA);'), (14, 2, u'-    ASSERT_MEMORY_FAIL2X(m_pPixSrcA, m_pPixSrcB)'), (16, 2, u'-    ASSERT_MEMORY_FAIL3X(m_pPixSrcA, m_pPixSrcB, m_pSad)'), (18, 1, u'+    ASSERT_TRUE (NULL != m_pPixSrcA);'), (20, 1, u'+    ASSERT_MEMORY_FAIL2X (m_pPixSrcA, m_pPixSrcB)'), (22, 1, u'+    ASSERT_MEMORY_FAIL3X (m_pPixSrcA, m_pPixSrcB, m_pSad)')]
+===========================================
+===========================================
+Total add: 13
+Total del: 13
+Header: TEST_F
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-    ASSERT_TRUE(NULL != m_pPixSrcA);'), (14, 2, u'-    ASSERT_MEMORY_FAIL2X(m_pPixSrcA, m_pPixSrcB)'), (16, 2, u'-    ASSERT_MEMORY_FAIL3X(m_pPixSrcA, m_pPixSrcB, m_pSad)'), (18, 1, u'+    ASSERT_TRUE (NULL != m_pPixSrcA);'), (20, 1, u'+    ASSERT_MEMORY_FAIL2X (m_pPixSrcA, m_pPixSrcB)'), (22, 1, u'+    ASSERT_MEMORY_FAIL3X (m_pPixSrcA, m_pPixSrcB, m_pSad)')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-    ASSERT_TRUE(NULL != m_pPixSrcA);'), (14, 2, u'-    ASSERT_MEMORY_FAIL2X(m_pPixSrcA, m_pPixSrcB)'), (16, 2, u'-    ASSERT_MEMORY_FAIL3X(m_pPixSrcA, m_pPixSrcB, m_pSad)'), (18, 1, u'+    ASSERT_TRUE (NULL != m_pPixSrcA);'), (20, 1, u'+    ASSERT_MEMORY_FAIL2X (m_pPixSrcA, m_pPixSrcB)'), (22, 1, u'+    ASSERT_MEMORY_FAIL3X (m_pPixSrcA, m_pPixSrcB, m_pSad)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    ASSERT_TRUE(NULL != pSrc);'), (5, 2, u'-    ASSERT_MEMORY_FAIL2X(pSrc, pRef)'), (8, 1, u'+    ASSERT_TRUE (NULL != pSrc);'), (10, 1, u'+    ASSERT_MEMORY_FAIL2X (pSrc, pRef)')]
+===========================================
+===========================================
+Total add: 7
+Total del: 7
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    ASSERT_TRUE(NULL != pSrc);'), (5, 2, u'-    ASSERT_MEMORY_FAIL2X(pSrc, pRef)'), (8, 1, u'+    ASSERT_TRUE (NULL != pSrc);'), (10, 1, u'+    ASSERT_MEMORY_FAIL2X (pSrc, pRef)')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    ASSERT_TRUE(NULL != pSrc);'), (5, 2, u'-    ASSERT_MEMORY_FAIL2X(pSrc, pRef)'), (8, 1, u'+    ASSERT_TRUE (NULL != pSrc);'), (10, 1, u'+    ASSERT_MEMORY_FAIL2X (pSrc, pRef)')]
+===========================================
+Class:class OpenH264VideoEncoder : public GMPVideoEncoder { 
+Class:class OpenH264VideoEncoder : public GMPVideoEncoder { class OpenH264VideoEncoder : public GMPVideoEncoder 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!frameTypes.empty());'), (3, 1, u'+    assert (!frameTypes.empty());')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: class OpenH264VideoEncoder : public GMPVideoEncoder
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!frameTypes.empty());'), (3, 1, u'+    assert (!frameTypes.empty());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert(!frameTypes.empty());'), (3, 1, u'+    assert (!frameTypes.empty());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-        assert(false);'), (48, 1, u'+      assert (false);')]
+===========================================
+===========================================
+Total add: 24
+Total del: 24
+Header: class OpenH264VideoEncoder : public GMPVideoEncoder
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-        assert(false);'), (48, 1, u'+      assert (false);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-        assert(false);'), (48, 1, u'+      assert (false);')]
+===========================================
+Class: template <typename T> class SelfDestruct { template <typename T> class SelfDestruct 
+Class: class FrameStats { class FrameStats 
+Class: class OpenH264VideoEncoder : public GMPVideoEncoder { 
+Class: class OpenH264VideoDecoder : public GMPVideoDecoder { class OpenH264VideoDecoder : public GMPVideoDecoder 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-        assert (fDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);'), (5, 1, u'+        assert (pSpatialLayer->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 5
+Header: ParamValidationExt
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-        assert (fDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);'), (5, 1, u'+        assert (pSpatialLayer->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-        assert (fDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);'), (5, 1, u'+        assert (pSpatialLayer->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-              ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\'), (3, 1, u'+              ASSERT_EQ(uDstAnchor1[j][i],uDstTest[j][i]);                             \\')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-              ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\'), (3, 1, u'+              ASSERT_EQ(uDstAnchor1[j][i],uDstTest[j][i]);                             \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-              ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\'), (3, 1, u'+              ASSERT_EQ(uDstAnchor1[j][i],uDstTest[j][i]);                             \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT_TRUE(buf.Length() == frameSize);'), (3, 1, u'+  ASSERT_TRUE(buf.Length() == (size_t)frameSize);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: BaseEncoderTest::EncodeStream
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT_TRUE(buf.Length() == frameSize);'), (3, 1, u'+  ASSERT_TRUE(buf.Length() == (size_t)frameSize);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT_TRUE(buf.Length() == frameSize);'), (3, 1, u'+  ASSERT_TRUE(buf.Length() == (size_t)frameSize);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 2, u'-            ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\'), (51, 1, u'+          ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\')]
+===========================================
+===========================================
+Total add: 40
+Total del: 28
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 2, u'-            ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\'), (51, 1, u'+          ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 2, u'-            ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\'), (51, 1, u'+          ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-            ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\'), (36, 1, u'+              ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\')]
+===========================================
+===========================================
+Total add: 25
+Total del: 13
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-            ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\'), (36, 1, u'+              ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(12, 2, u'-            ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\'), (36, 1, u'+              ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-            ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\'), (34, 1, u'+              ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\')]
+===========================================
+===========================================
+Total add: 24
+Total del: 12
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-            ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\'), (34, 1, u'+              ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-            ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\'), (34, 1, u'+              ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT_EQ(  16, cTestMa.WelsGetCacheLineSize() );'), (4, 1, u'+  ASSERT_EQ(  kuiSixteen, cTestMa.WelsGetCacheLineSize() );')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT_EQ(  16, cTestMa.WelsGetCacheLineSize() );'), (4, 1, u'+  ASSERT_EQ(  kuiSixteen, cTestMa.WelsGetCacheLineSize() );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  ASSERT_EQ(  16, cTestMa.WelsGetCacheLineSize() );'), (4, 1, u'+  ASSERT_EQ(  kuiSixteen, cTestMa.WelsGetCacheLineSize() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tASSERT_EQ( 16, cTestMa.WelsGetCacheLineSize() );'), (4, 1, u'+\tASSERT_EQ( kuiSixteen, cTestMa.WelsGetCacheLineSize() );')]
+===========================================
+===========================================
+Total add: 2
+Total del: 1
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tASSERT_EQ( 16, cTestMa.WelsGetCacheLineSize() );'), (4, 1, u'+\tASSERT_EQ( kuiSixteen, cTestMa.WelsGetCacheLineSize() );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-\tASSERT_EQ( 16, cTestMa.WelsGetCacheLineSize() );'), (4, 1, u'+\tASSERT_EQ( kuiSixteen, cTestMa.WelsGetCacheLineSize() );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-  assert(kiRowNum <= kiMatrixStride); // make sure effective memory'), (24, 1, u'+  assert (kiRowNum <= kiMatrixStride); // make sure effective memory')]
+===========================================
+===========================================
+Total add: 14
+Total del: 12
+Header: VerticalFullSearchUsingSSE41
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-  assert(kiRowNum <= kiMatrixStride); // make sure effective memory'), (24, 1, u'+  assert (kiRowNum <= kiMatrixStride); // make sure effective memory')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(21, 2, u'-  assert(kiRowNum <= kiMatrixStride); // make sure effective memory'), (24, 1, u'+  assert (kiRowNum <= kiMatrixStride); // make sure effective memory')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  assert(iLeftLength > 0);'), (7, 1, u'+  assert (iLeftLength > 0);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 3
+Header: WelsSpatialWriteSubMbPred
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  assert(iLeftLength > 0);'), (7, 1, u'+  assert (iLeftLength > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  assert(iLeftLength > 0);'), (7, 1, u'+  assert (iLeftLength > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(997, 2, u'-    assert (NULL != pRefPicInfo);'), (2194, 1, u'+    assert (NULL != pRefPicInfo);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(59, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+Total add: 5
+Total del: 59
+Header: TEST_F
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(59, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(59, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 52
+Header: TEST_F
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 50
+Header: TEST_F
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 2, u'-    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(997, 2, u'-    assert (NULL != pRefPicInfo);'), (2194, 1, u'+    assert (NULL != pRefPicInfo);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE( NULL != m_pRefPic );'), (6, 1, u'+    ASSERT_TRUE( NULL != m_pRefData );')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: public:
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE( NULL != m_pRefPic );'), (6, 1, u'+    ASSERT_TRUE( NULL != m_pRefData );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE( NULL != m_pRefPic );'), (6, 1, u'+    ASSERT_TRUE( NULL != m_pRefData );')]
+===========================================
+Class: class FeatureMotionEstimateTest : public ::testing::Test { class FeatureMotionEstimateTest : public ::testing::Test 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    ASSERT_TRUE( NULL != m_pMa );'), (18, 1, u'+    ASSERT_TRUE( NULL != m_pRefData );'), (20, 1, u'+    ASSERT_TRUE( NULL != m_pSrcBlock );'), (22, 1, u'+    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (24, 1, u'+    ASSERT_TRUE( NULL != m_pFeatureSearchPreparation );'), (26, 1, u'+    ASSERT_TRUE( NULL != m_pScreenBlockFeatureStorage );'), (106, 1, u'+  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (109, 1, u'+  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );')]
+===========================================
+===========================================
+Total add: 164
+Total del: 0
+Header: TEST_F
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    ASSERT_TRUE( NULL != m_pMa );'), (18, 1, u'+    ASSERT_TRUE( NULL != m_pRefData );'), (20, 1, u'+    ASSERT_TRUE( NULL != m_pSrcBlock );'), (22, 1, u'+    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (24, 1, u'+    ASSERT_TRUE( NULL != m_pFeatureSearchPreparation );'), (26, 1, u'+    ASSERT_TRUE( NULL != m_pScreenBlockFeatureStorage );'), (106, 1, u'+  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (109, 1, u'+  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(16, 1, u'+    ASSERT_TRUE( NULL != m_pMa );'), (18, 1, u'+    ASSERT_TRUE( NULL != m_pRefData );'), (20, 1, u'+    ASSERT_TRUE( NULL != m_pSrcBlock );'), (22, 1, u'+    ASSERT_TRUE( NULL != m_pMvdCostTable );'), (24, 1, u'+    ASSERT_TRUE( NULL != m_pFeatureSearchPreparation );'), (26, 1, u'+    ASSERT_TRUE( NULL != m_pScreenBlockFeatureStorage );'), (106, 1, u'+  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );'), (109, 1, u'+  ASSERT_TRUE( ENC_RETURN_SUCCESS==iReturn );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 1, u'+  ASSERT_EQ(tmpa, tmpb);'), (28, 1, u'+  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (57, 1, u'+  ASSERT_EQ(tmpa, tmpb);'), (58, 1, u'+  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (88, 1, u'+  ASSERT_EQ(tmpa, tmpb);'), (89, 1, u'+  ASSERT_EQ(iBestMode_c, iBestMode_a);'), (123, 1, u'+  ASSERT_EQ(tmpa, tmpb);'), (124, 1, u'+  ASSERT_EQ(iBestMode_c, iBestMode_a);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+#define ASSERT_MEMORY_FAIL2X(A, B)     \\'), (17, 1, u'+  ASSERT_TRUE(0);                    \\'), (33, 1, u'+    ASSERT_TRUE(NULL != pSrc);'), (35, 1, u'+    ASSERT_MEMORY_FAIL2X(pSrc, pRef)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(13, 1, u'+#define ASSERT_MEMORY_FAIL2X(A, B)     \\'), (16, 1, u'+    ASSERT_TRUE(0);                    \\'), (19, 1, u'+#define ASSERT_MEMORY_FAIL3X(A, B, C)   \\'), (23, 1, u'+    ASSERT_TRUE(0);                     \\'), (37, 1, u'+    ASSERT_TRUE(NULL != m_pPixSrcA);'), (39, 1, u'+    ASSERT_MEMORY_FAIL2X(m_pPixSrcA, m_pPixSrcB)'), (41, 1, u'+    ASSERT_MEMORY_FAIL3X(m_pPixSrcA, m_pPixSrcB, m_pSad)'), (353, 1, u'+    ASSERT_TRUE(NULL != m_pPixSrcA);'), (355, 1, u'+    ASSERT_MEMORY_FAIL2X(m_pPixSrcA, m_pPixSrcB)'), (357, 1, u'+    ASSERT_MEMORY_FAIL3X(m_pPixSrcA, m_pPixSrcB, m_pSad)')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-  assert(kiRowNum <= kiMatrixStride);\t// make sure effective memory'), (39, 1, u'+  assert(kiRowNum <= kiMatrixStride); // make sure effective memory')]
+===========================================
+===========================================
+Total add: 18
+Total del: 18
+Header: VerticalFullSearchUsingSSE41
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-  assert(kiRowNum <= kiMatrixStride);\t// make sure effective memory'), (39, 1, u'+  assert(kiRowNum <= kiMatrixStride); // make sure effective memory')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(27, 2, u'-  assert(kiRowNum <= kiMatrixStride);\t// make sure effective memory'), (39, 1, u'+  assert(kiRowNum <= kiMatrixStride); // make sure effective memory')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert (m_iSrcListSize > 0);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 31
+Header: CWelsH264SVCEncoder::Uninitialize
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert (m_iSrcListSize > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-  assert (m_iSrcListSize > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+    ASSERT_TRUE(iTryTimes > 0);'), (124, 1, u'+    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+Total add: 126
+Total del: 0
+Header: TEST_F
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+    ASSERT_TRUE(iTryTimes > 0);'), (124, 1, u'+    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(62, 1, u'+    ASSERT_TRUE(iTryTimes > 0);'), (124, 1, u'+    ASSERT_TRUE(iTryTimes > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(148, 1, u'+            ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\'), (196, 1, u'+            ASSERT_EQ(uDstAnchor[j][i],uDstTest[j][i]);                              \\'), (251, 1, u'+            ASSERT_EQ(uDstAnchor[0][j][i],uDstTest[j][i]);                           \\')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 2, u'-  ASSERT_EQ(0, rv);'), (52, 2, u'-  ASSERT_TRUE(decoder_ != NULL);'), (62, 2, u'-  ASSERT_EQ(0, rv);'), (80, 2, u'-  ASSERT_TRUE(rv == dsErrorFree);'), (108, 2, u'-  ASSERT_TRUE(file.is_open());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 2, u'-  ASSERT_EQ(0, rv);'), (52, 2, u'-  ASSERT_TRUE(encoder_ != NULL);'), (65, 2, u'-  ASSERT_TRUE(rv == cmResultSuccess);'), (72, 2, u'-  ASSERT_TRUE(buf.Length() == frameSize);'), (89, 2, u'-    ASSERT_TRUE(rv == cmResultSuccess);'), (99, 2, u'-  ASSERT_TRUE(fileStream.Open(fileName));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 2, u'-    ASSERT_EQ(  (uiTargetAlign & 0x0F)?16:uiTargetAlign, cTestMa.WelsGetCacheLineSize() );'), (23, 2, u'-  ASSERT_EQ(  16, cTestMa.WelsGetCacheLineSize() );'), (28, 2, u'-\tASSERT_EQ( 16, cTestMa.WelsGetCacheLineSize() );'), (49, 2, u'-      ASSERT_TRUE( (((uintptr_t)(pUnitTestData)) & kuiExtraAlignSize) == 0 );')]
+===========================================
+Class: class MotionEstimateTest : public ::testing::Test { class MotionEstimateTest : public ::testing::Test 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+  ASSERT_EQ(0, rv);'), (52, 1, u'+  ASSERT_TRUE(decoder_ != NULL);'), (62, 1, u'+  ASSERT_EQ(0, rv);'), (80, 1, u'+  ASSERT_TRUE(rv == dsErrorFree);'), (108, 1, u'+  ASSERT_TRUE(file.is_open());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(51, 1, u'+  ASSERT_EQ(0, rv);'), (52, 1, u'+  ASSERT_TRUE(encoder_ != NULL);'), (65, 1, u'+  ASSERT_TRUE(rv == cmResultSuccess);'), (72, 1, u'+  ASSERT_TRUE(buf.Length() == frameSize);'), (89, 1, u'+    ASSERT_TRUE(rv == cmResultSuccess);'), (99, 1, u'+  ASSERT_TRUE(fileStream.Open(fileName));')]
+===========================================
+Class: class DecodeEncodeTest : public ::testing::TestWithParam<DecodeEncodeFileParam>,     public BaseDecoderTest, public BaseDecoderTest::Callback,     public BaseEncoderTest , public BaseEncoderTest::Callback,     public InputStream {     public InputStream 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 1, u'+  ASSERT_TRUE(Open(p.fileName));')]
+===========================================
+Class:  class DecoderInitTest : public ::testing::Test, public BaseDecoderTest { class DecoderInitTest : public ::testing::Test, public BaseDecoderTest 
+Class: class DecoderOutputTest : public ::testing::WithParamInterface<FileParam>,     public DecoderInitTest, public BaseDecoderTest::Callback {     public DecoderInitTest, public BaseDecoderTest::Callback 
+Class: class EncoderInitTest : public ::testing::Test, public BaseEncoderTest { class EncoderInitTest : public ::testing::Test, public BaseEncoderTest 
+Class: class EncoderOutputTest : public ::testing::WithParamInterface<EncodeFileParam>,     public EncoderInitTest , public BaseEncoderTest::Callback {     public EncoderInitTest , public BaseEncoderTest::Callback 
+Class: class DecodeEncodeTest : public ::testing::TestWithParam<DecodeEncodeFileParam>,     public BaseDecoderTest, public BaseDecoderTest::Callback,     public BaseEncoderTest , public BaseEncoderTest::Callback,     public InputStream {     public InputStream 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(97, 2, u'-  ASSERT_TRUE(Open(p.fileName));')]
+===========================================
+Class:  class DecoderInitTest : public ::testing::Test, public BaseDecoderTest { class DecoderInitTest : public ::testing::Test, public BaseDecoderTest 
+Class: class DecoderOutputTest : public ::testing::WithParamInterface<FileParam>,     public DecoderInitTest, public BaseDecoderTest::Callback {     public DecoderInitTest, public BaseDecoderTest::Callback 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(15, 1, u'+    ASSERT_EQ(  (uiTargetAlign & 0x0F)?16:uiTargetAlign, cTestMa.WelsGetCacheLineSize() );'), (23, 1, u'+  ASSERT_EQ(  16, cTestMa.WelsGetCacheLineSize() );'), (28, 1, u'+\tASSERT_EQ( 16, cTestMa.WelsGetCacheLineSize() );'), (49, 1, u'+      ASSERT_TRUE( (((uintptr_t)(pUnitTestData)) & kuiExtraAlignSize) == 0 );')]
+===========================================
+Class: class MotionEstimateTest : public ::testing::Test { class MotionEstimateTest : public ::testing::Test 
+Class: class EncoderInitTest : public ::testing::Test, public BaseEncoderTest { class EncoderInitTest : public ::testing::Test, public BaseEncoderTest 
+Class: class EncoderOutputTest : public ::testing::WithParamInterface<EncodeFileParam>,     public EncoderInitTest , public BaseEncoderTest::Callback {     public EncoderInitTest , public BaseEncoderTest::Callback 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(rv != videoFrameTypeInvalid);'), (4, 1, u'+    ASSERT_TRUE(rv == cmResultSuccess);')]
+===========================================
+===========================================
+Total add: 2
+Total del: 2
+Header: BaseEncoderTest::EncodeStream
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(rv != videoFrameTypeInvalid);'), (4, 1, u'+    ASSERT_TRUE(rv == cmResultSuccess);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(rv != videoFrameTypeInvalid);'), (4, 1, u'+    ASSERT_TRUE(rv == cmResultSuccess);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      ASSERT_TRUE( (((int64_t)(static_cast<void *>(pUnitTestData))) & kuiExtraAlignSize) == 0 );'), (3, 1, u'+      ASSERT_TRUE( (((uintptr_t)(pUnitTestData)) & kuiExtraAlignSize) == 0 );')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: TEST
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      ASSERT_TRUE( (((int64_t)(static_cast<void *>(pUnitTestData))) & kuiExtraAlignSize) == 0 );'), (3, 1, u'+      ASSERT_TRUE( (((uintptr_t)(pUnitTestData)) & kuiExtraAlignSize) == 0 );')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-      ASSERT_TRUE( (((int64_t)(static_cast<void *>(pUnitTestData))) & kuiExtraAlignSize) == 0 );'), (3, 1, u'+      ASSERT_TRUE( (((uintptr_t)(pUnitTestData)) & kuiExtraAlignSize) == 0 );')]
+===========================================
+Class: class MotionEstimateTest : public ::testing::Test { class MotionEstimateTest : public ::testing::Test 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+        assert (pDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+Total add: 34
+Total del: 0
+Header: InitSliceSettings
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+        assert (pDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(18, 1, u'+        assert (pDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(14, 1, u'+    ASSERT_EQ(  (uiTargetAlign & 0x0F)?16:uiTargetAlign, cTestMa.WelsGetCacheLineSize() );'), (22, 1, u'+  ASSERT_EQ(  16, cTestMa.WelsGetCacheLineSize() );'), (27, 1, u'+\tASSERT_EQ( 16, cTestMa.WelsGetCacheLineSize() );'), (48, 1, u'+      ASSERT_TRUE( (((int64_t)(static_cast<void *>(pUnitTestData))) & kuiExtraAlignSize) == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(55, 1, u'+        assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+Total add: 72
+Total del: 0
+Header: ParseConfig
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(55, 1, u'+        assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(55, 1, u'+        assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(61, 2, u'-          assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 67
+Header: ParseConfig
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(61, 2, u'-          assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(61, 2, u'-          assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-              assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 59
+Header: ParseCommandLine
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-              assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(52, 2, u'-              assert (uiSliceIdx < MAX_SLICES_NUM);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-  assert (j < iSpatialLayersCfgCount);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 40
+Header: CWelsPreProcess::SingleLayerPreprocess
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-  assert (j < iSpatialLayersCfgCount);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(19, 2, u'-  assert (j < iSpatialLayersCfgCount);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-    assert (j < iSpatialLayersCfgCount);'), (26, 1, u'+  assert (j < iSpatialLayersCfgCount);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 21
+Header: CWelsPreProcess::MultiLayerPreprocess
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-    assert (j < iSpatialLayersCfgCount);'), (26, 1, u'+  assert (j < iSpatialLayersCfgCount);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(24, 2, u'-    assert (j < iSpatialLayersCfgCount);'), (26, 1, u'+  assert (j < iSpatialLayersCfgCount);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: TEST_P
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: TEST_P
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: TEST_P
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (kiConfiguredLayerNum == 1);')]
+===========================================
+===========================================
+Total add: 3
+Total del: 4
+Header: CWelsPreProcess::BuildSpatialPicList
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (kiConfiguredLayerNum == 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (kiConfiguredLayerNum == 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert (MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 5
+Header: AcquireLayersNals
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert (MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert (MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert (num_of_slice <= MAX_SLICES_NUM && MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 5
+Header: AcquireLayersNals
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert (num_of_slice <= MAX_SLICES_NUM && MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-      assert (num_of_slice <= MAX_SLICES_NUM && MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert (iLayerNum + iSliceCount < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 7
+Header: WelsEncoderEncodeExt
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert (iLayerNum + iSliceCount < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(4, 2, u'-        assert (iLayerNum + iSliceCount < MAX_LAYER_NUM_OF_FRAME);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(iLeftLength > 0);')]
+===========================================
+===========================================
+Total add: 13
+Total del: 1
+Header: WelsSpatialWriteSubMbPred
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(iLeftLength > 0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 1, u'+  assert(iLeftLength > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-    assert (0);')]
+===========================================
+===========================================
+Total add: 15
+Total del: 6
+Header: CWelsH264SVCEncoder::EncodeFrame2
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-    assert (0);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 2, u'-    assert (0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-        assert (fDlp->sMso.sSliceArgument.iSliceNum > 1);'), (5, 1, u'+        assert (fDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 4
+Header: ParamValidationExt
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-        assert (fDlp->sMso.sSliceArgument.iSliceNum > 1);'), (5, 1, u'+        assert (fDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-        assert (fDlp->sMso.sSliceArgument.iSliceNum > 1);'), (5, 1, u'+        assert (fDlp->sSliceCfg.sSliceArgument.uiSliceNum > 1);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (pOldParam->iNumDependencyLayer == pNewParam->iNumDependencyLayer);'), (3, 1, u'+    assert (pOldParam->iSpatialLayerNum == pNewParam->iSpatialLayerNum);')]
+===========================================
+===========================================
+Total add: 1
+Total del: 1
+Header: WelsEncoderParamAdjust
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (pOldParam->iNumDependencyLayer == pNewParam->iNumDependencyLayer);'), (3, 1, u'+    assert (pOldParam->iSpatialLayerNum == pNewParam->iSpatialLayerNum);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-    assert (pOldParam->iNumDependencyLayer == pNewParam->iNumDependencyLayer);'), (3, 1, u'+    assert (pOldParam->iSpatialLayerNum == pNewParam->iSpatialLayerNum);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(file.is_open());')]
+===========================================
+===========================================
+Total add: 1
+Total del: 4
+Header: BaseEncoderTest::TearDown
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(file.is_open());')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(file.is_open());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  ASSERT_TRUE(fileStream.Open(fileName));')]
+===========================================
+===========================================
+Total add: 7
+Total del: 0
+Header: BaseEncoderTest::EncodeFile
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  ASSERT_TRUE(fileStream.Open(fileName));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 1, u'+  ASSERT_TRUE(fileStream.Open(fileName));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE(tmpFile_ != NULL);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 5
+Header: class DecodeEncodeTest : public ::testing::TestWithParam<DecodeEncodeFileParam>,
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE(tmpFile_ != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(5, 2, u'-    ASSERT_TRUE(tmpFile_ != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+  ASSERT_TRUE(Open(p.fileName));')]
+===========================================
+===========================================
+Total add: 2
+Total del: 9
+Header: TEST_P
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+  ASSERT_TRUE(Open(p.fileName));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(11, 1, u'+  ASSERT_TRUE(Open(p.fileName));')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(50, 1, u'+  ASSERT_EQ(0, rv);'), (51, 1, u'+  ASSERT_TRUE(decoder_ != NULL);'), (61, 1, u'+  ASSERT_EQ(0, rv);'), (79, 1, u'+  ASSERT_TRUE(rv == dsErrorFree);'), (107, 1, u'+  ASSERT_TRUE(file.is_open());')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(42, 1, u'+  ASSERT_EQ(0, rv);'), (43, 1, u'+  ASSERT_TRUE(encoder_ != NULL);'), (56, 1, u'+  ASSERT_TRUE(file.is_open());'), (59, 1, u'+  ASSERT_TRUE(rv == cmResultSuccess);'), (66, 1, u'+  ASSERT_TRUE(buf.Length() == frameSize);'), (74, 1, u'+    ASSERT_TRUE(rv != videoFrameTypeInvalid);')]
+===========================================
+Class: class DecodeEncodeTest : public ::testing::TestWithParam<DecodeEncodeFileParam>,     public BaseDecoderTest, public BaseDecoderTest::Callback,     public BaseEncoderTest , public BaseEncoderTest::Callback {     public BaseEncoderTest , public BaseEncoderTest::Callback 
+Class: class DecoderInitTest : public ::testing::Test { class DecoderInitTest : public ::testing::Test 
+Class:class DecoderInitTest : public ::testing::Test, public BaseDecoderTest { class DecoderInitTest : public ::testing::Test, public BaseDecoderTest 
+Class:class DecoderOutputTest : public DecoderInitTest,     public ::testing::WithParamInterface<FileParam> {     public ::testing::WithParamInterface<FileParam> 
+Class:class DecoderOutputTest : public ::testing::WithParamInterface<FileParam>,     public DecoderInitTest, public BaseDecoderTest::Callback {     public DecoderInitTest, public BaseDecoderTest::Callback 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: TEST_P
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+Class: class EncoderBaseTest : public ::testing::Test { class EncoderBaseTest : public ::testing::Test 
+Class:class EncoderInitTest : public ::testing::Test, public BaseEncoderTest { class EncoderInitTest : public ::testing::Test, public BaseEncoderTest 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(file.is_open());'), (9, 2, u'-  ASSERT_TRUE(rv == cmResultSuccess);'), (16, 2, u'-  ASSERT_TRUE(buf.Length() == frameSize);'), (38, 2, u'-  ASSERT_TRUE(CompareHash(digest, hashStr));'), (48, 2, u'-    ASSERT_EQ(0, rv);'), (49, 2, u'-    ASSERT_TRUE(encoder_ != NULL);')]
+===========================================
+===========================================
+Total add: 4
+Total del: 55
+Header: UpdateHashFromFrame
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(file.is_open());'), (9, 2, u'-  ASSERT_TRUE(rv == cmResultSuccess);'), (16, 2, u'-  ASSERT_TRUE(buf.Length() == frameSize);'), (38, 2, u'-  ASSERT_TRUE(CompareHash(digest, hashStr));'), (48, 2, u'-    ASSERT_EQ(0, rv);'), (49, 2, u'-    ASSERT_TRUE(encoder_ != NULL);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(6, 2, u'-  ASSERT_TRUE(file.is_open());'), (9, 2, u'-  ASSERT_TRUE(rv == cmResultSuccess);'), (16, 2, u'-  ASSERT_TRUE(buf.Length() == frameSize);'), (38, 2, u'-  ASSERT_TRUE(CompareHash(digest, hashStr));'), (48, 2, u'-    ASSERT_EQ(0, rv);'), (49, 2, u'-    ASSERT_TRUE(encoder_ != NULL);')]
+===========================================
+Class:class EncoderOutputTest : public EncoderBaseTest ,     public ::testing::WithParamInterface<EncodeFileParam> {     public ::testing::WithParamInterface<EncodeFileParam> 
+Class:class EncoderOutputTest : public ::testing::WithParamInterface<EncodeFileParam>,     public EncoderInitTest , public BaseEncoderTest::Callback {     public EncoderInitTest , public BaseEncoderTest::Callback 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+Total add: 7
+Total del: 1
+Header: TEST_P
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(8, 1, u'+    ASSERT_TRUE(CompareHash(digest, p.hashStr));')]
+===========================================
+Class:class EncoderInitTest : public ::testing::Test { class EncoderInitTest : public ::testing::Test 
+Class:class EncoderBaseTest : public ::testing::Test { class EncoderBaseTest : public ::testing::Test 
+Class: class EncoderInitTest : public ::testing::Test { class EncoderInitTest : public ::testing::Test 
+Class: class EncoderOutputTest : public EncoderInitTest ,     public ::testing::WithParamInterface<EncodeFileParam> {     public ::testing::WithParamInterface<EncodeFileParam> 
+Class: class DecoderInitTest : public ::testing::Test { class DecoderInitTest : public ::testing::Test 
+Class: class DecoderOutputTest : public DecoderInitTest,     public ::testing::WithParamInterface<FileParam> {     public ::testing::WithParamInterface<FileParam> 
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 2, u'-    ASSERT_EQ (0, rv);'), (27, 2, u'-    ASSERT_TRUE (decoder_);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert (ppEncoder);')]
+===========================================
+===========================================
+Total add: 0
+Total del: 5
+Header: using namespace WelsSVCEnc;
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert (ppEncoder);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(2, 2, u'-  assert (ppEncoder);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(148, 2, u'-\tassert( pSps != NULL && pBitStringAux != NULL );'), (290, 2, u'-\t\tassert ( MAX_SPS_COUNT > kiTmpSpsIdInBs );'), (291, 2, u'-\t\tassert ( MAX_PPS_COUNT > tmp_pps_id_in_bs );'), (292, 2, u'-\t\tassert( sPSOVector->sParaSetOffsetVariable[iParameterSetType].bUsedParaSetIdInBs[kiTmpSpsIdInBs] );'), (459, 2, u'-\t\tassert( pSps != NULL );'), (465, 2, u'-\t\tassert(pSubsetSps != NULL);'), (656, 1, u'+  assert (pSps != NULL && pBitStringAux != NULL);'), (796, 1, u'+    assert (MAX_SPS_COUNT > kiTmpSpsIdInBs);'), (797, 1, u'+    assert (MAX_PPS_COUNT > tmp_pps_id_in_bs);'), (798, 1, u'+    assert (sPSOVector->sParaSetOffsetVariable[iParameterSetType].bUsedParaSetIdInBs[kiTmpSpsIdInBs]);'), (956, 1, u'+    assert (pSps != NULL);'), (961, 1, u'+    assert (pSubsetSps != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(303, 2, u'-\t\tassert( 0 );'), (423, 2, u'-\t\t\tassert( iWrittenSize == kiLumaWidth );'), (426, 2, u'-\t\t\t\tassert( 0 );\t// make no sense for us if writing failed'), (437, 2, u'-\t\t\t\tassert(iWrittenSize == kiChromaWidth );'), (440, 2, u'-\t\t\t\t\tassert( 0 );\t// make no sense for us if writing failed'), (519, 2, u'-\t\t\tassert( iWrittenSize == kiLumaWidth );'), (522, 2, u'-\t\t\t\tassert( 0 );\t// make no sense for us if writing failed'), (533, 2, u'-\t\t\t\tassert(iWrittenSize == kiChromaWidth );'), (536, 2, u'-\t\t\t\t\tassert( 0 );\t// make no sense for us if writing failed'), (837, 1, u'+    assert (0);'), (942, 1, u'+      assert (iWrittenSize == kiLumaWidth);'), (944, 1, u'+        assert (0);\t// make no sense for us if writing failed'), (953, 1, u'+        assert (iWrittenSize == kiChromaWidth);'), (955, 1, u'+          assert (0);\t// make no sense for us if writing failed'), (1022, 1, u'+      assert (iWrittenSize == kiLumaWidth);'), (1024, 1, u'+        assert (0);\t// make no sense for us if writing failed'), (1033, 1, u'+        assert (iWrittenSize == kiChromaWidth);'), (1035, 1, u'+          assert (0);\t// make no sense for us if writing failed')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 2, u'-\tassert( pCfg != NULL );'), (163, 2, u'-\tassert ( pCodingParam != NULL );'), (300, 2, u'-\t\t\t\t\t\tassert(fDlp->sMso.sSliceArgument.iSliceNum > 1);'), (483, 2, u'-\t\t\tassert(MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);'), (486, 2, u'-\t\t\tassert(iCountNumNals - iOrgNumNals <= MAX_NAL_UNITS_IN_LAYER );'), (501, 2, u'-\t\t\tassert(num_of_slice <= MAX_SLICES_NUM && MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);'), (504, 2, u'-\t\t\tassert(iCountNumNals - iOrgNumNals <= MAX_NAL_UNITS_IN_LAYER );'), (1893, 2, u'-\t\tassert(pMa->WelsGetMemoryUsage() == 0);\t// ensure all memory free well'), (2709, 2, u'-\tassert( iSliceCount > 0 );'), (2890, 2, u'-\tassert( kiSliceCount > 0 );'), (2893, 2, u'-\t\tassert( pCtx->iNumRef0 > 0 );'), (2933, 2, u'-\t\tassert ( sParaSetOffsetVariable->bUsedParaSetIdInBs[kuiPrevIdInBs] ); //sure the prev-used one was marked activated correctly'), (2956, 2, u'-\tassert ( !sParaSetOffsetVariable->bUsedParaSetIdInBs[uiNextIdInBs] ); //sure the next-to-use one is marked activated correctly'), (2989, 2, u'-\t\t\tassert(kiDid < MAX_DEPENDENCY_LAYER);'), (2990, 2, u'-\t\t\tassert(iIdx < MAX_DQ_LAYER_NUM);'), (3692, 2, u'-\t\t\t\tassert(iLayerNum + iSliceCount < MAX_LAYER_NUM_OF_FRAME);'), (4013, 2, u'-\t\tassert( pOldParam->iNumDependencyLayer == pNewParam->iNumDependencyLayer );'), (4356, 1, u'+  assert (pCfg != NULL);'), (4408, 1, u'+  assert (pCodingParam != NULL);'), (4541, 1, u'+        assert (fDlp->sMso.sSliceArgument.iSliceNum > 1);'), (4715, 1, u'+      assert (MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);'), (4718, 1, u'+      assert (iCountNumNals - iOrgNumNals <= MAX_NAL_UNITS_IN_LAYER);'), (4731, 1, u'+      assert (num_of_slice <= MAX_SLICES_NUM && MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);'), (4734, 1, u'+      assert (iCountNumNals - iOrgNumNals <= MAX_NAL_UNITS_IN_LAYER);'), (6024, 1, u'+    assert (pMa->WelsGetMemoryUsage() == 0);\t// ensure all memory free well'), (6812, 1, u'+  assert (iSliceCount > 0);'), (6976, 1, u'+  assert (kiSliceCount > 0);'), (6978, 1, u'+    assert (pCtx->iNumRef0 > 0);'), (7016, 1, u'+    assert (sParaSetOffsetVariable->bUsedParaSetIdInBs[kuiPrevIdInBs]);   //sure the prev-used one was marked activated correctly'), (7038, 1, u'+  assert (!sParaSetOffsetVariable->bUsedParaSetIdInBs[uiNextIdInBs]);   //sure the next-to-use one is marked activated correctly'), (7069, 1, u'+      assert (kiDid < MAX_DEPENDENCY_LAYER);'), (7070, 1, u'+      assert (iIdx < MAX_DQ_LAYER_NUM);'), (7736, 1, u'+        assert (iLayerNum + iSliceCount < MAX_LAYER_NUM_OF_FRAME);'), (8048, 1, u'+    assert (pOldParam->iNumDependencyLayer == pNewParam->iNumDependencyLayer);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(60, 2, u'-\tassert( m_nMemoryUsageInBytes == 0 );'), (220, 1, u'+  assert (m_nMemoryUsageInBytes == 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(186, 2, u'-\tassert( *ppPic1 != *ppPic2 );'), (371, 1, u'+  assert (*ppPic1 != *ppPic2);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(504, 2, u'-\tassert(pLTRMarkingFeedback);'), (584, 2, u'-\tassert( kiCountSliceNum > 0 );'), (1148, 1, u'+  assert (pLTRMarkingFeedback);'), (1228, 1, u'+  assert (kiCountSliceNum > 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(297, 2, u'-\t\tassert( iNumMbAssigning > 0 );'), (302, 2, u'-\t\t\tassert( 0 );'), (762, 2, u'-\t\t\t\tassert(pSliceBs->bSliceCodedFlag);'), (895, 2, u'-\tassert( kiNalCnt <= 2 );'), (1037, 2, u'-\t\t\t\tassert( (void*)(&pSliceBs->sBsWrite) == (void*)pSlice->pSliceBsa );'), (1876, 1, u'+    assert (iNumMbAssigning > 0);'), (1880, 1, u'+      assert (0);'), (2313, 1, u'+        assert (pSliceBs->bSliceCodedFlag);'), (2431, 1, u'+  assert (kiNalCnt <= 2);'), (2572, 1, u'+        assert ((void*) (&pSliceBs->sBsWrite) == (void*)pSlice->pSliceBsa);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(419, 2, u'-\t\t\tassert( iCurMode >= 0 && iCurMode < 7 );'), (512, 2, u'-        \t\t\tassert( iCurMode >= 0 && iCurMode < 14 );'), (534, 2, u'-\t\t\t\tassert( iCurMode >= 0 && iCurMode < 14 );'), (990, 2, u'-\t\t\tassert( iCurMode >= 0 && iCurMode < 7 );'), (2406, 1, u'+      assert (iCurMode >= 0 && iCurMode < 7);'), (2495, 1, u'+        assert (iCurMode >= 0 && iCurMode < 14);'), (2513, 1, u'+        assert (iCurMode >= 0 && iCurMode < 14);'), (2920, 1, u'+      assert (iCurMode >= 0 && iCurMode < 7);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(128, 2, u'-\t\tassert( 0 );'), (321, 2, u'-\t\tassert( iNumMbAssigning > 0 );'), (324, 2, u'-\t\tassert( iNumMbLeft > 0 );'), (730, 2, u'-\tassert( iCountSliceNumInFrame <= MAX_THREADS_NUM );'), (886, 1, u'+    assert (0);'), (1060, 1, u'+    assert (iNumMbAssigning > 0);'), (1063, 1, u'+    assert (iNumMbLeft > 0);'), (1426, 1, u'+  assert (iCountSliceNumInFrame <= MAX_THREADS_NUM);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(761, 2, u'-\tassert( kiSliceIdx == pCurSlice->uiSliceIdx );'), (783, 2, u'-\t\tassert ( MAX_PPS_COUNT > kiTmpPpsIdInBs );'), (786, 2, u'-\t\tassert ( pEncCtx->sPSOVector.sParaSetOffsetVariable[PARA_SET_TYPE_PPS].bUsedParaSetIdInBs[kiTmpPpsIdInBs] );'), (874, 2, u'-\tassert( NULL != pNextSlice );'), (917, 2, u'-\tassert(iPosBitOffset>=0);'), (1890, 1, u'+  assert (kiSliceIdx == pCurSlice->uiSliceIdx);'), (1910, 1, u'+    assert (MAX_PPS_COUNT > kiTmpPpsIdInBs);'), (1913, 1, u'+    assert (pEncCtx->sPSOVector.sParaSetOffsetVariable[PARA_SET_TYPE_PPS].bUsedParaSetIdInBs[kiTmpPpsIdInBs]);'), (2001, 1, u'+  assert (NULL != pNextSlice);'), (2049, 1, u'+  assert (iPosBitOffset >= 0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(335, 2, u'-\t\tassert( kiConfiguredLayerNum == 1 );'), (531, 2, u'-\t\tassert( j < iSpatialLayersCfgCount );'), (1451, 1, u'+    assert (kiConfiguredLayerNum == 1);'), (1640, 1, u'+    assert (j < iSpatialLayersCfgCount);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    ASSERT_EQ(0, rv);'), (4, 2, u'-    ASSERT_TRUE(decoder_);'), (6, 1, u'+    ASSERT_EQ (0, rv);'), (7, 1, u'+    ASSERT_TRUE (decoder_);')]
+===========================================
+===========================================
+Total add: 8
+Total del: 8
+Header: class CodecTest : public ::testing::Test {
+Functions:
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    ASSERT_EQ(0, rv);'), (4, 2, u'-    ASSERT_TRUE(decoder_);'), (6, 1, u'+    ASSERT_EQ (0, rv);'), (7, 1, u'+    ASSERT_TRUE (decoder_);')]
+===========================================
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(3, 2, u'-    ASSERT_EQ(0, rv);'), (4, 2, u'-    ASSERT_TRUE(decoder_);'), (6, 1, u'+    ASSERT_EQ (0, rv);'), (7, 1, u'+    ASSERT_TRUE (decoder_);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(26, 1, u'+    ASSERT_EQ(0, rv);'), (27, 1, u'+    ASSERT_TRUE(decoder_);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(148, 1, u'+\tassert( pSps != NULL && pBitStringAux != NULL );'), (290, 1, u'+\t\tassert ( MAX_SPS_COUNT > kiTmpSpsIdInBs );'), (291, 1, u'+\t\tassert ( MAX_PPS_COUNT > tmp_pps_id_in_bs );'), (292, 1, u'+\t\tassert( sPSOVector->sParaSetOffsetVariable[iParameterSetType].bUsedParaSetIdInBs[kiTmpSpsIdInBs] );'), (459, 1, u'+\t\tassert( pSps != NULL );'), (465, 1, u'+\t\tassert(pSubsetSps != NULL);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(303, 1, u'+\t\tassert( 0 );'), (423, 1, u'+\t\t\tassert( iWrittenSize == kiLumaWidth );'), (426, 1, u'+\t\t\t\tassert( 0 );\t// make no sense for us if writing failed'), (437, 1, u'+\t\t\t\tassert(iWrittenSize == kiChromaWidth );'), (440, 1, u'+\t\t\t\t\tassert( 0 );\t// make no sense for us if writing failed'), (519, 1, u'+\t\t\tassert( iWrittenSize == kiLumaWidth );'), (522, 1, u'+\t\t\t\tassert( 0 );\t// make no sense for us if writing failed'), (533, 1, u'+\t\t\t\tassert(iWrittenSize == kiChromaWidth );'), (536, 1, u'+\t\t\t\t\tassert( 0 );\t// make no sense for us if writing failed')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(107, 1, u'+\tassert( pCfg != NULL );'), (163, 1, u'+\tassert ( pCodingParam != NULL );'), (300, 1, u'+\t\t\t\t\t\tassert(fDlp->sMso.sSliceArgument.iSliceNum > 1);'), (483, 1, u'+\t\t\tassert(MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);'), (486, 1, u'+\t\t\tassert(iCountNumNals - iOrgNumNals <= MAX_NAL_UNITS_IN_LAYER );'), (501, 1, u'+\t\t\tassert(num_of_slice <= MAX_SLICES_NUM && MAX_SLICES_NUM < MAX_LAYER_NUM_OF_FRAME);'), (504, 1, u'+\t\t\tassert(iCountNumNals - iOrgNumNals <= MAX_NAL_UNITS_IN_LAYER );'), (1893, 1, u'+\t\tassert(pMa->WelsGetMemoryUsage() == 0);\t// ensure all memory free well'), (2709, 1, u'+\tassert( iSliceCount > 0 );'), (2890, 1, u'+\tassert( kiSliceCount > 0 );'), (2893, 1, u'+\t\tassert( pCtx->iNumRef0 > 0 );'), (2933, 1, u'+\t\tassert ( sParaSetOffsetVariable->bUsedParaSetIdInBs[kuiPrevIdInBs] ); //sure the prev-used one was marked activated correctly'), (2956, 1, u'+\tassert ( !sParaSetOffsetVariable->bUsedParaSetIdInBs[uiNextIdInBs] ); //sure the next-to-use one is marked activated correctly'), (2989, 1, u'+\t\t\tassert(kiDid < MAX_DEPENDENCY_LAYER);'), (2990, 1, u'+\t\t\tassert(iIdx < MAX_DQ_LAYER_NUM);'), (3692, 1, u'+\t\t\t\tassert(iLayerNum + iSliceCount < MAX_LAYER_NUM_OF_FRAME);'), (4013, 1, u'+\t\tassert( pOldParam->iNumDependencyLayer == pNewParam->iNumDependencyLayer );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(60, 1, u'+\tassert( m_nMemoryUsageInBytes == 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(186, 1, u'+\tassert( *ppPic1 != *ppPic2 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(504, 1, u'+\tassert(pLTRMarkingFeedback);'), (584, 1, u'+\tassert( kiCountSliceNum > 0 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(297, 1, u'+\t\tassert( iNumMbAssigning > 0 );'), (302, 1, u'+\t\t\tassert( 0 );'), (762, 1, u'+\t\t\t\tassert(pSliceBs->bSliceCodedFlag);'), (895, 1, u'+\tassert( kiNalCnt <= 2 );'), (1037, 1, u'+\t\t\t\tassert( (void*)(&pSliceBs->sBsWrite) == (void*)pSlice->pSliceBsa );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(419, 1, u'+\t\t\tassert( iCurMode >= 0 && iCurMode < 7 );'), (512, 1, u'+        \t\t\tassert( iCurMode >= 0 && iCurMode < 14 );'), (534, 1, u'+\t\t\t\tassert( iCurMode >= 0 && iCurMode < 14 );'), (990, 1, u'+\t\t\tassert( iCurMode >= 0 && iCurMode < 7 );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(128, 1, u'+\t\tassert( 0 );'), (321, 1, u'+\t\tassert( iNumMbAssigning > 0 );'), (324, 1, u'+\t\tassert( iNumMbLeft > 0 );'), (730, 1, u'+\tassert( iCountSliceNumInFrame <= MAX_THREADS_NUM );')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(761, 1, u'+\tassert( kiSliceIdx == pCurSlice->uiSliceIdx );'), (783, 1, u'+\t\tassert ( MAX_PPS_COUNT > kiTmpPpsIdInBs );'), (786, 1, u'+\t\tassert ( pEncCtx->sPSOVector.sParaSetOffsetVariable[PARA_SET_TYPE_PPS].bUsedParaSetIdInBs[kiTmpPpsIdInBs] );'), (874, 1, u'+\tassert( NULL != pNextSlice );'), (917, 1, u'+\tassert(iPosBitOffset>=0);')]
+===========================================
+===========================================
+Mock_Function_For_Asserts
+0
+0
+0
+0
+[(315, 1, u'+\t\tassert( kiConfiguredLayerNum == 1 );'), (511, 1, u'+\t\tassert( j < iSpatialLayersCfgCount );')]
+===========================================
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+<type 'unicode'>
+796
+Mismatch count:19275
+Normal count:570609

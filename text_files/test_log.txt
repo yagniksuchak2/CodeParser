@@ -1,0 +1,19 @@
+commit 458b66e7ea851790b537a5dc02bc31ed9d40166d
+Author: xhaggi <sascha.woo@gmail.com>
+Date:   2014-07-19
+
+    [pvr] show channel info after channel switch from within channel osd
+
+diff --git a/xbmc/pvr/dialogs/GUIDialogPVRChannelsOSD.cpp b/xbmc/pvr/dialogs/GUIDialogPVRChannelsOSD.cpp
+index 4c3957d..09c3565 100644
+--- a/xbmc/pvr/dialogs/GUIDialogPVRChannelsOSD.cpp
++++ b/xbmc/pvr/dialogs/GUIDialogPVRChannelsOSD.cpp
+@@ -219,3 +219,7 @@ void CGUIDialogPVRChannelsOSD::CloseOrSelect(unsigned int iItem)
+   if (CSettings::Get().GetBool("pvrmenu.closechannelosdonswitch"))
++  {
++    if (CSettings::Get().GetInt("pvrmenu.displaychannelinfo") > 0)
++      g_PVRManager.ShowPlayerInfo(CSettings::Get().GetInt("pvrmenu.displaychannelinfo"));
+     Close();
++  }
+   else
+
